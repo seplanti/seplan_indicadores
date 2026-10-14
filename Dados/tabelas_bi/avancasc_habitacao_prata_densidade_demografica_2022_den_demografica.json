@@ -1,0 +1,2362 @@
+[
+  {
+    "id": 1,
+    "ano": 2022,
+    "fecam": "Amplasc",
+    "municipio": "Abdon Batista",
+    "codigo_ibge": "4200051",
+    "densidade_demografica_hab_km2": 10.94
+  },
+  {
+    "id": 2,
+    "ano": 2022,
+    "fecam": "AMVE",
+    "municipio": "Apiúna",
+    "codigo_ibge": "4201257",
+    "densidade_demografica_hab_km2": 19.88
+  },
+  {
+    "id": 3,
+    "ano": 2022,
+    "fecam": "Amai",
+    "municipio": "Abelardo Luz",
+    "codigo_ibge": "4200101",
+    "densidade_demografica_hab_km2": 18.23
+  },
+  {
+    "id": 4,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Agrolândia",
+    "codigo_ibge": "4200200",
+    "densidade_demografica_hab_km2": 53.14
+  },
+  {
+    "id": 5,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Agronômica",
+    "codigo_ibge": "4200309",
+    "densidade_demografica_hab_km2": 46.66
+  },
+  {
+    "id": 6,
+    "ano": 2022,
+    "fecam": "Amunesc",
+    "municipio": "Araquari",
+    "codigo_ibge": "4201307",
+    "densidade_demografica_hab_km2": 117.1
+  },
+  {
+    "id": 7,
+    "ano": 2022,
+    "fecam": "Ammoc",
+    "municipio": "Água Doce",
+    "codigo_ibge": "4200408",
+    "densidade_demografica_hab_km2": 4.93
+  },
+  {
+    "id": 8,
+    "ano": 2022,
+    "fecam": "Amosc",
+    "municipio": "Águas de Chapecó",
+    "codigo_ibge": "4200507",
+    "densidade_demografica_hab_km2": 43.27
+  },
+  {
+    "id": 9,
+    "ano": 2022,
+    "fecam": "Amosc",
+    "municipio": "Águas Frias",
+    "codigo_ibge": "4200556",
+    "densidade_demografica_hab_km2": 37.05
+  },
+  {
+    "id": 10,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "Alfredo Wagner",
+    "codigo_ibge": "4200705",
+    "densidade_demografica_hab_km2": 14.29
+  },
+  {
+    "id": 11,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "Águas Mornas",
+    "codigo_ibge": "4200606",
+    "densidade_demografica_hab_km2": 20.64
+  },
+  {
+    "id": 12,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "Angelina",
+    "codigo_ibge": "4200903",
+    "densidade_demografica_hab_km2": 10.72
+  },
+  {
+    "id": 13,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "Anitápolis",
+    "codigo_ibge": "4201109",
+    "densidade_demografica_hab_km2": 6.65
+  },
+  {
+    "id": 14,
+    "ano": 2022,
+    "fecam": "Amauc",
+    "municipio": "Alto Bela Vista",
+    "codigo_ibge": "4200754",
+    "densidade_demografica_hab_km2": 17.94
+  },
+  {
+    "id": 15,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "Antônio Carlos",
+    "codigo_ibge": "4201208",
+    "densidade_demografica_hab_km2": 47.88
+  },
+  {
+    "id": 16,
+    "ano": 2022,
+    "fecam": "Ameosc",
+    "municipio": "Anchieta",
+    "codigo_ibge": "4200804",
+    "densidade_demografica_hab_km2": 25.58
+  },
+  {
+    "id": 17,
+    "ano": 2022,
+    "fecam": "Amures",
+    "municipio": "Anita Garibaldi",
+    "codigo_ibge": "4201000",
+    "densidade_demografica_hab_km2": 14.05
+  },
+  {
+    "id": 18,
+    "ano": 2022,
+    "fecam": "Amauc",
+    "municipio": "Arabutã",
+    "codigo_ibge": "4201273",
+    "densidade_demografica_hab_km2": 32.97
+  },
+  {
+    "id": 19,
+    "ano": 2022,
+    "fecam": "Amesc",
+    "municipio": "Araranguá",
+    "codigo_ibge": "4201406",
+    "densidade_demografica_hab_km2": 238.3
+  },
+  {
+    "id": 20,
+    "ano": 2022,
+    "fecam": "Amurel",
+    "municipio": "Armazém",
+    "codigo_ibge": "4201505",
+    "densidade_demografica_hab_km2": 50.78
+  },
+  {
+    "id": 21,
+    "ano": 2022,
+    "fecam": "Amarp",
+    "municipio": "Arroio Trinta",
+    "codigo_ibge": "4201604",
+    "densidade_demografica_hab_km2": 38.02
+  },
+  {
+    "id": 22,
+    "ano": 2022,
+    "fecam": "Amosc",
+    "municipio": "Arvoredo",
+    "codigo_ibge": "4201653",
+    "densidade_demografica_hab_km2": 27.73
+  },
+  {
+    "id": 23,
+    "ano": 2022,
+    "fecam": "AMVE",
+    "municipio": "Ascurra",
+    "codigo_ibge": "4201703",
+    "densidade_demografica_hab_km2": 73.7
+  },
+  {
+    "id": 24,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Atalanta",
+    "codigo_ibge": "4201802",
+    "densidade_demografica_hab_km2": 34.19
+  },
+  {
+    "id": 25,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Aurora",
+    "codigo_ibge": "4201901",
+    "densidade_demografica_hab_km2": 32.75
+  },
+  {
+    "id": 26,
+    "ano": 2022,
+    "fecam": "Amesc",
+    "municipio": "Balneário Arroio do Silva",
+    "codigo_ibge": "4201950",
+    "densidade_demografica_hab_km2": 167.45
+  },
+  {
+    "id": 27,
+    "ano": 2022,
+    "fecam": "Amunesc",
+    "municipio": "Balneário Barra do Sul",
+    "codigo_ibge": "4202057",
+    "densidade_demografica_hab_km2": 136.92
+  },
+  {
+    "id": 28,
+    "ano": 2022,
+    "fecam": "AMFRI",
+    "municipio": "Balneário Camboriú",
+    "codigo_ibge": "4202008",
+    "densidade_demografica_hab_km2": 3077.7
+  },
+  {
+    "id": 29,
+    "ano": 2022,
+    "fecam": "Amesc",
+    "municipio": "Balneário Gaivota",
+    "codigo_ibge": "4202073",
+    "densidade_demografica_hab_km2": 106.71
+  },
+  {
+    "id": 30,
+    "ano": 2022,
+    "fecam": "AMFRI",
+    "municipio": "Balneário Piçarras",
+    "codigo_ibge": "4212809",
+    "densidade_demografica_hab_km2": 273.03
+  },
+  {
+    "id": 31,
+    "ano": 2022,
+    "fecam": "Amrec",
+    "municipio": "Balneário Rincão",
+    "codigo_ibge": "4220000",
+    "densidade_demografica_hab_km2": 251.99
+  },
+  {
+    "id": 32,
+    "ano": 2022,
+    "fecam": "Ameosc",
+    "municipio": "Bandeirante",
+    "codigo_ibge": "4202081",
+    "densidade_demografica_hab_km2": 21.23
+  },
+  {
+    "id": 33,
+    "ano": 2022,
+    "fecam": "Ameosc",
+    "municipio": "Barra Bonita",
+    "codigo_ibge": "4202099",
+    "densidade_demografica_hab_km2": 18.02
+  },
+  {
+    "id": 34,
+    "ano": 2022,
+    "fecam": "AMVALI",
+    "municipio": "Barra Velha",
+    "codigo_ibge": "4202107",
+    "densidade_demografica_hab_km2": 326.52
+  },
+  {
+    "id": 35,
+    "ano": 2022,
+    "fecam": "Amplanorte",
+    "municipio": "Bela Vista do Toldo",
+    "codigo_ibge": "4202131",
+    "densidade_demografica_hab_km2": 10.96
+  },
+  {
+    "id": 36,
+    "ano": 2022,
+    "fecam": "Ameosc",
+    "municipio": "Belmonte",
+    "codigo_ibge": "4202156",
+    "densidade_demografica_hab_km2": 28.32
+  },
+  {
+    "id": 37,
+    "ano": 2022,
+    "fecam": "AMVE",
+    "municipio": "Benedito Novo",
+    "codigo_ibge": "4202206",
+    "densidade_demografica_hab_km2": 27.09
+  },
+  {
+    "id": 38,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "Biguaçu",
+    "codigo_ibge": "4202305",
+    "densidade_demografica_hab_km2": 209.9
+  },
+  {
+    "id": 39,
+    "ano": 2022,
+    "fecam": "AMVE",
+    "municipio": "Blumenau",
+    "codigo_ibge": "4202404",
+    "densidade_demografica_hab_km2": 696.58
+  },
+  {
+    "id": 40,
+    "ano": 2022,
+    "fecam": "Amures",
+    "municipio": "Bocaina do Sul",
+    "codigo_ibge": "4202438",
+    "densidade_demografica_hab_km2": 6.88
+  },
+  {
+    "id": 41,
+    "ano": 2022,
+    "fecam": "Amures",
+    "municipio": "Bom Jardim da Serra",
+    "codigo_ibge": "4202503",
+    "densidade_demografica_hab_km2": 4.29
+  },
+  {
+    "id": 42,
+    "ano": 2022,
+    "fecam": "Amai",
+    "municipio": "Bom Jesus",
+    "codigo_ibge": "4202537",
+    "densidade_demografica_hab_km2": 43.47
+  },
+  {
+    "id": 43,
+    "ano": 2022,
+    "fecam": "AMFRI",
+    "municipio": "Bombinhas",
+    "codigo_ibge": "4202453",
+    "densidade_demografica_hab_km2": 713.03
+  },
+  {
+    "id": 44,
+    "ano": 2022,
+    "fecam": "Amerios",
+    "municipio": "Bom Jesus do Oeste",
+    "codigo_ibge": "4202578",
+    "densidade_demografica_hab_km2": 32.27
+  },
+  {
+    "id": 45,
+    "ano": 2022,
+    "fecam": "Amures",
+    "municipio": "Bom Retiro",
+    "codigo_ibge": "4202602",
+    "densidade_demografica_hab_km2": 7.96
+  },
+  {
+    "id": 46,
+    "ano": 2022,
+    "fecam": "AMVE",
+    "municipio": "Botuverá",
+    "codigo_ibge": "4202701",
+    "densidade_demografica_hab_km2": 18.1
+  },
+  {
+    "id": 47,
+    "ano": 2022,
+    "fecam": "Amurel",
+    "municipio": "Braço do Norte",
+    "codigo_ibge": "4202800",
+    "densidade_demografica_hab_km2": 159.27
+  },
+  {
+    "id": 48,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Braço do Trombudo",
+    "codigo_ibge": "4202859",
+    "densidade_demografica_hab_km2": 45.03
+  },
+  {
+    "id": 49,
+    "ano": 2022,
+    "fecam": "Amplasc",
+    "municipio": "Brunópolis",
+    "codigo_ibge": "4202875",
+    "densidade_demografica_hab_km2": 7.4
+  },
+  {
+    "id": 50,
+    "ano": 2022,
+    "fecam": "AMVE",
+    "municipio": "Brusque",
+    "codigo_ibge": "4202909",
+    "densidade_demografica_hab_km2": 496.65
+  },
+  {
+    "id": 51,
+    "ano": 2022,
+    "fecam": "Amerios",
+    "municipio": "Caibi",
+    "codigo_ibge": "4203105",
+    "densidade_demografica_hab_km2": 36.42
+  },
+  {
+    "id": 52,
+    "ano": 2022,
+    "fecam": "Amarp",
+    "municipio": "Calmon",
+    "codigo_ibge": "4203154",
+    "densidade_demografica_hab_km2": 5.41
+  },
+  {
+    "id": 53,
+    "ano": 2022,
+    "fecam": "Amarp",
+    "municipio": "Caçador",
+    "codigo_ibge": "4203006",
+    "densidade_demografica_hab_km2": 74.96
+  },
+  {
+    "id": 54,
+    "ano": 2022,
+    "fecam": "AMFRI",
+    "municipio": "Camboriú",
+    "codigo_ibge": "4203204",
+    "densidade_demografica_hab_km2": 489.5
+  },
+  {
+    "id": 55,
+    "ano": 2022,
+    "fecam": "Amunesc",
+    "municipio": "Campo Alegre",
+    "codigo_ibge": "4203303",
+    "densidade_demografica_hab_km2": 25.04
+  },
+  {
+    "id": 56,
+    "ano": 2022,
+    "fecam": "Amures",
+    "municipio": "Campo Belo do Sul",
+    "codigo_ibge": "4203402",
+    "densidade_demografica_hab_km2": 7.08
+  },
+  {
+    "id": 57,
+    "ano": 2022,
+    "fecam": "Amerios",
+    "municipio": "Campo Erê",
+    "codigo_ibge": "4203501",
+    "densidade_demografica_hab_km2": 20.08
+  },
+  {
+    "id": 58,
+    "ano": 2022,
+    "fecam": "Amures",
+    "municipio": "Capão Alto",
+    "codigo_ibge": "4203253",
+    "densidade_demografica_hab_km2": 1.97
+  },
+  {
+    "id": 59,
+    "ano": 2022,
+    "fecam": "Amplasc",
+    "municipio": "Campos Novos",
+    "codigo_ibge": "4203600",
+    "densidade_demografica_hab_km2": 21.5
+  },
+  {
+    "id": 60,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "Canelinha",
+    "codigo_ibge": "4203709",
+    "densidade_demografica_hab_km2": 84.9
+  },
+  {
+    "id": 61,
+    "ano": 2022,
+    "fecam": "Amplanorte",
+    "municipio": "Canoinhas",
+    "codigo_ibge": "4203808",
+    "densidade_demografica_hab_km2": 47.92
+  },
+  {
+    "id": 62,
+    "ano": 2022,
+    "fecam": "Ammoc",
+    "municipio": "Capinzal",
+    "codigo_ibge": "4203907",
+    "densidade_demografica_hab_km2": 95.53
+  },
+  {
+    "id": 63,
+    "ano": 2022,
+    "fecam": "Amurel",
+    "municipio": "Capivari de Baixo",
+    "codigo_ibge": "4203956",
+    "densidade_demografica_hab_km2": 450.47
+  },
+  {
+    "id": 64,
+    "ano": 2022,
+    "fecam": "Ammoc",
+    "municipio": "Catanduvas",
+    "codigo_ibge": "4204004",
+    "densidade_demografica_hab_km2": 53.05
+  },
+  {
+    "id": 65,
+    "ano": 2022,
+    "fecam": "Amosc",
+    "municipio": "Caxambu do Sul",
+    "codigo_ibge": "4204103",
+    "densidade_demografica_hab_km2": 32.75
+  },
+  {
+    "id": 66,
+    "ano": 2022,
+    "fecam": "Amplasc",
+    "municipio": "Celso Ramos",
+    "codigo_ibge": "4204152",
+    "densidade_demografica_hab_km2": 13.46
+  },
+  {
+    "id": 67,
+    "ano": 2022,
+    "fecam": "Amures",
+    "municipio": "Cerro Negro",
+    "codigo_ibge": "4204178",
+    "densidade_demografica_hab_km2": 7.93
+  },
+  {
+    "id": 68,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Chapadão do Lageado",
+    "codigo_ibge": "4204194",
+    "densidade_demografica_hab_km2": 23.63
+  },
+  {
+    "id": 69,
+    "ano": 2022,
+    "fecam": "Amosc",
+    "municipio": "Chapecó",
+    "codigo_ibge": "4204202",
+    "densidade_demografica_hab_km2": 407.76
+  },
+  {
+    "id": 70,
+    "ano": 2022,
+    "fecam": "Amrec",
+    "municipio": "Cocal do Sul",
+    "codigo_ibge": "4204251",
+    "densidade_demografica_hab_km2": 242.94
+  },
+  {
+    "id": 71,
+    "ano": 2022,
+    "fecam": "Amauc",
+    "municipio": "Concórdia",
+    "codigo_ibge": "4204301",
+    "densidade_demografica_hab_km2": 102.16
+  },
+  {
+    "id": 72,
+    "ano": 2022,
+    "fecam": "Amosc",
+    "municipio": "Cordilheira Alta",
+    "codigo_ibge": "4204350",
+    "densidade_demografica_hab_km2": 57.22
+  },
+  {
+    "id": 73,
+    "ano": 2022,
+    "fecam": "Amosc",
+    "municipio": "Coronel Freitas",
+    "codigo_ibge": "4204400",
+    "densidade_demografica_hab_km2": 44.45
+  },
+  {
+    "id": 74,
+    "ano": 2022,
+    "fecam": "Amnoroeste",
+    "municipio": "Coronel Martins",
+    "codigo_ibge": "4204459",
+    "densidade_demografica_hab_km2": 19.21
+  },
+  {
+    "id": 75,
+    "ano": 2022,
+    "fecam": "Amures",
+    "municipio": "Correia Pinto",
+    "codigo_ibge": "4204558",
+    "densidade_demografica_hab_km2": 24.29
+  },
+  {
+    "id": 76,
+    "ano": 2022,
+    "fecam": "AMVALI",
+    "municipio": "Corupá",
+    "codigo_ibge": "4204509",
+    "densidade_demografica_hab_km2": 37.63
+  },
+  {
+    "id": 77,
+    "ano": 2022,
+    "fecam": "Amrec",
+    "municipio": "Criciúma",
+    "codigo_ibge": "4204608",
+    "densidade_demografica_hab_km2": 913.26
+  },
+  {
+    "id": 78,
+    "ano": 2022,
+    "fecam": "Amerios",
+    "municipio": "Cunha Porã",
+    "codigo_ibge": "4204707",
+    "densidade_demografica_hab_km2": 49.76
+  },
+  {
+    "id": 79,
+    "ano": 2022,
+    "fecam": "Amerios",
+    "municipio": "Cunhataí",
+    "codigo_ibge": "4204756",
+    "densidade_demografica_hab_km2": 35.91
+  },
+  {
+    "id": 80,
+    "ano": 2022,
+    "fecam": "Amurc",
+    "municipio": "Curitibanos",
+    "codigo_ibge": "4204806",
+    "densidade_demografica_hab_km2": 42.16
+  },
+  {
+    "id": 81,
+    "ano": 2022,
+    "fecam": "Ameosc",
+    "municipio": "Descanso",
+    "codigo_ibge": "4204905",
+    "densidade_demografica_hab_km2": 29.72
+  },
+  {
+    "id": 82,
+    "ano": 2022,
+    "fecam": "Ameosc",
+    "municipio": "Dionísio Cerqueira",
+    "codigo_ibge": "4205001",
+    "densidade_demografica_hab_km2": 39.62
+  },
+  {
+    "id": 83,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Dona Emma",
+    "codigo_ibge": "4205100",
+    "densidade_demografica_hab_km2": 23.69
+  },
+  {
+    "id": 84,
+    "ano": 2022,
+    "fecam": "AMVE",
+    "municipio": "Doutor Pedrinho",
+    "codigo_ibge": "4205159",
+    "densidade_demografica_hab_km2": 9.72
+  },
+  {
+    "id": 85,
+    "ano": 2022,
+    "fecam": "Amai",
+    "municipio": "Entre Rios",
+    "codigo_ibge": "4205175",
+    "densidade_demografica_hab_km2": 32.75
+  },
+  {
+    "id": 86,
+    "ano": 2022,
+    "fecam": "Amesc",
+    "municipio": "Ermo",
+    "codigo_ibge": "4205191",
+    "densidade_demografica_hab_km2": 34.74
+  },
+  {
+    "id": 87,
+    "ano": 2022,
+    "fecam": "Ammoc",
+    "municipio": "Erval Velho",
+    "codigo_ibge": "4205209",
+    "densidade_demografica_hab_km2": 23.39
+  },
+  {
+    "id": 88,
+    "ano": 2022,
+    "fecam": "Amai",
+    "municipio": "Faxinal dos Guedes",
+    "codigo_ibge": "4205308",
+    "densidade_demografica_hab_km2": 32.91
+  },
+  {
+    "id": 89,
+    "ano": 2022,
+    "fecam": "Amerios",
+    "municipio": "Flor do Sertão",
+    "codigo_ibge": "4205357",
+    "densidade_demografica_hab_km2": 30.5
+  },
+  {
+    "id": 90,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "Florianópolis",
+    "codigo_ibge": "4205407",
+    "densidade_demografica_hab_km2": 796.05
+  },
+  {
+    "id": 91,
+    "ano": 2022,
+    "fecam": "Amosc",
+    "municipio": "Formosa do Sul",
+    "codigo_ibge": "4205431",
+    "densidade_demografica_hab_km2": 26.71
+  },
+  {
+    "id": 92,
+    "ano": 2022,
+    "fecam": "Amrec",
+    "municipio": "Forquilhinha",
+    "codigo_ibge": "4205456",
+    "densidade_demografica_hab_km2": 171.43
+  },
+  {
+    "id": 93,
+    "ano": 2022,
+    "fecam": "Amarp",
+    "municipio": "Fraiburgo",
+    "codigo_ibge": "4205506",
+    "densidade_demografica_hab_km2": 60.96
+  },
+  {
+    "id": 94,
+    "ano": 2022,
+    "fecam": "Amurc",
+    "municipio": "Frei Rogério",
+    "codigo_ibge": "4205555",
+    "densidade_demografica_hab_km2": 15.19
+  },
+  {
+    "id": 95,
+    "ano": 2022,
+    "fecam": "Amnoroeste",
+    "municipio": "Galvão",
+    "codigo_ibge": "4205605",
+    "densidade_demografica_hab_km2": 22.96
+  },
+  {
+    "id": 96,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "Garopaba",
+    "codigo_ibge": "4205704",
+    "densidade_demografica_hab_km2": 261.03
+  },
+  {
+    "id": 97,
+    "ano": 2022,
+    "fecam": "Amunesc",
+    "municipio": "Garuva",
+    "codigo_ibge": "4205803",
+    "densidade_demografica_hab_km2": 36.83
+  },
+  {
+    "id": 98,
+    "ano": 2022,
+    "fecam": "AMVE",
+    "municipio": "Gaspar",
+    "codigo_ibge": "4205902",
+    "densidade_demografica_hab_km2": 187.71
+  },
+  {
+    "id": 99,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "Governador Celso Ramos",
+    "codigo_ibge": "4206009",
+    "densidade_demografica_hab_km2": 132.61
+  },
+  {
+    "id": 100,
+    "ano": 2022,
+    "fecam": "Amurel",
+    "municipio": "Gravatal",
+    "codigo_ibge": "4206207",
+    "densidade_demografica_hab_km2": 75.04
+  },
+  {
+    "id": 101,
+    "ano": 2022,
+    "fecam": "Amurel",
+    "municipio": "Grão-Pará",
+    "codigo_ibge": "4206108",
+    "densidade_demografica_hab_km2": 18.77
+  },
+  {
+    "id": 102,
+    "ano": 2022,
+    "fecam": "AMVE",
+    "municipio": "Guabiruba",
+    "codigo_ibge": "4206306",
+    "densidade_demografica_hab_km2": 142.55
+  },
+  {
+    "id": 103,
+    "ano": 2022,
+    "fecam": "Ameosc",
+    "municipio": "Guaraciaba",
+    "codigo_ibge": "4206405",
+    "densidade_demografica_hab_km2": 32.54
+  },
+  {
+    "id": 104,
+    "ano": 2022,
+    "fecam": "AMVALI",
+    "municipio": "Guaramirim",
+    "codigo_ibge": "4206504",
+    "densidade_demografica_hab_km2": 174.61
+  },
+  {
+    "id": 105,
+    "ano": 2022,
+    "fecam": "Ameosc",
+    "municipio": "Guarujá do Sul",
+    "codigo_ibge": "4206603",
+    "densidade_demografica_hab_km2": 47.99
+  },
+  {
+    "id": 106,
+    "ano": 2022,
+    "fecam": "Amosc",
+    "municipio": "Guatambú",
+    "codigo_ibge": "4206652",
+    "densidade_demografica_hab_km2": 40.86
+  },
+  {
+    "id": 107,
+    "ano": 2022,
+    "fecam": "Ammoc",
+    "municipio": "Herval d'Oeste",
+    "codigo_ibge": "4206702",
+    "densidade_demografica_hab_km2": 100.3
+  },
+  {
+    "id": 108,
+    "ano": 2022,
+    "fecam": "Amarp",
+    "municipio": "Ibiam",
+    "codigo_ibge": "4206751",
+    "densidade_demografica_hab_km2": 13.75
+  },
+  {
+    "id": 109,
+    "ano": 2022,
+    "fecam": "Ammoc",
+    "municipio": "Ibicaré",
+    "codigo_ibge": "4206801",
+    "densidade_demografica_hab_km2": 20.9
+  },
+  {
+    "id": 110,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Ibirama",
+    "codigo_ibge": "4206900",
+    "densidade_demografica_hab_km2": 80.38
+  },
+  {
+    "id": 111,
+    "ano": 2022,
+    "fecam": "AMFRI",
+    "municipio": "Ilhota",
+    "codigo_ibge": "4207106",
+    "densidade_demografica_hab_km2": 67.37
+  },
+  {
+    "id": 112,
+    "ano": 2022,
+    "fecam": "Amurel",
+    "municipio": "Imaruí",
+    "codigo_ibge": "4207205",
+    "densidade_demografica_hab_km2": 21.91
+  },
+  {
+    "id": 113,
+    "ano": 2022,
+    "fecam": "Amrec",
+    "municipio": "Içara",
+    "codigo_ibge": "4207007",
+    "densidade_demografica_hab_km2": 256.24
+  },
+  {
+    "id": 114,
+    "ano": 2022,
+    "fecam": "Amurel",
+    "municipio": "Imbituba",
+    "codigo_ibge": "4207304",
+    "densidade_demografica_hab_km2": 289.57
+  },
+  {
+    "id": 115,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Imbuia",
+    "codigo_ibge": "4207403",
+    "densidade_demografica_hab_km2": 50.22
+  },
+  {
+    "id": 116,
+    "ano": 2022,
+    "fecam": "AMVE",
+    "municipio": "Indaial",
+    "codigo_ibge": "4207502",
+    "densidade_demografica_hab_km2": 166.08
+  },
+  {
+    "id": 117,
+    "ano": 2022,
+    "fecam": "Amarp",
+    "municipio": "Iomerê",
+    "codigo_ibge": "4207577",
+    "densidade_demografica_hab_km2": 25.24
+  },
+  {
+    "id": 118,
+    "ano": 2022,
+    "fecam": "Amauc",
+    "municipio": "Ipira",
+    "codigo_ibge": "4207601",
+    "densidade_demografica_hab_km2": 29.41
+  },
+  {
+    "id": 119,
+    "ano": 2022,
+    "fecam": "Ameosc",
+    "municipio": "Iporã do Oeste",
+    "codigo_ibge": "4207650",
+    "densidade_demografica_hab_km2": 46.45
+  },
+  {
+    "id": 120,
+    "ano": 2022,
+    "fecam": "Amai",
+    "municipio": "Ipuaçu",
+    "codigo_ibge": "4207684",
+    "densidade_demografica_hab_km2": 29.61
+  },
+  {
+    "id": 121,
+    "ano": 2022,
+    "fecam": "Amauc",
+    "municipio": "Ipumirim",
+    "codigo_ibge": "4207700",
+    "densidade_demografica_hab_km2": 31.78
+  },
+  {
+    "id": 122,
+    "ano": 2022,
+    "fecam": "Amerios",
+    "municipio": "Iraceminha",
+    "codigo_ibge": "4207759",
+    "densidade_demografica_hab_km2": 24.14
+  },
+  {
+    "id": 123,
+    "ano": 2022,
+    "fecam": "Amauc",
+    "municipio": "Irani",
+    "codigo_ibge": "4207809",
+    "densidade_demografica_hab_km2": 31.29
+  },
+  {
+    "id": 124,
+    "ano": 2022,
+    "fecam": "Amnoroeste",
+    "municipio": "Irati",
+    "codigo_ibge": "4207858",
+    "densidade_demografica_hab_km2": 26.56
+  },
+  {
+    "id": 125,
+    "ano": 2022,
+    "fecam": "Amplanorte",
+    "municipio": "Irineópolis",
+    "codigo_ibge": "4207908",
+    "densidade_demografica_hab_km2": 17.44
+  },
+  {
+    "id": 126,
+    "ano": 2022,
+    "fecam": "Amplanorte",
+    "municipio": "Itaiópolis",
+    "codigo_ibge": "4208104",
+    "densidade_demografica_hab_km2": 16.99
+  },
+  {
+    "id": 127,
+    "ano": 2022,
+    "fecam": "AMFRI",
+    "municipio": "Itajaí",
+    "codigo_ibge": "4208203",
+    "densidade_demografica_hab_km2": 913.0
+  },
+  {
+    "id": 128,
+    "ano": 2022,
+    "fecam": "AMFRI",
+    "municipio": "Itapema",
+    "codigo_ibge": "4208302",
+    "densidade_demografica_hab_km2": 1304.59
+  },
+  {
+    "id": 129,
+    "ano": 2022,
+    "fecam": "Amauc",
+    "municipio": "Itá",
+    "codigo_ibge": "4208005",
+    "densidade_demografica_hab_km2": 42.5
+  },
+  {
+    "id": 130,
+    "ano": 2022,
+    "fecam": "Ameosc",
+    "municipio": "Itapiranga",
+    "codigo_ibge": "4208401",
+    "densidade_demografica_hab_km2": 59.05
+  },
+  {
+    "id": 131,
+    "ano": 2022,
+    "fecam": "Amunesc",
+    "municipio": "Itapoá",
+    "codigo_ibge": "4208450",
+    "densidade_demografica_hab_km2": 125.31
+  },
+  {
+    "id": 132,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Ituporanga",
+    "codigo_ibge": "4208500",
+    "densidade_demografica_hab_km2": 78.81
+  },
+  {
+    "id": 133,
+    "ano": 2022,
+    "fecam": "Amauc",
+    "municipio": "Jaborá",
+    "codigo_ibge": "4208609",
+    "densidade_demografica_hab_km2": 23.62
+  },
+  {
+    "id": 134,
+    "ano": 2022,
+    "fecam": "Amesc",
+    "municipio": "Jacinto Machado",
+    "codigo_ibge": "4208708",
+    "densidade_demografica_hab_km2": 24.67
+  },
+  {
+    "id": 135,
+    "ano": 2022,
+    "fecam": "Amurel",
+    "municipio": "Jaguaruna",
+    "codigo_ibge": "4208807",
+    "densidade_demografica_hab_km2": 62.43
+  },
+  {
+    "id": 136,
+    "ano": 2022,
+    "fecam": "AMVALI",
+    "municipio": "Jaraguá do Sul",
+    "codigo_ibge": "4208906",
+    "densidade_demografica_hab_km2": 344.06
+  },
+  {
+    "id": 137,
+    "ano": 2022,
+    "fecam": "Amosc",
+    "municipio": "Jardinópolis",
+    "codigo_ibge": "4208955",
+    "densidade_demografica_hab_km2": 25.93
+  },
+  {
+    "id": 138,
+    "ano": 2022,
+    "fecam": "Ammoc",
+    "municipio": "Joaçaba",
+    "codigo_ibge": "4209003",
+    "densidade_demografica_hab_km2": 124.76
+  },
+  {
+    "id": 139,
+    "ano": 2022,
+    "fecam": "Amunesc",
+    "municipio": "Joinville",
+    "codigo_ibge": "4209102",
+    "densidade_demografica_hab_km2": 546.41
+  },
+  {
+    "id": 140,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "José Boiteux",
+    "codigo_ibge": "4209151",
+    "densidade_demografica_hab_km2": 14.76
+  },
+  {
+    "id": 141,
+    "ano": 2022,
+    "fecam": "Amnoroeste",
+    "municipio": "Jupiá",
+    "codigo_ibge": "4209177",
+    "densidade_demografica_hab_km2": 27.94
+  },
+  {
+    "id": 142,
+    "ano": 2022,
+    "fecam": "Ammoc",
+    "municipio": "Lacerdópolis",
+    "codigo_ibge": "4209201",
+    "densidade_demografica_hab_km2": 32.56
+  },
+  {
+    "id": 143,
+    "ano": 2022,
+    "fecam": "Amures",
+    "municipio": "Lages",
+    "codigo_ibge": "4209300",
+    "densidade_demografica_hab_km2": 62.55
+  },
+  {
+    "id": 144,
+    "ano": 2022,
+    "fecam": "Amurel",
+    "municipio": "Laguna",
+    "codigo_ibge": "4209409",
+    "densidade_demografica_hab_km2": 128.38
+  },
+  {
+    "id": 145,
+    "ano": 2022,
+    "fecam": "Amai",
+    "municipio": "Lajeado Grande",
+    "codigo_ibge": "4209458",
+    "densidade_demografica_hab_km2": 26.05
+  },
+  {
+    "id": 146,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Laurentino",
+    "codigo_ibge": "4209508",
+    "densidade_demografica_hab_km2": 99.98
+  },
+  {
+    "id": 147,
+    "ano": 2022,
+    "fecam": "Amrec",
+    "municipio": "Lauro Müller",
+    "codigo_ibge": "4209607",
+    "densidade_demografica_hab_km2": 52.9
+  },
+  {
+    "id": 148,
+    "ano": 2022,
+    "fecam": "Amarp",
+    "municipio": "Lebon Régis",
+    "codigo_ibge": "4209706",
+    "densidade_demografica_hab_km2": 12.18
+  },
+  {
+    "id": 149,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "Leoberto Leal",
+    "codigo_ibge": "4209805",
+    "densidade_demografica_hab_km2": 11.34
+  },
+  {
+    "id": 150,
+    "ano": 2022,
+    "fecam": "Amauc",
+    "municipio": "Lindóia do Sul",
+    "codigo_ibge": "4209854",
+    "densidade_demografica_hab_km2": 23.92
+  },
+  {
+    "id": 151,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Lontras",
+    "codigo_ibge": "4209904",
+    "densidade_demografica_hab_km2": 65.15
+  },
+  {
+    "id": 152,
+    "ano": 2022,
+    "fecam": "AMFRI",
+    "municipio": "Luiz Alves",
+    "codigo_ibge": "4210001",
+    "densidade_demografica_hab_km2": 44.92
+  },
+  {
+    "id": 153,
+    "ano": 2022,
+    "fecam": "Ammoc",
+    "municipio": "Luzerna",
+    "codigo_ibge": "4210035",
+    "densidade_demografica_hab_km2": 49.48
+  },
+  {
+    "id": 154,
+    "ano": 2022,
+    "fecam": "Amarp",
+    "municipio": "Macieira",
+    "codigo_ibge": "4210050",
+    "densidade_demografica_hab_km2": 6.81
+  },
+  {
+    "id": 155,
+    "ano": 2022,
+    "fecam": "Amplanorte",
+    "municipio": "Mafra",
+    "codigo_ibge": "4210100",
+    "densidade_demografica_hab_km2": 39.38
+  },
+  {
+    "id": 156,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "Major Gercino",
+    "codigo_ibge": "4210209",
+    "densidade_demografica_hab_km2": 10.5
+  },
+  {
+    "id": 157,
+    "ano": 2022,
+    "fecam": "Amplanorte",
+    "municipio": "Major Vieira",
+    "codigo_ibge": "4210308",
+    "densidade_demografica_hab_km2": 14.26
+  },
+  {
+    "id": 158,
+    "ano": 2022,
+    "fecam": "Amesc",
+    "municipio": "Maracajá",
+    "codigo_ibge": "4210407",
+    "densidade_demografica_hab_km2": 124.24
+  },
+  {
+    "id": 159,
+    "ano": 2022,
+    "fecam": "Amerios",
+    "municipio": "Maravilha",
+    "codigo_ibge": "4210506",
+    "densidade_demografica_hab_km2": 165.85
+  },
+  {
+    "id": 160,
+    "ano": 2022,
+    "fecam": "Amai",
+    "municipio": "Marema",
+    "codigo_ibge": "4210555",
+    "densidade_demografica_hab_km2": 20.96
+  },
+  {
+    "id": 161,
+    "ano": 2022,
+    "fecam": "AMVALI",
+    "municipio": "Massaranduba",
+    "codigo_ibge": "4210605",
+    "densidade_demografica_hab_km2": 45.83
+  },
+  {
+    "id": 162,
+    "ano": 2022,
+    "fecam": "Amarp",
+    "municipio": "Matos Costa",
+    "codigo_ibge": "4210704",
+    "densidade_demografica_hab_km2": 6.34
+  },
+  {
+    "id": 163,
+    "ano": 2022,
+    "fecam": "Amesc",
+    "municipio": "Meleiro",
+    "codigo_ibge": "4210803",
+    "densidade_demografica_hab_km2": 37.58
+  },
+  {
+    "id": 164,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Mirim Doce",
+    "codigo_ibge": "4210852",
+    "densidade_demografica_hab_km2": 7.43
+  },
+  {
+    "id": 165,
+    "ano": 2022,
+    "fecam": "Amerios",
+    "municipio": "Modelo",
+    "codigo_ibge": "4210902",
+    "densidade_demografica_hab_km2": 44.18
+  },
+  {
+    "id": 166,
+    "ano": 2022,
+    "fecam": "Ameosc",
+    "municipio": "Mondaí",
+    "codigo_ibge": "4211009",
+    "densidade_demografica_hab_km2": 50.26
+  },
+  {
+    "id": 167,
+    "ano": 2022,
+    "fecam": "Amplasc",
+    "municipio": "Monte Carlo",
+    "codigo_ibge": "4211058",
+    "densidade_demografica_hab_km2": 47.66
+  },
+  {
+    "id": 168,
+    "ano": 2022,
+    "fecam": "Amplanorte",
+    "municipio": "Monte Castelo",
+    "codigo_ibge": "4211108",
+    "densidade_demografica_hab_km2": 13.8
+  },
+  {
+    "id": 169,
+    "ano": 2022,
+    "fecam": "Amesc",
+    "municipio": "Morro Grande",
+    "codigo_ibge": "4211256",
+    "densidade_demografica_hab_km2": 11.57
+  },
+  {
+    "id": 170,
+    "ano": 2022,
+    "fecam": "Amrec",
+    "municipio": "Morro da Fumaça",
+    "codigo_ibge": "4211207",
+    "densidade_demografica_hab_km2": 223.83
+  },
+  {
+    "id": 171,
+    "ano": 2022,
+    "fecam": "AMFRI",
+    "municipio": "Navegantes",
+    "codigo_ibge": "4211306",
+    "densidade_demografica_hab_km2": 775.75
+  },
+  {
+    "id": 172,
+    "ano": 2022,
+    "fecam": "Amosc",
+    "municipio": "Nova Erechim",
+    "codigo_ibge": "4211405",
+    "densidade_demografica_hab_km2": 79.2
+  },
+  {
+    "id": 173,
+    "ano": 2022,
+    "fecam": "Amosc",
+    "municipio": "Nova Itaberaba",
+    "codigo_ibge": "4211454",
+    "densidade_demografica_hab_km2": 33.02
+  },
+  {
+    "id": 174,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "Nova Trento",
+    "codigo_ibge": "4211504",
+    "densidade_demografica_hab_km2": 34.07
+  },
+  {
+    "id": 175,
+    "ano": 2022,
+    "fecam": "Amrec",
+    "municipio": "Nova Veneza",
+    "codigo_ibge": "4211603",
+    "densidade_demografica_hab_km2": 46.31
+  },
+  {
+    "id": 176,
+    "ano": 2022,
+    "fecam": "Amnoroeste",
+    "municipio": "Novo Horizonte",
+    "codigo_ibge": "4211652",
+    "densidade_demografica_hab_km2": 17.42
+  },
+  {
+    "id": 177,
+    "ano": 2022,
+    "fecam": "Amrec",
+    "municipio": "Orleans",
+    "codigo_ibge": "4211702",
+    "densidade_demografica_hab_km2": 43.03
+  },
+  {
+    "id": 178,
+    "ano": 2022,
+    "fecam": "Amures",
+    "municipio": "Otacílio Costa",
+    "codigo_ibge": "4211751",
+    "densidade_demografica_hab_km2": 20.43
+  },
+  {
+    "id": 179,
+    "ano": 2022,
+    "fecam": "Ammoc",
+    "municipio": "Ouro",
+    "codigo_ibge": "4211801",
+    "densidade_demografica_hab_km2": 32.93
+  },
+  {
+    "id": 180,
+    "ano": 2022,
+    "fecam": "Amai",
+    "municipio": "Ouro Verde",
+    "codigo_ibge": "4211850",
+    "densidade_demografica_hab_km2": 11.57
+  },
+  {
+    "id": 181,
+    "ano": 2022,
+    "fecam": "Amosc",
+    "municipio": "Paial",
+    "codigo_ibge": "4211876",
+    "densidade_demografica_hab_km2": 22.39
+  },
+  {
+    "id": 182,
+    "ano": 2022,
+    "fecam": "Amures",
+    "municipio": "Painel",
+    "codigo_ibge": "4211892",
+    "densidade_demografica_hab_km2": 3.0
+  },
+  {
+    "id": 183,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "Palhoça",
+    "codigo_ibge": "4211900",
+    "densidade_demografica_hab_km2": 563.75
+  },
+  {
+    "id": 184,
+    "ano": 2022,
+    "fecam": "Ameosc",
+    "municipio": "Palma Sola",
+    "codigo_ibge": "4212007",
+    "densidade_demografica_hab_km2": 22.98
+  },
+  {
+    "id": 185,
+    "ano": 2022,
+    "fecam": "Amures",
+    "municipio": "Palmeira",
+    "codigo_ibge": "4212056",
+    "densidade_demografica_hab_km2": 8.86
+  },
+  {
+    "id": 186,
+    "ano": 2022,
+    "fecam": "Amerios",
+    "municipio": "Palmitos",
+    "codigo_ibge": "4212106",
+    "densidade_demografica_hab_km2": 44.51
+  },
+  {
+    "id": 187,
+    "ano": 2022,
+    "fecam": "Amplanorte",
+    "municipio": "Papanduva",
+    "codigo_ibge": "4212205",
+    "densidade_demografica_hab_km2": 25.04
+  },
+  {
+    "id": 188,
+    "ano": 2022,
+    "fecam": "Ameosc",
+    "municipio": "Paraíso",
+    "codigo_ibge": "4212239",
+    "densidade_demografica_hab_km2": 23.66
+  },
+  {
+    "id": 189,
+    "ano": 2022,
+    "fecam": "Amesc",
+    "municipio": "Passo de Torres",
+    "codigo_ibge": "4212254",
+    "densidade_demografica_hab_km2": 139.22
+  },
+  {
+    "id": 190,
+    "ano": 2022,
+    "fecam": "Amai",
+    "municipio": "Passos Maia",
+    "codigo_ibge": "4212270",
+    "densidade_demografica_hab_km2": 6.54
+  },
+  {
+    "id": 191,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "Paulo Lopes",
+    "codigo_ibge": "4212304",
+    "densidade_demografica_hab_km2": 20.31
+  },
+  {
+    "id": 192,
+    "ano": 2022,
+    "fecam": "Amurel",
+    "municipio": "Pedras Grandes",
+    "codigo_ibge": "4212403",
+    "densidade_demografica_hab_km2": 26.55
+  },
+  {
+    "id": 193,
+    "ano": 2022,
+    "fecam": "AMFRI",
+    "municipio": "Penha",
+    "codigo_ibge": "4212502",
+    "densidade_demografica_hab_km2": 582.89
+  },
+  {
+    "id": 194,
+    "ano": 2022,
+    "fecam": "Amauc",
+    "municipio": "Peritiba",
+    "codigo_ibge": "4212601",
+    "densidade_demografica_hab_km2": 31.11
+  },
+  {
+    "id": 195,
+    "ano": 2022,
+    "fecam": "Amurel",
+    "municipio": "Pescaria Brava",
+    "codigo_ibge": "4212650",
+    "densidade_demografica_hab_km2": 95.36
+  },
+  {
+    "id": 196,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Petrolândia",
+    "codigo_ibge": "4212700",
+    "densidade_demografica_hab_km2": 21.89
+  },
+  {
+    "id": 197,
+    "ano": 2022,
+    "fecam": "Amosc",
+    "municipio": "Pinhalzinho",
+    "codigo_ibge": "4212908",
+    "densidade_demografica_hab_km2": 170.69
+  },
+  {
+    "id": 198,
+    "ano": 2022,
+    "fecam": "Amarp",
+    "municipio": "Pinheiro Preto",
+    "codigo_ibge": "4213005",
+    "densidade_demografica_hab_km2": 56.92
+  },
+  {
+    "id": 199,
+    "ano": 2022,
+    "fecam": "Amauc",
+    "municipio": "Piratuba",
+    "codigo_ibge": "4213104",
+    "densidade_demografica_hab_km2": 39.49
+  },
+  {
+    "id": 200,
+    "ano": 2022,
+    "fecam": "Amosc",
+    "municipio": "Planalto Alegre",
+    "codigo_ibge": "4213153",
+    "densidade_demografica_hab_km2": 46.69
+  },
+  {
+    "id": 201,
+    "ano": 2022,
+    "fecam": "AMVE",
+    "municipio": "Pomerode",
+    "codigo_ibge": "4213203",
+    "densidade_demografica_hab_km2": 160.01
+  },
+  {
+    "id": 202,
+    "ano": 2022,
+    "fecam": "Amures",
+    "municipio": "Ponte Alta",
+    "codigo_ibge": "4213302",
+    "densidade_demografica_hab_km2": 7.71
+  },
+  {
+    "id": 203,
+    "ano": 2022,
+    "fecam": "Amurc",
+    "municipio": "Ponte Alta do Norte",
+    "codigo_ibge": "4213351",
+    "densidade_demografica_hab_km2": 8.09
+  },
+  {
+    "id": 204,
+    "ano": 2022,
+    "fecam": "Amai",
+    "municipio": "Ponte Serrada",
+    "codigo_ibge": "4213401",
+    "densidade_demografica_hab_km2": 18.99
+  },
+  {
+    "id": 205,
+    "ano": 2022,
+    "fecam": "AMFRI",
+    "municipio": "Porto Belo",
+    "codigo_ibge": "4213500",
+    "densidade_demografica_hab_km2": 295.58
+  },
+  {
+    "id": 206,
+    "ano": 2022,
+    "fecam": "Amplanorte",
+    "municipio": "Porto União",
+    "codigo_ibge": "4213609",
+    "densidade_demografica_hab_km2": 38.84
+  },
+  {
+    "id": 207,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Pouso Redondo",
+    "codigo_ibge": "4213708",
+    "densidade_demografica_hab_km2": 48.03
+  },
+  {
+    "id": 208,
+    "ano": 2022,
+    "fecam": "Amesc",
+    "municipio": "Praia Grande",
+    "codigo_ibge": "4213807",
+    "densidade_demografica_hab_km2": 29.08
+  },
+  {
+    "id": 209,
+    "ano": 2022,
+    "fecam": "Amauc",
+    "municipio": "Presidente Castello Branco",
+    "codigo_ibge": "4213906",
+    "densidade_demografica_hab_km2": 25.81
+  },
+  {
+    "id": 210,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Presidente Getúlio",
+    "codigo_ibge": "4214003",
+    "densidade_demografica_hab_km2": 67.34
+  },
+  {
+    "id": 211,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Presidente Nereu",
+    "codigo_ibge": "4214102",
+    "densidade_demografica_hab_km2": 10.24
+  },
+  {
+    "id": 212,
+    "ano": 2022,
+    "fecam": "Ameosc",
+    "municipio": "Princesa",
+    "codigo_ibge": "4214151",
+    "densidade_demografica_hab_km2": 34.63
+  },
+  {
+    "id": 213,
+    "ano": 2022,
+    "fecam": "Amnoroeste",
+    "municipio": "Quilombo",
+    "codigo_ibge": "4214201",
+    "densidade_demografica_hab_km2": 39.51
+  },
+  {
+    "id": 214,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "Rancho Queimado",
+    "codigo_ibge": "4214300",
+    "densidade_demografica_hab_km2": 11.45
+  },
+  {
+    "id": 215,
+    "ano": 2022,
+    "fecam": "Amurel",
+    "municipio": "Rio Fortuna",
+    "codigo_ibge": "4214904",
+    "densidade_demografica_hab_km2": 16.03
+  },
+  {
+    "id": 216,
+    "ano": 2022,
+    "fecam": "Amunesc",
+    "municipio": "Rio Negrinho",
+    "codigo_ibge": "4215000",
+    "densidade_demografica_hab_km2": 43.27
+  },
+  {
+    "id": 217,
+    "ano": 2022,
+    "fecam": "Amures",
+    "municipio": "Rio Rufino",
+    "codigo_ibge": "4215059",
+    "densidade_demografica_hab_km2": 8.48
+  },
+  {
+    "id": 218,
+    "ano": 2022,
+    "fecam": "Amarp",
+    "municipio": "Rio das Antas",
+    "codigo_ibge": "4214409",
+    "densidade_demografica_hab_km2": 19.86
+  },
+  {
+    "id": 219,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Rio do Campo",
+    "codigo_ibge": "4214508",
+    "densidade_demografica_hab_km2": 12.85
+  },
+  {
+    "id": 220,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Rio do Oeste",
+    "codigo_ibge": "4214607",
+    "densidade_demografica_hab_km2": 31.61
+  },
+  {
+    "id": 221,
+    "ano": 2022,
+    "fecam": "AMVE",
+    "municipio": "Rio dos Cedros",
+    "codigo_ibge": "4214706",
+    "densidade_demografica_hab_km2": 19.56
+  },
+  {
+    "id": 222,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Rio do Sul",
+    "codigo_ibge": "4214805",
+    "densidade_demografica_hab_km2": 278.31
+  },
+  {
+    "id": 223,
+    "ano": 2022,
+    "fecam": "Amerios",
+    "municipio": "Riqueza",
+    "codigo_ibge": "4215075",
+    "densidade_demografica_hab_km2": 24.96
+  },
+  {
+    "id": 224,
+    "ano": 2022,
+    "fecam": "AMVE",
+    "municipio": "Rodeio",
+    "codigo_ibge": "4215109",
+    "densidade_demografica_hab_km2": 98.89
+  },
+  {
+    "id": 225,
+    "ano": 2022,
+    "fecam": "Amerios",
+    "municipio": "Romelândia",
+    "codigo_ibge": "4215208",
+    "densidade_demografica_hab_km2": 21.6
+  },
+  {
+    "id": 226,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Salete",
+    "codigo_ibge": "4215307",
+    "densidade_demografica_hab_km2": 42.1
+  },
+  {
+    "id": 227,
+    "ano": 2022,
+    "fecam": "Amerios",
+    "municipio": "Saltinho",
+    "codigo_ibge": "4215356",
+    "densidade_demografica_hab_km2": 23.2
+  },
+  {
+    "id": 228,
+    "ano": 2022,
+    "fecam": "Amarp",
+    "municipio": "Salto Veloso",
+    "codigo_ibge": "4215406",
+    "densidade_demografica_hab_km2": 42.0
+  },
+  {
+    "id": 229,
+    "ano": 2022,
+    "fecam": "Amurel",
+    "municipio": "Sangão",
+    "codigo_ibge": "4215455",
+    "densidade_demografica_hab_km2": 155.23
+  },
+  {
+    "id": 230,
+    "ano": 2022,
+    "fecam": "Amurc",
+    "municipio": "Santa Cecília",
+    "codigo_ibge": "4215505",
+    "densidade_demografica_hab_km2": 13.57
+  },
+  {
+    "id": 231,
+    "ano": 2022,
+    "fecam": "Ameosc",
+    "municipio": "Santa Helena",
+    "codigo_ibge": "4215554",
+    "densidade_demografica_hab_km2": 29.94
+  },
+  {
+    "id": 232,
+    "ano": 2022,
+    "fecam": "Amurel",
+    "municipio": "Santa Rosa de Lima",
+    "codigo_ibge": "4215604",
+    "densidade_demografica_hab_km2": 10.27
+  },
+  {
+    "id": 233,
+    "ano": 2022,
+    "fecam": "Amesc",
+    "municipio": "Santa Rosa do Sul",
+    "codigo_ibge": "4215653",
+    "densidade_demografica_hab_km2": 65.15
+  },
+  {
+    "id": 234,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Santa Terezinha",
+    "codigo_ibge": "4215679",
+    "densidade_demografica_hab_km2": 11.27
+  },
+  {
+    "id": 235,
+    "ano": 2022,
+    "fecam": "Amerios",
+    "municipio": "Santa Terezinha do Progresso",
+    "codigo_ibge": "4215687",
+    "densidade_demografica_hab_km2": 21.53
+  },
+  {
+    "id": 236,
+    "ano": 2022,
+    "fecam": "Amosc",
+    "municipio": "Santiago do Sul",
+    "codigo_ibge": "4215695",
+    "densidade_demografica_hab_km2": 22.51
+  },
+  {
+    "id": 237,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "Santo Amaro da Imperatriz",
+    "codigo_ibge": "4215703",
+    "densidade_demografica_hab_km2": 79.22
+  },
+  {
+    "id": 238,
+    "ano": 2022,
+    "fecam": "Amerios",
+    "municipio": "Saudades",
+    "codigo_ibge": "4217303",
+    "densidade_demografica_hab_km2": 49.88
+  },
+  {
+    "id": 239,
+    "ano": 2022,
+    "fecam": "AMVALI",
+    "municipio": "Schroeder",
+    "codigo_ibge": "4217402",
+    "densidade_demografica_hab_km2": 121.41
+  },
+  {
+    "id": 240,
+    "ano": 2022,
+    "fecam": "Amauc",
+    "municipio": "Seara",
+    "codigo_ibge": "4217501",
+    "densidade_demografica_hab_km2": 60.14
+  },
+  {
+    "id": 241,
+    "ano": 2022,
+    "fecam": "Amnoroeste",
+    "municipio": "São Bernardino",
+    "codigo_ibge": "4215752",
+    "densidade_demografica_hab_km2": 17.91
+  },
+  {
+    "id": 242,
+    "ano": 2022,
+    "fecam": "Amosc",
+    "municipio": "Serra Alta",
+    "codigo_ibge": "4217550",
+    "densidade_demografica_hab_km2": 36.47
+  },
+  {
+    "id": 243,
+    "ano": 2022,
+    "fecam": "Amunesc",
+    "municipio": "São Bento do Sul",
+    "codigo_ibge": "4215802",
+    "densidade_demografica_hab_km2": 167.97
+  },
+  {
+    "id": 244,
+    "ano": 2022,
+    "fecam": "Amrec",
+    "municipio": "Siderópolis",
+    "codigo_ibge": "4217600",
+    "densidade_demografica_hab_km2": 52.34
+  },
+  {
+    "id": 245,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "São Bonifácio",
+    "codigo_ibge": "4215901",
+    "densidade_demografica_hab_km2": 6.38
+  },
+  {
+    "id": 246,
+    "ano": 2022,
+    "fecam": "Amesc",
+    "municipio": "Sombrio",
+    "codigo_ibge": "4217709",
+    "densidade_demografica_hab_km2": 209.06
+  },
+  {
+    "id": 247,
+    "ano": 2022,
+    "fecam": "Amosc",
+    "municipio": "São Carlos",
+    "codigo_ibge": "4216008",
+    "densidade_demografica_hab_km2": 63.42
+  },
+  {
+    "id": 248,
+    "ano": 2022,
+    "fecam": "Amosc",
+    "municipio": "Sul Brasil",
+    "codigo_ibge": "4217758",
+    "densidade_demografica_hab_km2": 25.03
+  },
+  {
+    "id": 249,
+    "ano": 2022,
+    "fecam": "Amurc",
+    "municipio": "São Cristóvão do Sul",
+    "codigo_ibge": "4216057",
+    "densidade_demografica_hab_km2": 17.59
+  },
+  {
+    "id": 250,
+    "ano": 2022,
+    "fecam": "Amai",
+    "municipio": "São Domingos",
+    "codigo_ibge": "4216107",
+    "densidade_demografica_hab_km2": 25.1
+  },
+  {
+    "id": 251,
+    "ano": 2022,
+    "fecam": "Amunesc",
+    "municipio": "São Francisco do Sul",
+    "codigo_ibge": "4216206",
+    "densidade_demografica_hab_km2": 106.79
+  },
+  {
+    "id": 252,
+    "ano": 2022,
+    "fecam": "Ameosc",
+    "municipio": "São João do Oeste",
+    "codigo_ibge": "4216255",
+    "densidade_demografica_hab_km2": 38.44
+  },
+  {
+    "id": 253,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "São João Batista",
+    "codigo_ibge": "4216305",
+    "densidade_demografica_hab_km2": 162.81
+  },
+  {
+    "id": 254,
+    "ano": 2022,
+    "fecam": "AMVALI",
+    "municipio": "São João do Itaperiú",
+    "codigo_ibge": "4216354",
+    "densidade_demografica_hab_km2": 29.38
+  },
+  {
+    "id": 255,
+    "ano": 2022,
+    "fecam": "Amesc",
+    "municipio": "São João do Sul",
+    "codigo_ibge": "4216404",
+    "densidade_demografica_hab_km2": 47.01
+  },
+  {
+    "id": 256,
+    "ano": 2022,
+    "fecam": "Amures",
+    "municipio": "São Joaquim",
+    "codigo_ibge": "4216503",
+    "densidade_demografica_hab_km2": 13.73
+  },
+  {
+    "id": 257,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "São José",
+    "codigo_ibge": "4216602",
+    "densidade_demografica_hab_km2": 1796.02
+  },
+  {
+    "id": 258,
+    "ano": 2022,
+    "fecam": "Ameosc",
+    "municipio": "São José do Cedro",
+    "codigo_ibge": "4216701",
+    "densidade_demografica_hab_km2": 50.46
+  },
+  {
+    "id": 259,
+    "ano": 2022,
+    "fecam": "Amures",
+    "municipio": "São José do Cerrito",
+    "codigo_ibge": "4216800",
+    "densidade_demografica_hab_km2": 9.18
+  },
+  {
+    "id": 260,
+    "ano": 2022,
+    "fecam": "Amnoroeste",
+    "municipio": "São Lourenço do Oeste",
+    "codigo_ibge": "4216909",
+    "densidade_demografica_hab_km2": 69.6
+  },
+  {
+    "id": 261,
+    "ano": 2022,
+    "fecam": "Amurel",
+    "municipio": "São Ludgero",
+    "codigo_ibge": "4217006",
+    "densidade_demografica_hab_km2": 126.53
+  },
+  {
+    "id": 262,
+    "ano": 2022,
+    "fecam": "Amurel",
+    "municipio": "São Martinho",
+    "codigo_ibge": "4217105",
+    "densidade_demografica_hab_km2": 15.16
+  },
+  {
+    "id": 263,
+    "ano": 2022,
+    "fecam": "Amerios",
+    "municipio": "São Miguel da Boa Vista",
+    "codigo_ibge": "4217154",
+    "densidade_demografica_hab_km2": 24.48
+  },
+  {
+    "id": 264,
+    "ano": 2022,
+    "fecam": "Ameosc",
+    "municipio": "São Miguel do Oeste",
+    "codigo_ibge": "4217204",
+    "densidade_demografica_hab_km2": 189.28
+  },
+  {
+    "id": 265,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "São Pedro de Alcântara",
+    "codigo_ibge": "4217253",
+    "densidade_demografica_hab_km2": 41.5
+  },
+  {
+    "id": 266,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Taió",
+    "codigo_ibge": "4217808",
+    "densidade_demografica_hab_km2": 26.39
+  },
+  {
+    "id": 267,
+    "ano": 2022,
+    "fecam": "Amarp",
+    "municipio": "Tangará",
+    "codigo_ibge": "4217907",
+    "densidade_demografica_hab_km2": 20.88
+  },
+  {
+    "id": 268,
+    "ano": 2022,
+    "fecam": "Amerios",
+    "municipio": "Tigrinhos",
+    "codigo_ibge": "4217956",
+    "densidade_demografica_hab_km2": 40.89
+  },
+  {
+    "id": 269,
+    "ano": 2022,
+    "fecam": "Granfpolis",
+    "municipio": "Tijucas",
+    "codigo_ibge": "4218004",
+    "densidade_demografica_hab_km2": 184.81
+  },
+  {
+    "id": 270,
+    "ano": 2022,
+    "fecam": "Amesc",
+    "municipio": "Timbé do Sul",
+    "codigo_ibge": "4218103",
+    "densidade_demografica_hab_km2": 16.4
+  },
+  {
+    "id": 271,
+    "ano": 2022,
+    "fecam": "AMVE",
+    "municipio": "Timbó",
+    "codigo_ibge": "4218202",
+    "densidade_demografica_hab_km2": 359.27
+  },
+  {
+    "id": 272,
+    "ano": 2022,
+    "fecam": "Amarp",
+    "municipio": "Timbó Grande",
+    "codigo_ibge": "4218251",
+    "densidade_demografica_hab_km2": 12.31
+  },
+  {
+    "id": 273,
+    "ano": 2022,
+    "fecam": "Amrec",
+    "municipio": "Treviso",
+    "codigo_ibge": "4218350",
+    "densidade_demografica_hab_km2": 24.15
+  },
+  {
+    "id": 274,
+    "ano": 2022,
+    "fecam": "Ammoc",
+    "municipio": "Treze Tílias",
+    "codigo_ibge": "4218509",
+    "densidade_demografica_hab_km2": 47.26
+  },
+  {
+    "id": 275,
+    "ano": 2022,
+    "fecam": "Amurel",
+    "municipio": "Treze de Maio",
+    "codigo_ibge": "4218400",
+    "densidade_demografica_hab_km2": 46.06
+  },
+  {
+    "id": 276,
+    "ano": 2022,
+    "fecam": "Amplanorte",
+    "municipio": "Três Barras",
+    "codigo_ibge": "4218301",
+    "densidade_demografica_hab_km2": 45.24
+  },
+  {
+    "id": 277,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Trombudo Central",
+    "codigo_ibge": "4218608",
+    "densidade_demografica_hab_km2": 66.34
+  },
+  {
+    "id": 278,
+    "ano": 2022,
+    "fecam": "Amurel",
+    "municipio": "Tubarão",
+    "codigo_ibge": "4218707",
+    "densidade_demografica_hab_km2": 365.15
+  },
+  {
+    "id": 279,
+    "ano": 2022,
+    "fecam": "Ameosc",
+    "municipio": "Tunápolis",
+    "codigo_ibge": "4218756",
+    "densidade_demografica_hab_km2": 36.98
+  },
+  {
+    "id": 280,
+    "ano": 2022,
+    "fecam": "Amesc",
+    "municipio": "Turvo",
+    "codigo_ibge": "4218806",
+    "densidade_demografica_hab_km2": 55.48
+  },
+  {
+    "id": 281,
+    "ano": 2022,
+    "fecam": "Amosc",
+    "municipio": "União do Oeste",
+    "codigo_ibge": "4218855",
+    "densidade_demografica_hab_km2": 29.87
+  },
+  {
+    "id": 282,
+    "ano": 2022,
+    "fecam": "Amures",
+    "municipio": "Urubici",
+    "codigo_ibge": "4218905",
+    "densidade_demografica_hab_km2": 10.61
+  },
+  {
+    "id": 283,
+    "ano": 2022,
+    "fecam": "Amures",
+    "municipio": "Urupema",
+    "codigo_ibge": "4218954",
+    "densidade_demografica_hab_km2": 7.58
+  },
+  {
+    "id": 284,
+    "ano": 2022,
+    "fecam": "Amrec",
+    "municipio": "Urussanga",
+    "codigo_ibge": "4219002",
+    "densidade_demografica_hab_km2": 82.05
+  },
+  {
+    "id": 285,
+    "ano": 2022,
+    "fecam": "Amplasc",
+    "municipio": "Vargem",
+    "codigo_ibge": "4219150",
+    "densidade_demografica_hab_km2": 7.49
+  },
+  {
+    "id": 286,
+    "ano": 2022,
+    "fecam": "Ammoc",
+    "municipio": "Vargem Bonita",
+    "codigo_ibge": "4219176",
+    "densidade_demografica_hab_km2": 15.26
+  },
+  {
+    "id": 287,
+    "ano": 2022,
+    "fecam": "Amai",
+    "municipio": "Vargeão",
+    "codigo_ibge": "4219101",
+    "densidade_demografica_hab_km2": 21.8
+  },
+  {
+    "id": 288,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Vidal Ramos",
+    "codigo_ibge": "4219200",
+    "densidade_demografica_hab_km2": 17.84
+  },
+  {
+    "id": 289,
+    "ano": 2022,
+    "fecam": "Amarp",
+    "municipio": "Videira",
+    "codigo_ibge": "4219309",
+    "densidade_demografica_hab_km2": 144.39
+  },
+  {
+    "id": 290,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Vitor Meireles",
+    "codigo_ibge": "4219358",
+    "densidade_demografica_hab_km2": 14.5
+  },
+  {
+    "id": 291,
+    "ano": 2022,
+    "fecam": "Amavi",
+    "municipio": "Witmarsum",
+    "codigo_ibge": "4219408",
+    "densidade_demografica_hab_km2": 27.67
+  },
+  {
+    "id": 292,
+    "ano": 2022,
+    "fecam": "Amai",
+    "municipio": "Xanxerê",
+    "codigo_ibge": "4219507",
+    "densidade_demografica_hab_km2": 136.73
+  },
+  {
+    "id": 293,
+    "ano": 2022,
+    "fecam": "Amauc",
+    "municipio": "Xavantina",
+    "codigo_ibge": "4219606",
+    "densidade_demografica_hab_km2": 16.75
+  },
+  {
+    "id": 294,
+    "ano": 2022,
+    "fecam": "Amai",
+    "municipio": "Xaxim",
+    "codigo_ibge": "4219705",
+    "densidade_demografica_hab_km2": 108.7
+  },
+  {
+    "id": 295,
+    "ano": 2022,
+    "fecam": "Amplasc",
+    "municipio": "Zortéa",
+    "codigo_ibge": "4219853",
+    "densidade_demografica_hab_km2": 20.66
+  }
+]
