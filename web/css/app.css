@@ -1,0 +1,53 @@
+/* Ajustes do Seplan Indicadores sobre o Bootstrap 5.3. */
+
+:root {
+  --seplan-azul: #0b5cad;
+  --seplan-vermelho: #b02a37; /* contraste 6,4:1 sobre branco */
+  --seplan-cabecalho-tabela: #e4ecf5;
+}
+
+body { background: #f5f7fa; }
+
+.bg-seplan { background: var(--seplan-azul); }
+.bg-seplan .nav-link { color: rgba(255, 255, 255, .85); }
+.bg-seplan .nav-link.active { color: #fff; text-decoration: underline; text-underline-offset: .35em; }
+
+/* Foco sempre visível e com contraste */
+.form-control:focus, .form-select:focus, .btn:focus-visible { box-shadow: 0 0 0 .2rem var(--seplan-azul); }
+a:focus-visible, .btn-ordenar:focus-visible, .tabela-wrap:focus-visible { outline: 2px solid var(--seplan-azul); outline-offset: 2px; }
+.navbar a:focus-visible, .navbar .btn:focus-visible { box-shadow: none; outline: 2px solid #fff; outline-offset: 2px; }
+[tabindex="-1"]:focus { outline: none; }
+.pular-conteudo:focus { position: absolute; top: .5rem; left: .5rem; z-index: 2000; padding: .5rem 1rem; background: #fff; }
+
+/* Situação de atualização */
+.status-tag { white-space: nowrap; font-weight: 600; }
+.fonte-desatualizada { color: var(--seplan-vermelho); font-weight: 600; }
+
+/* Cartões de resumo */
+.cartoes-resumo .card { width: auto; min-width: 9.5rem; flex: 0 1 auto; overflow-wrap: anywhere; }
+.cartoes-resumo .valor { display: block; font-size: 1.5rem; font-weight: 600; line-height: 1.3; }
+
+/* Tabelas com rolagem e cabeçalho fixo */
+/* position: relative contém os textos .visually-hidden (absolutos) das células, que senão alargam a página */
+.tabela-wrap { position: relative; overflow: auto; max-height: 72vh; background: #fff; border: 1px solid var(--bs-border-color); border-radius: .5rem; }
+.tabela-wrap table { font-size: .875rem; }
+.tabela-wrap caption { color: var(--bs-secondary-color); }
+.tabela-wrap thead th { position: sticky; top: 0; z-index: 1; background: var(--seplan-cabecalho-tabela); white-space: nowrap; }
+.tabela-wrap td { vertical-align: top; }
+.tabela-wrap td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
+.btn-ordenar { background: none; border: 0; padding: 0; font: inherit; font-weight: 600; color: inherit; cursor: pointer; }
+
+/* Ficha do indicador */
+.ficha { display: grid; grid-template-columns: max-content 1fr; gap: .35rem 1rem; }
+.ficha .contents { display: contents; }
+.ficha dt { font-weight: 600; color: var(--bs-secondary-color); }
+.ficha dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
+h1 { overflow-wrap: anywhere; }
+@media (max-width: 576px) { .ficha { grid-template-columns: 1fr; } .ficha dd { margin-bottom: .5rem; } }
+
+/* Painel de notificações */
+.notificacoes { position: relative; }
+.painel-notificacoes {
+  position: absolute; right: 0; top: calc(100% + .5rem); z-index: 1050;
+  width: min(24rem, calc(100vw - 2rem)); max-height: 70vh; overflow: auto;
+}

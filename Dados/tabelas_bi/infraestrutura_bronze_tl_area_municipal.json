@@ -1,0 +1,2362 @@
+[
+ {
+  "id": 1,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Laurentino",
+  "codigo_ibge": "4209508",
+  "ar_mun_2024": 79.333
+ },
+ {
+  "id": 2,
+  "ano": 2024,
+  "fecam": "AMVALI",
+  "municipio": "Barra Velha",
+  "codigo_ibge": "4202107",
+  "ar_mun_2024": 138.947
+ },
+ {
+  "id": 3,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Taió",
+  "codigo_ibge": "4217808",
+  "ar_mun_2024": 693.847
+ },
+ {
+  "id": 4,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "municipio": "Belmonte",
+  "codigo_ibge": "4202156",
+  "ar_mun_2024": 93.852
+ },
+ {
+  "id": 5,
+  "ano": 2024,
+  "fecam": "Amerios",
+  "municipio": "Cunha Porã",
+  "codigo_ibge": "4204707",
+  "ar_mun_2024": 220.099
+ },
+ {
+  "id": 6,
+  "ano": 2024,
+  "fecam": "Amplanorte",
+  "municipio": "Bela Vista do Toldo",
+  "codigo_ibge": "4202131",
+  "ar_mun_2024": 535.682
+ },
+ {
+  "id": 7,
+  "ano": 2024,
+  "fecam": "Amures",
+  "municipio": "Campo Belo do Sul",
+  "codigo_ibge": "4203402",
+  "ar_mun_2024": 1025.638
+ },
+ {
+  "id": 8,
+  "ano": 2024,
+  "fecam": "AMFRI",
+  "municipio": "Itajaí",
+  "codigo_ibge": "4208203",
+  "ar_mun_2024": 289.215
+ },
+ {
+  "id": 9,
+  "ano": 2024,
+  "fecam": "AMVALI",
+  "municipio": "Massaranduba",
+  "codigo_ibge": "4210605",
+  "ar_mun_2024": 374.459
+ },
+ {
+  "id": 10,
+  "ano": 2024,
+  "fecam": "Amauc",
+  "municipio": "Xavantina",
+  "codigo_ibge": "4219606",
+  "ar_mun_2024": 218.032
+ },
+ {
+  "id": 11,
+  "ano": 2024,
+  "fecam": "Amurel",
+  "municipio": "Pedras Grandes",
+  "codigo_ibge": "4212403",
+  "ar_mun_2024": 159.892
+ },
+ {
+  "id": 12,
+  "ano": 2024,
+  "fecam": "Amplanorte",
+  "municipio": "Monte Castelo",
+  "codigo_ibge": "4211108",
+  "ar_mun_2024": 560.743
+ },
+ {
+  "id": 13,
+  "ano": 2024,
+  "fecam": "AMVE",
+  "municipio": "Ascurra",
+  "codigo_ibge": "4201703",
+  "ar_mun_2024": 112.884
+ },
+ {
+  "id": 14,
+  "ano": 2024,
+  "fecam": "Amerios",
+  "municipio": "Cunhataí",
+  "codigo_ibge": "4204756",
+  "ar_mun_2024": 54.811
+ },
+ {
+  "id": 15,
+  "ano": 2024,
+  "fecam": "AMVALI",
+  "municipio": "Guaramirim",
+  "codigo_ibge": "4206504",
+  "ar_mun_2024": 267.514
+ },
+ {
+  "id": 16,
+  "ano": 2024,
+  "fecam": "Ammoc",
+  "municipio": "Erval Velho",
+  "codigo_ibge": "4205209",
+  "ar_mun_2024": 208.841
+ },
+ {
+  "id": 17,
+  "ano": 2024,
+  "fecam": "Amplanorte",
+  "municipio": "Três Barras",
+  "codigo_ibge": "4218301",
+  "ar_mun_2024": 436.496
+ },
+ {
+  "id": 18,
+  "ano": 2024,
+  "fecam": "Amauc",
+  "municipio": "Irani",
+  "codigo_ibge": "4207809",
+  "ar_mun_2024": 325.862
+ },
+ {
+  "id": 19,
+  "ano": 2024,
+  "fecam": "Amurel",
+  "municipio": "São Ludgero",
+  "codigo_ibge": "4217006",
+  "ar_mun_2024": 106.765
+ },
+ {
+  "id": 20,
+  "ano": 2024,
+  "fecam": "Amnoroeste",
+  "municipio": "Irati",
+  "codigo_ibge": "4207858",
+  "ar_mun_2024": 77.912
+ },
+ {
+  "id": 21,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Rio do Sul",
+  "codigo_ibge": "4214805",
+  "ar_mun_2024": 260.817
+ },
+ {
+  "id": 22,
+  "ano": 2024,
+  "fecam": "AMFRI",
+  "municipio": "Porto Belo",
+  "codigo_ibge": "4213500",
+  "ar_mun_2024": 93.673
+ },
+ {
+  "id": 23,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "São José",
+  "codigo_ibge": "4216602",
+  "ar_mun_2024": 150.499
+ },
+ {
+  "id": 24,
+  "ano": 2024,
+  "fecam": "Amrec",
+  "municipio": "Içara",
+  "codigo_ibge": "4207007",
+  "ar_mun_2024": 230.487
+ },
+ {
+  "id": 25,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Salete",
+  "codigo_ibge": "4215307",
+  "ar_mun_2024": 177.887
+ },
+ {
+  "id": 26,
+  "ano": 2024,
+  "fecam": "Amrec",
+  "municipio": "Treviso",
+  "codigo_ibge": "4218350",
+  "ar_mun_2024": 156.61
+ },
+ {
+  "id": 27,
+  "ano": 2024,
+  "fecam": "Ammoc",
+  "municipio": "Água Doce",
+  "codigo_ibge": "4200408",
+  "ar_mun_2024": 1327.911
+ },
+ {
+  "id": 28,
+  "ano": 2024,
+  "fecam": "AMVE",
+  "municipio": "Benedito Novo",
+  "codigo_ibge": "4202206",
+  "ar_mun_2024": 388.291
+ },
+ {
+  "id": 29,
+  "ano": 2024,
+  "fecam": "Amerios",
+  "municipio": "Saltinho",
+  "codigo_ibge": "4215356",
+  "ar_mun_2024": 156.568
+ },
+ {
+  "id": 30,
+  "ano": 2024,
+  "fecam": "AMFRI",
+  "municipio": "Itapema",
+  "codigo_ibge": "4208302",
+  "ar_mun_2024": 58.21
+ },
+ {
+  "id": 31,
+  "ano": 2024,
+  "fecam": "Amrec",
+  "municipio": "Lauro Müller",
+  "codigo_ibge": "4209607",
+  "ar_mun_2024": 271.852
+ },
+ {
+  "id": 32,
+  "ano": 2024,
+  "fecam": "Amarp",
+  "municipio": "Tangará",
+  "codigo_ibge": "4217907",
+  "ar_mun_2024": 390.044
+ },
+ {
+  "id": 33,
+  "ano": 2024,
+  "fecam": "Amarp",
+  "municipio": "Matos Costa",
+  "codigo_ibge": "4210704",
+  "ar_mun_2024": 435.391
+ },
+ {
+  "id": 34,
+  "ano": 2024,
+  "fecam": "Amai",
+  "municipio": "Xaxim",
+  "codigo_ibge": "4219705",
+  "ar_mun_2024": 293.628
+ },
+ {
+  "id": 35,
+  "ano": 2024,
+  "fecam": "Amurc",
+  "municipio": "Curitibanos",
+  "codigo_ibge": "4204806",
+  "ar_mun_2024": 949.994
+ },
+ {
+  "id": 36,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "municipio": "Pinhalzinho",
+  "codigo_ibge": "4212908",
+  "ar_mun_2024": 128.726
+ },
+ {
+  "id": 37,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Presidente Getúlio",
+  "codigo_ibge": "4214003",
+  "ar_mun_2024": 297.16
+ },
+ {
+  "id": 38,
+  "ano": 2024,
+  "fecam": "Amrec",
+  "municipio": "Nova Veneza",
+  "codigo_ibge": "4211603",
+  "ar_mun_2024": 295.063
+ },
+ {
+  "id": 39,
+  "ano": 2024,
+  "fecam": "Amerios",
+  "municipio": "Campo Erê",
+  "codigo_ibge": "4203501",
+  "ar_mun_2024": 479.161
+ },
+ {
+  "id": 40,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "municipio": "Guarujá do Sul",
+  "codigo_ibge": "4206603",
+  "ar_mun_2024": 100.63
+ },
+ {
+  "id": 41,
+  "ano": 2024,
+  "fecam": "Amai",
+  "municipio": "Faxinal dos Guedes",
+  "codigo_ibge": "4205308",
+  "ar_mun_2024": 340.07
+ },
+ {
+  "id": 42,
+  "ano": 2024,
+  "fecam": "Amerios",
+  "municipio": "Tigrinhos",
+  "codigo_ibge": "4217956",
+  "ar_mun_2024": 56.962
+ },
+ {
+  "id": 43,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "municipio": "São João do Oeste",
+  "codigo_ibge": "4216255",
+  "ar_mun_2024": 163.589
+ },
+ {
+  "id": 44,
+  "ano": 2024,
+  "fecam": "Amplanorte",
+  "municipio": "Major Vieira",
+  "codigo_ibge": "4210308",
+  "ar_mun_2024": 520.816
+ },
+ {
+  "id": 45,
+  "ano": 2024,
+  "fecam": "Amnoroeste",
+  "municipio": "Novo Horizonte",
+  "codigo_ibge": "4211652",
+  "ar_mun_2024": 151.722
+ },
+ {
+  "id": 46,
+  "ano": 2024,
+  "fecam": "Amarp",
+  "municipio": "Videira",
+  "codigo_ibge": "4219309",
+  "ar_mun_2024": 384.126
+ },
+ {
+  "id": 47,
+  "ano": 2024,
+  "fecam": "Amerios",
+  "municipio": "Flor do Sertão",
+  "codigo_ibge": "4205357",
+  "ar_mun_2024": 58.457
+ },
+ {
+  "id": 48,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "municipio": "Guatambú",
+  "codigo_ibge": "4206652",
+  "ar_mun_2024": 206.196
+ },
+ {
+  "id": 49,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Vitor Meireles",
+  "codigo_ibge": "4219358",
+  "ar_mun_2024": 370.414
+ },
+ {
+  "id": 50,
+  "ano": 2024,
+  "fecam": "Amurel",
+  "municipio": "Treze de Maio",
+  "codigo_ibge": "4218400",
+  "ar_mun_2024": 159.833
+ },
+ {
+  "id": 51,
+  "ano": 2024,
+  "fecam": "Amplanorte",
+  "municipio": "Irineópolis",
+  "codigo_ibge": "4207908",
+  "ar_mun_2024": 589.698
+ },
+ {
+  "id": 52,
+  "ano": 2024,
+  "fecam": "Amunesc",
+  "municipio": "São Bento do Sul",
+  "codigo_ibge": "4215802",
+  "ar_mun_2024": 495.002
+ },
+ {
+  "id": 53,
+  "ano": 2024,
+  "fecam": "Amerios",
+  "municipio": "Palmitos",
+  "codigo_ibge": "4212106",
+  "ar_mun_2024": 351.051
+ },
+ {
+  "id": 54,
+  "ano": 2024,
+  "fecam": "Ammoc",
+  "municipio": "Catanduvas",
+  "codigo_ibge": "4204004",
+  "ar_mun_2024": 199.166
+ },
+ {
+  "id": 55,
+  "ano": 2024,
+  "fecam": "AMVE",
+  "municipio": "Botuverá",
+  "codigo_ibge": "4202701",
+  "ar_mun_2024": 296.256
+ },
+ {
+  "id": 56,
+  "ano": 2024,
+  "fecam": "Amesc",
+  "municipio": "Araranguá",
+  "codigo_ibge": "4201406",
+  "ar_mun_2024": 301.806
+ },
+ {
+  "id": 57,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Rio do Campo",
+  "codigo_ibge": "4214508",
+  "ar_mun_2024": 502.095
+ },
+ {
+  "id": 58,
+  "ano": 2024,
+  "fecam": "AMVE",
+  "municipio": "Pomerode",
+  "codigo_ibge": "4213203",
+  "ar_mun_2024": 214.299
+ },
+ {
+  "id": 59,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "Tijucas",
+  "codigo_ibge": "4218004",
+  "ar_mun_2024": 279.263
+ },
+ {
+  "id": 60,
+  "ano": 2024,
+  "fecam": "Amarp",
+  "municipio": "Lebon Régis",
+  "codigo_ibge": "4209706",
+  "ar_mun_2024": 941.64
+ },
+ {
+  "id": 61,
+  "ano": 2024,
+  "fecam": "Amai",
+  "municipio": "Abelardo Luz",
+  "codigo_ibge": "4200101",
+  "ar_mun_2024": 953.992
+ },
+ {
+  "id": 62,
+  "ano": 2024,
+  "fecam": "Amarp",
+  "municipio": "Iomerê",
+  "codigo_ibge": "4207577",
+  "ar_mun_2024": 113.986
+ },
+ {
+  "id": 63,
+  "ano": 2024,
+  "fecam": "Amrec",
+  "municipio": "Orleans",
+  "codigo_ibge": "4211702",
+  "ar_mun_2024": 549.859
+ },
+ {
+  "id": 64,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "São João Batista",
+  "codigo_ibge": "4216305",
+  "ar_mun_2024": 200.765
+ },
+ {
+  "id": 65,
+  "ano": 2024,
+  "fecam": "Amunesc",
+  "municipio": "Rio Negrinho",
+  "codigo_ibge": "4215000",
+  "ar_mun_2024": 907.42
+ },
+ {
+  "id": 66,
+  "ano": 2024,
+  "fecam": "Amunesc",
+  "municipio": "Garuva",
+  "codigo_ibge": "4205803",
+  "ar_mun_2024": 503.595
+ },
+ {
+  "id": 67,
+  "ano": 2024,
+  "fecam": "AMVALI",
+  "municipio": "São João do Itaperiú",
+  "codigo_ibge": "4216354",
+  "ar_mun_2024": 151.885
+ },
+ {
+  "id": 68,
+  "ano": 2024,
+  "fecam": "Amures",
+  "municipio": "Urubici",
+  "codigo_ibge": "4218905",
+  "ar_mun_2024": 1021.371
+ },
+ {
+  "id": 69,
+  "ano": 2024,
+  "fecam": "Amures",
+  "municipio": "Lages",
+  "codigo_ibge": "4209300",
+  "ar_mun_2024": 2637.66
+ },
+ {
+  "id": 70,
+  "ano": 2024,
+  "fecam": "Amerios",
+  "municipio": "Riqueza",
+  "codigo_ibge": "4215075",
+  "ar_mun_2024": 191.061
+ },
+ {
+  "id": 71,
+  "ano": 2024,
+  "fecam": "Amrec",
+  "municipio": "Siderópolis",
+  "codigo_ibge": "4217600",
+  "ar_mun_2024": 262.003
+ },
+ {
+  "id": 72,
+  "ano": 2024,
+  "fecam": "Amures",
+  "municipio": "Otacílio Costa",
+  "codigo_ibge": "4211751",
+  "ar_mun_2024": 847.253
+ },
+ {
+  "id": 73,
+  "ano": 2024,
+  "fecam": "Amures",
+  "municipio": "Rio Rufino",
+  "codigo_ibge": "4215059",
+  "ar_mun_2024": 282.571
+ },
+ {
+  "id": 74,
+  "ano": 2024,
+  "fecam": "AMVALI",
+  "municipio": "Corupá",
+  "codigo_ibge": "4204509",
+  "ar_mun_2024": 405.761
+ },
+ {
+  "id": 75,
+  "ano": 2024,
+  "fecam": "AMFRI",
+  "municipio": "Camboriú",
+  "codigo_ibge": "4203204",
+  "ar_mun_2024": 210.568
+ },
+ {
+  "id": 76,
+  "ano": 2024,
+  "fecam": "Amauc",
+  "municipio": "Itá",
+  "codigo_ibge": "4208005",
+  "ar_mun_2024": 166.265
+ },
+ {
+  "id": 77,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "São Bonifácio",
+  "codigo_ibge": "4215901",
+  "ar_mun_2024": 461.438
+ },
+ {
+  "id": 78,
+  "ano": 2024,
+  "fecam": "Amures",
+  "municipio": "Urupema",
+  "codigo_ibge": "4218954",
+  "ar_mun_2024": 350.472
+ },
+ {
+  "id": 79,
+  "ano": 2024,
+  "fecam": "Amesc",
+  "municipio": "Maracajá",
+  "codigo_ibge": "4210407",
+  "ar_mun_2024": 62.902
+ },
+ {
+  "id": 80,
+  "ano": 2024,
+  "fecam": "Amures",
+  "municipio": "Capão Alto",
+  "codigo_ibge": "4203253",
+  "ar_mun_2024": 1331.962
+ },
+ {
+  "id": 81,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Witmarsum",
+  "codigo_ibge": "4219408",
+  "ar_mun_2024": 153.776
+ },
+ {
+  "id": 82,
+  "ano": 2024,
+  "fecam": "Amplanorte",
+  "municipio": "Papanduva",
+  "codigo_ibge": "4212205",
+  "ar_mun_2024": 764.737
+ },
+ {
+  "id": 83,
+  "ano": 2024,
+  "fecam": "Amurel",
+  "municipio": "Braço do Norte",
+  "codigo_ibge": "4202800",
+  "ar_mun_2024": 212.045
+ },
+ {
+  "id": 84,
+  "ano": 2024,
+  "fecam": "Amurel",
+  "municipio": "Armazém",
+  "codigo_ibge": "4201505",
+  "ar_mun_2024": 173.958
+ },
+ {
+  "id": 85,
+  "ano": 2024,
+  "fecam": "Amures",
+  "municipio": "Correia Pinto",
+  "codigo_ibge": "4204558",
+  "ar_mun_2024": 647.388
+ },
+ {
+  "id": 86,
+  "ano": 2024,
+  "fecam": "AMVE",
+  "municipio": "Guabiruba",
+  "codigo_ibge": "4206306",
+  "ar_mun_2024": 172.173
+ },
+ {
+  "id": 87,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "municipio": "Paraíso",
+  "codigo_ibge": "4212239",
+  "ar_mun_2024": 180.338
+ },
+ {
+  "id": 88,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "municipio": "Dionísio Cerqueira",
+  "codigo_ibge": "4205001",
+  "ar_mun_2024": 378.843
+ },
+ {
+  "id": 89,
+  "ano": 2024,
+  "fecam": "AMVALI",
+  "municipio": "Jaraguá do Sul",
+  "codigo_ibge": "4208906",
+  "ar_mun_2024": 530.818
+ },
+ {
+  "id": 90,
+  "ano": 2024,
+  "fecam": "Amesc",
+  "municipio": "Timbé do Sul",
+  "codigo_ibge": "4218103",
+  "ar_mun_2024": 328.507
+ },
+ {
+  "id": 91,
+  "ano": 2024,
+  "fecam": "Amauc",
+  "municipio": "Ipira",
+  "codigo_ibge": "4207601",
+  "ar_mun_2024": 156.187
+ },
+ {
+  "id": 92,
+  "ano": 2024,
+  "fecam": "Amai",
+  "municipio": "Passos Maia",
+  "codigo_ibge": "4212270",
+  "ar_mun_2024": 617.092
+ },
+ {
+  "id": 93,
+  "ano": 2024,
+  "fecam": "Amplasc",
+  "municipio": "Brunópolis",
+  "codigo_ibge": "4202875",
+  "ar_mun_2024": 336.439
+ },
+ {
+  "id": 94,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Braço do Trombudo",
+  "codigo_ibge": "4202859",
+  "ar_mun_2024": 89.411
+ },
+ {
+  "id": 95,
+  "ano": 2024,
+  "fecam": "Amesc",
+  "municipio": "Passo de Torres",
+  "codigo_ibge": "4212254",
+  "ar_mun_2024": 92.638
+ },
+ {
+  "id": 96,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Rio do Oeste",
+  "codigo_ibge": "4214607",
+  "ar_mun_2024": 245.057
+ },
+ {
+  "id": 97,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "municipio": "Iporã do Oeste",
+  "codigo_ibge": "4207650",
+  "ar_mun_2024": 201.118
+ },
+ {
+  "id": 98,
+  "ano": 2024,
+  "fecam": "Amures",
+  "municipio": "Ponte Alta",
+  "codigo_ibge": "4213302",
+  "ar_mun_2024": 575.17
+ },
+ {
+  "id": 99,
+  "ano": 2024,
+  "fecam": "Amesc",
+  "municipio": "São João do Sul",
+  "codigo_ibge": "4216404",
+  "ar_mun_2024": 184.375
+ },
+ {
+  "id": 100,
+  "ano": 2024,
+  "fecam": "AMVE",
+  "municipio": "Rodeio",
+  "codigo_ibge": "4215109",
+  "ar_mun_2024": 129.001
+ },
+ {
+  "id": 101,
+  "ano": 2024,
+  "fecam": "AMVE",
+  "municipio": "Gaspar",
+  "codigo_ibge": "4205902",
+  "ar_mun_2024": 386.599
+ },
+ {
+  "id": 102,
+  "ano": 2024,
+  "fecam": "Amai",
+  "municipio": "Ipuaçu",
+  "codigo_ibge": "4207684",
+  "ar_mun_2024": 261.13
+ },
+ {
+  "id": 103,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "municipio": "Jardinópolis",
+  "codigo_ibge": "4208955",
+  "ar_mun_2024": 68.499
+ },
+ {
+  "id": 104,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Agrolândia",
+  "codigo_ibge": "4200200",
+  "ar_mun_2024": 206.815
+ },
+ {
+  "id": 105,
+  "ano": 2024,
+  "fecam": "AMFRI",
+  "municipio": "Balneário Camboriú",
+  "codigo_ibge": "4202008",
+  "ar_mun_2024": 45.214
+ },
+ {
+  "id": 106,
+  "ano": 2024,
+  "fecam": "Amurc",
+  "municipio": "Ponte Alta do Norte",
+  "codigo_ibge": "4213351",
+  "ar_mun_2024": 396.882
+ },
+ {
+  "id": 107,
+  "ano": 2024,
+  "fecam": "Amplanorte",
+  "municipio": "Itaiópolis",
+  "codigo_ibge": "4208104",
+  "ar_mun_2024": 1297.543
+ },
+ {
+  "id": 108,
+  "ano": 2024,
+  "fecam": "Amesc",
+  "municipio": "Balneário Gaivota",
+  "codigo_ibge": "4202073",
+  "ar_mun_2024": 146.834
+ },
+ {
+  "id": 109,
+  "ano": 2024,
+  "fecam": "Amesc",
+  "municipio": "Sombrio",
+  "codigo_ibge": "4217709",
+  "ar_mun_2024": 143.457
+ },
+ {
+  "id": 110,
+  "ano": 2024,
+  "fecam": "Amurel",
+  "municipio": "Laguna",
+  "codigo_ibge": "4209409",
+  "ar_mun_2024": 333.259
+ },
+ {
+  "id": 111,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "municipio": "Bandeirante",
+  "codigo_ibge": "4202081",
+  "ar_mun_2024": 148.074
+ },
+ {
+  "id": 112,
+  "ano": 2024,
+  "fecam": "Amai",
+  "municipio": "Xanxerê",
+  "codigo_ibge": "4219507",
+  "ar_mun_2024": 377.426
+ },
+ {
+  "id": 113,
+  "ano": 2024,
+  "fecam": "Amunesc",
+  "municipio": "Balneário Barra do Sul",
+  "codigo_ibge": "4202057",
+  "ar_mun_2024": 108.914
+ },
+ {
+  "id": 114,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Petrolândia",
+  "codigo_ibge": "4212700",
+  "ar_mun_2024": 306.76
+ },
+ {
+  "id": 115,
+  "ano": 2024,
+  "fecam": "Amrec",
+  "municipio": "Criciúma",
+  "codigo_ibge": "4204608",
+  "ar_mun_2024": 234.794
+ },
+ {
+  "id": 116,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "municipio": "Nova Erechim",
+  "codigo_ibge": "4211405",
+  "ar_mun_2024": 65.087
+ },
+ {
+  "id": 117,
+  "ano": 2024,
+  "fecam": "Amunesc",
+  "municipio": "Campo Alegre",
+  "codigo_ibge": "4203303",
+  "ar_mun_2024": 500.173
+ },
+ {
+  "id": 118,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "municipio": "Guaraciaba",
+  "codigo_ibge": "4206405",
+  "ar_mun_2024": 331.766
+ },
+ {
+  "id": 119,
+  "ano": 2024,
+  "fecam": "Amai",
+  "municipio": "Lajeado Grande",
+  "codigo_ibge": "4209458",
+  "ar_mun_2024": 65.348
+ },
+ {
+  "id": 120,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Dona Emma",
+  "codigo_ibge": "4205100",
+  "ar_mun_2024": 178.157
+ },
+ {
+  "id": 121,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "municipio": "Sul Brasil",
+  "codigo_ibge": "4217758",
+  "ar_mun_2024": 113.125
+ },
+ {
+  "id": 122,
+  "ano": 2024,
+  "fecam": "Amurc",
+  "municipio": "São Cristóvão do Sul",
+  "codigo_ibge": "4216057",
+  "ar_mun_2024": 345.903
+ },
+ {
+  "id": 123,
+  "ano": 2024,
+  "fecam": "Amesc",
+  "municipio": "Praia Grande",
+  "codigo_ibge": "4213807",
+  "ar_mun_2024": 284.36
+ },
+ {
+  "id": 124,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "municipio": "Nova Itaberaba",
+  "codigo_ibge": "4211454",
+  "ar_mun_2024": 137.069
+ },
+ {
+  "id": 125,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "Alfredo Wagner",
+  "codigo_ibge": "4200705",
+  "ar_mun_2024": 733.489
+ },
+ {
+  "id": 126,
+  "ano": 2024,
+  "fecam": "Amplanorte",
+  "municipio": "Mafra",
+  "codigo_ibge": "4210100",
+  "ar_mun_2024": 1404.084
+ },
+ {
+  "id": 127,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "Governador Celso Ramos",
+  "codigo_ibge": "4206009",
+  "ar_mun_2024": 127.556
+ },
+ {
+  "id": 128,
+  "ano": 2024,
+  "fecam": "Amnoroeste",
+  "municipio": "São Lourenço do Oeste",
+  "codigo_ibge": "4216909",
+  "ar_mun_2024": 356.193
+ },
+ {
+  "id": 129,
+  "ano": 2024,
+  "fecam": "Amurel",
+  "municipio": "Santa Rosa de Lima",
+  "codigo_ibge": "4215604",
+  "ar_mun_2024": 203.218
+ },
+ {
+  "id": 130,
+  "ano": 2024,
+  "fecam": "Amauc",
+  "municipio": "Ipumirim",
+  "codigo_ibge": "4207700",
+  "ar_mun_2024": 246.115
+ },
+ {
+  "id": 131,
+  "ano": 2024,
+  "fecam": "Amai",
+  "municipio": "Vargeão",
+  "codigo_ibge": "4219101",
+  "ar_mun_2024": 166.685
+ },
+ {
+  "id": 132,
+  "ano": 2024,
+  "fecam": "Amauc",
+  "municipio": "Alto Bela Vista",
+  "codigo_ibge": "4200754",
+  "ar_mun_2024": 103.433
+ },
+ {
+  "id": 133,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Santa Terezinha",
+  "codigo_ibge": "4215679",
+  "ar_mun_2024": 715.551
+ },
+ {
+  "id": 134,
+  "ano": 2024,
+  "fecam": "Amures",
+  "municipio": "Bom Jardim da Serra",
+  "codigo_ibge": "4202503",
+  "ar_mun_2024": 938.516
+ },
+ {
+  "id": 135,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "Antônio Carlos",
+  "codigo_ibge": "4201208",
+  "ar_mun_2024": 234.422
+ },
+ {
+  "id": 136,
+  "ano": 2024,
+  "fecam": "Amesc",
+  "municipio": "Santa Rosa do Sul",
+  "codigo_ibge": "4215653",
+  "ar_mun_2024": 150.299
+ },
+ {
+  "id": 137,
+  "ano": 2024,
+  "fecam": "Amplasc",
+  "municipio": "Vargem",
+  "codigo_ibge": "4219150",
+  "ar_mun_2024": 350.606
+ },
+ {
+  "id": 138,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "Rancho Queimado",
+  "codigo_ibge": "4214300",
+  "ar_mun_2024": 286.461
+ },
+ {
+  "id": 139,
+  "ano": 2024,
+  "fecam": "Amerios",
+  "municipio": "Iraceminha",
+  "codigo_ibge": "4207759",
+  "ar_mun_2024": 165.147
+ },
+ {
+  "id": 140,
+  "ano": 2024,
+  "fecam": "Amai",
+  "municipio": "Bom Jesus",
+  "codigo_ibge": "4202537",
+  "ar_mun_2024": 63.883
+ },
+ {
+  "id": 141,
+  "ano": 2024,
+  "fecam": "Amarp",
+  "municipio": "Pinheiro Preto",
+  "codigo_ibge": "4213005",
+  "ar_mun_2024": 61.011
+ },
+ {
+  "id": 142,
+  "ano": 2024,
+  "fecam": "Amplanorte",
+  "municipio": "Canoinhas",
+  "codigo_ibge": "4203808",
+  "ar_mun_2024": 1148.036
+ },
+ {
+  "id": 143,
+  "ano": 2024,
+  "fecam": "Amauc",
+  "municipio": "Arabutã",
+  "codigo_ibge": "4201273",
+  "ar_mun_2024": 132.585
+ },
+ {
+  "id": 144,
+  "ano": 2024,
+  "fecam": "Amerios",
+  "municipio": "Santa Terezinha do Progresso",
+  "codigo_ibge": "4215687",
+  "ar_mun_2024": 119.653
+ },
+ {
+  "id": 145,
+  "ano": 2024,
+  "fecam": "Amurel",
+  "municipio": "Imbituba",
+  "codigo_ibge": "4207304",
+  "ar_mun_2024": 181.577
+ },
+ {
+  "id": 146,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "municipio": "Santiago do Sul",
+  "codigo_ibge": "4215695",
+  "ar_mun_2024": 73.335
+ },
+ {
+  "id": 147,
+  "ano": 2024,
+  "fecam": "AMVE",
+  "municipio": "Apiúna",
+  "codigo_ibge": "4201257",
+  "ar_mun_2024": 493.49
+ },
+ {
+  "id": 148,
+  "ano": 2024,
+  "fecam": "Amerios",
+  "municipio": "Bom Jesus do Oeste",
+  "codigo_ibge": "4202578",
+  "ar_mun_2024": 67.777
+ },
+ {
+  "id": 149,
+  "ano": 2024,
+  "fecam": "Ammoc",
+  "municipio": "Vargem Bonita",
+  "codigo_ibge": "4219176",
+  "ar_mun_2024": 299.807
+ },
+ {
+  "id": 150,
+  "ano": 2024,
+  "fecam": "AMFRI",
+  "municipio": "Balneário Piçarras",
+  "codigo_ibge": "4212809",
+  "ar_mun_2024": 99.355
+ },
+ {
+  "id": 151,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "Nova Trento",
+  "codigo_ibge": "4211504",
+  "ar_mun_2024": 402.852
+ },
+ {
+  "id": 152,
+  "ano": 2024,
+  "fecam": "Amai",
+  "municipio": "São Domingos",
+  "codigo_ibge": "4216107",
+  "ar_mun_2024": 367.525
+ },
+ {
+  "id": 153,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Ibirama",
+  "codigo_ibge": "4206900",
+  "ar_mun_2024": 247.102
+ },
+ {
+  "id": 154,
+  "ano": 2024,
+  "fecam": "Amnoroeste",
+  "municipio": "Galvão",
+  "codigo_ibge": "4205605",
+  "ar_mun_2024": 139.836
+ },
+ {
+  "id": 155,
+  "ano": 2024,
+  "fecam": "Amurel",
+  "municipio": "Tubarão",
+  "codigo_ibge": "4218707",
+  "ar_mun_2024": 301.485
+ },
+ {
+  "id": 156,
+  "ano": 2024,
+  "fecam": "Amunesc",
+  "municipio": "Joinville",
+  "codigo_ibge": "4209102",
+  "ar_mun_2024": 1127.837
+ },
+ {
+  "id": 157,
+  "ano": 2024,
+  "fecam": "AMVALI",
+  "municipio": "Schroeder",
+  "codigo_ibge": "4217402",
+  "ar_mun_2024": 165.237
+ },
+ {
+  "id": 158,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "José Boiteux",
+  "codigo_ibge": "4209151",
+  "ar_mun_2024": 405.552
+ },
+ {
+  "id": 159,
+  "ano": 2024,
+  "fecam": "Amauc",
+  "municipio": "Concórdia",
+  "codigo_ibge": "4204301",
+  "ar_mun_2024": 799.195
+ },
+ {
+  "id": 160,
+  "ano": 2024,
+  "fecam": "Amarp",
+  "municipio": "Caçador",
+  "codigo_ibge": "4203006",
+  "ar_mun_2024": 983.424
+ },
+ {
+  "id": 161,
+  "ano": 2024,
+  "fecam": "Amauc",
+  "municipio": "Presidente Castello Branco",
+  "codigo_ibge": "4213906",
+  "ar_mun_2024": 65.433
+ },
+ {
+  "id": 162,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "Santo Amaro da Imperatriz",
+  "codigo_ibge": "4215703",
+  "ar_mun_2024": 344.235
+ },
+ {
+  "id": 163,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "municipio": "Tunápolis",
+  "codigo_ibge": "4218756",
+  "ar_mun_2024": 132.939
+ },
+ {
+  "id": 164,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "Major Gercino",
+  "codigo_ibge": "4210209",
+  "ar_mun_2024": 306.058
+ },
+ {
+  "id": 165,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "municipio": "Anchieta",
+  "codigo_ibge": "4200804",
+  "ar_mun_2024": 232.348
+ },
+ {
+  "id": 166,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "municipio": "Palma Sola",
+  "codigo_ibge": "4212007",
+  "ar_mun_2024": 330.878
+ },
+ {
+  "id": 167,
+  "ano": 2024,
+  "fecam": "Amures",
+  "municipio": "Bom Retiro",
+  "codigo_ibge": "4202602",
+  "ar_mun_2024": 1057.034
+ },
+ {
+  "id": 168,
+  "ano": 2024,
+  "fecam": "Amnoroeste",
+  "municipio": "Jupiá",
+  "codigo_ibge": "4209177",
+  "ar_mun_2024": 91.448
+ },
+ {
+  "id": 169,
+  "ano": 2024,
+  "fecam": "Amunesc",
+  "municipio": "Araquari",
+  "codigo_ibge": "4201307",
+  "ar_mun_2024": 386.693
+ },
+ {
+  "id": 170,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "municipio": "Cordilheira Alta",
+  "codigo_ibge": "4204350",
+  "ar_mun_2024": 85.276
+ },
+ {
+  "id": 171,
+  "ano": 2024,
+  "fecam": "Amurel",
+  "municipio": "Grão-Pará",
+  "codigo_ibge": "4206108",
+  "ar_mun_2024": 334.362
+ },
+ {
+  "id": 172,
+  "ano": 2024,
+  "fecam": "Amnoroeste",
+  "municipio": "São Bernardino",
+  "codigo_ibge": "4215752",
+  "ar_mun_2024": 149.891
+ },
+ {
+  "id": 173,
+  "ano": 2024,
+  "fecam": "Amesc",
+  "municipio": "Jacinto Machado",
+  "codigo_ibge": "4208708",
+  "ar_mun_2024": 430.704
+ },
+ {
+  "id": 174,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Imbuia",
+  "codigo_ibge": "4207403",
+  "ar_mun_2024": 119.113
+ },
+ {
+  "id": 175,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Vidal Ramos",
+  "codigo_ibge": "4219200",
+  "ar_mun_2024": 346.932
+ },
+ {
+  "id": 176,
+  "ano": 2024,
+  "fecam": "Amures",
+  "municipio": "Palmeira",
+  "codigo_ibge": "4212056",
+  "ar_mun_2024": 289.097
+ },
+ {
+  "id": 177,
+  "ano": 2024,
+  "fecam": "Amarp",
+  "municipio": "Rio das Antas",
+  "codigo_ibge": "4214409",
+  "ar_mun_2024": 314.913
+ },
+ {
+  "id": 178,
+  "ano": 2024,
+  "fecam": "Amauc",
+  "municipio": "Piratuba",
+  "codigo_ibge": "4213104",
+  "ar_mun_2024": 146.088
+ },
+ {
+  "id": 179,
+  "ano": 2024,
+  "fecam": "Amunesc",
+  "municipio": "São Francisco do Sul",
+  "codigo_ibge": "4216206",
+  "ar_mun_2024": 493.266
+ },
+ {
+  "id": 180,
+  "ano": 2024,
+  "fecam": "Ammoc",
+  "municipio": "Capinzal",
+  "codigo_ibge": "4203907",
+  "ar_mun_2024": 244.326
+ },
+ {
+  "id": 181,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "Garopaba",
+  "codigo_ibge": "4205704",
+  "ar_mun_2024": 114.773
+ },
+ {
+  "id": 182,
+  "ano": 2024,
+  "fecam": "Amplasc",
+  "municipio": "Abdon Batista",
+  "codigo_ibge": "4200051",
+  "ar_mun_2024": 237.517
+ },
+ {
+  "id": 183,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "municipio": "Planalto Alegre",
+  "codigo_ibge": "4213153",
+  "ar_mun_2024": 63.1
+ },
+ {
+  "id": 184,
+  "ano": 2024,
+  "fecam": "Amurel",
+  "municipio": "Capivari de Baixo",
+  "codigo_ibge": "4203956",
+  "ar_mun_2024": 53.222
+ },
+ {
+  "id": 185,
+  "ano": 2024,
+  "fecam": "Amesc",
+  "municipio": "Turvo",
+  "codigo_ibge": "4218806",
+  "ar_mun_2024": 235.104
+ },
+ {
+  "id": 186,
+  "ano": 2024,
+  "fecam": "Ammoc",
+  "municipio": "Lacerdópolis",
+  "codigo_ibge": "4209201",
+  "ar_mun_2024": 69.036
+ },
+ {
+  "id": 187,
+  "ano": 2024,
+  "fecam": "Amauc",
+  "municipio": "Seara",
+  "codigo_ibge": "4217501",
+  "ar_mun_2024": 309.627
+ },
+ {
+  "id": 188,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "municipio": "União do Oeste",
+  "codigo_ibge": "4218855",
+  "ar_mun_2024": 92.857
+ },
+ {
+  "id": 189,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "Angelina",
+  "codigo_ibge": "4200903",
+  "ar_mun_2024": 499.998
+ },
+ {
+  "id": 190,
+  "ano": 2024,
+  "fecam": "AMFRI",
+  "municipio": "Penha",
+  "codigo_ibge": "4212502",
+  "ar_mun_2024": 57.752
+ },
+ {
+  "id": 191,
+  "ano": 2024,
+  "fecam": "Amrec",
+  "municipio": "Morro da Fumaça",
+  "codigo_ibge": "4211207",
+  "ar_mun_2024": 82.878
+ },
+ {
+  "id": 192,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Atalanta",
+  "codigo_ibge": "4201802",
+  "ar_mun_2024": 94.383
+ },
+ {
+  "id": 193,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "municipio": "Coronel Freitas",
+  "codigo_ibge": "4204400",
+  "ar_mun_2024": 232.47
+ },
+ {
+  "id": 194,
+  "ano": 2024,
+  "fecam": "Amerios",
+  "municipio": "Caibi",
+  "codigo_ibge": "4203105",
+  "ar_mun_2024": 173.079
+ },
+ {
+  "id": 195,
+  "ano": 2024,
+  "fecam": "Amnoroeste",
+  "municipio": "Coronel Martins",
+  "codigo_ibge": "4204459",
+  "ar_mun_2024": 107.502
+ },
+ {
+  "id": 196,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "municipio": "Serra Alta",
+  "codigo_ibge": "4217550",
+  "ar_mun_2024": 90.564
+ },
+ {
+  "id": 197,
+  "ano": 2024,
+  "fecam": "Amurel",
+  "municipio": "Gravatal",
+  "codigo_ibge": "4206207",
+  "ar_mun_2024": 165.718
+ },
+ {
+  "id": 198,
+  "ano": 2024,
+  "fecam": "Amurel",
+  "municipio": "Rio Fortuna",
+  "codigo_ibge": "4214904",
+  "ar_mun_2024": 302.39
+ },
+ {
+  "id": 199,
+  "ano": 2024,
+  "fecam": "Amplanorte",
+  "municipio": "Porto União",
+  "codigo_ibge": "4213609",
+  "ar_mun_2024": 848.779
+ },
+ {
+  "id": 200,
+  "ano": 2024,
+  "fecam": "Amurel",
+  "municipio": "São Martinho",
+  "codigo_ibge": "4217105",
+  "ar_mun_2024": 224.566
+ },
+ {
+  "id": 201,
+  "ano": 2024,
+  "fecam": "Amesc",
+  "municipio": "Morro Grande",
+  "codigo_ibge": "4211256",
+  "ar_mun_2024": 260.143
+ },
+ {
+  "id": 202,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "municipio": "Águas de Chapecó",
+  "codigo_ibge": "4200507",
+  "ar_mun_2024": 139.511
+ },
+ {
+  "id": 203,
+  "ano": 2024,
+  "fecam": "Amarp",
+  "municipio": "Calmon",
+  "codigo_ibge": "4203154",
+  "ar_mun_2024": 636.208
+ },
+ {
+  "id": 204,
+  "ano": 2024,
+  "fecam": "Amerios",
+  "municipio": "São Miguel da Boa Vista",
+  "codigo_ibge": "4217154",
+  "ar_mun_2024": 72.755
+ },
+ {
+  "id": 205,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "municipio": "São José do Cedro",
+  "codigo_ibge": "4216701",
+  "ar_mun_2024": 280.76
+ },
+ {
+  "id": 206,
+  "ano": 2024,
+  "fecam": "Amurel",
+  "municipio": "Jaguaruna",
+  "codigo_ibge": "4208807",
+  "ar_mun_2024": 326.362
+ },
+ {
+  "id": 207,
+  "ano": 2024,
+  "fecam": "Amarp",
+  "municipio": "Salto Veloso",
+  "codigo_ibge": "4215406",
+  "ar_mun_2024": 104.974
+ },
+ {
+  "id": 208,
+  "ano": 2024,
+  "fecam": "AMFRI",
+  "municipio": "Ilhota",
+  "codigo_ibge": "4207106",
+  "ar_mun_2024": 253.024
+ },
+ {
+  "id": 209,
+  "ano": 2024,
+  "fecam": "AMVE",
+  "municipio": "Indaial",
+  "codigo_ibge": "4207502",
+  "ar_mun_2024": 430.799
+ },
+ {
+  "id": 210,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "municipio": "Águas Frias",
+  "codigo_ibge": "4200556",
+  "ar_mun_2024": 76.631
+ },
+ {
+  "id": 211,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "Biguaçu",
+  "codigo_ibge": "4202305",
+  "ar_mun_2024": 365.755
+ },
+ {
+  "id": 212,
+  "ano": 2024,
+  "fecam": "Amures",
+  "municipio": "Anita Garibaldi",
+  "codigo_ibge": "4201000",
+  "ar_mun_2024": 589.812
+ },
+ {
+  "id": 213,
+  "ano": 2024,
+  "fecam": "Amurel",
+  "municipio": "Sangão",
+  "codigo_ibge": "4215455",
+  "ar_mun_2024": 82.984
+ },
+ {
+  "id": 214,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "municipio": "Descanso",
+  "codigo_ibge": "4204905",
+  "ar_mun_2024": 287.057
+ },
+ {
+  "id": 215,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Presidente Nereu",
+  "codigo_ibge": "4214102",
+  "ar_mun_2024": 224.748
+ },
+ {
+  "id": 216,
+  "ano": 2024,
+  "fecam": "Amplasc",
+  "municipio": "Campos Novos",
+  "codigo_ibge": "4203600",
+  "ar_mun_2024": 1717.579
+ },
+ {
+  "id": 217,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "municipio": "Itapiranga",
+  "codigo_ibge": "4208401",
+  "ar_mun_2024": 281.782
+ },
+ {
+  "id": 218,
+  "ano": 2024,
+  "fecam": "Amunesc",
+  "municipio": "Itapoá",
+  "codigo_ibge": "4208450",
+  "ar_mun_2024": 245.394
+ },
+ {
+  "id": 219,
+  "ano": 2024,
+  "fecam": "Amesc",
+  "municipio": "Meleiro",
+  "codigo_ibge": "4210803",
+  "ar_mun_2024": 186.439
+ },
+ {
+  "id": 220,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Mirim Doce",
+  "codigo_ibge": "4210852",
+  "ar_mun_2024": 337.991
+ },
+ {
+  "id": 221,
+  "ano": 2024,
+  "fecam": "Amauc",
+  "municipio": "Peritiba",
+  "codigo_ibge": "4212601",
+  "ar_mun_2024": 95.632
+ },
+ {
+  "id": 222,
+  "ano": 2024,
+  "fecam": "AMFRI",
+  "municipio": "Navegantes",
+  "codigo_ibge": "4211306",
+  "ar_mun_2024": 111.377
+ },
+ {
+  "id": 223,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Aurora",
+  "codigo_ibge": "4201901",
+  "ar_mun_2024": 207.045
+ },
+ {
+  "id": 224,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "municipio": "Princesa",
+  "codigo_ibge": "4214151",
+  "ar_mun_2024": 85.598
+ },
+ {
+  "id": 225,
+  "ano": 2024,
+  "fecam": "Ammoc",
+  "municipio": "Herval d'Oeste",
+  "codigo_ibge": "4206702",
+  "ar_mun_2024": 216.581
+ },
+ {
+  "id": 226,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "municipio": "Formosa do Sul",
+  "codigo_ibge": "4205431",
+  "ar_mun_2024": 100.408
+ },
+ {
+  "id": 227,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "Florianópolis",
+  "codigo_ibge": "4205407",
+  "ar_mun_2024": 674.844
+ },
+ {
+  "id": 228,
+  "ano": 2024,
+  "fecam": "Amarp",
+  "municipio": "Ibiam",
+  "codigo_ibge": "4206751",
+  "ar_mun_2024": 146.009
+ },
+ {
+  "id": 229,
+  "ano": 2024,
+  "fecam": "Ammoc",
+  "municipio": "Treze Tílias",
+  "codigo_ibge": "4218509",
+  "ar_mun_2024": 176.927
+ },
+ {
+  "id": 230,
+  "ano": 2024,
+  "fecam": "Amplasc",
+  "municipio": "Zortéa",
+  "codigo_ibge": "4219853",
+  "ar_mun_2024": 190.028
+ },
+ {
+  "id": 231,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "municipio": "São Miguel do Oeste",
+  "codigo_ibge": "4217204",
+  "ar_mun_2024": 233.83
+ },
+ {
+  "id": 232,
+  "ano": 2024,
+  "fecam": "Amesc",
+  "municipio": "Balneário Arroio do Silva",
+  "codigo_ibge": "4201950",
+  "ar_mun_2024": 94.315
+ },
+ {
+  "id": 233,
+  "ano": 2024,
+  "fecam": "Amrec",
+  "municipio": "Forquilhinha",
+  "codigo_ibge": "4205456",
+  "ar_mun_2024": 183.351
+ },
+ {
+  "id": 234,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "municipio": "Caxambu do Sul",
+  "codigo_ibge": "4204103",
+  "ar_mun_2024": 140.873
+ },
+ {
+  "id": 235,
+  "ano": 2024,
+  "fecam": "Amurel",
+  "municipio": "Pescaria Brava",
+  "codigo_ibge": "4212650",
+  "ar_mun_2024": 106.853
+ },
+ {
+  "id": 236,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "São Pedro de Alcântara",
+  "codigo_ibge": "4217253",
+  "ar_mun_2024": 139.196
+ },
+ {
+  "id": 237,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Pouso Redondo",
+  "codigo_ibge": "4213708",
+  "ar_mun_2024": 356.539
+ },
+ {
+  "id": 238,
+  "ano": 2024,
+  "fecam": "Amures",
+  "municipio": "São José do Cerrito",
+  "codigo_ibge": "4216800",
+  "ar_mun_2024": 948.714
+ },
+ {
+  "id": 239,
+  "ano": 2024,
+  "fecam": "Amurc",
+  "municipio": "Santa Cecília",
+  "codigo_ibge": "4215505",
+  "ar_mun_2024": 1145.716
+ },
+ {
+  "id": 240,
+  "ano": 2024,
+  "fecam": "Amurel",
+  "municipio": "Imaruí",
+  "codigo_ibge": "4207205",
+  "ar_mun_2024": 542.238
+ },
+ {
+  "id": 241,
+  "ano": 2024,
+  "fecam": "Amrec",
+  "municipio": "Balneário Rincão",
+  "codigo_ibge": "4220000",
+  "ar_mun_2024": 63.512
+ },
+ {
+  "id": 242,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "Águas Mornas",
+  "codigo_ibge": "4200606",
+  "ar_mun_2024": 326.66
+ },
+ {
+  "id": 243,
+  "ano": 2024,
+  "fecam": "AMFRI",
+  "municipio": "Luiz Alves",
+  "codigo_ibge": "4210001",
+  "ar_mun_2024": 260.106
+ },
+ {
+  "id": 244,
+  "ano": 2024,
+  "fecam": "Amarp",
+  "municipio": "Macieira",
+  "codigo_ibge": "4210050",
+  "ar_mun_2024": 261.208
+ },
+ {
+  "id": 245,
+  "ano": 2024,
+  "fecam": "Amures",
+  "municipio": "Cerro Negro",
+  "codigo_ibge": "4204178",
+  "ar_mun_2024": 418.544
+ },
+ {
+  "id": 246,
+  "ano": 2024,
+  "fecam": "AMVE",
+  "municipio": "Blumenau",
+  "codigo_ibge": "4202404",
+  "ar_mun_2024": 518.635
+ },
+ {
+  "id": 247,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "Anitápolis",
+  "codigo_ibge": "4201109",
+  "ar_mun_2024": 540.636
+ },
+ {
+  "id": 248,
+  "ano": 2024,
+  "fecam": "Amplasc",
+  "municipio": "Celso Ramos",
+  "codigo_ibge": "4204152",
+  "ar_mun_2024": 208.391
+ },
+ {
+  "id": 249,
+  "ano": 2024,
+  "fecam": "Ammoc",
+  "municipio": "Luzerna",
+  "codigo_ibge": "4210035",
+  "ar_mun_2024": 117.099
+ },
+ {
+  "id": 250,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "municipio": "Santa Helena",
+  "codigo_ibge": "4215554",
+  "ar_mun_2024": 81.004
+ },
+ {
+  "id": 251,
+  "ano": 2024,
+  "fecam": "Amures",
+  "municipio": "Bocaina do Sul",
+  "codigo_ibge": "4202438",
+  "ar_mun_2024": 510.673
+ },
+ {
+  "id": 252,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Ituporanga",
+  "codigo_ibge": "4208500",
+  "ar_mun_2024": 336.588
+ },
+ {
+  "id": 253,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Chapadão do Lageado",
+  "codigo_ibge": "4204194",
+  "ar_mun_2024": 124.866
+ },
+ {
+  "id": 254,
+  "ano": 2024,
+  "fecam": "Amrec",
+  "municipio": "Urussanga",
+  "codigo_ibge": "4219002",
+  "ar_mun_2024": 254.954
+ },
+ {
+  "id": 255,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "Leoberto Leal",
+  "codigo_ibge": "4209805",
+  "ar_mun_2024": 293.6
+ },
+ {
+  "id": 256,
+  "ano": 2024,
+  "fecam": "Amerios",
+  "municipio": "Modelo",
+  "codigo_ibge": "4210902",
+  "ar_mun_2024": 92.346
+ },
+ {
+  "id": 257,
+  "ano": 2024,
+  "fecam": "AMFRI",
+  "municipio": "Bombinhas",
+  "codigo_ibge": "4202453",
+  "ar_mun_2024": 35.143
+ },
+ {
+  "id": 258,
+  "ano": 2024,
+  "fecam": "Amnoroeste",
+  "municipio": "Quilombo",
+  "codigo_ibge": "4214201",
+  "ar_mun_2024": 278.983
+ },
+ {
+  "id": 259,
+  "ano": 2024,
+  "fecam": "Ammoc",
+  "municipio": "Ouro",
+  "codigo_ibge": "4211801",
+  "ar_mun_2024": 213.543
+ },
+ {
+  "id": 260,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "Canelinha",
+  "codigo_ibge": "4203709",
+  "ar_mun_2024": 150.904
+ },
+ {
+  "id": 261,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "municipio": "São Carlos",
+  "codigo_ibge": "4216008",
+  "ar_mun_2024": 162.12
+ },
+ {
+  "id": 262,
+  "ano": 2024,
+  "fecam": "Ammoc",
+  "municipio": "Ibicaré",
+  "codigo_ibge": "4206801",
+  "ar_mun_2024": 156.231
+ },
+ {
+  "id": 263,
+  "ano": 2024,
+  "fecam": "Amarp",
+  "municipio": "Fraiburgo",
+  "codigo_ibge": "4205506",
+  "ar_mun_2024": 549.188
+ },
+ {
+  "id": 264,
+  "ano": 2024,
+  "fecam": "Amauc",
+  "municipio": "Lindóia do Sul",
+  "codigo_ibge": "4209854",
+  "ar_mun_2024": 190.171
+ },
+ {
+  "id": 265,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "municipio": "Paial",
+  "codigo_ibge": "4211876",
+  "ar_mun_2024": 86.048
+ },
+ {
+  "id": 266,
+  "ano": 2024,
+  "fecam": "Amerios",
+  "municipio": "Maravilha",
+  "codigo_ibge": "4210506",
+  "ar_mun_2024": 170.339
+ },
+ {
+  "id": 267,
+  "ano": 2024,
+  "fecam": "Amai",
+  "municipio": "Ouro Verde",
+  "codigo_ibge": "4211850",
+  "ar_mun_2024": 188.568
+ },
+ {
+  "id": 268,
+  "ano": 2024,
+  "fecam": "Amurc",
+  "municipio": "Frei Rogério",
+  "codigo_ibge": "4205555",
+  "ar_mun_2024": 158.775
+ },
+ {
+  "id": 269,
+  "ano": 2024,
+  "fecam": "Amures",
+  "municipio": "Painel",
+  "codigo_ibge": "4211892",
+  "ar_mun_2024": 738.331
+ },
+ {
+  "id": 270,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "municipio": "Barra Bonita",
+  "codigo_ibge": "4202099",
+  "ar_mun_2024": 92.934
+ },
+ {
+  "id": 271,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Trombudo Central",
+  "codigo_ibge": "4218608",
+  "ar_mun_2024": 109.648
+ },
+ {
+  "id": 272,
+  "ano": 2024,
+  "fecam": "Ammoc",
+  "municipio": "Joaçaba",
+  "codigo_ibge": "4209003",
+  "ar_mun_2024": 241.637
+ },
+ {
+  "id": 273,
+  "ano": 2024,
+  "fecam": "Amerios",
+  "municipio": "Saudades",
+  "codigo_ibge": "4217303",
+  "ar_mun_2024": 205.781
+ },
+ {
+  "id": 274,
+  "ano": 2024,
+  "fecam": "Amai",
+  "municipio": "Marema",
+  "codigo_ibge": "4210555",
+  "ar_mun_2024": 104.184
+ },
+ {
+  "id": 275,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "Paulo Lopes",
+  "codigo_ibge": "4212304",
+  "ar_mun_2024": 446.165
+ },
+ {
+  "id": 276,
+  "ano": 2024,
+  "fecam": "AMVE",
+  "municipio": "Doutor Pedrinho",
+  "codigo_ibge": "4205159",
+  "ar_mun_2024": 374.205
+ },
+ {
+  "id": 277,
+  "ano": 2024,
+  "fecam": "AMVE",
+  "municipio": "Brusque",
+  "codigo_ibge": "4202909",
+  "ar_mun_2024": 284.675
+ },
+ {
+  "id": 278,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "municipio": "Mondaí",
+  "codigo_ibge": "4211009",
+  "ar_mun_2024": 200.276
+ },
+ {
+  "id": 279,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "municipio": "Chapecó",
+  "codigo_ibge": "4204202",
+  "ar_mun_2024": 624.673
+ },
+ {
+  "id": 280,
+  "ano": 2024,
+  "fecam": "Amarp",
+  "municipio": "Arroio Trinta",
+  "codigo_ibge": "4201604",
+  "ar_mun_2024": 93.53
+ },
+ {
+  "id": 281,
+  "ano": 2024,
+  "fecam": "Amrec",
+  "municipio": "Cocal do Sul",
+  "codigo_ibge": "4204251",
+  "ar_mun_2024": 70.965
+ },
+ {
+  "id": 282,
+  "ano": 2024,
+  "fecam": "Amesc",
+  "municipio": "Ermo",
+  "codigo_ibge": "4205191",
+  "ar_mun_2024": 65.311
+ },
+ {
+  "id": 283,
+  "ano": 2024,
+  "fecam": "AMVE",
+  "municipio": "Rio dos Cedros",
+  "codigo_ibge": "4214706",
+  "ar_mun_2024": 555.473
+ },
+ {
+  "id": 284,
+  "ano": 2024,
+  "fecam": "Amai",
+  "municipio": "Ponte Serrada",
+  "codigo_ibge": "4213401",
+  "ar_mun_2024": 560.731
+ },
+ {
+  "id": 285,
+  "ano": 2024,
+  "fecam": "AMVE",
+  "municipio": "Timbó",
+  "codigo_ibge": "4218202",
+  "ar_mun_2024": 128.313
+ },
+ {
+  "id": 286,
+  "ano": 2024,
+  "fecam": "Amarp",
+  "municipio": "Timbó Grande",
+  "codigo_ibge": "4218251",
+  "ar_mun_2024": 596.344
+ },
+ {
+  "id": 287,
+  "ano": 2024,
+  "fecam": "Amai",
+  "municipio": "Entre Rios",
+  "codigo_ibge": "4205175",
+  "ar_mun_2024": 103.838
+ },
+ {
+  "id": 288,
+  "ano": 2024,
+  "fecam": "Amplasc",
+  "municipio": "Monte Carlo",
+  "codigo_ibge": "4211058",
+  "ar_mun_2024": 191.278
+ },
+ {
+  "id": 289,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Agronômica",
+  "codigo_ibge": "4200309",
+  "ar_mun_2024": 129.774
+ },
+ {
+  "id": 290,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "municipio": "Arvoredo",
+  "codigo_ibge": "4201653",
+  "ar_mun_2024": 90.503
+ },
+ {
+  "id": 291,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "municipio": "Lontras",
+  "codigo_ibge": "4209904",
+  "ar_mun_2024": 197.586
+ },
+ {
+  "id": 292,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "municipio": "Palhoça",
+  "codigo_ibge": "4211900",
+  "ar_mun_2024": 394.85
+ },
+ {
+  "id": 293,
+  "ano": 2024,
+  "fecam": "Amauc",
+  "municipio": "Jaborá",
+  "codigo_ibge": "4208609",
+  "ar_mun_2024": 182.483
+ },
+ {
+  "id": 294,
+  "ano": 2024,
+  "fecam": "Amures",
+  "municipio": "São Joaquim",
+  "codigo_ibge": "4216503",
+  "ar_mun_2024": 1888.634
+ },
+ {
+  "id": 295,
+  "ano": 2024,
+  "fecam": "Amerios",
+  "municipio": "Romelândia",
+  "codigo_ibge": "4215208",
+  "ar_mun_2024": 223.333
+ }
+]
