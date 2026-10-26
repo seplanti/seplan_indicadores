@@ -1,0 +1,1477 @@
+[
+ {
+  "codigo_ibge": "4200051",
+  "municipio": "Abdon Batista",
+  "fecam": "Amplasc"
+ },
+ {
+  "codigo_ibge": "4200101",
+  "municipio": "Abelardo Luz",
+  "fecam": "Amai"
+ },
+ {
+  "codigo_ibge": "4200200",
+  "municipio": "Agrolândia",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4200309",
+  "municipio": "Agronômica",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4200408",
+  "municipio": "Água Doce",
+  "fecam": "Ammoc"
+ },
+ {
+  "codigo_ibge": "4200507",
+  "municipio": "Águas de Chapecó",
+  "fecam": "Amosc"
+ },
+ {
+  "codigo_ibge": "4200556",
+  "municipio": "Águas Frias",
+  "fecam": "Amosc"
+ },
+ {
+  "codigo_ibge": "4200606",
+  "municipio": "Águas Mornas",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4200705",
+  "municipio": "Alfredo Wagner",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4200754",
+  "municipio": "Alto Bela Vista",
+  "fecam": "Amauc"
+ },
+ {
+  "codigo_ibge": "4200804",
+  "municipio": "Anchieta",
+  "fecam": "Ameosc"
+ },
+ {
+  "codigo_ibge": "4200903",
+  "municipio": "Angelina",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4201000",
+  "municipio": "Anita Garibaldi",
+  "fecam": "Amures"
+ },
+ {
+  "codigo_ibge": "4201109",
+  "municipio": "Anitápolis",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4201208",
+  "municipio": "Antônio Carlos",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4201257",
+  "municipio": "Apiúna",
+  "fecam": "AMVE"
+ },
+ {
+  "codigo_ibge": "4201273",
+  "municipio": "Arabutã",
+  "fecam": "Amauc"
+ },
+ {
+  "codigo_ibge": "4201307",
+  "municipio": "Araquari",
+  "fecam": "Amunesc"
+ },
+ {
+  "codigo_ibge": "4201406",
+  "municipio": "Araranguá",
+  "fecam": "Amesc"
+ },
+ {
+  "codigo_ibge": "4201505",
+  "municipio": "Armazém",
+  "fecam": "Amurel"
+ },
+ {
+  "codigo_ibge": "4201604",
+  "municipio": "Arroio Trinta",
+  "fecam": "Amarp"
+ },
+ {
+  "codigo_ibge": "4201653",
+  "municipio": "Arvoredo",
+  "fecam": "Amosc"
+ },
+ {
+  "codigo_ibge": "4201703",
+  "municipio": "Ascurra",
+  "fecam": "AMVE"
+ },
+ {
+  "codigo_ibge": "4201802",
+  "municipio": "Atalanta",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4201901",
+  "municipio": "Aurora",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4201950",
+  "municipio": "Balneário Arroio do Silva",
+  "fecam": "Amesc"
+ },
+ {
+  "codigo_ibge": "4202008",
+  "municipio": "Balneário Camboriú",
+  "fecam": "AMFRI"
+ },
+ {
+  "codigo_ibge": "4202057",
+  "municipio": "Balneário Barra do Sul",
+  "fecam": "Amunesc"
+ },
+ {
+  "codigo_ibge": "4202073",
+  "municipio": "Balneário Gaivota",
+  "fecam": "Amesc"
+ },
+ {
+  "codigo_ibge": "4202081",
+  "municipio": "Bandeirante",
+  "fecam": "Ameosc"
+ },
+ {
+  "codigo_ibge": "4202099",
+  "municipio": "Barra Bonita",
+  "fecam": "Ameosc"
+ },
+ {
+  "codigo_ibge": "4202107",
+  "municipio": "Barra Velha",
+  "fecam": "AMVALI"
+ },
+ {
+  "codigo_ibge": "4202131",
+  "municipio": "Bela Vista do Toldo",
+  "fecam": "Amplanorte"
+ },
+ {
+  "codigo_ibge": "4202156",
+  "municipio": "Belmonte",
+  "fecam": "Ameosc"
+ },
+ {
+  "codigo_ibge": "4202206",
+  "municipio": "Benedito Novo",
+  "fecam": "AMVE"
+ },
+ {
+  "codigo_ibge": "4202305",
+  "municipio": "Biguaçu",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4202404",
+  "municipio": "Blumenau",
+  "fecam": "AMVE"
+ },
+ {
+  "codigo_ibge": "4202438",
+  "municipio": "Bocaina do Sul",
+  "fecam": "Amures"
+ },
+ {
+  "codigo_ibge": "4202453",
+  "municipio": "Bombinhas",
+  "fecam": "AMFRI"
+ },
+ {
+  "codigo_ibge": "4202503",
+  "municipio": "Bom Jardim da Serra",
+  "fecam": "Amures"
+ },
+ {
+  "codigo_ibge": "4202537",
+  "municipio": "Bom Jesus",
+  "fecam": "Amai"
+ },
+ {
+  "codigo_ibge": "4202578",
+  "municipio": "Bom Jesus do Oeste",
+  "fecam": "Amerios"
+ },
+ {
+  "codigo_ibge": "4202602",
+  "municipio": "Bom Retiro",
+  "fecam": "Amures"
+ },
+ {
+  "codigo_ibge": "4202701",
+  "municipio": "Botuverá",
+  "fecam": "AMVE"
+ },
+ {
+  "codigo_ibge": "4202800",
+  "municipio": "Braço do Norte",
+  "fecam": "Amurel"
+ },
+ {
+  "codigo_ibge": "4202859",
+  "municipio": "Braço do Trombudo",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4202875",
+  "municipio": "Brunópolis",
+  "fecam": "Amplasc"
+ },
+ {
+  "codigo_ibge": "4202909",
+  "municipio": "Brusque",
+  "fecam": "AMVE"
+ },
+ {
+  "codigo_ibge": "4203006",
+  "municipio": "Caçador",
+  "fecam": "Amarp"
+ },
+ {
+  "codigo_ibge": "4203105",
+  "municipio": "Caibi",
+  "fecam": "Amerios"
+ },
+ {
+  "codigo_ibge": "4203154",
+  "municipio": "Calmon",
+  "fecam": "Amarp"
+ },
+ {
+  "codigo_ibge": "4203204",
+  "municipio": "Camboriú",
+  "fecam": "AMFRI"
+ },
+ {
+  "codigo_ibge": "4203253",
+  "municipio": "Capão Alto",
+  "fecam": "Amures"
+ },
+ {
+  "codigo_ibge": "4203303",
+  "municipio": "Campo Alegre",
+  "fecam": "Amunesc"
+ },
+ {
+  "codigo_ibge": "4203402",
+  "municipio": "Campo Belo do Sul",
+  "fecam": "Amures"
+ },
+ {
+  "codigo_ibge": "4203501",
+  "municipio": "Campo Erê",
+  "fecam": "Amerios"
+ },
+ {
+  "codigo_ibge": "4203600",
+  "municipio": "Campos Novos",
+  "fecam": "Amplasc"
+ },
+ {
+  "codigo_ibge": "4203709",
+  "municipio": "Canelinha",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4203808",
+  "municipio": "Canoinhas",
+  "fecam": "Amplanorte"
+ },
+ {
+  "codigo_ibge": "4203907",
+  "municipio": "Capinzal",
+  "fecam": "Ammoc"
+ },
+ {
+  "codigo_ibge": "4203956",
+  "municipio": "Capivari de Baixo",
+  "fecam": "Amurel"
+ },
+ {
+  "codigo_ibge": "4204004",
+  "municipio": "Catanduvas",
+  "fecam": "Ammoc"
+ },
+ {
+  "codigo_ibge": "4204103",
+  "municipio": "Caxambu do Sul",
+  "fecam": "Amosc"
+ },
+ {
+  "codigo_ibge": "4204152",
+  "municipio": "Celso Ramos",
+  "fecam": "Amplasc"
+ },
+ {
+  "codigo_ibge": "4204178",
+  "municipio": "Cerro Negro",
+  "fecam": "Amures"
+ },
+ {
+  "codigo_ibge": "4204194",
+  "municipio": "Chapadão do Lageado",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4204202",
+  "municipio": "Chapecó",
+  "fecam": "Amosc"
+ },
+ {
+  "codigo_ibge": "4204251",
+  "municipio": "Cocal do Sul",
+  "fecam": "Amrec"
+ },
+ {
+  "codigo_ibge": "4204301",
+  "municipio": "Concórdia",
+  "fecam": "Amauc"
+ },
+ {
+  "codigo_ibge": "4204350",
+  "municipio": "Cordilheira Alta",
+  "fecam": "Amosc"
+ },
+ {
+  "codigo_ibge": "4204400",
+  "municipio": "Coronel Freitas",
+  "fecam": "Amosc"
+ },
+ {
+  "codigo_ibge": "4204459",
+  "municipio": "Coronel Martins",
+  "fecam": "Amnoroeste"
+ },
+ {
+  "codigo_ibge": "4204509",
+  "municipio": "Corupá",
+  "fecam": "AMVALI"
+ },
+ {
+  "codigo_ibge": "4204558",
+  "municipio": "Correia Pinto",
+  "fecam": "Amures"
+ },
+ {
+  "codigo_ibge": "4204608",
+  "municipio": "Criciúma",
+  "fecam": "Amrec"
+ },
+ {
+  "codigo_ibge": "4204707",
+  "municipio": "Cunha Porã",
+  "fecam": "Amerios"
+ },
+ {
+  "codigo_ibge": "4204756",
+  "municipio": "Cunhataí",
+  "fecam": "Amerios"
+ },
+ {
+  "codigo_ibge": "4204806",
+  "municipio": "Curitibanos",
+  "fecam": "Amurc"
+ },
+ {
+  "codigo_ibge": "4204905",
+  "municipio": "Descanso",
+  "fecam": "Ameosc"
+ },
+ {
+  "codigo_ibge": "4205001",
+  "municipio": "Dionísio Cerqueira",
+  "fecam": "Ameosc"
+ },
+ {
+  "codigo_ibge": "4205100",
+  "municipio": "Dona Emma",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4205159",
+  "municipio": "Doutor Pedrinho",
+  "fecam": "AMVE"
+ },
+ {
+  "codigo_ibge": "4205175",
+  "municipio": "Entre Rios",
+  "fecam": "Amai"
+ },
+ {
+  "codigo_ibge": "4205191",
+  "municipio": "Ermo",
+  "fecam": "Amesc"
+ },
+ {
+  "codigo_ibge": "4205209",
+  "municipio": "Erval Velho",
+  "fecam": "Ammoc"
+ },
+ {
+  "codigo_ibge": "4205308",
+  "municipio": "Faxinal dos Guedes",
+  "fecam": "Amai"
+ },
+ {
+  "codigo_ibge": "4205357",
+  "municipio": "Flor do Sertão",
+  "fecam": "Amerios"
+ },
+ {
+  "codigo_ibge": "4205407",
+  "municipio": "Florianópolis",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4205431",
+  "municipio": "Formosa do Sul",
+  "fecam": "Amosc"
+ },
+ {
+  "codigo_ibge": "4205456",
+  "municipio": "Forquilhinha",
+  "fecam": "Amrec"
+ },
+ {
+  "codigo_ibge": "4205506",
+  "municipio": "Fraiburgo",
+  "fecam": "Amarp"
+ },
+ {
+  "codigo_ibge": "4205555",
+  "municipio": "Frei Rogério",
+  "fecam": "Amurc"
+ },
+ {
+  "codigo_ibge": "4205605",
+  "municipio": "Galvão",
+  "fecam": "Amnoroeste"
+ },
+ {
+  "codigo_ibge": "4205704",
+  "municipio": "Garopaba",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4205803",
+  "municipio": "Garuva",
+  "fecam": "Amunesc"
+ },
+ {
+  "codigo_ibge": "4205902",
+  "municipio": "Gaspar",
+  "fecam": "AMVE"
+ },
+ {
+  "codigo_ibge": "4206009",
+  "municipio": "Governador Celso Ramos",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4206108",
+  "municipio": "Grão-Pará",
+  "fecam": "Amurel"
+ },
+ {
+  "codigo_ibge": "4206207",
+  "municipio": "Gravatal",
+  "fecam": "Amurel"
+ },
+ {
+  "codigo_ibge": "4206306",
+  "municipio": "Guabiruba",
+  "fecam": "AMVE"
+ },
+ {
+  "codigo_ibge": "4206405",
+  "municipio": "Guaraciaba",
+  "fecam": "Ameosc"
+ },
+ {
+  "codigo_ibge": "4206504",
+  "municipio": "Guaramirim",
+  "fecam": "AMVALI"
+ },
+ {
+  "codigo_ibge": "4206603",
+  "municipio": "Guarujá do Sul",
+  "fecam": "Ameosc"
+ },
+ {
+  "codigo_ibge": "4206652",
+  "municipio": "Guatambú",
+  "fecam": "Amosc"
+ },
+ {
+  "codigo_ibge": "4206702",
+  "municipio": "Herval d'Oeste",
+  "fecam": "Ammoc"
+ },
+ {
+  "codigo_ibge": "4206751",
+  "municipio": "Ibiam",
+  "fecam": "Amarp"
+ },
+ {
+  "codigo_ibge": "4206801",
+  "municipio": "Ibicaré",
+  "fecam": "Ammoc"
+ },
+ {
+  "codigo_ibge": "4206900",
+  "municipio": "Ibirama",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4207007",
+  "municipio": "Içara",
+  "fecam": "Amrec"
+ },
+ {
+  "codigo_ibge": "4207106",
+  "municipio": "Ilhota",
+  "fecam": "AMFRI"
+ },
+ {
+  "codigo_ibge": "4207205",
+  "municipio": "Imaruí",
+  "fecam": "Amurel"
+ },
+ {
+  "codigo_ibge": "4207304",
+  "municipio": "Imbituba",
+  "fecam": "Amurel"
+ },
+ {
+  "codigo_ibge": "4207403",
+  "municipio": "Imbuia",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4207502",
+  "municipio": "Indaial",
+  "fecam": "AMVE"
+ },
+ {
+  "codigo_ibge": "4207577",
+  "municipio": "Iomerê",
+  "fecam": "Amarp"
+ },
+ {
+  "codigo_ibge": "4207601",
+  "municipio": "Ipira",
+  "fecam": "Amauc"
+ },
+ {
+  "codigo_ibge": "4207650",
+  "municipio": "Iporã do Oeste",
+  "fecam": "Ameosc"
+ },
+ {
+  "codigo_ibge": "4207684",
+  "municipio": "Ipuaçu",
+  "fecam": "Amai"
+ },
+ {
+  "codigo_ibge": "4207700",
+  "municipio": "Ipumirim",
+  "fecam": "Amauc"
+ },
+ {
+  "codigo_ibge": "4207759",
+  "municipio": "Iraceminha",
+  "fecam": "Amerios"
+ },
+ {
+  "codigo_ibge": "4207809",
+  "municipio": "Irani",
+  "fecam": "Amauc"
+ },
+ {
+  "codigo_ibge": "4207858",
+  "municipio": "Irati",
+  "fecam": "Amnoroeste"
+ },
+ {
+  "codigo_ibge": "4207908",
+  "municipio": "Irineópolis",
+  "fecam": "Amplanorte"
+ },
+ {
+  "codigo_ibge": "4208005",
+  "municipio": "Itá",
+  "fecam": "Amauc"
+ },
+ {
+  "codigo_ibge": "4208104",
+  "municipio": "Itaiópolis",
+  "fecam": "Amplanorte"
+ },
+ {
+  "codigo_ibge": "4208203",
+  "municipio": "Itajaí",
+  "fecam": "AMFRI"
+ },
+ {
+  "codigo_ibge": "4208302",
+  "municipio": "Itapema",
+  "fecam": "AMFRI"
+ },
+ {
+  "codigo_ibge": "4208401",
+  "municipio": "Itapiranga",
+  "fecam": "Ameosc"
+ },
+ {
+  "codigo_ibge": "4208450",
+  "municipio": "Itapoá",
+  "fecam": "Amunesc"
+ },
+ {
+  "codigo_ibge": "4208500",
+  "municipio": "Ituporanga",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4208609",
+  "municipio": "Jaborá",
+  "fecam": "Amauc"
+ },
+ {
+  "codigo_ibge": "4208708",
+  "municipio": "Jacinto Machado",
+  "fecam": "Amesc"
+ },
+ {
+  "codigo_ibge": "4208807",
+  "municipio": "Jaguaruna",
+  "fecam": "Amurel"
+ },
+ {
+  "codigo_ibge": "4208906",
+  "municipio": "Jaraguá do Sul",
+  "fecam": "AMVALI"
+ },
+ {
+  "codigo_ibge": "4208955",
+  "municipio": "Jardinópolis",
+  "fecam": "Amosc"
+ },
+ {
+  "codigo_ibge": "4209003",
+  "municipio": "Joaçaba",
+  "fecam": "Ammoc"
+ },
+ {
+  "codigo_ibge": "4209102",
+  "municipio": "Joinville",
+  "fecam": "Amunesc"
+ },
+ {
+  "codigo_ibge": "4209151",
+  "municipio": "José Boiteux",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4209177",
+  "municipio": "Jupiá",
+  "fecam": "Amnoroeste"
+ },
+ {
+  "codigo_ibge": "4209201",
+  "municipio": "Lacerdópolis",
+  "fecam": "Ammoc"
+ },
+ {
+  "codigo_ibge": "4209300",
+  "municipio": "Lages",
+  "fecam": "Amures"
+ },
+ {
+  "codigo_ibge": "4209409",
+  "municipio": "Laguna",
+  "fecam": "Amurel"
+ },
+ {
+  "codigo_ibge": "4209458",
+  "municipio": "Lajeado Grande",
+  "fecam": "Amai"
+ },
+ {
+  "codigo_ibge": "4209508",
+  "municipio": "Laurentino",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4209607",
+  "municipio": "Lauro Müller",
+  "fecam": "Amrec"
+ },
+ {
+  "codigo_ibge": "4209706",
+  "municipio": "Lebon Régis",
+  "fecam": "Amarp"
+ },
+ {
+  "codigo_ibge": "4209805",
+  "municipio": "Leoberto Leal",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4209854",
+  "municipio": "Lindóia do Sul",
+  "fecam": "Amauc"
+ },
+ {
+  "codigo_ibge": "4209904",
+  "municipio": "Lontras",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4210001",
+  "municipio": "Luiz Alves",
+  "fecam": "AMFRI"
+ },
+ {
+  "codigo_ibge": "4210035",
+  "municipio": "Luzerna",
+  "fecam": "Ammoc"
+ },
+ {
+  "codigo_ibge": "4210050",
+  "municipio": "Macieira",
+  "fecam": "Amarp"
+ },
+ {
+  "codigo_ibge": "4210100",
+  "municipio": "Mafra",
+  "fecam": "Amplanorte"
+ },
+ {
+  "codigo_ibge": "4210209",
+  "municipio": "Major Gercino",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4210308",
+  "municipio": "Major Vieira",
+  "fecam": "Amplanorte"
+ },
+ {
+  "codigo_ibge": "4210407",
+  "municipio": "Maracajá",
+  "fecam": "Amesc"
+ },
+ {
+  "codigo_ibge": "4210506",
+  "municipio": "Maravilha",
+  "fecam": "Amerios"
+ },
+ {
+  "codigo_ibge": "4210555",
+  "municipio": "Marema",
+  "fecam": "Amai"
+ },
+ {
+  "codigo_ibge": "4210605",
+  "municipio": "Massaranduba",
+  "fecam": "AMVALI"
+ },
+ {
+  "codigo_ibge": "4210704",
+  "municipio": "Matos Costa",
+  "fecam": "Amarp"
+ },
+ {
+  "codigo_ibge": "4210803",
+  "municipio": "Meleiro",
+  "fecam": "Amesc"
+ },
+ {
+  "codigo_ibge": "4210852",
+  "municipio": "Mirim Doce",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4210902",
+  "municipio": "Modelo",
+  "fecam": "Amerios"
+ },
+ {
+  "codigo_ibge": "4211009",
+  "municipio": "Mondaí",
+  "fecam": "Ameosc"
+ },
+ {
+  "codigo_ibge": "4211058",
+  "municipio": "Monte Carlo",
+  "fecam": "Amplasc"
+ },
+ {
+  "codigo_ibge": "4211108",
+  "municipio": "Monte Castelo",
+  "fecam": "Amplanorte"
+ },
+ {
+  "codigo_ibge": "4211207",
+  "municipio": "Morro da Fumaça",
+  "fecam": "Amrec"
+ },
+ {
+  "codigo_ibge": "4211256",
+  "municipio": "Morro Grande",
+  "fecam": "Amesc"
+ },
+ {
+  "codigo_ibge": "4211306",
+  "municipio": "Navegantes",
+  "fecam": "AMFRI"
+ },
+ {
+  "codigo_ibge": "4211405",
+  "municipio": "Nova Erechim",
+  "fecam": "Amosc"
+ },
+ {
+  "codigo_ibge": "4211454",
+  "municipio": "Nova Itaberaba",
+  "fecam": "Amosc"
+ },
+ {
+  "codigo_ibge": "4211504",
+  "municipio": "Nova Trento",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4211603",
+  "municipio": "Nova Veneza",
+  "fecam": "Amrec"
+ },
+ {
+  "codigo_ibge": "4211652",
+  "municipio": "Novo Horizonte",
+  "fecam": "Amnoroeste"
+ },
+ {
+  "codigo_ibge": "4211702",
+  "municipio": "Orleans",
+  "fecam": "Amrec"
+ },
+ {
+  "codigo_ibge": "4211751",
+  "municipio": "Otacílio Costa",
+  "fecam": "Amures"
+ },
+ {
+  "codigo_ibge": "4211801",
+  "municipio": "Ouro",
+  "fecam": "Ammoc"
+ },
+ {
+  "codigo_ibge": "4211850",
+  "municipio": "Ouro Verde",
+  "fecam": "Amai"
+ },
+ {
+  "codigo_ibge": "4211876",
+  "municipio": "Paial",
+  "fecam": "Amosc"
+ },
+ {
+  "codigo_ibge": "4211892",
+  "municipio": "Painel",
+  "fecam": "Amures"
+ },
+ {
+  "codigo_ibge": "4211900",
+  "municipio": "Palhoça",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4212007",
+  "municipio": "Palma Sola",
+  "fecam": "Ameosc"
+ },
+ {
+  "codigo_ibge": "4212056",
+  "municipio": "Palmeira",
+  "fecam": "Amures"
+ },
+ {
+  "codigo_ibge": "4212106",
+  "municipio": "Palmitos",
+  "fecam": "Amerios"
+ },
+ {
+  "codigo_ibge": "4212205",
+  "municipio": "Papanduva",
+  "fecam": "Amplanorte"
+ },
+ {
+  "codigo_ibge": "4212239",
+  "municipio": "Paraíso",
+  "fecam": "Ameosc"
+ },
+ {
+  "codigo_ibge": "4212254",
+  "municipio": "Passo de Torres",
+  "fecam": "Amesc"
+ },
+ {
+  "codigo_ibge": "4212270",
+  "municipio": "Passos Maia",
+  "fecam": "Amai"
+ },
+ {
+  "codigo_ibge": "4212304",
+  "municipio": "Paulo Lopes",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4212403",
+  "municipio": "Pedras Grandes",
+  "fecam": "Amurel"
+ },
+ {
+  "codigo_ibge": "4212502",
+  "municipio": "Penha",
+  "fecam": "AMFRI"
+ },
+ {
+  "codigo_ibge": "4212601",
+  "municipio": "Peritiba",
+  "fecam": "Amauc"
+ },
+ {
+  "codigo_ibge": "4212650",
+  "municipio": "Pescaria Brava",
+  "fecam": "Amurel"
+ },
+ {
+  "codigo_ibge": "4212700",
+  "municipio": "Petrolândia",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4212809",
+  "municipio": "Balneário Piçarras",
+  "fecam": "AMFRI"
+ },
+ {
+  "codigo_ibge": "4212908",
+  "municipio": "Pinhalzinho",
+  "fecam": "Amosc"
+ },
+ {
+  "codigo_ibge": "4213005",
+  "municipio": "Pinheiro Preto",
+  "fecam": "Amarp"
+ },
+ {
+  "codigo_ibge": "4213104",
+  "municipio": "Piratuba",
+  "fecam": "Amauc"
+ },
+ {
+  "codigo_ibge": "4213153",
+  "municipio": "Planalto Alegre",
+  "fecam": "Amosc"
+ },
+ {
+  "codigo_ibge": "4213203",
+  "municipio": "Pomerode",
+  "fecam": "AMVE"
+ },
+ {
+  "codigo_ibge": "4213302",
+  "municipio": "Ponte Alta",
+  "fecam": "Amures"
+ },
+ {
+  "codigo_ibge": "4213351",
+  "municipio": "Ponte Alta do Norte",
+  "fecam": "Amurc"
+ },
+ {
+  "codigo_ibge": "4213401",
+  "municipio": "Ponte Serrada",
+  "fecam": "Amai"
+ },
+ {
+  "codigo_ibge": "4213500",
+  "municipio": "Porto Belo",
+  "fecam": "AMFRI"
+ },
+ {
+  "codigo_ibge": "4213609",
+  "municipio": "Porto União",
+  "fecam": "Amplanorte"
+ },
+ {
+  "codigo_ibge": "4213708",
+  "municipio": "Pouso Redondo",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4213807",
+  "municipio": "Praia Grande",
+  "fecam": "Amesc"
+ },
+ {
+  "codigo_ibge": "4213906",
+  "municipio": "Presidente Castello Branco",
+  "fecam": "Amauc"
+ },
+ {
+  "codigo_ibge": "4214003",
+  "municipio": "Presidente Getúlio",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4214102",
+  "municipio": "Presidente Nereu",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4214151",
+  "municipio": "Princesa",
+  "fecam": "Ameosc"
+ },
+ {
+  "codigo_ibge": "4214201",
+  "municipio": "Quilombo",
+  "fecam": "Amnoroeste"
+ },
+ {
+  "codigo_ibge": "4214300",
+  "municipio": "Rancho Queimado",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4214409",
+  "municipio": "Rio das Antas",
+  "fecam": "Amarp"
+ },
+ {
+  "codigo_ibge": "4214508",
+  "municipio": "Rio do Campo",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4214607",
+  "municipio": "Rio do Oeste",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4214706",
+  "municipio": "Rio dos Cedros",
+  "fecam": "AMVE"
+ },
+ {
+  "codigo_ibge": "4214805",
+  "municipio": "Rio do Sul",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4214904",
+  "municipio": "Rio Fortuna",
+  "fecam": "Amurel"
+ },
+ {
+  "codigo_ibge": "4215000",
+  "municipio": "Rio Negrinho",
+  "fecam": "Amunesc"
+ },
+ {
+  "codigo_ibge": "4215059",
+  "municipio": "Rio Rufino",
+  "fecam": "Amures"
+ },
+ {
+  "codigo_ibge": "4215075",
+  "municipio": "Riqueza",
+  "fecam": "Amerios"
+ },
+ {
+  "codigo_ibge": "4215109",
+  "municipio": "Rodeio",
+  "fecam": "AMVE"
+ },
+ {
+  "codigo_ibge": "4215208",
+  "municipio": "Romelândia",
+  "fecam": "Amerios"
+ },
+ {
+  "codigo_ibge": "4215307",
+  "municipio": "Salete",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4215356",
+  "municipio": "Saltinho",
+  "fecam": "Amerios"
+ },
+ {
+  "codigo_ibge": "4215406",
+  "municipio": "Salto Veloso",
+  "fecam": "Amarp"
+ },
+ {
+  "codigo_ibge": "4215455",
+  "municipio": "Sangão",
+  "fecam": "Amurel"
+ },
+ {
+  "codigo_ibge": "4215505",
+  "municipio": "Santa Cecília",
+  "fecam": "Amurc"
+ },
+ {
+  "codigo_ibge": "4215554",
+  "municipio": "Santa Helena",
+  "fecam": "Ameosc"
+ },
+ {
+  "codigo_ibge": "4215604",
+  "municipio": "Santa Rosa de Lima",
+  "fecam": "Amurel"
+ },
+ {
+  "codigo_ibge": "4215653",
+  "municipio": "Santa Rosa do Sul",
+  "fecam": "Amesc"
+ },
+ {
+  "codigo_ibge": "4215679",
+  "municipio": "Santa Terezinha",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4215687",
+  "municipio": "Santa Terezinha do Progresso",
+  "fecam": "Amerios"
+ },
+ {
+  "codigo_ibge": "4215695",
+  "municipio": "Santiago do Sul",
+  "fecam": "Amosc"
+ },
+ {
+  "codigo_ibge": "4215703",
+  "municipio": "Santo Amaro da Imperatriz",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4215752",
+  "municipio": "São Bernardino",
+  "fecam": "Amnoroeste"
+ },
+ {
+  "codigo_ibge": "4215802",
+  "municipio": "São Bento do Sul",
+  "fecam": "Amunesc"
+ },
+ {
+  "codigo_ibge": "4215901",
+  "municipio": "São Bonifácio",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4216008",
+  "municipio": "São Carlos",
+  "fecam": "Amosc"
+ },
+ {
+  "codigo_ibge": "4216057",
+  "municipio": "São Cristóvão do Sul",
+  "fecam": "Amurc"
+ },
+ {
+  "codigo_ibge": "4216107",
+  "municipio": "São Domingos",
+  "fecam": "Amai"
+ },
+ {
+  "codigo_ibge": "4216206",
+  "municipio": "São Francisco do Sul",
+  "fecam": "Amunesc"
+ },
+ {
+  "codigo_ibge": "4216255",
+  "municipio": "São João do Oeste",
+  "fecam": "Ameosc"
+ },
+ {
+  "codigo_ibge": "4216305",
+  "municipio": "São João Batista",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4216354",
+  "municipio": "São João do Itaperiú",
+  "fecam": "AMVALI"
+ },
+ {
+  "codigo_ibge": "4216404",
+  "municipio": "São João do Sul",
+  "fecam": "Amesc"
+ },
+ {
+  "codigo_ibge": "4216503",
+  "municipio": "São Joaquim",
+  "fecam": "Amures"
+ },
+ {
+  "codigo_ibge": "4216602",
+  "municipio": "São José",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4216701",
+  "municipio": "São José do Cedro",
+  "fecam": "Ameosc"
+ },
+ {
+  "codigo_ibge": "4216800",
+  "municipio": "São José do Cerrito",
+  "fecam": "Amures"
+ },
+ {
+  "codigo_ibge": "4216909",
+  "municipio": "São Lourenço do Oeste",
+  "fecam": "Amnoroeste"
+ },
+ {
+  "codigo_ibge": "4217006",
+  "municipio": "São Ludgero",
+  "fecam": "Amurel"
+ },
+ {
+  "codigo_ibge": "4217105",
+  "municipio": "São Martinho",
+  "fecam": "Amurel"
+ },
+ {
+  "codigo_ibge": "4217154",
+  "municipio": "São Miguel da Boa Vista",
+  "fecam": "Amerios"
+ },
+ {
+  "codigo_ibge": "4217204",
+  "municipio": "São Miguel do Oeste",
+  "fecam": "Ameosc"
+ },
+ {
+  "codigo_ibge": "4217253",
+  "municipio": "São Pedro de Alcântara",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4217303",
+  "municipio": "Saudades",
+  "fecam": "Amerios"
+ },
+ {
+  "codigo_ibge": "4217402",
+  "municipio": "Schroeder",
+  "fecam": "AMVALI"
+ },
+ {
+  "codigo_ibge": "4217501",
+  "municipio": "Seara",
+  "fecam": "Amauc"
+ },
+ {
+  "codigo_ibge": "4217550",
+  "municipio": "Serra Alta",
+  "fecam": "Amosc"
+ },
+ {
+  "codigo_ibge": "4217600",
+  "municipio": "Siderópolis",
+  "fecam": "Amrec"
+ },
+ {
+  "codigo_ibge": "4217709",
+  "municipio": "Sombrio",
+  "fecam": "Amesc"
+ },
+ {
+  "codigo_ibge": "4217758",
+  "municipio": "Sul Brasil",
+  "fecam": "Amosc"
+ },
+ {
+  "codigo_ibge": "4217808",
+  "municipio": "Taió",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4217907",
+  "municipio": "Tangará",
+  "fecam": "Amarp"
+ },
+ {
+  "codigo_ibge": "4217956",
+  "municipio": "Tigrinhos",
+  "fecam": "Amerios"
+ },
+ {
+  "codigo_ibge": "4218004",
+  "municipio": "Tijucas",
+  "fecam": "Granfpolis"
+ },
+ {
+  "codigo_ibge": "4218103",
+  "municipio": "Timbé do Sul",
+  "fecam": "Amesc"
+ },
+ {
+  "codigo_ibge": "4218202",
+  "municipio": "Timbó",
+  "fecam": "AMVE"
+ },
+ {
+  "codigo_ibge": "4218251",
+  "municipio": "Timbó Grande",
+  "fecam": "Amarp"
+ },
+ {
+  "codigo_ibge": "4218301",
+  "municipio": "Três Barras",
+  "fecam": "Amplanorte"
+ },
+ {
+  "codigo_ibge": "4218350",
+  "municipio": "Treviso",
+  "fecam": "Amrec"
+ },
+ {
+  "codigo_ibge": "4218400",
+  "municipio": "Treze de Maio",
+  "fecam": "Amurel"
+ },
+ {
+  "codigo_ibge": "4218509",
+  "municipio": "Treze Tílias",
+  "fecam": "Ammoc"
+ },
+ {
+  "codigo_ibge": "4218608",
+  "municipio": "Trombudo Central",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4218707",
+  "municipio": "Tubarão",
+  "fecam": "Amurel"
+ },
+ {
+  "codigo_ibge": "4218756",
+  "municipio": "Tunápolis",
+  "fecam": "Ameosc"
+ },
+ {
+  "codigo_ibge": "4218806",
+  "municipio": "Turvo",
+  "fecam": "Amesc"
+ },
+ {
+  "codigo_ibge": "4218855",
+  "municipio": "União do Oeste",
+  "fecam": "Amosc"
+ },
+ {
+  "codigo_ibge": "4218905",
+  "municipio": "Urubici",
+  "fecam": "Amures"
+ },
+ {
+  "codigo_ibge": "4218954",
+  "municipio": "Urupema",
+  "fecam": "Amures"
+ },
+ {
+  "codigo_ibge": "4219002",
+  "municipio": "Urussanga",
+  "fecam": "Amrec"
+ },
+ {
+  "codigo_ibge": "4219101",
+  "municipio": "Vargeão",
+  "fecam": "Amai"
+ },
+ {
+  "codigo_ibge": "4219150",
+  "municipio": "Vargem",
+  "fecam": "Amplasc"
+ },
+ {
+  "codigo_ibge": "4219176",
+  "municipio": "Vargem Bonita",
+  "fecam": "Ammoc"
+ },
+ {
+  "codigo_ibge": "4219200",
+  "municipio": "Vidal Ramos",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4219309",
+  "municipio": "Videira",
+  "fecam": "Amarp"
+ },
+ {
+  "codigo_ibge": "4219358",
+  "municipio": "Vitor Meireles",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4219408",
+  "municipio": "Witmarsum",
+  "fecam": "Amavi"
+ },
+ {
+  "codigo_ibge": "4219507",
+  "municipio": "Xanxerê",
+  "fecam": "Amai"
+ },
+ {
+  "codigo_ibge": "4219606",
+  "municipio": "Xavantina",
+  "fecam": "Amauc"
+ },
+ {
+  "codigo_ibge": "4219705",
+  "municipio": "Xaxim",
+  "fecam": "Amai"
+ },
+ {
+  "codigo_ibge": "4219853",
+  "municipio": "Zortéa",
+  "fecam": "Amplasc"
+ },
+ {
+  "codigo_ibge": "4220000",
+  "municipio": "Balneário Rincão",
+  "fecam": "Amrec"
+ }
+]
