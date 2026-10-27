@@ -6,6 +6,8 @@ from dataclasses import asdict
 
 from .repositorio import CatalogoIndicadores, RegistroStatus
 
+CATEGORIA_SEM_DADOS = "SEM_DADOS"
+
 
 class ConsultaIndicadores:
     def __init__(self, catalogo: CatalogoIndicadores, status: RegistroStatus):
@@ -13,9 +15,13 @@ class ConsultaIndicadores:
         self.status = status
 
     def _resumo(self, indicador):
+        tem_dados = self.catalogo.tem_dados(indicador)
+        situacao = self.status.situacao(indicador)
         return indicador.para_dict() | {
-            "tem_dados": self.catalogo.tem_dados(indicador),
-            "situacao": self.status.situacao(indicador).para_dict(),
+            "tem_dados": tem_dados,
+            "situacao": situacao.para_dict(),
+            # Grupo da tela inicial: sem arquivo de dados prevalece sobre a situação de atualização.
+            "categoria": situacao.status.value if tem_dados else CATEGORIA_SEM_DADOS,
         }
 
     def listar(self):

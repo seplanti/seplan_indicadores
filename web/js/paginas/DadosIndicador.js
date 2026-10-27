@@ -40,9 +40,11 @@ function Tabela({ indicador, tabela }) {
   // rodando uma versão anterior da API; nesse caso a tela funciona sem o filtro de ano.
   const anos = tabela.anos ?? [];
   // Séries históricas abrem no último ano com dado observado (não numa projeção);
-  // '' mostra todos os anos.
+  // '' mostra todos os anos. Séries com um registro por ano (ex.: só o total de SC)
+  // abrem com todos os anos, senão a tabela mostraria uma única linha.
   const anoInicial = tabela.ano_referencia ?? anos.at(-1);
-  const [ano, setAno] = useState(anos.length > 1 ? String(anoInicial) : '');
+  const variosPorAno = tabela.registros.length > anos.length;
+  const [ano, setAno] = useState(anos.length > 1 && variosPorAno ? String(anoInicial) : '');
   const temGrupo = tabela.colunas.includes(COLUNA_GRUPO);
   // Chave estável de cada linha (posição no arquivo), sem indexOf a cada renderização.
   const posicoes = useMemo(() => new Map(tabela.registros.map((r, i) => [r, i])), [tabela]);
@@ -123,10 +125,10 @@ export function DadosIndicador({ id }) {
   useTitulo(indicador?.nome ?? 'Indicador');
 
   return html`
-    <p className="mb-2"><${Link} para="/">← Voltar ao painel<//></p>
+    <p className="mb-2"><${Link} para="/painel">← Voltar ao painel<//></p>
     <div className="d-flex flex-wrap align-items-center gap-2 mb-1">
       <h1 className="h3 mb-0" tabIndex="-1">${indicador?.nome ?? 'Indicador'}</h1>
-      ${indicador && html`<${StatusTag} situacao=${indicador.situacao} />`}
+      ${indicador && html`<${StatusTag} indicador=${indicador} />`}
     </div>
     ${carregando && !dados && html`<${Carregando} />`}
     ${erro && html`<${Erro} erro=${erro} />`}

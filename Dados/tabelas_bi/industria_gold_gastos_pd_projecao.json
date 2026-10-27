@@ -1,0 +1,362 @@
+[
+ {
+  "id": 1,
+  "ano": 2000,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 0.04,
+  "trajetoria_suavizada": 0.04,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 2,
+  "ano": 2001,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 0.13,
+  "trajetoria_suavizada": 0.09,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 3,
+  "ano": 2002,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 0.26,
+  "trajetoria_suavizada": 0.14,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 4,
+  "ano": 2003,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 0.37,
+  "trajetoria_suavizada": 0.25,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 5,
+  "ano": 2004,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 0.17,
+  "trajetoria_suavizada": 0.27,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 6,
+  "ano": 2005,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 0.54,
+  "trajetoria_suavizada": 0.36,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 7,
+  "ano": 2006,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 0.59,
+  "trajetoria_suavizada": 0.43,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 8,
+  "ano": 2007,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 0.7,
+  "trajetoria_suavizada": 0.61,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 9,
+  "ano": 2008,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 0.83,
+  "trajetoria_suavizada": 0.71,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 10,
+  "ano": 2009,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 1.21,
+  "trajetoria_suavizada": 0.91,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 11,
+  "ano": 2010,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 1.59,
+  "trajetoria_suavizada": 1.21,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 12,
+  "ano": 2011,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 1.32,
+  "trajetoria_suavizada": 1.37,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 13,
+  "ano": 2012,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 1.17,
+  "trajetoria_suavizada": 1.36,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 14,
+  "ano": 2013,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 0.86,
+  "trajetoria_suavizada": 1.12,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 15,
+  "ano": 2014,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 0.81,
+  "trajetoria_suavizada": 0.95,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 16,
+  "ano": 2015,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 1.02,
+  "trajetoria_suavizada": 0.9,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 17,
+  "ano": 2016,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 0.8,
+  "trajetoria_suavizada": 0.88,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 18,
+  "ano": 2017,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 0.83,
+  "trajetoria_suavizada": 0.88,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 19,
+  "ano": 2018,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 1,
+  "trajetoria_suavizada": 0.88,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 20,
+  "ano": 2019,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 0.9,
+  "trajetoria_suavizada": 0.91,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 21,
+  "ano": 2020,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 0.9,
+  "trajetoria_suavizada": 0.93,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 22,
+  "ano": 2021,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 0.88,
+  "trajetoria_suavizada": 0.89,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 23,
+  "ano": 2022,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 0.84,
+  "trajetoria_suavizada": 0.87,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 24,
+  "ano": 2023,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 1.05,
+  "trajetoria_suavizada": 0.92,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 25,
+  "ano": 2024,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 0.91,
+  "intervalo_de_confianca_menos": 0.56,
+  "intervalo_de_confianca_mais": 1.26
+ },
+ {
+  "id": 26,
+  "ano": 2025,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 0.78,
+  "intervalo_de_confianca_menos": 0.34,
+  "intervalo_de_confianca_mais": 1.23
+ },
+ {
+  "id": 27,
+  "ano": 2026,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 0.65,
+  "intervalo_de_confianca_menos": 0.16,
+  "intervalo_de_confianca_mais": 1.15
+ },
+ {
+  "id": 28,
+  "ano": 2027,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 0.89,
+  "intervalo_de_confianca_menos": 0.37,
+  "intervalo_de_confianca_mais": 1.42
+ },
+ {
+  "id": 29,
+  "ano": 2028,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 0.89,
+  "intervalo_de_confianca_menos": 0.35,
+  "intervalo_de_confianca_mais": 1.44
+ },
+ {
+  "id": 30,
+  "ano": 2029,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 1.02,
+  "intervalo_de_confianca_menos": 0.46,
+  "intervalo_de_confianca_mais": 1.57
+ },
+ {
+  "id": 31,
+  "ano": 2030,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 1.18,
+  "intervalo_de_confianca_menos": 0.61,
+  "intervalo_de_confianca_mais": 1.74
+ },
+ {
+  "id": 32,
+  "ano": 2031,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 1.08,
+  "intervalo_de_confianca_menos": 0.52,
+  "intervalo_de_confianca_mais": 1.65
+ },
+ {
+  "id": 33,
+  "ano": 2032,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 1.36,
+  "intervalo_de_confianca_menos": 0.79,
+  "intervalo_de_confianca_mais": 1.92
+ },
+ {
+  "id": 34,
+  "ano": 2033,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 1.24,
+  "intervalo_de_confianca_menos": 0.67,
+  "intervalo_de_confianca_mais": 1.81
+ },
+ {
+  "id": 35,
+  "ano": 2034,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 0.96,
+  "intervalo_de_confianca_menos": 0.39,
+  "intervalo_de_confianca_mais": 1.54
+ },
+ {
+  "id": 36,
+  "ano": 2035,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 1.06,
+  "intervalo_de_confianca_menos": 0.49,
+  "intervalo_de_confianca_mais": 1.63
+ }
+]

@@ -1,0 +1,1002 @@
+[
+ {
+  "id": 1,
+  "ano": 2010,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "vab_agro": 17.23,
+  "vab_ind": 29.22,
+  "vab_serv": 40.48,
+  "vab_adm": 13.08
+ },
+ {
+  "id": 2,
+  "ano": 2011,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "vab_agro": 16.46,
+  "vab_ind": 30.56,
+  "vab_serv": 40.97,
+  "vab_adm": 12.01
+ },
+ {
+  "id": 3,
+  "ano": 2012,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "vab_agro": 13.95,
+  "vab_ind": 29.46,
+  "vab_serv": 44.28,
+  "vab_adm": 12.3
+ },
+ {
+  "id": 4,
+  "ano": 2013,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "vab_agro": 18.5,
+  "vab_ind": 27.28,
+  "vab_serv": 41.89,
+  "vab_adm": 12.33
+ },
+ {
+  "id": 5,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "vab_agro": 17.1,
+  "vab_ind": 30.47,
+  "vab_serv": 38.58,
+  "vab_adm": 13.85
+ },
+ {
+  "id": 6,
+  "ano": 2011,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "vab_agro": 14.49,
+  "vab_ind": 33.8,
+  "vab_serv": 38.15,
+  "vab_adm": 13.57
+ },
+ {
+  "id": 7,
+  "ano": 2012,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "vab_agro": 13.16,
+  "vab_ind": 34.49,
+  "vab_serv": 38.29,
+  "vab_adm": 14.06
+ },
+ {
+  "id": 8,
+  "ano": 2013,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "vab_agro": 14.11,
+  "vab_ind": 35.47,
+  "vab_serv": 36.67,
+  "vab_adm": 13.74
+ },
+ {
+  "id": 9,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "vab_agro": 16.96,
+  "vab_ind": 33.83,
+  "vab_serv": 37.07,
+  "vab_adm": 12.14
+ },
+ {
+  "id": 10,
+  "ano": 2011,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "vab_agro": 15.96,
+  "vab_ind": 34.52,
+  "vab_serv": 36.84,
+  "vab_adm": 12.67
+ },
+ {
+  "id": 11,
+  "ano": 2012,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "vab_agro": 15.74,
+  "vab_ind": 27.63,
+  "vab_serv": 42.52,
+  "vab_adm": 14.1
+ },
+ {
+  "id": 12,
+  "ano": 2013,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "vab_agro": 16.4,
+  "vab_ind": 28.95,
+  "vab_serv": 41.48,
+  "vab_adm": 13.17
+ },
+ {
+  "id": 13,
+  "ano": 2014,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "vab_agro": 16.47,
+  "vab_ind": 30.27,
+  "vab_serv": 40.17,
+  "vab_adm": 13.1
+ },
+ {
+  "id": 14,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "vab_agro": 18.13,
+  "vab_ind": 25.81,
+  "vab_serv": 41.01,
+  "vab_adm": 15.05
+ },
+ {
+  "id": 15,
+  "ano": 2011,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "vab_agro": 14.45,
+  "vab_ind": 29.16,
+  "vab_serv": 40.79,
+  "vab_adm": 15.6
+ },
+ {
+  "id": 16,
+  "ano": 2012,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "vab_agro": 14.4,
+  "vab_ind": 27.87,
+  "vab_serv": 42.64,
+  "vab_adm": 15.09
+ },
+ {
+  "id": 17,
+  "ano": 2013,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "vab_agro": 16.09,
+  "vab_ind": 25.9,
+  "vab_serv": 42.11,
+  "vab_adm": 15.9
+ },
+ {
+  "id": 18,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "vab_agro": 18.75,
+  "vab_ind": 23.34,
+  "vab_serv": 42.22,
+  "vab_adm": 15.69
+ },
+ {
+  "id": 19,
+  "ano": 2011,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "vab_agro": 17.02,
+  "vab_ind": 25.89,
+  "vab_serv": 42.39,
+  "vab_adm": 14.7
+ },
+ {
+  "id": 20,
+  "ano": 2012,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "vab_agro": 15.22,
+  "vab_ind": 24.6,
+  "vab_serv": 45.31,
+  "vab_adm": 14.87
+ },
+ {
+  "id": 21,
+  "ano": 2013,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "vab_agro": 19.93,
+  "vab_ind": 22.52,
+  "vab_serv": 43.19,
+  "vab_adm": 14.35
+ },
+ {
+  "id": 22,
+  "ano": 2014,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "vab_agro": 19.86,
+  "vab_ind": 24.67,
+  "vab_serv": 40.69,
+  "vab_adm": 14.79
+ },
+ {
+  "id": 23,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "vab_agro": 19.78,
+  "vab_ind": 26.06,
+  "vab_serv": 40.41,
+  "vab_adm": 13.75
+ },
+ {
+  "id": 24,
+  "ano": 2011,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "vab_agro": 19.6,
+  "vab_ind": 28.32,
+  "vab_serv": 39.1,
+  "vab_adm": 12.98
+ },
+ {
+  "id": 25,
+  "ano": 2012,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "vab_agro": 16.9,
+  "vab_ind": 28.41,
+  "vab_serv": 41.57,
+  "vab_adm": 13.13
+ },
+ {
+  "id": 26,
+  "ano": 2013,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "vab_agro": 20.22,
+  "vab_ind": 26.17,
+  "vab_serv": 40.17,
+  "vab_adm": 13.43
+ },
+ {
+  "id": 27,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "vab_agro": 16.87,
+  "vab_ind": 21.11,
+  "vab_serv": 44.25,
+  "vab_adm": 17.77
+ },
+ {
+  "id": 28,
+  "ano": 2011,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "vab_agro": 13.72,
+  "vab_ind": 24.36,
+  "vab_serv": 43.58,
+  "vab_adm": 18.34
+ },
+ {
+  "id": 29,
+  "ano": 2012,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "vab_agro": 13.69,
+  "vab_ind": 23.01,
+  "vab_serv": 45.24,
+  "vab_adm": 18.05
+ },
+ {
+  "id": 30,
+  "ano": 2013,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "vab_agro": 15.95,
+  "vab_ind": 20.59,
+  "vab_serv": 44.3,
+  "vab_adm": 19.16
+ },
+ {
+  "id": 31,
+  "ano": 2014,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "vab_agro": 15.22,
+  "vab_ind": 21.71,
+  "vab_serv": 45.45,
+  "vab_adm": 17.61
+ },
+ {
+  "id": 32,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "vab_agro": 1.4,
+  "vab_ind": 21,
+  "vab_serv": 64.67,
+  "vab_adm": 12.93
+ },
+ {
+  "id": 33,
+  "ano": 2011,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "vab_agro": 1.24,
+  "vab_ind": 20.79,
+  "vab_serv": 65.39,
+  "vab_adm": 12.58
+ },
+ {
+  "id": 34,
+  "ano": 2012,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "vab_agro": 1.32,
+  "vab_ind": 20.35,
+  "vab_serv": 66.04,
+  "vab_adm": 12.3
+ },
+ {
+  "id": 35,
+  "ano": 2013,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "vab_agro": 1.57,
+  "vab_ind": 18.93,
+  "vab_serv": 66.54,
+  "vab_adm": 12.96
+ },
+ {
+  "id": 36,
+  "ano": 2014,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "vab_agro": 1.48,
+  "vab_ind": 19.66,
+  "vab_serv": 66.68,
+  "vab_adm": 12.18
+ },
+ {
+  "id": 37,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "vab_agro": 14.53,
+  "vab_ind": 27.82,
+  "vab_serv": 44.74,
+  "vab_adm": 12.91
+ },
+ {
+  "id": 38,
+  "ano": 2011,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "vab_agro": 13.46,
+  "vab_ind": 28.74,
+  "vab_serv": 45.05,
+  "vab_adm": 12.76
+ },
+ {
+  "id": 39,
+  "ano": 2012,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "vab_agro": 11.55,
+  "vab_ind": 28.11,
+  "vab_serv": 47.15,
+  "vab_adm": 13.19
+ },
+ {
+  "id": 40,
+  "ano": 2013,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "vab_agro": 14.67,
+  "vab_ind": 25.6,
+  "vab_serv": 45.74,
+  "vab_adm": 14
+ },
+ {
+  "id": 41,
+  "ano": 2010,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "vab_agro": 15.7,
+  "vab_ind": 27.44,
+  "vab_serv": 43.38,
+  "vab_adm": 13.48
+ },
+ {
+  "id": 42,
+  "ano": 2011,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "vab_agro": 15.32,
+  "vab_ind": 27.95,
+  "vab_serv": 44.71,
+  "vab_adm": 12.02
+ },
+ {
+  "id": 43,
+  "ano": 2012,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "vab_agro": 11.48,
+  "vab_ind": 28.63,
+  "vab_serv": 47.34,
+  "vab_adm": 12.54
+ },
+ {
+  "id": 44,
+  "ano": 2013,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "vab_agro": 17.77,
+  "vab_ind": 26.39,
+  "vab_serv": 42.08,
+  "vab_adm": 13.77
+ },
+ {
+  "id": 45,
+  "ano": 2014,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "vab_agro": 18.06,
+  "vab_ind": 28.89,
+  "vab_serv": 37.09,
+  "vab_adm": 15.96
+ },
+ {
+  "id": 46,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "vab_agro": 8.35,
+  "vab_ind": 27.74,
+  "vab_serv": 51.86,
+  "vab_adm": 12.05
+ },
+ {
+  "id": 47,
+  "ano": 2011,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "vab_agro": 7.63,
+  "vab_ind": 30.53,
+  "vab_serv": 50.31,
+  "vab_adm": 11.52
+ },
+ {
+  "id": 48,
+  "ano": 2012,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "vab_agro": 6.17,
+  "vab_ind": 29.48,
+  "vab_serv": 52.78,
+  "vab_adm": 11.57
+ },
+ {
+  "id": 49,
+  "ano": 2013,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "vab_agro": 7.49,
+  "vab_ind": 28.63,
+  "vab_serv": 52.09,
+  "vab_adm": 11.79
+ },
+ {
+  "id": 50,
+  "ano": 2014,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "vab_agro": 7.19,
+  "vab_ind": 30.72,
+  "vab_serv": 50.04,
+  "vab_adm": 12.06
+ },
+ {
+  "id": 51,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "vab_agro": 22.51,
+  "vab_ind": 24.95,
+  "vab_serv": 36.97,
+  "vab_adm": 15.57
+ },
+ {
+  "id": 52,
+  "ano": 2011,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "vab_agro": 20.22,
+  "vab_ind": 27.25,
+  "vab_serv": 36.85,
+  "vab_adm": 15.68
+ },
+ {
+  "id": 53,
+  "ano": 2012,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "vab_agro": 18.76,
+  "vab_ind": 27.9,
+  "vab_serv": 38.01,
+  "vab_adm": 15.33
+ },
+ {
+  "id": 54,
+  "ano": 2013,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "vab_agro": 21.36,
+  "vab_ind": 23.69,
+  "vab_serv": 40.21,
+  "vab_adm": 14.75
+ },
+ {
+  "id": 55,
+  "ano": 2010,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "vab_agro": 22.4,
+  "vab_ind": 42.52,
+  "vab_serv": 24.47,
+  "vab_adm": 10.61
+ },
+ {
+  "id": 56,
+  "ano": 2011,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "vab_agro": 19.98,
+  "vab_ind": 42.56,
+  "vab_serv": 26.33,
+  "vab_adm": 11.13
+ },
+ {
+  "id": 57,
+  "ano": 2012,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "vab_agro": 17.5,
+  "vab_ind": 42.55,
+  "vab_serv": 28.34,
+  "vab_adm": 11.61
+ },
+ {
+  "id": 58,
+  "ano": 2013,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "vab_agro": 22.6,
+  "vab_ind": 34.49,
+  "vab_serv": 30.63,
+  "vab_adm": 12.28
+ },
+ {
+  "id": 59,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "vab_agro": 3.8,
+  "vab_ind": 37.8,
+  "vab_serv": 44.65,
+  "vab_adm": 13.75
+ },
+ {
+  "id": 60,
+  "ano": 2011,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "vab_agro": 3.16,
+  "vab_ind": 41.44,
+  "vab_serv": 42.22,
+  "vab_adm": 13.18
+ },
+ {
+  "id": 61,
+  "ano": 2012,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "vab_agro": 3.24,
+  "vab_ind": 39.97,
+  "vab_serv": 43.2,
+  "vab_adm": 13.59
+ },
+ {
+  "id": 62,
+  "ano": 2013,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "vab_agro": 4.06,
+  "vab_ind": 38.47,
+  "vab_serv": 43.57,
+  "vab_adm": 13.9
+ },
+ {
+  "id": 63,
+  "ano": 2014,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "vab_agro": 3.64,
+  "vab_ind": 38.48,
+  "vab_serv": 44.8,
+  "vab_adm": 13.08
+ },
+ {
+  "id": 64,
+  "ano": 2010,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "vab_agro": 1.41,
+  "vab_ind": 46.35,
+  "vab_serv": 42.15,
+  "vab_adm": 10.09
+ },
+ {
+  "id": 65,
+  "ano": 2011,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "vab_agro": 1.31,
+  "vab_ind": 46.01,
+  "vab_serv": 42.17,
+  "vab_adm": 10.51
+ },
+ {
+  "id": 66,
+  "ano": 2012,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "vab_agro": 1.15,
+  "vab_ind": 44.09,
+  "vab_serv": 44.07,
+  "vab_adm": 10.69
+ },
+ {
+  "id": 67,
+  "ano": 2013,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "vab_agro": 1.21,
+  "vab_ind": 42.07,
+  "vab_serv": 45.37,
+  "vab_adm": 11.35
+ },
+ {
+  "id": 68,
+  "ano": 2014,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "vab_agro": 1.14,
+  "vab_ind": 38.83,
+  "vab_serv": 48.73,
+  "vab_adm": 11.3
+ },
+ {
+  "id": 69,
+  "ano": 2010,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "vab_agro": 15.89,
+  "vab_ind": 21.47,
+  "vab_serv": 44.9,
+  "vab_adm": 17.74
+ },
+ {
+  "id": 70,
+  "ano": 2011,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "vab_agro": 14.41,
+  "vab_ind": 21.95,
+  "vab_serv": 45.53,
+  "vab_adm": 18.12
+ },
+ {
+  "id": 71,
+  "ano": 2012,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "vab_agro": 13.9,
+  "vab_ind": 22.69,
+  "vab_serv": 46.17,
+  "vab_adm": 17.24
+ },
+ {
+  "id": 72,
+  "ano": 2013,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "vab_agro": 15.58,
+  "vab_ind": 24.29,
+  "vab_serv": 43.3,
+  "vab_adm": 16.83
+ },
+ {
+  "id": 73,
+  "ano": 2014,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "vab_agro": 13.61,
+  "vab_ind": 25.48,
+  "vab_serv": 44.47,
+  "vab_adm": 16.43
+ },
+ {
+  "id": 74,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "vab_agro": 7.83,
+  "vab_ind": 30.99,
+  "vab_serv": 44.76,
+  "vab_adm": 16.42
+ },
+ {
+  "id": 75,
+  "ano": 2011,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "vab_agro": 7.14,
+  "vab_ind": 30.32,
+  "vab_serv": 45.85,
+  "vab_adm": 16.7
+ },
+ {
+  "id": 76,
+  "ano": 2012,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "vab_agro": 6.72,
+  "vab_ind": 31.32,
+  "vab_serv": 45.86,
+  "vab_adm": 16.1
+ },
+ {
+  "id": 77,
+  "ano": 2013,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "vab_agro": 8.33,
+  "vab_ind": 29.94,
+  "vab_serv": 45.8,
+  "vab_adm": 15.92
+ },
+ {
+  "id": 78,
+  "ano": 2010,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "vab_agro": 13.7,
+  "vab_ind": 27.56,
+  "vab_serv": 42.03,
+  "vab_adm": 16.71
+ },
+ {
+  "id": 79,
+  "ano": 2011,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "vab_agro": 13.51,
+  "vab_ind": 26.98,
+  "vab_serv": 41.95,
+  "vab_adm": 17.56
+ },
+ {
+  "id": 80,
+  "ano": 2012,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "vab_agro": 11.04,
+  "vab_ind": 23.83,
+  "vab_serv": 49.48,
+  "vab_adm": 15.64
+ },
+ {
+  "id": 81,
+  "ano": 2013,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "vab_agro": 13.39,
+  "vab_ind": 26.89,
+  "vab_serv": 41.98,
+  "vab_adm": 17.73
+ },
+ {
+  "id": 82,
+  "ano": 2010,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "vab_agro": 2.71,
+  "vab_ind": 48.89,
+  "vab_serv": 38.27,
+  "vab_adm": 10.13
+ },
+ {
+  "id": 83,
+  "ano": 2011,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "vab_agro": 2.23,
+  "vab_ind": 50.68,
+  "vab_serv": 37.41,
+  "vab_adm": 9.68
+ },
+ {
+  "id": 84,
+  "ano": 2012,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "vab_agro": 2.09,
+  "vab_ind": 47.96,
+  "vab_serv": 39.77,
+  "vab_adm": 10.19
+ },
+ {
+  "id": 85,
+  "ano": 2013,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "vab_agro": 2.43,
+  "vab_ind": 47.48,
+  "vab_serv": 39.34,
+  "vab_adm": 10.74
+ },
+ {
+  "id": 86,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "vab_agro": 0.8,
+  "vab_ind": 42.96,
+  "vab_serv": 45.51,
+  "vab_adm": 10.73
+ },
+ {
+  "id": 87,
+  "ano": 2011,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "vab_agro": 0.65,
+  "vab_ind": 43.56,
+  "vab_serv": 45.06,
+  "vab_adm": 10.73
+ },
+ {
+  "id": 88,
+  "ano": 2012,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "vab_agro": 0.63,
+  "vab_ind": 41.85,
+  "vab_serv": 46.67,
+  "vab_adm": 10.85
+ },
+ {
+  "id": 89,
+  "ano": 2013,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "vab_agro": 0.72,
+  "vab_ind": 39.91,
+  "vab_serv": 47.62,
+  "vab_adm": 11.74
+ },
+ {
+  "id": 90,
+  "ano": 2014,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "vab_agro": 0.66,
+  "vab_ind": 41.06,
+  "vab_serv": 48.05,
+  "vab_adm": 10.23
+ },
+ {
+  "id": 91,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "vab_agro": 2.94,
+  "vab_ind": 20.49,
+  "vab_serv": 62.07,
+  "vab_adm": 14.5
+ },
+ {
+  "id": 92,
+  "ano": 2011,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "vab_agro": 2.29,
+  "vab_ind": 22.07,
+  "vab_serv": 61.36,
+  "vab_adm": 14.28
+ },
+ {
+  "id": 93,
+  "ano": 2012,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "vab_agro": 1.97,
+  "vab_ind": 21.35,
+  "vab_serv": 62.66,
+  "vab_adm": 14.02
+ },
+ {
+  "id": 94,
+  "ano": 2013,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "vab_agro": 2.89,
+  "vab_ind": 20.19,
+  "vab_serv": 62.22,
+  "vab_adm": 14.71
+ },
+ {
+  "id": 95,
+  "ano": 2014,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "vab_agro": 2.48,
+  "vab_ind": 18.63,
+  "vab_serv": 64.86,
+  "vab_adm": 14.03
+ },
+ {
+  "id": 96,
+  "ano": 2010,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "vab_agro": 6.85,
+  "vab_ind": 32.66,
+  "vab_serv": 47.59,
+  "vab_adm": 12.9
+ },
+ {
+  "id": 97,
+  "ano": 2011,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "vab_agro": 6.08,
+  "vab_ind": 33.74,
+  "vab_serv": 47.36,
+  "vab_adm": 12.82
+ },
+ {
+  "id": 98,
+  "ano": 2012,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "vab_agro": 5.49,
+  "vab_ind": 32.31,
+  "vab_serv": 49.37,
+  "vab_adm": 12.83
+ },
+ {
+  "id": 99,
+  "ano": 2013,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "vab_agro": 6.69,
+  "vab_ind": 30.79,
+  "vab_serv": 49.15,
+  "vab_adm": 13.37
+ },
+ {
+  "id": 100,
+  "ano": 2014,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "vab_agro": 6.19,
+  "vab_ind": 30.33,
+  "vab_serv": 50.56,
+  "vab_adm": 12.92
+ }
+]

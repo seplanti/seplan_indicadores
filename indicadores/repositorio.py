@@ -86,7 +86,7 @@ class CatalogoIndicadores:
         arquivo = self.localizar_arquivo(indicador)
         if arquivo is None:
             return None
-        return TabelaDados(carregar_json(arquivo), arquivo)
+        return TabelaDados(carregar_json(arquivo), arquivo, indicador.coluna_valor)
 
 
 class RegistroStatus:

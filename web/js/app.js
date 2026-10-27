@@ -2,6 +2,7 @@
 import { Component, html, useEffect, useRef } from './lib.js';
 import { Link, useCaminho, useTitulo } from './rotas.js';
 import { Cabecalho } from './componentes/Cabecalho.js';
+import { Inicio } from './paginas/Inicio.js';
 import { Painel } from './paginas/Painel.js';
 import { DadosIndicador } from './paginas/DadosIndicador.js';
 
@@ -9,7 +10,7 @@ function NaoEncontrado() {
   useTitulo('Página não encontrada');
   return html`
     <h1 className="h3" tabIndex="-1">Página não encontrada</h1>
-    <p><${Link} para="/">Voltar ao painel<//></p>`;
+    <p><${Link} para="/">Voltar ao início<//></p>`;
 }
 
 // Um erro ao desenhar a tela mostra um aviso no lugar dela, em vez de apagar a página inteira.
@@ -35,13 +36,14 @@ class BarreiraDeErro extends Component {
         <h1 className="h5" tabIndex="-1">Não foi possível exibir esta tela</h1>
         <p className="mb-2">${this.state.erro.message}</p>
         <p className="mb-0">Se o servidor foi atualizado há pouco, reinicie o app (python app.py) e recarregue a página.
-          <${Link} para="/" className="ms-1">Voltar ao painel<//></p>
+          <${Link} para="/" className="ms-1">Voltar ao início<//></p>
       </div>`;
   }
 }
 
 function telaDa(caminho) {
-  if (caminho === '/') return html`<${Painel} />`;
+  if (caminho === '/') return html`<${Inicio} />`;
+  if (/^\/painel\/?$/.test(caminho)) return html`<${Painel} />`;
   const indicador = caminho.match(/^\/indicadores\/(\d+)\/?$/);
   if (indicador) return html`<${DadosIndicador} key=${indicador[1]} id=${indicador[1]} />`;
   return html`<${NaoEncontrado} />`;

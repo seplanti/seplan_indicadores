@@ -151,7 +151,8 @@
     "link_da_fonte_publico": "https://sidra.ibge.gov.br/tabela/5938",
     "link_da_fonte_publico_2": "https://www.ibge.gov.br",
     "tabela_databricks": "industria.silver.tl__extract_pib_municipal_fecam",
-    "link_do_arquivo_json": "tabelas_bi/industria.silver.tl__extract_pib_municipal_fecam.json"
+    "link_do_arquivo_json": "tabelas_bi/industria.silver.tl__extract_pib_municipal_fecam.json",
+    "coluna_do_valor": "vab_adm"
   },
   {
     "id": 12,
@@ -165,7 +166,8 @@
     "link_da_fonte_publico": "https://sidra.ibge.gov.br/tabela/5938",
     "link_da_fonte_publico_2": "https://www.ibge.gov.br",
     "tabela_databricks": "industria.silver.tl__extract_pib_municipal_fecam",
-    "link_do_arquivo_json": "tabelas_bi/industria.silver.tl__extract_pib_municipal_fecam.json"
+    "link_do_arquivo_json": "tabelas_bi/industria.silver.tl__extract_pib_municipal_fecam.json",
+    "coluna_do_valor": "vab_agro"
   },
   {
     "id": 13,
@@ -179,7 +181,8 @@
     "link_da_fonte_publico": "Municipal: https://sidra.ibge.gov.br/tabela/5938 Estadual: https:",
     "link_da_fonte_publico_2": "https://www.ibge.gov.br",
     "tabela_databricks": "industria.silver.tl__extract_pib_municipal_fecam",
-    "link_do_arquivo_json": "tabelas_bi/industria.silver.tl__extract_pib_municipal_fecam.json"
+    "link_do_arquivo_json": "tabelas_bi/industria.silver.tl__extract_pib_municipal_fecam.json",
+    "coluna_do_valor": "vab_ind"
   },
   {
     "id": 14,
@@ -193,7 +196,8 @@
     "link_da_fonte_publico": "https://sidra.ibge.gov.br/tabela/5938",
     "link_da_fonte_publico_2": "https://www.ibge.gov.br",
     "tabela_databricks": "industria.silver.tl__extract_pib_municipal_fecam",
-    "link_do_arquivo_json": "tabelas_bi/industria.silver.tl__extract_pib_municipal_fecam.json"
+    "link_do_arquivo_json": "tabelas_bi/industria.silver.tl__extract_pib_municipal_fecam.json",
+    "coluna_do_valor": "vab_serv"
   },
   {
     "id": 15,
@@ -207,7 +211,8 @@
     "link_da_fonte_publico": "https://sidra.ibge.gov.br/tabela/5938",
     "link_da_fonte_publico_2": "https://sidra.ibge.gov.br/tabela/5938",
     "tabela_databricks": "emprego_renda_hab_asssoc.silver.tl_pib_percapita",
-    "link_do_arquivo_json": "tabelas_bi/emprego_renda_hab_asssoc.silver.tl_pib_percapita.json"
+    "link_do_arquivo_json": "tabelas_bi/emprego_renda_hab_asssoc.silver.tl_pib_percapita.json",
+    "coluna_do_valor": "produto_interno_bruto_per_capita_a_precos_correntes_r_1_00"
   },
   {
     "id": 16,
@@ -263,7 +268,8 @@
     "link_da_fonte_publico": null,
     "link_da_fonte_publico_2": "https://www.gov.br/trabalho-e-emprego/pt-br",
     "tabela_databricks": "turismo.gold.vinculos_empregos_sc",
-    "link_do_arquivo_json": "tabelas_bi/turismo.gold.vinculos_empregos_sc.json"
+    "link_do_arquivo_json": "tabelas_bi/turismo.gold.vinculos_empregos_sc.json",
+    "coluna_do_valor": "percentual_turismo"
   },
   {
     "id": 20,

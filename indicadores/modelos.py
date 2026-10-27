@@ -50,6 +50,7 @@ class Indicador:
     link_fonte_2: str | None = None
     tabela_databricks: str | None = None
     link_arquivo_json: str | None = None
+    coluna_valor: str | None = None  # coluna do indicador quando vários indicadores dividem um arquivo
 
     # Nome do campo no JSON -> atributo
     CAMPOS_JSON = {
@@ -65,6 +66,7 @@ class Indicador:
         "link_da_fonte_publico_2": "link_fonte_2",
         "tabela_databricks": "tabela_databricks",
         "link_do_arquivo_json": "link_arquivo_json",
+        "coluna_do_valor": "coluna_valor",
     }
 
     @classmethod
@@ -98,6 +100,10 @@ class TabelaDados:
 
     Tabelas por FECAM podem ter uma linha de total do estado (abrangencia "Estado");
     ela fica fora da média, do maior e do menor, e aparece em `valor_estado`.
+
+    coluna_principal: coluna do indicador quando o arquivo é compartilhado por vários
+    indicadores (ex.: um VAB por setor); passa a ser a primeira coluna numérica, a usada
+    nas estatísticas e no ano de referência. Ignorada se não for uma coluna numérica da tabela.
     """
 
     COLUNAS_NAO_METRICAS = ("id", "ano")
@@ -106,9 +112,10 @@ class TabelaDados:
     COLUNA_ABRANGENCIA = "abrangencia"
     ABRANGENCIA_ESTADO = "Estado"
 
-    def __init__(self, registros, arquivo: Path | None = None):
+    def __init__(self, registros, arquivo: Path | None = None, coluna_principal: str | None = None):
         self.registros = registros
         self.arquivo = arquivo
+        self.coluna_principal = coluna_principal
 
     def __len__(self):
         return len(self.registros)
@@ -120,10 +127,15 @@ class TabelaDados:
 
     @cached_property
     def colunas_numericas(self):
-        """Colunas cujos valores preenchidos são todos numéricos (exceto id/ano)."""
-        return [c for c in self.colunas
-                if c not in self.COLUNAS_NAO_METRICAS
-                and all(isinstance(r.get(c), (int, float)) for r in self.registros if r.get(c) is not None)]
+        """Colunas cujos valores preenchidos são todos numéricos (exceto id/ano), com a
+        coluna principal primeiro."""
+        numericas = [c for c in self.colunas
+                     if c not in self.COLUNAS_NAO_METRICAS
+                     and all(isinstance(r.get(c), (int, float)) for r in self.registros if r.get(c) is not None)]
+        if self.coluna_principal in numericas:
+            numericas.remove(self.coluna_principal)
+            numericas.insert(0, self.coluna_principal)
+        return numericas
 
     def tem_coluna(self, coluna):
         return coluna in self.colunas
@@ -141,7 +153,8 @@ class TabelaDados:
 
     def do_ano(self, ano):
         """Nova tabela só com os registros do ano informado."""
-        return TabelaDados([r for r in self.registros if r.get(self.COLUNA_ANO) == ano], self.arquivo)
+        return TabelaDados([r for r in self.registros if r.get(self.COLUNA_ANO) == ano], self.arquivo,
+                           self.coluna_principal)
 
     def _eh_estado(self, registro):
         return registro.get(self.COLUNA_ABRANGENCIA) == self.ABRANGENCIA_ESTADO
@@ -153,16 +166,22 @@ class TabelaDados:
 
     @cached_property
     def ano_referencia(self):
-        """Último ano com dado na primeira coluna numérica (o observado, não a projeção)."""
+        """Último ano com dado na primeira coluna numérica (o observado, não a projeção).
+
+        O total do estado só conta em tabelas sem FECAM/município: ele pode ter um ano
+        observado a mais que as FECAMs, que nesse ano só têm projeção."""
         if not self.colunas_numericas:
             return None
         col = self.colunas_numericas[0]
-        return max((r[self.COLUNA_ANO] for r in self.registros
+        registros = [r for r in self.registros if not self._eh_estado(r)] or self.registros
+        return max((r[self.COLUNA_ANO] for r in registros
                     if r.get(col) is not None and r.get(self.COLUNA_ANO) is not None), default=None)
 
     def estatisticas(self):
-        """Estatísticas da primeira coluna numérica com dados, ou None se não houver."""
-        registros = [r for r in self.registros if not self._eh_estado(r)]
+        """Estatísticas da primeira coluna numérica com dados, ou None se não houver.
+
+        Tabelas só com o total do estado (sem FECAM) usam as próprias linhas do estado."""
+        registros = [r for r in self.registros if not self._eh_estado(r)] or self.registros
         col = self._coluna_com_dados(registros)
         if col is None:
             return None
