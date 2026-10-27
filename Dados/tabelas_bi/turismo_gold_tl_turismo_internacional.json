@@ -1,0 +1,162 @@
+[
+ {
+  "id": 1,
+  "ano": 2010,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 128421,
+  "trajetoria_suavizada": 120407,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 2,
+  "ano": 2011,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 179303,
+  "trajetoria_suavizada": 145183.33333333334,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 3,
+  "ano": 2012,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 195708,
+  "trajetoria_suavizada": 167810.66666666666,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 4,
+  "ano": 2013,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 175023,
+  "trajetoria_suavizada": 183344.66666666663,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 5,
+  "ano": 2014,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 156976,
+  "trajetoria_suavizada": 175902.33333333334,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 6,
+  "ano": 2015,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 149133,
+  "trajetoria_suavizada": 160377.33333333334,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 7,
+  "ano": 2016,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 203662,
+  "trajetoria_suavizada": 169923.66666666666,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 8,
+  "ano": 2017,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 205470,
+  "trajetoria_suavizada": 186088.3333333333,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 9,
+  "ano": 2018,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 226362,
+  "trajetoria_suavizada": 211831.3333333333,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 10,
+  "ano": 2019,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 200746,
+  "trajetoria_suavizada": 210859.3333333333,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 11,
+  "ano": 2020,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 142008,
+  "trajetoria_suavizada": 189705.3333333333,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 12,
+  "ano": 2021,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 9228,
+  "trajetoria_suavizada": 117327.33333333331,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 13,
+  "ano": 2022,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 140533,
+  "trajetoria_suavizada": 97256.33333333331,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 14,
+  "ano": 2023,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 288429,
+  "trajetoria_suavizada": 146063.33333333334,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 15,
+  "ano": 2024,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 495358,
+  "trajetoria_suavizada": 308106.6666666667,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 16,
+  "ano": 2025,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 488114,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ }
+]

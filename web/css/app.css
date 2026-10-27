@@ -27,6 +27,18 @@ a:focus-visible, .btn-ordenar:focus-visible, .tabela-wrap:focus-visible { outlin
 .cartoes-resumo .card { width: auto; min-width: 9.5rem; flex: 0 1 auto; overflow-wrap: anywhere; }
 .cartoes-resumo .valor { display: block; font-size: 1.5rem; font-weight: 600; line-height: 1.3; }
 
+/* Tela inicial: grupos por situação */
+.grupo-atualizado { --cor-grupo: #198754; }
+.grupo-desatualizado { --cor-grupo: var(--seplan-vermelho); }
+.grupo-sem-dados { --cor-grupo: #6c757d; }
+.barra-proporcao { display: flex; gap: 2px; height: .75rem; border-radius: .375rem; overflow: hidden; }
+.barra-proporcao span { flex-basis: 0; background: var(--cor-grupo); }
+.cartao-grupo { border-top: .3rem solid var(--cor-grupo); }
+.cartao-grupo h2 { color: var(--cor-grupo); letter-spacing: .03em; }
+.cartao-grupo .quantidade { font-size: 2.75rem; font-weight: 700; line-height: 1; color: var(--cor-grupo); font-variant-numeric: tabular-nums; }
+.lista-grupo { max-height: 22rem; overflow: auto; border-top: 1px solid var(--bs-border-color); }
+.lista-grupo:focus-visible { outline: 2px solid var(--seplan-azul); outline-offset: -2px; }
+
 /* Tabelas com rolagem e cabeçalho fixo */
 /* position: relative contém os textos .visually-hidden (absolutos) das células, que senão alargam a página */
 .tabela-wrap { position: relative; overflow: auto; max-height: 72vh; background: #fff; border: 1px solid var(--bs-border-color); border-radius: .5rem; }

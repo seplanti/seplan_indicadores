@@ -18,8 +18,12 @@ No VS Code, use as configurações de `.vscode/launch.json` (Ctrl+Shift+D, F5).
 
 ## Telas
 
-- **Painel** (`/`): todos os indicadores, com a tag de situação (Atualizado /
-  Desatualizado), filtros por texto, eixo e situação, e ordenação por coluna.
+- **Início** (`/`): quantos indicadores estão atualizados, desatualizados e sem dados
+  (sem arquivo em `Dados/tabelas_bi`), com a lista de cada grupo e o botão que abre o painel.
+  Um indicador sem arquivo conta como "Sem dados" mesmo que esteja marcado como
+  desatualizado, de modo que os três grupos somam o total do catálogo.
+- **Painel** (`/painel`): todos os indicadores, com a tag de situação (Atualizado /
+  Desatualizado / Sem dados), filtros por texto, eixo e situação, e ordenação por coluna.
   O nome da fonte aparece em vermelho quando os dados do indicador estão desatualizados.
 - **Dados do indicador** (`/indicadores/<id>`): ficha técnica, estatísticas e a
   tabela de `Dados/tabelas_bi`, com filtro por FECAM. Séries históricas ganham um
@@ -73,6 +77,12 @@ python -m indicadores.importacao infraestrutura_bronze_area_municipal.csv infrae
 python -m indicadores.importacao Taxa_de_participacao_cultura_emprego.csv turismo_gold_taxa_de_participacao_da_cultura_no_emprego_projecao.json
 python -m indicadores.importacao empregos_economia_criativa_sebrae.csv emprego_renda_hab_asssoc_gold_tl_empregos_economia_criativa_sebrae.json --descartar trajetoria_suavizada intervalo_de_confianca_mais intervalo_de_confianca_menos
 ```
+
+Quando vários indicadores dividem o mesmo arquivo (ex.: a participação do VAB de cada setor
+em `industria_silver_tl__extract_pib_municipal_fecam.json`), informe no catálogo a coluna de
+cada um em `coluna_do_valor` (ex.: `"coluna_do_valor": "vab_ind"`). Essa coluna passa a ser a
+usada nos cartões de resumo, nas estatísticas e no ano de referência; sem o campo, vale a
+primeira coluna numérica do arquivo.
 
 Tabelas por FECAM saem ordenadas por FECAM e ano (total do estado por último), qualquer
 que seja a ordem das linhas no CSV. O nome do destino deve corresponder ao

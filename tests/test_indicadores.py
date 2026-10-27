@@ -90,6 +90,40 @@ class TestTabelaDados(unittest.TestCase):
         self.assertEqual((projecao.coluna, projecao.valor_estado), ("projetada", 8.74))
         self.assertIsNone(tabela.estatisticas().valor_estado)  # vários anos: não há um total único
 
+    def test_coluna_principal_de_arquivo_compartilhado(self):
+        registros = [
+            {"ano": 2013, "fecam": "Amai", "abrangencia": "FECAM", "vab_agro": 18.5, "vab_ind": 27.28},
+            {"ano": 2013, "fecam": "AMVE", "abrangencia": "FECAM", "vab_agro": 0.72, "vab_ind": 39.91},
+            {"ano": 2014, "fecam": "AMVE", "abrangencia": "FECAM", "vab_agro": 0.66, "vab_ind": None},
+        ]
+        tabela = TabelaDados(registros, coluna_principal="vab_ind")
+        self.assertEqual(tabela.colunas_numericas, ["vab_ind", "vab_agro"])
+        self.assertEqual(tabela.ano_referencia, 2013)
+        est = tabela.do_ano(2013).estatisticas()
+        self.assertEqual((est.coluna, est.rotulo_maior, est.rotulo_menor), ("vab_ind", "AMVE", "Amai"))
+        # Coluna inexistente: mantém a ordem original
+        self.assertEqual(TabelaDados(registros, coluna_principal="xyz").colunas_numericas, ["vab_agro", "vab_ind"])
+
+    def test_ano_referencia_ignora_ano_a_mais_do_estado(self):
+        tabela = TabelaDados([
+            {"ano": 2021, "fecam": "Amai", "abrangencia": "FECAM", "observada": 48.46, "projetada": 48.1},
+            {"ano": 2022, "fecam": "Amai", "abrangencia": "FECAM", "observada": None, "projetada": 49.0},
+            {"ano": 2021, "fecam": "SC", "abrangencia": "Estado", "observada": 58.4, "projetada": 57.7},
+            {"ano": 2022, "fecam": "SC", "abrangencia": "Estado", "observada": 61.27, "projetada": 58.4},
+        ])
+        self.assertEqual(tabela.ano_referencia, 2021)
+
+    def test_tabela_so_com_total_do_estado(self):
+        tabela = TabelaDados([
+            {"ano": 2021, "fecam": "SC", "abrangencia": "Estado", "observada": 0.25, "projetada": 0.25},
+            {"ano": 2022, "fecam": "SC", "abrangencia": "Estado", "observada": 0.27, "projetada": 0.26},
+            {"ano": 2023, "fecam": "SC", "abrangencia": "Estado", "observada": None, "projetada": 0.26},
+        ])
+        self.assertEqual(tabela.ano_referencia, 2022)
+        est = tabela.do_ano(2022).estatisticas()
+        self.assertEqual((est.coluna, est.total, est.media, est.valor_estado), ("observada", 1, 0.27, 0.27))
+        self.assertEqual(tabela.do_ano(2023).estatisticas().coluna, "projetada")
+
 
 class TestImportacao(unittest.TestCase):
     def test_converter_valor(self):
@@ -220,11 +254,20 @@ class TestCatalogo(unittest.TestCase):
         avisos = self.consulta.notificacoes()["notificacoes"]
         self.assertEqual([a["indicador_id"] for a in avisos], [2])
         self.assertEqual(avisos[0]["desde"], "2026-10-01")
+        # Sem arquivo de dados, o indicador fica em "Sem dados" na tela inicial, mesmo desatualizado.
+        self.assertEqual([i["categoria"] for i in self.consulta.listar()["indicadores"]],
+                         ["ATUALIZADO", "SEM_DADOS", "SEM_DADOS"])
+
+    def test_categoria_desatualizado_com_dados(self):
+        self.arquivo_status.write_text(json.dumps(
+            {"indicadores": {"1": {"status": "DESATUALIZADO"}}}), encoding="utf-8")
+        self.assertEqual(self.consulta.listar()["indicadores"][0]["categoria"], "DESATUALIZADO")
 
     def test_consulta_listar_e_dados(self):
         lista = self.consulta.listar()["indicadores"]
         self.assertEqual([i["tem_dados"] for i in lista], [True, False, False])
         self.assertEqual(lista[0]["situacao"]["status"], "ATUALIZADO")
+        self.assertEqual([i["categoria"] for i in lista], ["ATUALIZADO", "SEM_DADOS", "SEM_DADOS"])
         dados = self.consulta.dados(1)
         self.assertEqual(dados["tabela"]["colunas_numericas"], ["valor"])
         self.assertEqual(dados["tabela"]["anos"], [2022])
@@ -287,11 +330,18 @@ class TestAplicacao(unittest.TestCase):
         est = tabela["estatisticas"]["2022"]
         self.assertEqual((est["total"], est["valor_estado"], est["rotulo_maior"]), (21, 703688, "AMVE"))
 
+    def test_api_vab_usa_coluna_de_cada_indicador(self):
+        for id_indicador, coluna in ((11, "vab_adm"), (12, "vab_agro"), (13, "vab_ind"), (14, "vab_serv")):
+            with self.subTest(id=id_indicador):
+                tabela = self.corpo(f"/api/indicadores/{id_indicador}/dados")["tabela"]
+                self.assertEqual(tabela["colunas_numericas"][0], coluna)
+                self.assertEqual(tabela["estatisticas"]["todos"]["coluna"], coluna)
+
     def test_api_notificacoes(self):
         self.assertIn("notificacoes", self.corpo("/api/notificacoes"))
 
     def test_interface_react(self):
-        for caminho in ("/", "/indicadores/1", "/qualquer-rota"):
+        for caminho in ("/", "/painel", "/indicadores/1", "/qualquer-rota"):
             with self.subTest(caminho=caminho):
                 r = self.app.tratar(caminho)
                 self.assertEqual(r.status, 200)

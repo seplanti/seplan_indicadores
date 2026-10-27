@@ -4,7 +4,7 @@ import { api, useConsulta } from '../api.js';
 import { comparar, plural } from '../formato.js';
 import { Link, useTitulo } from '../rotas.js';
 import { CartoesResumo, Carregando, Erro } from '../componentes/Comuns.js';
-import { NomeFonte, ROTULO_STATUS, StatusTag, estaDesatualizado } from '../componentes/StatusTag.js';
+import { NomeFonte, ROTULO_CATEGORIA, StatusTag, categoriaDe } from '../componentes/StatusTag.js';
 import { TabelaOrdenavel } from '../componentes/TabelaOrdenavel.js';
 
 const CAMPOS_BUSCA = ['nome', 'eixo', 'descricao', 'formula', 'unidade', 'fonte', 'temporalidade', 'tabela_databricks'];
@@ -21,8 +21,8 @@ const COLUNAS = [
   { chave: 'id', titulo: 'ID', numerica: true },
   {
     chave: 'situacao', titulo: 'Situação',
-    valor: (i) => ROTULO_STATUS[i.situacao.status],
-    celula: (i) => html`<${StatusTag} situacao=${i.situacao} />`,
+    valor: (i) => ROTULO_CATEGORIA[categoriaDe(i)],
+    celula: (i) => html`<${StatusTag} indicador=${i} />`,
   },
   {
     chave: 'dados', titulo: 'Dados',
@@ -57,12 +57,13 @@ export function Painel() {
 
   const indicadores = dados?.indicadores ?? [];
   const eixos = useMemo(() => [...new Set(indicadores.map((i) => i.eixo || ''))].sort(comparar), [indicadores]);
-  const desatualizados = indicadores.filter(estaDesatualizado).length;
+  const contar = (categoria) => indicadores.filter((i) => categoriaDe(i) === categoria).length;
+  const desatualizados = contar('DESATUALIZADO');
 
   const filtrados = useMemo(() => {
     const termo = busca.trim().toLowerCase();
     return indicadores.filter((i) => (!eixo || (i.eixo || '') === eixo)
-      && (!status || i.situacao.status === status)
+      && (!status || categoriaDe(i) === status)
       && (!termo || CAMPOS_BUSCA.some((c) => String(i[c] ?? '').toLowerCase().includes(termo))));
   }, [indicadores, busca, eixo, status]);
 
@@ -75,9 +76,9 @@ export function Painel() {
       <${CartoesResumo} itens=${[
         { valor: indicadores.length, rotulo: 'indicadores' },
         { valor: eixos.length, rotulo: 'blocos / eixos' },
-        { valor: indicadores.filter((i) => i.tem_dados).length, rotulo: 'com dados disponíveis' },
-        { valor: indicadores.length - desatualizados, rotulo: 'atualizados', classe: 'text-success-emphasis' },
+        { valor: contar('ATUALIZADO'), rotulo: 'atualizados', classe: 'text-success-emphasis' },
         { valor: desatualizados, rotulo: 'desatualizados', classe: desatualizados ? 'text-danger-emphasis' : '' },
+        { valor: contar('SEM_DADOS'), rotulo: 'sem dados', classe: 'text-secondary-emphasis' },
       ]} />
 
       <form className="card card-body mb-3" role="search" aria-label="Filtrar indicadores" onSubmit=${(e) => e.preventDefault()}>
@@ -98,7 +99,7 @@ export function Painel() {
             <label htmlFor="filtro-situacao" className="form-label">Situação</label>
             <select id="filtro-situacao" className="form-select" value=${status} onChange=${(e) => setStatus(e.target.value)}>
               <option value="">Todas</option>
-              ${Object.entries(ROTULO_STATUS).map(([valor, rotulo]) => html`<option key=${valor} value=${valor}>${rotulo}</option>`)}
+              ${Object.entries(ROTULO_CATEGORIA).map(([valor, rotulo]) => html`<option key=${valor} value=${valor}>${rotulo}</option>`)}
             </select>
           </div>
           <div className="col-12 col-lg-2">
