@@ -49,22 +49,28 @@ A chave é o `id` do indicador no catálogo. `motivo` e `desde` são opcionais.
 ## Importar dados do Impala/Databricks (CSV)
 
 ```
-python -m indicadores.importacao <arquivo.csv> <nome_destino.json> [--ano 2024] [--somente-sc] [--descartar coluna ...]
+python -m indicadores.importacao <arquivo.csv> <nome_destino.json> [--ano 2024] [--somente-sc] [--colunas-por-ano] [--descartar coluna ...]
 ```
 
 Grava o JSON em `Dados/tabelas_bi`. O CSV deve ter o código IBGE do município na
-coluna `municipio` ou `cd_mun` (aceita `4209508.0`); as demais colunas viram colunas
-de dados (`write_date`/`write_time` são descartadas, `NULL` vira `null`) e linhas sem
+coluna `id_municipio`, `codigo`, `codigo_ibge`, `cod_munic`, `cod__municipio`, `co_municipio`, `cd_mun` ou `municipio`
+(nessa ordem de preferência, porque `municipio` às vezes traz o nome; aceita `4209508.0` e o código de
+6 dígitos, sem o dígito verificador); as demais colunas viram colunas de dados (as colunas
+`fecam`/`municipio` do CSV são substituídas pelas de `municipios_sc.json`, `write_date`/`write_time`
+são descartadas, `NULL` vira `null`) e linhas sem
 código (rodapés `NULL`/`OBS: ...`) são ignoradas. Nome e FECAM de cada município vêm de
 `Dados/municipios_sc.json`.
 
 CSVs agregados por FECAM (coluna `fecam`, sem código de município) também são aceitos:
-o nome da FECAM é padronizado pela grafia de `municipios_sc.json` e a linha `SC` vira o
-total do estado (`abrangencia: "Estado"`). Na tela, esse total aparece num cartão próprio
-e fica fora da média, do maior e do menor. Em séries com projeção, a tela abre no último
-ano com dado observado, e nos anos projetados as estatísticas usam a primeira coluna com dados.
+o nome da FECAM é padronizado pela grafia de `municipios_sc.json` e a linha `SC` (ou
+`Santa Catarina`) vira o total do estado (`abrangencia: "Estado"`). Linhas de outras UFs
+e do Brasil, usadas para comparação, viram `abrangencia: "UF"` ou `"País"`. Na tela, o
+total do estado aparece num cartão próprio; ele e as linhas de comparação ficam fora da
+média, do maior e do menor. Em séries com projeção, a tela abre no último ano com dado observado, e nos anos projetados as estatísticas usam a primeira coluna com dados.
 
 - `--ano`: ano dos dados quando o CSV não tem a coluna `ano`.
+- `--colunas-por-ano`: para CSVs com um ano por coluna (`valor_2000`, `valor_2010`);
+  cada ano vira uma linha, com as colunas `ano` e `valor`.
 - `--somente-sc`: para CSVs com todos os municípios do Brasil; mantém só os de SC.
   Sem essa opção, um código fora de SC é erro.
 - `--descartar`: colunas redundantes que não devem ir para o JSON.
@@ -75,6 +81,9 @@ Exemplos usados nos dados atuais:
 python -m indicadores.importacao query-impala-318538.csv emprego_renda_hab_asssoc_bronze_censo_habitacional_consolidado.json
 python -m indicadores.importacao infraestrutura_bronze_area_municipal.csv infraestrutura_bronze_tl_area_municipal.json --ano 2024 --somente-sc --descartar cd_uf nm_uf nm_uf_sigla nm_mun
 python -m indicadores.importacao Taxa_de_participacao_cultura_emprego.csv turismo_gold_taxa_de_participacao_da_cultura_no_emprego_projecao.json
+python -m indicadores.importacao tl_percent_programas_habit.csv avancasc_assistencia_social_ouro_tl_percent_programas_habit.json --ano 2020
+python -m indicadores.importacao id_graf_taxa_abandono_ensino_medio.csv avancasc_educacao_ouro_id_graf_taxa_abandono_ensino_medio.json --descartar file_source
+python -m indicadores.importacao avancasc.saude_bronze.esperanca_vida_ao_nascer_planilha1.csv avancasc_saude_bronze_esperanca_vida_ao_nascer_planilha1.json --colunas-por-ano --descartar espacialidades
 python -m indicadores.importacao empregos_economia_criativa_sebrae.csv emprego_renda_hab_asssoc_gold_tl_empregos_economia_criativa_sebrae.json --descartar trajetoria_suavizada intervalo_de_confianca_mais intervalo_de_confianca_menos
 ```
 

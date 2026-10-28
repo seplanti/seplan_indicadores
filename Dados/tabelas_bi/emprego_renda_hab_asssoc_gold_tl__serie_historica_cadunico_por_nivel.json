@@ -1,0 +1,2422 @@
+[
+ {
+  "id": 1,
+  "ano": 2012,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3036,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 14596,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 6364,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 4209
+ },
+ {
+  "id": 2,
+  "ano": 2013,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4487,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 15460,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 6655,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 4060
+ },
+ {
+  "id": 3,
+  "ano": 2014,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5690,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 16233,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 7278,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 4023
+ },
+ {
+  "id": 4,
+  "ano": 2015,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5653,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 12866,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 5622,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2690
+ },
+ {
+  "id": 5,
+  "ano": 2016,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6292,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 11262,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4799,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2406
+ },
+ {
+  "id": 6,
+  "ano": 2017,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5976,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 10943,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4842,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1934
+ },
+ {
+  "id": 7,
+  "ano": 2018,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5483,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 9792,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4566,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1609
+ },
+ {
+  "id": 8,
+  "ano": 2019,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5664,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 9720,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4839,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1485
+ },
+ {
+  "id": 9,
+  "ano": 2020,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4848,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 9859,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 5101,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1411
+ },
+ {
+  "id": 10,
+  "ano": 2021,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5473,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 11204,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 5648,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1546
+ },
+ {
+  "id": 11,
+  "ano": 2022,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6687,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 13454,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 6630,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1970
+ },
+ {
+  "id": 12,
+  "ano": 2012,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3759,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 16699,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 5396,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 5475
+ },
+ {
+  "id": 13,
+  "ano": 2013,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5318,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 17809,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 5574,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 5068
+ },
+ {
+  "id": 14,
+  "ano": 2014,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6848,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 18814,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 5751,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 5156
+ },
+ {
+  "id": 15,
+  "ano": 2015,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7518,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 15914,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4230,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3677
+ },
+ {
+  "id": 16,
+  "ano": 2016,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7990,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 13560,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3496,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3411
+ },
+ {
+  "id": 17,
+  "ano": 2017,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7154,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 12975,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3633,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3046
+ },
+ {
+  "id": 18,
+  "ano": 2018,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7063,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 11346,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3696,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2464
+ },
+ {
+  "id": 19,
+  "ano": 2019,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 8412,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 11669,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3948,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2398
+ },
+ {
+  "id": 20,
+  "ano": 2020,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7641,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 12111,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4644,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2299
+ },
+ {
+  "id": 21,
+  "ano": 2021,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 8674,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 14260,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 5656,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2466
+ },
+ {
+  "id": 22,
+  "ano": 2022,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 11513,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 18666,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 7331,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3167
+ },
+ {
+  "id": 23,
+  "ano": 2012,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 2790,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 8383,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2359,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2888
+ },
+ {
+  "id": 24,
+  "ano": 2013,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3897,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 8740,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2399,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2641
+ },
+ {
+  "id": 25,
+  "ano": 2014,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4659,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 8994,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2568,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2651
+ },
+ {
+  "id": 26,
+  "ano": 2015,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4648,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 6019,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1727,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1317
+ },
+ {
+  "id": 27,
+  "ano": 2016,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4751,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 5001,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1326,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1087
+ },
+ {
+  "id": 28,
+  "ano": 2017,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3912,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 4823,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1276,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1008
+ },
+ {
+  "id": 29,
+  "ano": 2018,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3433,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 4035,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1155,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 931
+ },
+ {
+  "id": 30,
+  "ano": 2019,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3870,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 3990,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1192,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 908
+ },
+ {
+  "id": 31,
+  "ano": 2020,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3572,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 4026,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1255,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 904
+ },
+ {
+  "id": 32,
+  "ano": 2021,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3917,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 4740,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1521,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 920
+ },
+ {
+  "id": 33,
+  "ano": 2022,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4610,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 6418,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2293,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1231
+ },
+ {
+  "id": 34,
+  "ano": 2012,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3224,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 14577,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4321,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 5493
+ },
+ {
+  "id": 35,
+  "ano": 2013,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5491,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 15753,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4367,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 5225
+ },
+ {
+  "id": 36,
+  "ano": 2014,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7342,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 15959,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4512,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 4974
+ },
+ {
+  "id": 37,
+  "ano": 2015,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7663,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 12364,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3006,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3065
+ },
+ {
+  "id": 38,
+  "ano": 2016,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7217,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 10128,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2091,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2653
+ },
+ {
+  "id": 39,
+  "ano": 2017,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5422,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 9376,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2109,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2392
+ },
+ {
+  "id": 40,
+  "ano": 2018,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4912,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 7748,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2108,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1766
+ },
+ {
+  "id": 41,
+  "ano": 2019,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5306,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 7632,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2256,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1618
+ },
+ {
+  "id": 42,
+  "ano": 2020,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4901,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 7584,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2449,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1495
+ },
+ {
+  "id": 43,
+  "ano": 2021,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5472,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 9009,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2898,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1585
+ },
+ {
+  "id": 44,
+  "ano": 2022,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6337,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 12055,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4238,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2108
+ },
+ {
+  "id": 45,
+  "ano": 2012,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 2582,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 11007,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3938,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3752
+ },
+ {
+  "id": 46,
+  "ano": 2013,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3627,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 10870,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3490,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3389
+ },
+ {
+  "id": 47,
+  "ano": 2014,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5280,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 10949,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3440,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3313
+ },
+ {
+  "id": 48,
+  "ano": 2015,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5553,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 8650,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2232,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2255
+ },
+ {
+  "id": 49,
+  "ano": 2016,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5917,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 7280,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1611,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1939
+ },
+ {
+  "id": 50,
+  "ano": 2017,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4890,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 6945,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1751,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1620
+ },
+ {
+  "id": 51,
+  "ano": 2018,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3828,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 5691,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1784,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1321
+ },
+ {
+  "id": 52,
+  "ano": 2019,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4103,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 5500,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1931,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1190
+ },
+ {
+  "id": 53,
+  "ano": 2020,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3717,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 5497,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1963,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1205
+ },
+ {
+  "id": 54,
+  "ano": 2021,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4181,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 6460,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2295,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1276
+ },
+ {
+  "id": 55,
+  "ano": 2022,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5449,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 8318,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2985,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1560
+ },
+ {
+  "id": 56,
+  "ano": 2012,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 1689,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 9774,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4228,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2870
+ },
+ {
+  "id": 57,
+  "ano": 2013,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3451,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 10050,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3749,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2752
+ },
+ {
+  "id": 58,
+  "ano": 2014,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4459,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 10211,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3670,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2744
+ },
+ {
+  "id": 59,
+  "ano": 2015,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4563,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 8047,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2717,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1677
+ },
+ {
+  "id": 60,
+  "ano": 2016,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4884,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 6490,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2165,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1376
+ },
+ {
+  "id": 61,
+  "ano": 2017,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3881,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 6009,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2277,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1099
+ },
+ {
+  "id": 62,
+  "ano": 2018,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3106,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 4879,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2052,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 894
+ },
+ {
+  "id": 63,
+  "ano": 2019,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3211,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 4685,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2102,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 763
+ },
+ {
+  "id": 64,
+  "ano": 2020,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 2941,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 4554,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2186,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 689
+ },
+ {
+  "id": 65,
+  "ano": 2021,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3272,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 5284,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2425,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 786
+ },
+ {
+  "id": 66,
+  "ano": 2022,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4165,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 6875,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3124,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1047
+ },
+ {
+  "id": 67,
+  "ano": 2012,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3268,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 17165,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 5698,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 6574
+ },
+ {
+  "id": 68,
+  "ano": 2013,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4130,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 16919,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 5396,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 5624
+ },
+ {
+  "id": 69,
+  "ano": 2014,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5310,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 17865,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 5941,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 5441
+ },
+ {
+  "id": 70,
+  "ano": 2015,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5479,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 14891,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4519,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3707
+ },
+ {
+  "id": 71,
+  "ano": 2016,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5460,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 12717,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3846,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3082
+ },
+ {
+  "id": 72,
+  "ano": 2017,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4349,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 12184,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3906,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2876
+ },
+ {
+  "id": 73,
+  "ano": 2018,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3858,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 10536,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3557,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2458
+ },
+ {
+  "id": 74,
+  "ano": 2019,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4725,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 11023,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3828,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2530
+ },
+ {
+  "id": 75,
+  "ano": 2020,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4364,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 10662,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3783,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2431
+ },
+ {
+  "id": 76,
+  "ano": 2021,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4969,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 13037,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4803,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2760
+ },
+ {
+  "id": 77,
+  "ano": 2022,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6349,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 17651,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 7324,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3641
+ },
+ {
+  "id": 78,
+  "ano": 2012,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4293,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 22688,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 7209,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 8809
+ },
+ {
+  "id": 79,
+  "ano": 2013,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5621,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 23113,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 7188,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 8127
+ },
+ {
+  "id": 80,
+  "ano": 2014,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7384,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 24806,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 7759,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 8234
+ },
+ {
+  "id": 81,
+  "ano": 2015,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 8146,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 21322,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 6363,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 5789
+ },
+ {
+  "id": 82,
+  "ano": 2016,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 8205,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 18919,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 5690,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 5057
+ },
+ {
+  "id": 83,
+  "ano": 2017,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7485,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 20029,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 6903,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 4847
+ },
+ {
+  "id": 84,
+  "ano": 2018,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 8239,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 20904,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 8501,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 4513
+ },
+ {
+  "id": 85,
+  "ano": 2019,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 10619,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 24322,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 10435,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 4972
+ },
+ {
+  "id": 86,
+  "ano": 2020,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 10507,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 26212,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 12023,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 4865
+ },
+ {
+  "id": 87,
+  "ano": 2021,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 12396,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 32722,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 14767,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 5731
+ },
+ {
+  "id": 88,
+  "ano": 2022,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 16408,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 47451,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 23049,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 8053
+ },
+ {
+  "id": 89,
+  "ano": 2012,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 2714,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 7983,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2217,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2718
+ },
+ {
+  "id": 90,
+  "ano": 2013,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3896,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 8394,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2153,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2521
+ },
+ {
+  "id": 91,
+  "ano": 2014,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4589,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 8732,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2404,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2436
+ },
+ {
+  "id": 92,
+  "ano": 2015,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4721,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 6598,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1610,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1384
+ },
+ {
+  "id": 93,
+  "ano": 2016,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4496,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 5316,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1196,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1102
+ },
+ {
+  "id": 94,
+  "ano": 2017,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3474,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 5109,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1339,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 960
+ },
+ {
+  "id": 95,
+  "ano": 2018,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3105,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 4363,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1422,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 798
+ },
+ {
+  "id": 96,
+  "ano": 2019,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3317,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 4340,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1507,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 784
+ },
+ {
+  "id": 97,
+  "ano": 2020,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3018,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 4419,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1607,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 776
+ },
+ {
+  "id": 98,
+  "ano": 2021,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3304,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 5029,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1793,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 830
+ },
+ {
+  "id": 99,
+  "ano": 2022,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4077,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 6278,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2187,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 913
+ },
+ {
+  "id": 100,
+  "ano": 2012,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 986,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 4664,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1606,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1283
+ },
+ {
+  "id": 101,
+  "ano": 2013,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 1424,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 4763,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1455,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1174
+ },
+ {
+  "id": 102,
+  "ano": 2014,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 1504,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 4890,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1541,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1153
+ },
+ {
+  "id": 103,
+  "ano": 2015,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 1505,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 3742,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1200,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 730
+ },
+ {
+  "id": 104,
+  "ano": 2016,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 1463,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 2856,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 888,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 564
+ },
+ {
+  "id": 105,
+  "ano": 2017,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 1030,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 2705,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1025,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 513
+ },
+ {
+  "id": 106,
+  "ano": 2018,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 985,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 2315,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 950,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 464
+ },
+ {
+  "id": 107,
+  "ano": 2019,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 1117,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 2242,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1018,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 382
+ },
+ {
+  "id": 108,
+  "ano": 2020,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 1090,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 2267,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1087,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 375
+ },
+ {
+  "id": 109,
+  "ano": 2021,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 1294,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 2690,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1206,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 407
+ },
+ {
+  "id": 110,
+  "ano": 2022,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 1699,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 3388,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1374,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 537
+ },
+ {
+  "id": 111,
+  "ano": 2012,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4912,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 18402,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 5857,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 6232
+ },
+ {
+  "id": 112,
+  "ano": 2013,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6533,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 19403,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 5982,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 6148
+ },
+ {
+  "id": 113,
+  "ano": 2014,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6805,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 17046,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 5419,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 5033
+ },
+ {
+  "id": 114,
+  "ano": 2015,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6353,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 14856,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4033,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 4238
+ },
+ {
+  "id": 115,
+  "ano": 2016,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5916,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 12412,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3056,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3808
+ },
+ {
+  "id": 116,
+  "ano": 2017,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5339,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 11897,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3187,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3542
+ },
+ {
+  "id": 117,
+  "ano": 2018,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5672,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 10497,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3005,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2950
+ },
+ {
+  "id": 118,
+  "ano": 2019,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6487,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 10650,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3431,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2724
+ },
+ {
+  "id": 119,
+  "ano": 2020,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6212,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 11060,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3684,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2696
+ },
+ {
+  "id": 120,
+  "ano": 2021,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7146,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 13530,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4501,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3223
+ },
+ {
+  "id": 121,
+  "ano": 2022,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 9363,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 19224,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 6983,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 4442
+ },
+ {
+  "id": 122,
+  "ano": 2012,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3301,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 22391,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 8160,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 7588
+ },
+ {
+  "id": 123,
+  "ano": 2013,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4817,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 23551,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 7885,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 7382
+ },
+ {
+  "id": 124,
+  "ano": 2014,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6035,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 24288,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 8090,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 7569
+ },
+ {
+  "id": 125,
+  "ano": 2015,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6537,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 18636,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 5132,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 4821
+ },
+ {
+  "id": 126,
+  "ano": 2016,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6766,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 15675,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3836,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 4229
+ },
+ {
+  "id": 127,
+  "ano": 2017,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5270,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 15048,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4415,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3740
+ },
+ {
+  "id": 128,
+  "ano": 2018,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4855,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 12964,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4454,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2836
+ },
+ {
+  "id": 129,
+  "ano": 2019,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5149,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 12703,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4835,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2665
+ },
+ {
+  "id": 130,
+  "ano": 2020,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4823,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 12440,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4996,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2518
+ },
+ {
+  "id": 131,
+  "ano": 2021,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5356,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 14354,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 5584,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2799
+ },
+ {
+  "id": 132,
+  "ano": 2022,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6732,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 18265,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 7571,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3621
+ },
+ {
+  "id": 133,
+  "ano": 2012,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 831,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 5923,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2062,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2029
+ },
+ {
+  "id": 134,
+  "ano": 2013,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 1593,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 6130,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1784,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1876
+ },
+ {
+  "id": 135,
+  "ano": 2014,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 2125,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 6348,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1748,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1934
+ },
+ {
+  "id": 136,
+  "ano": 2015,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 2456,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 5000,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1221,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1131
+ },
+ {
+  "id": 137,
+  "ano": 2016,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 2625,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 4095,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 868,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 915
+ },
+ {
+  "id": 138,
+  "ano": 2017,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 2185,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 3847,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1006,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 778
+ },
+ {
+  "id": 139,
+  "ano": 2018,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 2100,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 3361,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1046,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 646
+ },
+ {
+  "id": 140,
+  "ano": 2019,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 2438,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 3391,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 944,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 646
+ },
+ {
+  "id": 141,
+  "ano": 2020,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 2352,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 3528,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 978,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 683
+ },
+ {
+  "id": 142,
+  "ano": 2021,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 2612,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 4144,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1168,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 717
+ },
+ {
+  "id": 143,
+  "ano": 2022,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3128,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 5062,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1437,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 886
+ },
+ {
+  "id": 144,
+  "ano": 2012,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3843,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 19901,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 6758,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 6745
+ },
+ {
+  "id": 145,
+  "ano": 2013,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4973,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 20528,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 7010,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 6211
+ },
+ {
+  "id": 146,
+  "ano": 2014,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6333,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 20351,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 7605,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 5432
+ },
+ {
+  "id": 147,
+  "ano": 2015,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6886,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 16633,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 6132,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3542
+ },
+ {
+  "id": 148,
+  "ano": 2016,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7241,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 14731,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 5560,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3140
+ },
+ {
+  "id": 149,
+  "ano": 2017,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5585,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 15285,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 6302,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2808
+ },
+ {
+  "id": 150,
+  "ano": 2018,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5040,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 14020,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 6797,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2232
+ },
+ {
+  "id": 151,
+  "ano": 2019,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5735,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 14611,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 7288,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2227
+ },
+ {
+  "id": 152,
+  "ano": 2020,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5133,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 14813,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 7756,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2068
+ },
+ {
+  "id": 153,
+  "ano": 2021,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5680,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 17577,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 9272,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2302
+ },
+ {
+  "id": 154,
+  "ano": 2022,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7118,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 23041,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 13051,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2939
+ },
+ {
+  "id": 155,
+  "ano": 2012,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 8813,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 28054,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 7806,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 9821
+ },
+ {
+  "id": 156,
+  "ano": 2013,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 10934,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 30859,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 8296,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 9682
+ },
+ {
+  "id": 157,
+  "ano": 2014,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 12771,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 31907,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 9335,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 9220
+ },
+ {
+  "id": 158,
+  "ano": 2015,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 12719,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 27204,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 7667,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 6241
+ },
+ {
+  "id": 159,
+  "ano": 2016,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 14066,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 25673,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 7639,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 5652
+ },
+ {
+  "id": 160,
+  "ano": 2017,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 12346,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 26644,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 8615,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 5426
+ },
+ {
+  "id": 161,
+  "ano": 2018,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 14565,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 25147,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 9002,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 4709
+ },
+ {
+  "id": 162,
+  "ano": 2019,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 17696,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 27906,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 10612,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 4913
+ },
+ {
+  "id": 163,
+  "ano": 2020,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 17507,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 30066,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 11947,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 4904
+ },
+ {
+  "id": 164,
+  "ano": 2021,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 19785,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 37807,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 15058,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 5823
+ },
+ {
+  "id": 165,
+  "ano": 2022,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 23732,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 52504,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 22815,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 8647
+ },
+ {
+  "id": 166,
+  "ano": 2012,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 1159,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 7708,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1789,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3299
+ },
+ {
+  "id": 167,
+  "ano": 2013,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 1660,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 8243,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1708,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3227
+ },
+ {
+  "id": 168,
+  "ano": 2014,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 1830,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 8576,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1926,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3157
+ },
+ {
+  "id": 169,
+  "ano": 2015,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 2138,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 6365,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1413,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1781
+ },
+ {
+  "id": 170,
+  "ano": 2016,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 2433,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 5717,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1407,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1441
+ },
+ {
+  "id": 171,
+  "ano": 2017,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 2122,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 5849,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 1931,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1337
+ },
+ {
+  "id": 172,
+  "ano": 2018,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 2347,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 5476,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2033,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1172
+ },
+ {
+  "id": 173,
+  "ano": 2019,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3096,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 5707,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2307,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1125
+ },
+ {
+  "id": 174,
+  "ano": 2020,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 2710,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 5535,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2439,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1084
+ },
+ {
+  "id": 175,
+  "ano": 2021,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 2892,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 6277,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2747,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1163
+ },
+ {
+  "id": 176,
+  "ano": 2022,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3695,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 8229,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3810,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1413
+ },
+ {
+  "id": 177,
+  "ano": 2012,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4577,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 22263,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 6594,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 7894
+ },
+ {
+  "id": 178,
+  "ano": 2013,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5978,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 22664,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 6447,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 7257
+ },
+ {
+  "id": 179,
+  "ano": 2014,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7308,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 23382,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 7035,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 6970
+ },
+ {
+  "id": 180,
+  "ano": 2015,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7172,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 16563,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4575,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 4076
+ },
+ {
+  "id": 181,
+  "ano": 2016,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6908,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 13372,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3800,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3173
+ },
+ {
+  "id": 182,
+  "ano": 2017,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5501,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 12644,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4009,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2752
+ },
+ {
+  "id": 183,
+  "ano": 2018,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4975,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 11002,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4286,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2177
+ },
+ {
+  "id": 184,
+  "ano": 2019,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5919,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 11926,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4990,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2274
+ },
+ {
+  "id": 185,
+  "ano": 2020,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5504,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 12604,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 5593,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2143
+ },
+ {
+  "id": 186,
+  "ano": 2021,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6190,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 15472,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 6871,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2526
+ },
+ {
+  "id": 187,
+  "ano": 2022,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7828,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 21732,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 10538,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3356
+ },
+ {
+  "id": 188,
+  "ano": 2012,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 3734,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 31290,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 11284,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 11216
+ },
+ {
+  "id": 189,
+  "ano": 2013,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 4871,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 32759,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 11029,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 10829
+ },
+ {
+  "id": 190,
+  "ano": 2014,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6697,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 34034,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 12321,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 10266
+ },
+ {
+  "id": 191,
+  "ano": 2015,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7525,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 27223,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 9451,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 6422
+ },
+ {
+  "id": 192,
+  "ano": 2016,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 8838,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 23389,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 8569,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 5220
+ },
+ {
+  "id": 193,
+  "ano": 2017,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7766,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 23258,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 9402,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 4542
+ },
+ {
+  "id": 194,
+  "ano": 2018,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7995,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 21131,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 9493,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3852
+ },
+ {
+  "id": 195,
+  "ano": 2019,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 9159,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 21094,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 9433,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3861
+ },
+ {
+  "id": 196,
+  "ano": 2020,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 8101,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 20402,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 9494,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3677
+ },
+ {
+  "id": 197,
+  "ano": 2021,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 8993,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 24272,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 11716,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3988
+ },
+ {
+  "id": 198,
+  "ano": 2022,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 11299,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 33258,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 18362,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 4869
+ },
+ {
+  "id": 199,
+  "ano": 2012,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7617,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 9375,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2958,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2460
+ },
+ {
+  "id": 200,
+  "ano": 2013,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 9011,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 10199,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3122,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2328
+ },
+ {
+  "id": 201,
+  "ano": 2014,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 10193,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 10587,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2846,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2359
+ },
+ {
+  "id": 202,
+  "ano": 2015,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 9327,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 9440,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2407,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1754
+ },
+ {
+  "id": 203,
+  "ano": 2016,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7590,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 7774,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2044,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1498
+ },
+ {
+  "id": 204,
+  "ano": 2017,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5839,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 8421,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2453,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1612
+ },
+ {
+  "id": 205,
+  "ano": 2018,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5877,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 8504,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 2875,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1562
+ },
+ {
+  "id": 206,
+  "ano": 2019,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6365,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 9289,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 3407,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1615
+ },
+ {
+  "id": 207,
+  "ano": 2020,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 5972,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 10315,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4149,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1590
+ },
+ {
+  "id": 208,
+  "ano": 2021,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6502,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 12221,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 4958,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 1751
+ },
+ {
+  "id": 209,
+  "ano": 2022,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 7784,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 15881,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 6788,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2415
+ },
+ {
+  "id": 210,
+  "ano": 2012,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 6756,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 18631,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 6325,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 5351
+ },
+ {
+  "id": 211,
+  "ano": 2013,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 8528,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 20744,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 6810,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 5253
+ },
+ {
+  "id": 212,
+  "ano": 2014,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 11602,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 22587,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 7384,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 5570
+ },
+ {
+  "id": 213,
+  "ano": 2015,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 10985,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 17928,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 5735,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3263
+ },
+ {
+  "id": 214,
+  "ano": 2016,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 10212,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 15571,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 5384,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2821
+ },
+ {
+  "id": 215,
+  "ano": 2017,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 8307,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 16056,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 6154,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2725
+ },
+ {
+  "id": 216,
+  "ano": 2018,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 8195,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 14439,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 6377,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2292
+ },
+ {
+  "id": 217,
+  "ano": 2019,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 9979,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 15558,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 7125,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2341
+ },
+ {
+  "id": 218,
+  "ano": 2020,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 9288,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 16794,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 8053,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2368
+ },
+ {
+  "id": 219,
+  "ano": 2021,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 10532,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 20463,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 9477,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 2702
+ },
+ {
+  "id": 220,
+  "ano": 2022,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 13047,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 27556,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 12500,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 3835
+ },
+ {
+  "id": 221,
+  "ano": 2012,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 9339,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 43711,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 15786,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 15050
+ },
+ {
+  "id": 222,
+  "ano": 2013,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 12550,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 47113,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 15751,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 14783
+ },
+ {
+  "id": 223,
+  "ano": 2014,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 19587,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 51801,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 17225,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 14994
+ },
+ {
+  "id": 224,
+  "ano": 2015,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 19816,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 43621,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 13286,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 9959
+ },
+ {
+  "id": 225,
+  "ano": 2016,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 21715,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 38925,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 11494,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 8737
+ },
+ {
+  "id": 226,
+  "ano": 2017,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 17733,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 39778,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 12918,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 8031
+ },
+ {
+  "id": 227,
+  "ano": 2018,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 19075,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 38670,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 14235,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 7127
+ },
+ {
+  "id": 228,
+  "ano": 2019,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 25510,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 45526,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 17500,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 7804
+ },
+ {
+  "id": 229,
+  "ano": 2020,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 24031,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 49270,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 20280,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 7697
+ },
+ {
+  "id": 230,
+  "ano": 2021,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 27322,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 61704,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 26173,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 8964
+ },
+ {
+  "id": 231,
+  "ano": 2022,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 32502,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 85458,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 40380,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 12310
+ },
+ {
+  "id": 232,
+  "ano": 2012,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 83223,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 355185,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 118715,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 121756
+ },
+ {
+  "id": 233,
+  "ano": 2013,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 112790,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 374064,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 118250,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 115557
+ },
+ {
+  "id": 234,
+  "ano": 2014,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 144351,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 388360,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 125798,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 112629
+ },
+ {
+  "id": 235,
+  "ano": 2015,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 147363,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 313882,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 94278,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 73519
+ },
+ {
+  "id": 236,
+  "ano": 2016,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 150985,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 270863,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 80765,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 63311
+ },
+ {
+  "id": 237,
+  "ano": 2017,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 125566,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 269825,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 89453,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 57588
+ },
+ {
+  "id": 238,
+  "ano": 2018,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 124708,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 246820,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 93394,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 48773
+ },
+ {
+  "id": 239,
+  "ano": 2019,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 147877,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 263484,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 104928,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 49225
+ },
+ {
+  "id": 240,
+  "ano": 2020,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 138232,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 274018,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 115467,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 47878
+ },
+ {
+  "id": 241,
+  "ano": 2021,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 155962,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 332256,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 140537,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 54265
+ },
+ {
+  "id": 242,
+  "ano": 2022,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "quantidade_de_familias_com_renda_per_capita_mensal_acima_de_meio_salario_minimo_inscritas_no_cadastro_unico": 193522,
+  "quantidade_de_familias_com_renda_per_capita_mensal_ate_meio_salario_minimo_inscritas_no_cadastro_unico": 450764,
+  "quantidade_de_familias_em_situacao_de_extrema_pobreza_inscritas_no_cadastro_unico": 204770,
+  "quantidade_de_familias_em_situacao_de_pobreza_inscritas_no_cadastro_unico": 72960
+ }
+]

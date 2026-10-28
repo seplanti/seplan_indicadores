@@ -1,0 +1,2972 @@
+[
+ {
+  "id": 1,
+  "ano": 2010,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "num_obitos": 17,
+  "num_nascidos_vivos": 2122,
+  "tmi": 8.011310084825636
+ },
+ {
+  "id": 2,
+  "ano": 2011,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "num_obitos": 23,
+  "num_nascidos_vivos": 2064,
+  "tmi": 11.14341085271318
+ },
+ {
+  "id": 3,
+  "ano": 2012,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "num_obitos": 27,
+  "num_nascidos_vivos": 1990,
+  "tmi": 13.567839195979898
+ },
+ {
+  "id": 4,
+  "ano": 2013,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "num_obitos": 33,
+  "num_nascidos_vivos": 2077,
+  "tmi": 15.888300433317285
+ },
+ {
+  "id": 5,
+  "ano": 2014,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "num_obitos": 25,
+  "num_nascidos_vivos": 2129,
+  "tmi": 11.742602160638796
+ },
+ {
+  "id": 6,
+  "ano": 2015,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "num_obitos": 21,
+  "num_nascidos_vivos": 2336,
+  "tmi": 8.98972602739726
+ },
+ {
+  "id": 7,
+  "ano": 2016,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "num_obitos": 25,
+  "num_nascidos_vivos": 2249,
+  "tmi": 11.116051578479324
+ },
+ {
+  "id": 8,
+  "ano": 2017,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "num_obitos": 21,
+  "num_nascidos_vivos": 2324,
+  "tmi": 9.036144578313253
+ },
+ {
+  "id": 9,
+  "ano": 2018,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "num_obitos": 24,
+  "num_nascidos_vivos": 2440,
+  "tmi": 9.836065573770492
+ },
+ {
+  "id": 10,
+  "ano": 2019,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "num_obitos": 37,
+  "num_nascidos_vivos": 2316,
+  "tmi": 15.975820379965457
+ },
+ {
+  "id": 11,
+  "ano": 2020,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "num_obitos": 25,
+  "num_nascidos_vivos": 2320,
+  "tmi": 10.775862068965518
+ },
+ {
+  "id": 12,
+  "ano": 2021,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "num_obitos": 21,
+  "num_nascidos_vivos": 2276,
+  "tmi": 9.22671353251318
+ },
+ {
+  "id": 13,
+  "ano": 2022,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "num_obitos": 25,
+  "num_nascidos_vivos": 2299,
+  "tmi": 10.87429317094389
+ },
+ {
+  "id": 14,
+  "ano": 2023,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "num_obitos": 29,
+  "num_nascidos_vivos": 2233,
+  "tmi": 12.987012987012989
+ },
+ {
+  "id": 15,
+  "ano": 2024,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "num_obitos": 35,
+  "num_nascidos_vivos": 2146,
+  "tmi": 16.309412861136998
+ },
+ {
+  "id": 16,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "num_obitos": 40,
+  "num_nascidos_vivos": 3128,
+  "tmi": 12.78772378516624
+ },
+ {
+  "id": 17,
+  "ano": 2011,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "num_obitos": 45,
+  "num_nascidos_vivos": 3147,
+  "tmi": 14.299332697807436
+ },
+ {
+  "id": 18,
+  "ano": 2012,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "num_obitos": 31,
+  "num_nascidos_vivos": 3042,
+  "tmi": 10.190664036817882
+ },
+ {
+  "id": 19,
+  "ano": 2013,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "num_obitos": 32,
+  "num_nascidos_vivos": 3233,
+  "tmi": 9.89792762140427
+ },
+ {
+  "id": 20,
+  "ano": 2014,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "num_obitos": 40,
+  "num_nascidos_vivos": 3240,
+  "tmi": 12.345679012345679
+ },
+ {
+  "id": 21,
+  "ano": 2015,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "num_obitos": 31,
+  "num_nascidos_vivos": 3369,
+  "tmi": 9.201543484713566
+ },
+ {
+  "id": 22,
+  "ano": 2016,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "num_obitos": 48,
+  "num_nascidos_vivos": 3274,
+  "tmi": 14.660965180207697
+ },
+ {
+  "id": 23,
+  "ano": 2017,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "num_obitos": 36,
+  "num_nascidos_vivos": 3141,
+  "tmi": 11.461318051575931
+ },
+ {
+  "id": 24,
+  "ano": 2018,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "num_obitos": 38,
+  "num_nascidos_vivos": 3280,
+  "tmi": 11.585365853658537
+ },
+ {
+  "id": 25,
+  "ano": 2019,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "num_obitos": 34,
+  "num_nascidos_vivos": 3214,
+  "tmi": 10.578718108276291
+ },
+ {
+  "id": 26,
+  "ano": 2020,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "num_obitos": 34,
+  "num_nascidos_vivos": 3201,
+  "tmi": 10.621680724773508
+ },
+ {
+  "id": 27,
+  "ano": 2021,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "num_obitos": 35,
+  "num_nascidos_vivos": 3126,
+  "tmi": 11.196417146513117
+ },
+ {
+  "id": 28,
+  "ano": 2022,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "num_obitos": 34,
+  "num_nascidos_vivos": 3188,
+  "tmi": 10.664993726474279
+ },
+ {
+  "id": 29,
+  "ano": 2023,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "num_obitos": 29,
+  "num_nascidos_vivos": 3269,
+  "tmi": 8.871214438666259
+ },
+ {
+  "id": 30,
+  "ano": 2024,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "num_obitos": 44,
+  "num_nascidos_vivos": 2986,
+  "tmi": 14.735432016075016
+ },
+ {
+  "id": 31,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "num_obitos": 18,
+  "num_nascidos_vivos": 1793,
+  "tmi": 10.039040713887339
+ },
+ {
+  "id": 32,
+  "ano": 2011,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "num_obitos": 22,
+  "num_nascidos_vivos": 1755,
+  "tmi": 12.535612535612534
+ },
+ {
+  "id": 33,
+  "ano": 2012,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "num_obitos": 16,
+  "num_nascidos_vivos": 1711,
+  "tmi": 9.351256575102278
+ },
+ {
+  "id": 34,
+  "ano": 2013,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "num_obitos": 14,
+  "num_nascidos_vivos": 1718,
+  "tmi": 8.149010477299184
+ },
+ {
+  "id": 35,
+  "ano": 2014,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "num_obitos": 16,
+  "num_nascidos_vivos": 1870,
+  "tmi": 8.556149732620321
+ },
+ {
+  "id": 36,
+  "ano": 2015,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "num_obitos": 13,
+  "num_nascidos_vivos": 1932,
+  "tmi": 6.728778467908903
+ },
+ {
+  "id": 37,
+  "ano": 2016,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "num_obitos": 14,
+  "num_nascidos_vivos": 1793,
+  "tmi": 7.808142777467931
+ },
+ {
+  "id": 38,
+  "ano": 2017,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "num_obitos": 26,
+  "num_nascidos_vivos": 2062,
+  "tmi": 12.609117361784675
+ },
+ {
+  "id": 39,
+  "ano": 2018,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "num_obitos": 14,
+  "num_nascidos_vivos": 1960,
+  "tmi": 7.142857142857142
+ },
+ {
+  "id": 40,
+  "ano": 2019,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "num_obitos": 22,
+  "num_nascidos_vivos": 2062,
+  "tmi": 10.66925315227934
+ },
+ {
+  "id": 41,
+  "ano": 2020,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "num_obitos": 19,
+  "num_nascidos_vivos": 2073,
+  "tmi": 9.165460684997589
+ },
+ {
+  "id": 42,
+  "ano": 2021,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "num_obitos": 20,
+  "num_nascidos_vivos": 2016,
+  "tmi": 9.920634920634921
+ },
+ {
+  "id": 43,
+  "ano": 2022,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "num_obitos": 27,
+  "num_nascidos_vivos": 2059,
+  "tmi": 13.113161728994658
+ },
+ {
+  "id": 44,
+  "ano": 2023,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "num_obitos": 30,
+  "num_nascidos_vivos": 2058,
+  "tmi": 14.577259475218659
+ },
+ {
+  "id": 45,
+  "ano": 2024,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "num_obitos": 28,
+  "num_nascidos_vivos": 1931,
+  "tmi": 14.500258933195235
+ },
+ {
+  "id": 46,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "num_obitos": 44,
+  "num_nascidos_vivos": 3611,
+  "tmi": 12.184990307394074
+ },
+ {
+  "id": 47,
+  "ano": 2011,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "num_obitos": 33,
+  "num_nascidos_vivos": 3711,
+  "tmi": 8.89248181083266
+ },
+ {
+  "id": 48,
+  "ano": 2012,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "num_obitos": 49,
+  "num_nascidos_vivos": 3771,
+  "tmi": 12.993900822063113
+ },
+ {
+  "id": 49,
+  "ano": 2013,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "num_obitos": 47,
+  "num_nascidos_vivos": 3789,
+  "tmi": 12.40432831881763
+ },
+ {
+  "id": 50,
+  "ano": 2014,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "num_obitos": 41,
+  "num_nascidos_vivos": 3751,
+  "tmi": 10.930418555051986
+ },
+ {
+  "id": 51,
+  "ano": 2015,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "num_obitos": 37,
+  "num_nascidos_vivos": 4045,
+  "tmi": 9.147095179233622
+ },
+ {
+  "id": 52,
+  "ano": 2016,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "num_obitos": 27,
+  "num_nascidos_vivos": 3887,
+  "tmi": 6.946231026498586
+ },
+ {
+  "id": 53,
+  "ano": 2017,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "num_obitos": 54,
+  "num_nascidos_vivos": 3984,
+  "tmi": 13.55421686746988
+ },
+ {
+  "id": 54,
+  "ano": 2018,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "num_obitos": 25,
+  "num_nascidos_vivos": 4091,
+  "tmi": 6.1109753116597405
+ },
+ {
+  "id": 55,
+  "ano": 2019,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "num_obitos": 36,
+  "num_nascidos_vivos": 4077,
+  "tmi": 8.830022075055188
+ },
+ {
+  "id": 56,
+  "ano": 2020,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "num_obitos": 31,
+  "num_nascidos_vivos": 3981,
+  "tmi": 7.786988193921125
+ },
+ {
+  "id": 57,
+  "ano": 2021,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "num_obitos": 44,
+  "num_nascidos_vivos": 3973,
+  "tmi": 11.074754593506167
+ },
+ {
+  "id": 58,
+  "ano": 2022,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "num_obitos": 43,
+  "num_nascidos_vivos": 4075,
+  "tmi": 10.552147239263805
+ },
+ {
+  "id": 59,
+  "ano": 2023,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "num_obitos": 33,
+  "num_nascidos_vivos": 4228,
+  "tmi": 7.805108798486282
+ },
+ {
+  "id": 60,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "num_obitos": 46,
+  "num_nascidos_vivos": 3997,
+  "tmi": 11.508631473605204
+ },
+ {
+  "id": 61,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 21,
+  "num_nascidos_vivos": 1959,
+  "tmi": 10.719754977029096
+ },
+ {
+  "id": 62,
+  "ano": 2011,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 21,
+  "num_nascidos_vivos": 1981,
+  "tmi": 10.60070671378092
+ },
+ {
+  "id": 63,
+  "ano": 2012,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 19,
+  "num_nascidos_vivos": 2037,
+  "tmi": 9.32744231713304
+ },
+ {
+  "id": 64,
+  "ano": 2013,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 22,
+  "num_nascidos_vivos": 1949,
+  "tmi": 11.287839917906618
+ },
+ {
+  "id": 65,
+  "ano": 2014,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 25,
+  "num_nascidos_vivos": 2108,
+  "tmi": 11.859582542694497
+ },
+ {
+  "id": 66,
+  "ano": 2015,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 24,
+  "num_nascidos_vivos": 2185,
+  "tmi": 10.983981693363845
+ },
+ {
+  "id": 67,
+  "ano": 2016,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 22,
+  "num_nascidos_vivos": 2122,
+  "tmi": 10.367577756833176
+ },
+ {
+  "id": 68,
+  "ano": 2017,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 27,
+  "num_nascidos_vivos": 2170,
+  "tmi": 12.442396313364055
+ },
+ {
+  "id": 69,
+  "ano": 2018,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 32,
+  "num_nascidos_vivos": 2203,
+  "tmi": 14.525646845211076
+ },
+ {
+  "id": 70,
+  "ano": 2019,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 27,
+  "num_nascidos_vivos": 2246,
+  "tmi": 12.021371326803205
+ },
+ {
+  "id": 71,
+  "ano": 2020,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 15,
+  "num_nascidos_vivos": 2079,
+  "tmi": 7.215007215007215
+ },
+ {
+  "id": 72,
+  "ano": 2021,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 19,
+  "num_nascidos_vivos": 2127,
+  "tmi": 8.932769158439116
+ },
+ {
+  "id": 73,
+  "ano": 2022,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 24,
+  "num_nascidos_vivos": 2080,
+  "tmi": 11.538461538461538
+ },
+ {
+  "id": 74,
+  "ano": 2023,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 24,
+  "num_nascidos_vivos": 2219,
+  "tmi": 10.815682739972962
+ },
+ {
+  "id": 75,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 22,
+  "num_nascidos_vivos": 2048,
+  "tmi": 10.7421875
+ },
+ {
+  "id": 76,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "num_obitos": 6,
+  "num_nascidos_vivos": 1235,
+  "tmi": 4.858299595141701
+ },
+ {
+  "id": 77,
+  "ano": 2011,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "num_obitos": 16,
+  "num_nascidos_vivos": 1195,
+  "tmi": 13.389121338912133
+ },
+ {
+  "id": 78,
+  "ano": 2012,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "num_obitos": 10,
+  "num_nascidos_vivos": 1267,
+  "tmi": 7.892659826361484
+ },
+ {
+  "id": 79,
+  "ano": 2013,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "num_obitos": 16,
+  "num_nascidos_vivos": 1309,
+  "tmi": 12.223071046600458
+ },
+ {
+  "id": 80,
+  "ano": 2014,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "num_obitos": 5,
+  "num_nascidos_vivos": 1386,
+  "tmi": 3.6075036075036073
+ },
+ {
+  "id": 81,
+  "ano": 2015,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "num_obitos": 14,
+  "num_nascidos_vivos": 1406,
+  "tmi": 9.95732574679943
+ },
+ {
+  "id": 82,
+  "ano": 2016,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "num_obitos": 11,
+  "num_nascidos_vivos": 1382,
+  "tmi": 7.959479015918958
+ },
+ {
+  "id": 83,
+  "ano": 2017,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "num_obitos": 17,
+  "num_nascidos_vivos": 1422,
+  "tmi": 11.954992967651195
+ },
+ {
+  "id": 84,
+  "ano": 2018,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "num_obitos": 13,
+  "num_nascidos_vivos": 1448,
+  "tmi": 8.977900552486188
+ },
+ {
+  "id": 85,
+  "ano": 2019,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "num_obitos": 15,
+  "num_nascidos_vivos": 1399,
+  "tmi": 10.721944245889922
+ },
+ {
+  "id": 86,
+  "ano": 2020,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "num_obitos": 11,
+  "num_nascidos_vivos": 1333,
+  "tmi": 8.252063015753938
+ },
+ {
+  "id": 87,
+  "ano": 2021,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "num_obitos": 21,
+  "num_nascidos_vivos": 1421,
+  "tmi": 14.778325123152708
+ },
+ {
+  "id": 88,
+  "ano": 2022,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "num_obitos": 11,
+  "num_nascidos_vivos": 1412,
+  "tmi": 7.790368271954674
+ },
+ {
+  "id": 89,
+  "ano": 2023,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "num_obitos": 14,
+  "num_nascidos_vivos": 1392,
+  "tmi": 10.057471264367816
+ },
+ {
+  "id": 90,
+  "ano": 2024,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "num_obitos": 8,
+  "num_nascidos_vivos": 1444,
+  "tmi": 5.54016620498615
+ },
+ {
+  "id": 91,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 26,
+  "num_nascidos_vivos": 2384,
+  "tmi": 10.906040268456376
+ },
+ {
+  "id": 92,
+  "ano": 2011,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 35,
+  "num_nascidos_vivos": 2371,
+  "tmi": 14.761703922395615
+ },
+ {
+  "id": 93,
+  "ano": 2012,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 18,
+  "num_nascidos_vivos": 2397,
+  "tmi": 7.509386733416771
+ },
+ {
+  "id": 94,
+  "ano": 2013,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 26,
+  "num_nascidos_vivos": 2393,
+  "tmi": 10.865022983702465
+ },
+ {
+  "id": 95,
+  "ano": 2014,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 23,
+  "num_nascidos_vivos": 2547,
+  "tmi": 9.030231645072634
+ },
+ {
+  "id": 96,
+  "ano": 2015,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 30,
+  "num_nascidos_vivos": 2581,
+  "tmi": 11.62340178225494
+ },
+ {
+  "id": 97,
+  "ano": 2016,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 34,
+  "num_nascidos_vivos": 2637,
+  "tmi": 12.893439514599924
+ },
+ {
+  "id": 98,
+  "ano": 2017,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 29,
+  "num_nascidos_vivos": 2698,
+  "tmi": 10.748702742772425
+ },
+ {
+  "id": 99,
+  "ano": 2018,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 29,
+  "num_nascidos_vivos": 2695,
+  "tmi": 10.760667903525047
+ },
+ {
+  "id": 100,
+  "ano": 2019,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 26,
+  "num_nascidos_vivos": 2765,
+  "tmi": 9.403254972875226
+ },
+ {
+  "id": 101,
+  "ano": 2020,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 31,
+  "num_nascidos_vivos": 2710,
+  "tmi": 11.43911439114391
+ },
+ {
+  "id": 102,
+  "ano": 2021,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 20,
+  "num_nascidos_vivos": 2694,
+  "tmi": 7.423904974016332
+ },
+ {
+  "id": 103,
+  "ano": 2022,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 27,
+  "num_nascidos_vivos": 2757,
+  "tmi": 9.793253536452665
+ },
+ {
+  "id": 104,
+  "ano": 2023,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 26,
+  "num_nascidos_vivos": 2693,
+  "tmi": 9.654660230226513
+ },
+ {
+  "id": 105,
+  "ano": 2024,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 24,
+  "num_nascidos_vivos": 2738,
+  "tmi": 8.765522279035793
+ },
+ {
+  "id": 106,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "num_obitos": 76,
+  "num_nascidos_vivos": 7989,
+  "tmi": 9.513080485667793
+ },
+ {
+  "id": 107,
+  "ano": 2011,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "num_obitos": 108,
+  "num_nascidos_vivos": 8240,
+  "tmi": 13.106796116504855
+ },
+ {
+  "id": 108,
+  "ano": 2012,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "num_obitos": 110,
+  "num_nascidos_vivos": 8745,
+  "tmi": 12.578616352201259
+ },
+ {
+  "id": 109,
+  "ano": 2013,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "num_obitos": 99,
+  "num_nascidos_vivos": 9097,
+  "tmi": 10.882708585247885
+ },
+ {
+  "id": 110,
+  "ano": 2014,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "num_obitos": 109,
+  "num_nascidos_vivos": 9688,
+  "tmi": 11.25103220478943
+ },
+ {
+  "id": 111,
+  "ano": 2015,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "num_obitos": 122,
+  "num_nascidos_vivos": 10398,
+  "tmi": 11.733025581842663
+ },
+ {
+  "id": 112,
+  "ano": 2016,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "num_obitos": 96,
+  "num_nascidos_vivos": 10275,
+  "tmi": 9.343065693430658
+ },
+ {
+  "id": 113,
+  "ano": 2017,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "num_obitos": 104,
+  "num_nascidos_vivos": 10668,
+  "tmi": 9.74878140232471
+ },
+ {
+  "id": 114,
+  "ano": 2018,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "num_obitos": 115,
+  "num_nascidos_vivos": 11012,
+  "tmi": 10.443152924082819
+ },
+ {
+  "id": 115,
+  "ano": 2019,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "num_obitos": 98,
+  "num_nascidos_vivos": 10894,
+  "tmi": 8.99577749219754
+ },
+ {
+  "id": 116,
+  "ano": 2020,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "num_obitos": 111,
+  "num_nascidos_vivos": 11115,
+  "tmi": 9.98650472334683
+ },
+ {
+  "id": 117,
+  "ano": 2021,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "num_obitos": 94,
+  "num_nascidos_vivos": 11013,
+  "tmi": 8.535367293198947
+ },
+ {
+  "id": 118,
+  "ano": 2022,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "num_obitos": 111,
+  "num_nascidos_vivos": 11221,
+  "tmi": 9.89216647357633
+ },
+ {
+  "id": 119,
+  "ano": 2023,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "num_obitos": 117,
+  "num_nascidos_vivos": 11167,
+  "tmi": 10.477299185098952
+ },
+ {
+  "id": 120,
+  "ano": 2024,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "num_obitos": 119,
+  "num_nascidos_vivos": 11037,
+  "tmi": 10.781915375554952
+ },
+ {
+  "id": 121,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "num_obitos": 16,
+  "num_nascidos_vivos": 1536,
+  "tmi": 10.416666666666666
+ },
+ {
+  "id": 122,
+  "ano": 2011,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "num_obitos": 18,
+  "num_nascidos_vivos": 1590,
+  "tmi": 11.320754716981131
+ },
+ {
+  "id": 123,
+  "ano": 2012,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "num_obitos": 25,
+  "num_nascidos_vivos": 1512,
+  "tmi": 16.534391534391535
+ },
+ {
+  "id": 124,
+  "ano": 2013,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "num_obitos": 17,
+  "num_nascidos_vivos": 1512,
+  "tmi": 11.243386243386242
+ },
+ {
+  "id": 125,
+  "ano": 2014,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "num_obitos": 15,
+  "num_nascidos_vivos": 1576,
+  "tmi": 9.51776649746193
+ },
+ {
+  "id": 126,
+  "ano": 2015,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "num_obitos": 19,
+  "num_nascidos_vivos": 1701,
+  "tmi": 11.169900058788947
+ },
+ {
+  "id": 127,
+  "ano": 2016,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "num_obitos": 21,
+  "num_nascidos_vivos": 1680,
+  "tmi": 12.5
+ },
+ {
+  "id": 128,
+  "ano": 2017,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "num_obitos": 18,
+  "num_nascidos_vivos": 1733,
+  "tmi": 10.3866128101558
+ },
+ {
+  "id": 129,
+  "ano": 2018,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "num_obitos": 15,
+  "num_nascidos_vivos": 1729,
+  "tmi": 8.675534991324465
+ },
+ {
+  "id": 130,
+  "ano": 2019,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "num_obitos": 20,
+  "num_nascidos_vivos": 1716,
+  "tmi": 11.655011655011656
+ },
+ {
+  "id": 131,
+  "ano": 2020,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "num_obitos": 13,
+  "num_nascidos_vivos": 1697,
+  "tmi": 7.660577489687684
+ },
+ {
+  "id": 132,
+  "ano": 2021,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "num_obitos": 23,
+  "num_nascidos_vivos": 1693,
+  "tmi": 13.585351447135263
+ },
+ {
+  "id": 133,
+  "ano": 2022,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "num_obitos": 19,
+  "num_nascidos_vivos": 1777,
+  "tmi": 10.692177827799663
+ },
+ {
+  "id": 134,
+  "ano": 2023,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "num_obitos": 17,
+  "num_nascidos_vivos": 1680,
+  "tmi": 10.11904761904762
+ },
+ {
+  "id": 135,
+  "ano": 2024,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "num_obitos": 17,
+  "num_nascidos_vivos": 1590,
+  "tmi": 10.691823899371068
+ },
+ {
+  "id": 136,
+  "ano": 2010,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "num_obitos": 5,
+  "num_nascidos_vivos": 613,
+  "tmi": 8.156606851549755
+ },
+ {
+  "id": 137,
+  "ano": 2011,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "num_obitos": 8,
+  "num_nascidos_vivos": 612,
+  "tmi": 13.071895424836601
+ },
+ {
+  "id": 138,
+  "ano": 2012,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "num_obitos": 7,
+  "num_nascidos_vivos": 637,
+  "tmi": 10.989010989010989
+ },
+ {
+  "id": 139,
+  "ano": 2013,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "num_obitos": 11,
+  "num_nascidos_vivos": 638,
+  "tmi": 17.241379310344826
+ },
+ {
+  "id": 140,
+  "ano": 2014,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "num_obitos": 7,
+  "num_nascidos_vivos": 608,
+  "tmi": 11.51315789473684
+ },
+ {
+  "id": 141,
+  "ano": 2015,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "num_obitos": 8,
+  "num_nascidos_vivos": 616,
+  "tmi": 12.987012987012989
+ },
+ {
+  "id": 142,
+  "ano": 2016,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "num_obitos": 5,
+  "num_nascidos_vivos": 607,
+  "tmi": 8.237232289950576
+ },
+ {
+  "id": 143,
+  "ano": 2017,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "num_obitos": 6,
+  "num_nascidos_vivos": 650,
+  "tmi": 9.230769230769232
+ },
+ {
+  "id": 144,
+  "ano": 2018,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "num_obitos": 12,
+  "num_nascidos_vivos": 679,
+  "tmi": 17.673048600883654
+ },
+ {
+  "id": 145,
+  "ano": 2019,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "num_obitos": 6,
+  "num_nascidos_vivos": 658,
+  "tmi": 9.11854103343465
+ },
+ {
+  "id": 146,
+  "ano": 2020,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "num_obitos": 11,
+  "num_nascidos_vivos": 669,
+  "tmi": 16.442451420029897
+ },
+ {
+  "id": 147,
+  "ano": 2021,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "num_obitos": 9,
+  "num_nascidos_vivos": 698,
+  "tmi": 12.893982808022923
+ },
+ {
+  "id": 148,
+  "ano": 2022,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "num_obitos": 8,
+  "num_nascidos_vivos": 715,
+  "tmi": 11.188811188811188
+ },
+ {
+  "id": 149,
+  "ano": 2023,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "num_obitos": 5,
+  "num_nascidos_vivos": 624,
+  "tmi": 8.012820512820513
+ },
+ {
+  "id": 150,
+  "ano": 2024,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "num_obitos": 7,
+  "num_nascidos_vivos": 626,
+  "tmi": 11.182108626198083
+ },
+ {
+  "id": 151,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 36,
+  "num_nascidos_vivos": 3872,
+  "tmi": 9.297520661157025
+ },
+ {
+  "id": 152,
+  "ano": 2011,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 38,
+  "num_nascidos_vivos": 3861,
+  "tmi": 9.842009842009842
+ },
+ {
+  "id": 153,
+  "ano": 2012,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 48,
+  "num_nascidos_vivos": 4076,
+  "tmi": 11.776251226692835
+ },
+ {
+  "id": 154,
+  "ano": 2013,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 47,
+  "num_nascidos_vivos": 4284,
+  "tmi": 10.971055088702146
+ },
+ {
+  "id": 155,
+  "ano": 2014,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 30,
+  "num_nascidos_vivos": 4408,
+  "tmi": 6.805807622504537
+ },
+ {
+  "id": 156,
+  "ano": 2015,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 40,
+  "num_nascidos_vivos": 4569,
+  "tmi": 8.754650908295032
+ },
+ {
+  "id": 157,
+  "ano": 2016,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 53,
+  "num_nascidos_vivos": 4460,
+  "tmi": 11.88340807174888
+ },
+ {
+  "id": 158,
+  "ano": 2017,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 51,
+  "num_nascidos_vivos": 4772,
+  "tmi": 10.687342833193629
+ },
+ {
+  "id": 159,
+  "ano": 2018,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 42,
+  "num_nascidos_vivos": 4886,
+  "tmi": 8.595988538681949
+ },
+ {
+  "id": 160,
+  "ano": 2019,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 52,
+  "num_nascidos_vivos": 5012,
+  "tmi": 10.37509976057462
+ },
+ {
+  "id": 161,
+  "ano": 2020,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 52,
+  "num_nascidos_vivos": 5084,
+  "tmi": 10.22816679779701
+ },
+ {
+  "id": 162,
+  "ano": 2021,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 56,
+  "num_nascidos_vivos": 4985,
+  "tmi": 11.233701103309931
+ },
+ {
+  "id": 163,
+  "ano": 2022,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 44,
+  "num_nascidos_vivos": 5076,
+  "tmi": 8.668242710795903
+ },
+ {
+  "id": 164,
+  "ano": 2023,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 33,
+  "num_nascidos_vivos": 5036,
+  "tmi": 6.5528196981731535
+ },
+ {
+  "id": 165,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "num_obitos": 48,
+  "num_nascidos_vivos": 5016,
+  "tmi": 9.569377990430622
+ },
+ {
+  "id": 166,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "num_obitos": 34,
+  "num_nascidos_vivos": 3261,
+  "tmi": 10.426249616682
+ },
+ {
+  "id": 167,
+  "ano": 2011,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "num_obitos": 48,
+  "num_nascidos_vivos": 3485,
+  "tmi": 13.773314203730273
+ },
+ {
+  "id": 168,
+  "ano": 2012,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "num_obitos": 30,
+  "num_nascidos_vivos": 3281,
+  "tmi": 9.143553794574824
+ },
+ {
+  "id": 169,
+  "ano": 2013,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "num_obitos": 36,
+  "num_nascidos_vivos": 3247,
+  "tmi": 11.08715737603942
+ },
+ {
+  "id": 170,
+  "ano": 2014,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "num_obitos": 35,
+  "num_nascidos_vivos": 3308,
+  "tmi": 10.580411124546552
+ },
+ {
+  "id": 171,
+  "ano": 2015,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "num_obitos": 33,
+  "num_nascidos_vivos": 3472,
+  "tmi": 9.504608294930875
+ },
+ {
+  "id": 172,
+  "ano": 2016,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "num_obitos": 22,
+  "num_nascidos_vivos": 3261,
+  "tmi": 6.746396810794234
+ },
+ {
+  "id": 173,
+  "ano": 2017,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "num_obitos": 30,
+  "num_nascidos_vivos": 3283,
+  "tmi": 9.137983551629608
+ },
+ {
+  "id": 174,
+  "ano": 2018,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "num_obitos": 39,
+  "num_nascidos_vivos": 3436,
+  "tmi": 11.350407450523864
+ },
+ {
+  "id": 175,
+  "ano": 2019,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "num_obitos": 33,
+  "num_nascidos_vivos": 3299,
+  "tmi": 10.0030312215823
+ },
+ {
+  "id": 176,
+  "ano": 2020,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "num_obitos": 35,
+  "num_nascidos_vivos": 3155,
+  "tmi": 11.093502377179082
+ },
+ {
+  "id": 177,
+  "ano": 2021,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "num_obitos": 22,
+  "num_nascidos_vivos": 3201,
+  "tmi": 6.8728522336769755
+ },
+ {
+  "id": 178,
+  "ano": 2022,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "num_obitos": 36,
+  "num_nascidos_vivos": 3128,
+  "tmi": 11.508951406649617
+ },
+ {
+  "id": 179,
+  "ano": 2023,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "num_obitos": 35,
+  "num_nascidos_vivos": 3038,
+  "tmi": 11.520737327188941
+ },
+ {
+  "id": 180,
+  "ano": 2024,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "num_obitos": 35,
+  "num_nascidos_vivos": 2914,
+  "tmi": 12.010981468771448
+ },
+ {
+  "id": 181,
+  "ano": 2010,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "num_obitos": 3,
+  "num_nascidos_vivos": 754,
+  "tmi": 3.9787798408488064
+ },
+ {
+  "id": 182,
+  "ano": 2011,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "num_obitos": 11,
+  "num_nascidos_vivos": 809,
+  "tmi": 13.597033374536464
+ },
+ {
+  "id": 183,
+  "ano": 2012,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "num_obitos": 9,
+  "num_nascidos_vivos": 790,
+  "tmi": 11.39240506329114
+ },
+ {
+  "id": 184,
+  "ano": 2013,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "num_obitos": 13,
+  "num_nascidos_vivos": 823,
+  "tmi": 15.795868772782502
+ },
+ {
+  "id": 185,
+  "ano": 2014,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "num_obitos": 7,
+  "num_nascidos_vivos": 823,
+  "tmi": 8.50546780072904
+ },
+ {
+  "id": 186,
+  "ano": 2015,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "num_obitos": 9,
+  "num_nascidos_vivos": 809,
+  "tmi": 11.124845488257108
+ },
+ {
+  "id": 187,
+  "ano": 2016,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "num_obitos": 12,
+  "num_nascidos_vivos": 878,
+  "tmi": 13.66742596810934
+ },
+ {
+  "id": 188,
+  "ano": 2017,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "num_obitos": 6,
+  "num_nascidos_vivos": 848,
+  "tmi": 7.0754716981132075
+ },
+ {
+  "id": 189,
+  "ano": 2018,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "num_obitos": 12,
+  "num_nascidos_vivos": 910,
+  "tmi": 13.186813186813186
+ },
+ {
+  "id": 190,
+  "ano": 2019,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "num_obitos": 9,
+  "num_nascidos_vivos": 885,
+  "tmi": 10.169491525423728
+ },
+ {
+  "id": 191,
+  "ano": 2020,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "num_obitos": 6,
+  "num_nascidos_vivos": 799,
+  "tmi": 7.509386733416771
+ },
+ {
+  "id": 192,
+  "ano": 2021,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "num_obitos": 12,
+  "num_nascidos_vivos": 833,
+  "tmi": 14.405762304921968
+ },
+ {
+  "id": 193,
+  "ano": 2022,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "num_obitos": 15,
+  "num_nascidos_vivos": 891,
+  "tmi": 16.835016835016834
+ },
+ {
+  "id": 194,
+  "ano": 2023,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "num_obitos": 5,
+  "num_nascidos_vivos": 833,
+  "tmi": 6.002400960384154
+ },
+ {
+  "id": 195,
+  "ano": 2024,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "num_obitos": 10,
+  "num_nascidos_vivos": 828,
+  "tmi": 12.077294685990339
+ },
+ {
+  "id": 196,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "num_obitos": 48,
+  "num_nascidos_vivos": 5049,
+  "tmi": 9.506833036244801
+ },
+ {
+  "id": 197,
+  "ano": 2011,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "num_obitos": 65,
+  "num_nascidos_vivos": 5342,
+  "tmi": 12.167727442905278
+ },
+ {
+  "id": 198,
+  "ano": 2012,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "num_obitos": 78,
+  "num_nascidos_vivos": 5395,
+  "tmi": 14.457831325301205
+ },
+ {
+  "id": 199,
+  "ano": 2013,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "num_obitos": 58,
+  "num_nascidos_vivos": 5430,
+  "tmi": 10.681399631675875
+ },
+ {
+  "id": 200,
+  "ano": 2014,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "num_obitos": 63,
+  "num_nascidos_vivos": 5727,
+  "tmi": 11.000523834468309
+ },
+ {
+  "id": 201,
+  "ano": 2015,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "num_obitos": 58,
+  "num_nascidos_vivos": 5791,
+  "tmi": 10.015541357278536
+ },
+ {
+  "id": 202,
+  "ano": 2016,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "num_obitos": 38,
+  "num_nascidos_vivos": 5693,
+  "tmi": 6.674863867907957
+ },
+ {
+  "id": 203,
+  "ano": 2017,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "num_obitos": 53,
+  "num_nascidos_vivos": 5733,
+  "tmi": 9.244723530437817
+ },
+ {
+  "id": 204,
+  "ano": 2018,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "num_obitos": 55,
+  "num_nascidos_vivos": 5818,
+  "tmi": 9.453420419388106
+ },
+ {
+  "id": 205,
+  "ano": 2019,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "num_obitos": 38,
+  "num_nascidos_vivos": 5582,
+  "tmi": 6.807595843783591
+ },
+ {
+  "id": 206,
+  "ano": 2020,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "num_obitos": 56,
+  "num_nascidos_vivos": 5593,
+  "tmi": 10.012515644555695
+ },
+ {
+  "id": 207,
+  "ano": 2021,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "num_obitos": 44,
+  "num_nascidos_vivos": 5593,
+  "tmi": 7.866976577865189
+ },
+ {
+  "id": 208,
+  "ano": 2022,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "num_obitos": 57,
+  "num_nascidos_vivos": 5709,
+  "tmi": 9.984235417761429
+ },
+ {
+  "id": 209,
+  "ano": 2023,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "num_obitos": 49,
+  "num_nascidos_vivos": 5676,
+  "tmi": 8.632840028188866
+ },
+ {
+  "id": 210,
+  "ano": 2024,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "num_obitos": 60,
+  "num_nascidos_vivos": 5444,
+  "tmi": 11.021307861866276
+ },
+ {
+  "id": 211,
+  "ano": 2010,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 99,
+  "num_nascidos_vivos": 10615,
+  "tmi": 9.32642487046632
+ },
+ {
+  "id": 212,
+  "ano": 2011,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 127,
+  "num_nascidos_vivos": 11368,
+  "tmi": 11.171710063335679
+ },
+ {
+  "id": 213,
+  "ano": 2012,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 92,
+  "num_nascidos_vivos": 11453,
+  "tmi": 8.032829826246397
+ },
+ {
+  "id": 214,
+  "ano": 2013,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 96,
+  "num_nascidos_vivos": 11337,
+  "tmi": 8.46784863720561
+ },
+ {
+  "id": 215,
+  "ano": 2014,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 100,
+  "num_nascidos_vivos": 11782,
+  "tmi": 8.487523340689187
+ },
+ {
+  "id": 216,
+  "ano": 2015,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 121,
+  "num_nascidos_vivos": 12213,
+  "tmi": 9.907475640710718
+ },
+ {
+  "id": 217,
+  "ano": 2016,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 66,
+  "num_nascidos_vivos": 11735,
+  "tmi": 5.624201107797187
+ },
+ {
+  "id": 218,
+  "ano": 2017,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 105,
+  "num_nascidos_vivos": 11875,
+  "tmi": 8.842105263157894
+ },
+ {
+  "id": 219,
+  "ano": 2018,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 103,
+  "num_nascidos_vivos": 11966,
+  "tmi": 8.607721878656193
+ },
+ {
+  "id": 220,
+  "ano": 2019,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 96,
+  "num_nascidos_vivos": 11533,
+  "tmi": 8.323939998265846
+ },
+ {
+  "id": 221,
+  "ano": 2020,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 96,
+  "num_nascidos_vivos": 11761,
+  "tmi": 8.162571209931128
+ },
+ {
+  "id": 222,
+  "ano": 2021,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 93,
+  "num_nascidos_vivos": 11170,
+  "tmi": 8.325872873769024
+ },
+ {
+  "id": 223,
+  "ano": 2022,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 86,
+  "num_nascidos_vivos": 11426,
+  "tmi": 7.526693506038859
+ },
+ {
+  "id": 224,
+  "ano": 2023,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 80,
+  "num_nascidos_vivos": 11153,
+  "tmi": 7.172957948534028
+ },
+ {
+  "id": 225,
+  "ano": 2024,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "num_obitos": 111,
+  "num_nascidos_vivos": 11036,
+  "tmi": 10.05799202609641
+ },
+ {
+  "id": 226,
+  "ano": 2010,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "num_obitos": 15,
+  "num_nascidos_vivos": 1070,
+  "tmi": 14.018691588785046
+ },
+ {
+  "id": 227,
+  "ano": 2011,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "num_obitos": 19,
+  "num_nascidos_vivos": 1038,
+  "tmi": 18.304431599229286
+ },
+ {
+  "id": 228,
+  "ano": 2012,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "num_obitos": 21,
+  "num_nascidos_vivos": 1068,
+  "tmi": 19.662921348314605
+ },
+ {
+  "id": 229,
+  "ano": 2013,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "num_obitos": 18,
+  "num_nascidos_vivos": 1094,
+  "tmi": 16.453382084095065
+ },
+ {
+  "id": 230,
+  "ano": 2014,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "num_obitos": 19,
+  "num_nascidos_vivos": 1059,
+  "tmi": 17.94145420207743
+ },
+ {
+  "id": 231,
+  "ano": 2015,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "num_obitos": 10,
+  "num_nascidos_vivos": 1111,
+  "tmi": 9.000900090009
+ },
+ {
+  "id": 232,
+  "ano": 2016,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "num_obitos": 15,
+  "num_nascidos_vivos": 1116,
+  "tmi": 13.440860215053764
+ },
+ {
+  "id": 233,
+  "ano": 2017,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "num_obitos": 8,
+  "num_nascidos_vivos": 1082,
+  "tmi": 7.393715341959335
+ },
+ {
+  "id": 234,
+  "ano": 2018,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "num_obitos": 15,
+  "num_nascidos_vivos": 1191,
+  "tmi": 12.594458438287154
+ },
+ {
+  "id": 235,
+  "ano": 2019,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "num_obitos": 13,
+  "num_nascidos_vivos": 1104,
+  "tmi": 11.77536231884058
+ },
+ {
+  "id": 236,
+  "ano": 2020,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "num_obitos": 10,
+  "num_nascidos_vivos": 1073,
+  "tmi": 9.319664492078285
+ },
+ {
+  "id": 237,
+  "ano": 2021,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "num_obitos": 14,
+  "num_nascidos_vivos": 1006,
+  "tmi": 13.916500994035786
+ },
+ {
+  "id": 238,
+  "ano": 2022,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "num_obitos": 14,
+  "num_nascidos_vivos": 1011,
+  "tmi": 13.847675568743817
+ },
+ {
+  "id": 239,
+  "ano": 2023,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "num_obitos": 11,
+  "num_nascidos_vivos": 941,
+  "tmi": 11.689691817215728
+ },
+ {
+  "id": 240,
+  "ano": 2024,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "num_obitos": 10,
+  "num_nascidos_vivos": 937,
+  "tmi": 10.672358591248667
+ },
+ {
+  "id": 241,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "num_obitos": 41,
+  "num_nascidos_vivos": 4080,
+  "tmi": 10.049019607843139
+ },
+ {
+  "id": 242,
+  "ano": 2011,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "num_obitos": 54,
+  "num_nascidos_vivos": 4237,
+  "tmi": 12.744866650932263
+ },
+ {
+  "id": 243,
+  "ano": 2012,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "num_obitos": 45,
+  "num_nascidos_vivos": 4325,
+  "tmi": 10.404624277456648
+ },
+ {
+  "id": 244,
+  "ano": 2013,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "num_obitos": 39,
+  "num_nascidos_vivos": 4369,
+  "tmi": 8.926527809567407
+ },
+ {
+  "id": 245,
+  "ano": 2014,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "num_obitos": 41,
+  "num_nascidos_vivos": 4425,
+  "tmi": 9.265536723163843
+ },
+ {
+  "id": 246,
+  "ano": 2015,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "num_obitos": 47,
+  "num_nascidos_vivos": 4595,
+  "tmi": 10.228509249183896
+ },
+ {
+  "id": 247,
+  "ano": 2016,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "num_obitos": 42,
+  "num_nascidos_vivos": 4596,
+  "tmi": 9.138381201044387
+ },
+ {
+  "id": 248,
+  "ano": 2017,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "num_obitos": 40,
+  "num_nascidos_vivos": 4848,
+  "tmi": 8.25082508250825
+ },
+ {
+  "id": 249,
+  "ano": 2018,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "num_obitos": 45,
+  "num_nascidos_vivos": 4697,
+  "tmi": 9.580583351075155
+ },
+ {
+  "id": 250,
+  "ano": 2019,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "num_obitos": 49,
+  "num_nascidos_vivos": 4813,
+  "tmi": 10.180760440473717
+ },
+ {
+  "id": 251,
+  "ano": 2020,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "num_obitos": 35,
+  "num_nascidos_vivos": 4687,
+  "tmi": 7.467463196074248
+ },
+ {
+  "id": 252,
+  "ano": 2021,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "num_obitos": 32,
+  "num_nascidos_vivos": 4723,
+  "tmi": 6.775354647469829
+ },
+ {
+  "id": 253,
+  "ano": 2022,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "num_obitos": 65,
+  "num_nascidos_vivos": 4801,
+  "tmi": 13.53884607373464
+ },
+ {
+  "id": 254,
+  "ano": 2023,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "num_obitos": 51,
+  "num_nascidos_vivos": 4776,
+  "tmi": 10.678391959798994
+ },
+ {
+  "id": 255,
+  "ano": 2024,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "num_obitos": 58,
+  "num_nascidos_vivos": 4658,
+  "tmi": 12.4516960068699
+ },
+ {
+  "id": 256,
+  "ano": 2010,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "num_obitos": 79,
+  "num_nascidos_vivos": 3979,
+  "tmi": 19.85423473234481
+ },
+ {
+  "id": 257,
+  "ano": 2011,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "num_obitos": 58,
+  "num_nascidos_vivos": 4054,
+  "tmi": 14.306857424765663
+ },
+ {
+  "id": 258,
+  "ano": 2012,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "num_obitos": 63,
+  "num_nascidos_vivos": 3944,
+  "tmi": 15.973630831643003
+ },
+ {
+  "id": 259,
+  "ano": 2013,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "num_obitos": 65,
+  "num_nascidos_vivos": 3983,
+  "tmi": 16.31935726839066
+ },
+ {
+  "id": 260,
+  "ano": 2014,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "num_obitos": 71,
+  "num_nascidos_vivos": 4134,
+  "tmi": 17.174649250120947
+ },
+ {
+  "id": 261,
+  "ano": 2015,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "num_obitos": 57,
+  "num_nascidos_vivos": 4131,
+  "tmi": 13.798111837327523
+ },
+ {
+  "id": 262,
+  "ano": 2016,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "num_obitos": 62,
+  "num_nascidos_vivos": 4241,
+  "tmi": 14.619193586418298
+ },
+ {
+  "id": 263,
+  "ano": 2017,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "num_obitos": 61,
+  "num_nascidos_vivos": 4222,
+  "tmi": 14.448128848886784
+ },
+ {
+  "id": 264,
+  "ano": 2018,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "num_obitos": 56,
+  "num_nascidos_vivos": 4090,
+  "tmi": 13.691931540342297
+ },
+ {
+  "id": 265,
+  "ano": 2019,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "num_obitos": 66,
+  "num_nascidos_vivos": 3996,
+  "tmi": 16.516516516516514
+ },
+ {
+  "id": 266,
+  "ano": 2020,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "num_obitos": 63,
+  "num_nascidos_vivos": 3986,
+  "tmi": 15.805318615153034
+ },
+ {
+  "id": 267,
+  "ano": 2021,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "num_obitos": 64,
+  "num_nascidos_vivos": 3796,
+  "tmi": 16.859852476290833
+ },
+ {
+  "id": 268,
+  "ano": 2022,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "num_obitos": 57,
+  "num_nascidos_vivos": 3808,
+  "tmi": 14.968487394957984
+ },
+ {
+  "id": 269,
+  "ano": 2023,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "num_obitos": 38,
+  "num_nascidos_vivos": 3761,
+  "tmi": 10.103695825578303
+ },
+ {
+  "id": 270,
+  "ano": 2024,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "num_obitos": 30,
+  "num_nascidos_vivos": 3413,
+  "tmi": 8.789920890711983
+ },
+ {
+  "id": 271,
+  "ano": 2010,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "num_obitos": 35,
+  "num_nascidos_vivos": 3558,
+  "tmi": 9.83698707138842
+ },
+ {
+  "id": 272,
+  "ano": 2011,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "num_obitos": 52,
+  "num_nascidos_vivos": 3904,
+  "tmi": 13.31967213114754
+ },
+ {
+  "id": 273,
+  "ano": 2012,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "num_obitos": 19,
+  "num_nascidos_vivos": 4011,
+  "tmi": 4.736973323360758
+ },
+ {
+  "id": 274,
+  "ano": 2013,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "num_obitos": 42,
+  "num_nascidos_vivos": 3947,
+  "tmi": 10.64099315936154
+ },
+ {
+  "id": 275,
+  "ano": 2014,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "num_obitos": 34,
+  "num_nascidos_vivos": 4032,
+  "tmi": 8.432539682539682
+ },
+ {
+  "id": 276,
+  "ano": 2015,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "num_obitos": 37,
+  "num_nascidos_vivos": 4383,
+  "tmi": 8.441706593657313
+ },
+ {
+  "id": 277,
+  "ano": 2016,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "num_obitos": 36,
+  "num_nascidos_vivos": 4148,
+  "tmi": 8.678881388621022
+ },
+ {
+  "id": 278,
+  "ano": 2017,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "num_obitos": 42,
+  "num_nascidos_vivos": 4276,
+  "tmi": 9.822263797942002
+ },
+ {
+  "id": 279,
+  "ano": 2018,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "num_obitos": 40,
+  "num_nascidos_vivos": 4219,
+  "tmi": 9.480919649205973
+ },
+ {
+  "id": 280,
+  "ano": 2019,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "num_obitos": 32,
+  "num_nascidos_vivos": 4144,
+  "tmi": 7.722007722007723
+ },
+ {
+  "id": 281,
+  "ano": 2020,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "num_obitos": 44,
+  "num_nascidos_vivos": 4307,
+  "tmi": 10.215927559786394
+ },
+ {
+  "id": 282,
+  "ano": 2021,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "num_obitos": 29,
+  "num_nascidos_vivos": 4248,
+  "tmi": 6.826741996233522
+ },
+ {
+  "id": 283,
+  "ano": 2022,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "num_obitos": 35,
+  "num_nascidos_vivos": 4409,
+  "tmi": 7.938308006350647
+ },
+ {
+  "id": 284,
+  "ano": 2023,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "num_obitos": 38,
+  "num_nascidos_vivos": 4237,
+  "tmi": 8.968609865470851
+ },
+ {
+  "id": 285,
+  "ano": 2024,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "num_obitos": 48,
+  "num_nascidos_vivos": 4210,
+  "tmi": 11.401425178147269
+ },
+ {
+  "id": 286,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "num_obitos": 104,
+  "num_nascidos_vivos": 8697,
+  "tmi": 11.958146487294469
+ },
+ {
+  "id": 287,
+  "ano": 2011,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "num_obitos": 100,
+  "num_nascidos_vivos": 8988,
+  "tmi": 11.125945705384957
+ },
+ {
+  "id": 288,
+  "ano": 2012,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "num_obitos": 102,
+  "num_nascidos_vivos": 9224,
+  "tmi": 11.058109280138767
+ },
+ {
+  "id": 289,
+  "ano": 2013,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "num_obitos": 96,
+  "num_nascidos_vivos": 9138,
+  "tmi": 10.505581089954036
+ },
+ {
+  "id": 290,
+  "ano": 2014,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "num_obitos": 104,
+  "num_nascidos_vivos": 9611,
+  "tmi": 10.820934346061804
+ },
+ {
+  "id": 291,
+  "ano": 2015,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "num_obitos": 109,
+  "num_nascidos_vivos": 9748,
+  "tmi": 11.181780878128846
+ },
+ {
+  "id": 292,
+  "ano": 2016,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "num_obitos": 72,
+  "num_nascidos_vivos": 9657,
+  "tmi": 7.455731593662628
+ },
+ {
+  "id": 293,
+  "ano": 2017,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "num_obitos": 92,
+  "num_nascidos_vivos": 10088,
+  "tmi": 9.119746233148296
+ },
+ {
+  "id": 294,
+  "ano": 2018,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "num_obitos": 100,
+  "num_nascidos_vivos": 10285,
+  "tmi": 9.722897423432183
+ },
+ {
+  "id": 295,
+  "ano": 2019,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "num_obitos": 105,
+  "num_nascidos_vivos": 10165,
+  "tmi": 10.329562223315298
+ },
+ {
+  "id": 296,
+  "ano": 2020,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "num_obitos": 80,
+  "num_nascidos_vivos": 10187,
+  "tmi": 7.853146166683027
+ },
+ {
+  "id": 297,
+  "ano": 2021,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "num_obitos": 101,
+  "num_nascidos_vivos": 10000,
+  "tmi": 10.1
+ },
+ {
+  "id": 298,
+  "ano": 2022,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "num_obitos": 94,
+  "num_nascidos_vivos": 10159,
+  "tmi": 9.252879220395709
+ },
+ {
+  "id": 299,
+  "ano": 2023,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "num_obitos": 95,
+  "num_nascidos_vivos": 9886,
+  "tmi": 9.60954885696945
+ },
+ {
+  "id": 300,
+  "ano": 2024,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "num_obitos": 92,
+  "num_nascidos_vivos": 9248,
+  "tmi": 9.948096885813149
+ },
+ {
+  "id": 301,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "num_obitos": 125,
+  "num_nascidos_vivos": 13306,
+  "tmi": 9.394258229370209
+ },
+ {
+  "id": 302,
+  "ano": 2011,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "num_obitos": 132,
+  "num_nascidos_vivos": 13728,
+  "tmi": 9.615384615384617
+ },
+ {
+  "id": 303,
+  "ano": 2012,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "num_obitos": 123,
+  "num_nascidos_vivos": 14096,
+  "tmi": 8.725879682179341
+ },
+ {
+  "id": 304,
+  "ano": 2013,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "num_obitos": 113,
+  "num_nascidos_vivos": 14507,
+  "tmi": 7.789343075756531
+ },
+ {
+  "id": 305,
+  "ano": 2014,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "num_obitos": 133,
+  "num_nascidos_vivos": 15020,
+  "tmi": 8.85486018641811
+ },
+ {
+  "id": 306,
+  "ano": 2015,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "num_obitos": 125,
+  "num_nascidos_vivos": 15830,
+  "tmi": 7.896399241945672
+ },
+ {
+  "id": 307,
+  "ano": 2016,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "num_obitos": 113,
+  "num_nascidos_vivos": 15621,
+  "tmi": 7.233851866077716
+ },
+ {
+  "id": 308,
+  "ano": 2017,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "num_obitos": 150,
+  "num_nascidos_vivos": 16455,
+  "tmi": 9.115770282588878
+ },
+ {
+  "id": 309,
+  "ano": 2018,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "num_obitos": 126,
+  "num_nascidos_vivos": 16574,
+  "tmi": 7.6022686134910105
+ },
+ {
+  "id": 310,
+  "ano": 2019,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "num_obitos": 128,
+  "num_nascidos_vivos": 16149,
+  "tmi": 7.926187380023531
+ },
+ {
+  "id": 311,
+  "ano": 2020,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "num_obitos": 135,
+  "num_nascidos_vivos": 16104,
+  "tmi": 8.38301043219076
+ },
+ {
+  "id": 312,
+  "ano": 2021,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "num_obitos": 118,
+  "num_nascidos_vivos": 15906,
+  "tmi": 7.41858418206966
+ },
+ {
+  "id": 313,
+  "ano": 2022,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "num_obitos": 129,
+  "num_nascidos_vivos": 16199,
+  "tmi": 7.963454534230509
+ },
+ {
+  "id": 314,
+  "ano": 2023,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "num_obitos": 119,
+  "num_nascidos_vivos": 15902,
+  "tmi": 7.483335429505723
+ },
+ {
+  "id": 315,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "num_obitos": 118,
+  "num_nascidos_vivos": 15419,
+  "tmi": 7.652895777936313
+ },
+ {
+  "id": 316,
+  "ano": 2010,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "num_obitos": 888,
+  "num_nascidos_vivos": 84611,
+  "tmi": 10.495089290990533
+ },
+ {
+  "id": 317,
+  "ano": 2011,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "num_obitos": 1033,
+  "num_nascidos_vivos": 87481,
+  "tmi": 11.808278369017271
+ },
+ {
+  "id": 318,
+  "ano": 2012,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "num_obitos": 942,
+  "num_nascidos_vivos": 88772,
+  "tmi": 10.611454062091651
+ },
+ {
+  "id": 319,
+  "ano": 2013,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "num_obitos": 940,
+  "num_nascidos_vivos": 89875,
+  "tmi": 10.458970792767733
+ },
+ {
+  "id": 320,
+  "ano": 2014,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "num_obitos": 943,
+  "num_nascidos_vivos": 93232,
+  "tmi": 10.114552943195468
+ },
+ {
+  "id": 321,
+  "ano": 2015,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "num_obitos": 965,
+  "num_nascidos_vivos": 97223,
+  "tmi": 9.925634880635242
+ },
+ {
+  "id": 322,
+  "ano": 2016,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "num_obitos": 834,
+  "num_nascidos_vivos": 95313,
+  "tmi": 8.7501180321677
+ },
+ {
+  "id": 323,
+  "ano": 2017,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "num_obitos": 976,
+  "num_nascidos_vivos": 98335,
+  "tmi": 9.925255504143998
+ },
+ {
+  "id": 324,
+  "ano": 2018,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "num_obitos": 950,
+  "num_nascidos_vivos": 99609,
+  "tmi": 9.537290807055587
+ },
+ {
+  "id": 325,
+  "ano": 2019,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "num_obitos": 942,
+  "num_nascidos_vivos": 98032,
+  "tmi": 9.60910723029215
+ },
+ {
+  "id": 326,
+  "ano": 2020,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "num_obitos": 913,
+  "num_nascidos_vivos": 97916,
+  "tmi": 9.324318803872707
+ },
+ {
+  "id": 327,
+  "ano": 2021,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "num_obitos": 891,
+  "num_nascidos_vivos": 96499,
+  "tmi": 9.233256303174127
+ },
+ {
+  "id": 328,
+  "ano": 2022,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "num_obitos": 961,
+  "num_nascidos_vivos": 98202,
+  "tmi": 9.785951406285005
+ },
+ {
+  "id": 329,
+  "ano": 2023,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "num_obitos": 878,
+  "num_nascidos_vivos": 96802,
+  "tmi": 9.070060535939339
+ },
+ {
+  "id": 330,
+  "ano": 2024,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "num_obitos": 970,
+  "num_nascidos_vivos": 93668,
+  "tmi": 10.355724473672973
+ }
+]

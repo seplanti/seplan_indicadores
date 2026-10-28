@@ -99,7 +99,8 @@ class TabelaDados:
     """Registros de um arquivo JSON da pasta tabelas_bi.
 
     Tabelas por FECAM podem ter uma linha de total do estado (abrangencia "Estado");
-    ela fica fora da média, do maior e do menor, e aparece em `valor_estado`.
+    ela fica fora da média, do maior e do menor, e aparece em `valor_estado`. Linhas de
+    comparação (abrangencia "UF" ou "País") também ficam fora das estatísticas.
 
     coluna_principal: coluna do indicador quando o arquivo é compartilhado por vários
     indicadores (ex.: um VAB por setor); passa a ser a primeira coluna numérica, a usada
@@ -111,6 +112,7 @@ class TabelaDados:
     COLUNAS_ROTULO = ("municipio", "fecam")
     COLUNA_ABRANGENCIA = "abrangencia"
     ABRANGENCIA_ESTADO = "Estado"
+    ABRANGENCIAS_REGIONAIS = (None, "FECAM")
 
     def __init__(self, registros, arquivo: Path | None = None, coluna_principal: str | None = None):
         self.registros = registros
@@ -159,6 +161,10 @@ class TabelaDados:
     def _eh_estado(self, registro):
         return registro.get(self.COLUNA_ABRANGENCIA) == self.ABRANGENCIA_ESTADO
 
+    def _eh_regional(self, registro):
+        """Registro de município ou FECAM (nem total do estado, nem comparação)."""
+        return registro.get(self.COLUNA_ABRANGENCIA) in self.ABRANGENCIAS_REGIONAIS
+
     def _coluna_com_dados(self, registros):
         """Primeira coluna numérica preenchida em algum dos registros (ex.: a projeção,
         nos anos em que a série observada está vazia)."""
@@ -173,7 +179,7 @@ class TabelaDados:
         if not self.colunas_numericas:
             return None
         col = self.colunas_numericas[0]
-        registros = [r for r in self.registros if not self._eh_estado(r)] or self.registros
+        registros = [r for r in self.registros if self._eh_regional(r)] or self.registros
         return max((r[self.COLUNA_ANO] for r in registros
                     if r.get(col) is not None and r.get(self.COLUNA_ANO) is not None), default=None)
 
@@ -181,7 +187,7 @@ class TabelaDados:
         """Estatísticas da primeira coluna numérica com dados, ou None se não houver.
 
         Tabelas só com o total do estado (sem FECAM) usam as próprias linhas do estado."""
-        registros = [r for r in self.registros if not self._eh_estado(r)] or self.registros
+        registros = [r for r in self.registros if self._eh_regional(r)] or self.registros
         col = self._coluna_com_dados(registros)
         if col is None:
             return None

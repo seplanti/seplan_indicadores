@@ -1,0 +1,2657 @@
+[
+ {
+  "id": 1,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Florianópolis",
+  "codigo_ibge": "4205407",
+  "idhm_2010": 0.847,
+  "ranking": 1
+ },
+ {
+  "id": 2,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Balneário Camboriú",
+  "codigo_ibge": "4202008",
+  "idhm_2010": 0.845,
+  "ranking": 2
+ },
+ {
+  "id": 3,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Joaçaba",
+  "codigo_ibge": "4209003",
+  "idhm_2010": 0.827,
+  "ranking": 3
+ },
+ {
+  "id": 4,
+  "ano": 2010,
+  "fecam": "Amunesc",
+  "municipio": "Joinville",
+  "codigo_ibge": "4209102",
+  "idhm_2010": 0.809,
+  "ranking": 4
+ },
+ {
+  "id": 5,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "São José",
+  "codigo_ibge": "4216602",
+  "idhm_2010": 0.809,
+  "ranking": 5
+ },
+ {
+  "id": 6,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Blumenau",
+  "codigo_ibge": "4202404",
+  "idhm_2010": 0.806,
+  "ranking": 6
+ },
+ {
+  "id": 7,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Rio Fortuna",
+  "codigo_ibge": "4214904",
+  "idhm_2010": 0.806,
+  "ranking": 7
+ },
+ {
+  "id": 8,
+  "ano": 2010,
+  "fecam": "AMVALI",
+  "municipio": "Jaraguá do Sul",
+  "codigo_ibge": "4208906",
+  "idhm_2010": 0.803,
+  "ranking": 8
+ },
+ {
+  "id": 9,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Rio do Sul",
+  "codigo_ibge": "4214805",
+  "idhm_2010": 0.802,
+  "ranking": 9
+ },
+ {
+  "id": 10,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "São Miguel do Oeste",
+  "codigo_ibge": "4217204",
+  "idhm_2010": 0.801,
+  "ranking": 10
+ },
+ {
+  "id": 11,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Concórdia",
+  "codigo_ibge": "4204301",
+  "idhm_2010": 0.8,
+  "ranking": 11
+ },
+ {
+  "id": 12,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Itapema",
+  "codigo_ibge": "4208302",
+  "idhm_2010": 0.796,
+  "ranking": 12
+ },
+ {
+  "id": 13,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Tubarão",
+  "codigo_ibge": "4218707",
+  "idhm_2010": 0.796,
+  "ranking": 13
+ },
+ {
+  "id": 14,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Brusque",
+  "codigo_ibge": "4202909",
+  "idhm_2010": 0.795,
+  "ranking": 14
+ },
+ {
+  "id": 15,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Iomerê",
+  "codigo_ibge": "4207577",
+  "idhm_2010": 0.795,
+  "ranking": 15
+ },
+ {
+  "id": 16,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Itajaí",
+  "codigo_ibge": "4208203",
+  "idhm_2010": 0.795,
+  "ranking": 16
+ },
+ {
+  "id": 17,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Treze Tílias",
+  "codigo_ibge": "4218509",
+  "idhm_2010": 0.795,
+  "ranking": 17
+ },
+ {
+  "id": 18,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Chapecó",
+  "codigo_ibge": "4204202",
+  "idhm_2010": 0.79,
+  "ranking": 18
+ },
+ {
+  "id": 19,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Luzerna",
+  "codigo_ibge": "4210035",
+  "idhm_2010": 0.789,
+  "ranking": 19
+ },
+ {
+  "id": 20,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Criciúma",
+  "codigo_ibge": "4204608",
+  "idhm_2010": 0.788,
+  "ranking": 20
+ },
+ {
+  "id": 21,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "municipio": "Porto União",
+  "codigo_ibge": "4213609",
+  "idhm_2010": 0.786,
+  "ranking": 21
+ },
+ {
+  "id": 22,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Salto Veloso",
+  "codigo_ibge": "4215406",
+  "idhm_2010": 0.784,
+  "ranking": 22
+ },
+ {
+  "id": 23,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Timbó",
+  "codigo_ibge": "4218202",
+  "idhm_2010": 0.784,
+  "ranking": 23
+ },
+ {
+  "id": 24,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Pinhalzinho",
+  "codigo_ibge": "4212908",
+  "idhm_2010": 0.783,
+  "ranking": 24
+ },
+ {
+  "id": 25,
+  "ano": 2010,
+  "fecam": "Amunesc",
+  "municipio": "São Bento do Sul",
+  "codigo_ibge": "4215802",
+  "idhm_2010": 0.782,
+  "ranking": 25
+ },
+ {
+  "id": 26,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Bombinhas",
+  "codigo_ibge": "4202453",
+  "idhm_2010": 0.781,
+  "ranking": 26
+ },
+ {
+  "id": 27,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Lacerdópolis",
+  "codigo_ibge": "4209201",
+  "idhm_2010": 0.781,
+  "ranking": 27
+ },
+ {
+  "id": 28,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Maravilha",
+  "codigo_ibge": "4210506",
+  "idhm_2010": 0.781,
+  "ranking": 28
+ },
+ {
+  "id": 29,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Santo Amaro da Imperatriz",
+  "codigo_ibge": "4215703",
+  "idhm_2010": 0.781,
+  "ranking": 29
+ },
+ {
+  "id": 30,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Braço do Trombudo",
+  "codigo_ibge": "4202859",
+  "idhm_2010": 0.78,
+  "ranking": 30
+ },
+ {
+  "id": 31,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Cocal do Sul",
+  "codigo_ibge": "4204251",
+  "idhm_2010": 0.78,
+  "ranking": 31
+ },
+ {
+  "id": 32,
+  "ano": 2010,
+  "fecam": "AMVALI",
+  "municipio": "Corupá",
+  "codigo_ibge": "4204509",
+  "idhm_2010": 0.78,
+  "ranking": 32
+ },
+ {
+  "id": 33,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Pomerode",
+  "codigo_ibge": "4213203",
+  "idhm_2010": 0.78,
+  "ranking": 33
+ },
+ {
+  "id": 34,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Seara",
+  "codigo_ibge": "4217501",
+  "idhm_2010": 0.779,
+  "ranking": 34
+ },
+ {
+  "id": 35,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Braço do Norte",
+  "codigo_ibge": "4202800",
+  "idhm_2010": 0.778,
+  "ranking": 35
+ },
+ {
+  "id": 36,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Indaial",
+  "codigo_ibge": "4207502",
+  "idhm_2010": 0.777,
+  "ranking": 36
+ },
+ {
+  "id": 37,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "municipio": "Mafra",
+  "codigo_ibge": "4210100",
+  "idhm_2010": 0.777,
+  "ranking": 37
+ },
+ {
+  "id": 38,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Pinheiro Preto",
+  "codigo_ibge": "4213005",
+  "idhm_2010": 0.777,
+  "ranking": 38
+ },
+ {
+  "id": 39,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Itapiranga",
+  "codigo_ibge": "4208401",
+  "idhm_2010": 0.775,
+  "ranking": 39
+ },
+ {
+  "id": 40,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Trombudo Central",
+  "codigo_ibge": "4218608",
+  "idhm_2010": 0.775,
+  "ranking": 40
+ },
+ {
+  "id": 41,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Xanxerê",
+  "codigo_ibge": "4219507",
+  "idhm_2010": 0.775,
+  "ranking": 41
+ },
+ {
+  "id": 42,
+  "ano": 2010,
+  "fecam": "AMVALI",
+  "municipio": "Massaranduba",
+  "codigo_ibge": "4210605",
+  "idhm_2010": 0.774,
+  "ranking": 42
+ },
+ {
+  "id": 43,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Ouro",
+  "codigo_ibge": "4211801",
+  "idhm_2010": 0.774,
+  "ranking": 43
+ },
+ {
+  "id": 44,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Siderópolis",
+  "codigo_ibge": "4217600",
+  "idhm_2010": 0.774,
+  "ranking": 44
+ },
+ {
+  "id": 45,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Treviso",
+  "codigo_ibge": "4218350",
+  "idhm_2010": 0.774,
+  "ranking": 45
+ },
+ {
+  "id": 46,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Serra Alta",
+  "codigo_ibge": "4217550",
+  "idhm_2010": 0.773,
+  "ranking": 46
+ },
+ {
+  "id": 47,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Urussanga",
+  "codigo_ibge": "4219002",
+  "idhm_2010": 0.772,
+  "ranking": 47
+ },
+ {
+  "id": 48,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Itá",
+  "codigo_ibge": "4208005",
+  "idhm_2010": 0.771,
+  "ranking": 48
+ },
+ {
+  "id": 49,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Lajeado Grande",
+  "codigo_ibge": "4209458",
+  "idhm_2010": 0.771,
+  "ranking": 49
+ },
+ {
+  "id": 50,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Armazém",
+  "codigo_ibge": "4201505",
+  "idhm_2010": 0.77,
+  "ranking": 50
+ },
+ {
+  "id": 51,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Lages",
+  "codigo_ibge": "4209300",
+  "idhm_2010": 0.77,
+  "ranking": 51
+ },
+ {
+  "id": 52,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Presidente Castello Branco",
+  "codigo_ibge": "4213906",
+  "idhm_2010": 0.77,
+  "ranking": 52
+ },
+ {
+  "id": 53,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "São Carlos",
+  "codigo_ibge": "4216008",
+  "idhm_2010": 0.769,
+  "ranking": 53
+ },
+ {
+  "id": 54,
+  "ano": 2010,
+  "fecam": "AMVALI",
+  "municipio": "Schroeder",
+  "codigo_ibge": "4217402",
+  "idhm_2010": 0.769,
+  "ranking": 54
+ },
+ {
+  "id": 55,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Maracajá",
+  "codigo_ibge": "4210407",
+  "idhm_2010": 0.768,
+  "ranking": 55
+ },
+ {
+  "id": 56,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Nova Veneza",
+  "codigo_ibge": "4211603",
+  "idhm_2010": 0.768,
+  "ranking": 56
+ },
+ {
+  "id": 57,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Capivari de Baixo",
+  "codigo_ibge": "4203956",
+  "idhm_2010": 0.767,
+  "ranking": 57
+ },
+ {
+  "id": 58,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Peritiba",
+  "codigo_ibge": "4212601",
+  "idhm_2010": 0.766,
+  "ranking": 58
+ },
+ {
+  "id": 59,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Gaspar",
+  "codigo_ibge": "4205902",
+  "idhm_2010": 0.765,
+  "ranking": 59
+ },
+ {
+  "id": 60,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Imbituba",
+  "codigo_ibge": "4207304",
+  "idhm_2010": 0.765,
+  "ranking": 60
+ },
+ {
+  "id": 61,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Nova Erechim",
+  "codigo_ibge": "4211405",
+  "idhm_2010": 0.765,
+  "ranking": 61
+ },
+ {
+  "id": 62,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "São Domingos",
+  "codigo_ibge": "4216107",
+  "idhm_2010": 0.765,
+  "ranking": 62
+ },
+ {
+  "id": 63,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Arroio Trinta",
+  "codigo_ibge": "4201604",
+  "idhm_2010": 0.764,
+  "ranking": 63
+ },
+ {
+  "id": 64,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Videira",
+  "codigo_ibge": "4219309",
+  "idhm_2010": 0.764,
+  "ranking": 64
+ },
+ {
+  "id": 65,
+  "ano": 2010,
+  "fecam": "Amunesc",
+  "municipio": "São Francisco do Sul",
+  "codigo_ibge": "4216206",
+  "idhm_2010": 0.762,
+  "ranking": 65
+ },
+ {
+  "id": 66,
+  "ano": 2010,
+  "fecam": "Amunesc",
+  "municipio": "Itapoá",
+  "codigo_ibge": "4208450",
+  "idhm_2010": 0.761,
+  "ranking": 66
+ },
+ {
+  "id": 67,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "São João do Oeste",
+  "codigo_ibge": "4216255",
+  "idhm_2010": 0.761,
+  "ranking": 67
+ },
+ {
+  "id": 68,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Taió",
+  "codigo_ibge": "4217808",
+  "idhm_2010": 0.761,
+  "ranking": 68
+ },
+ {
+  "id": 69,
+  "ano": 2010,
+  "fecam": "Amplasc",
+  "municipio": "Zortéa",
+  "codigo_ibge": "4219853",
+  "idhm_2010": 0.761,
+  "ranking": 69
+ },
+ {
+  "id": 70,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Araranguá",
+  "codigo_ibge": "4201406",
+  "idhm_2010": 0.76,
+  "ranking": 70
+ },
+ {
+  "id": 71,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Modelo",
+  "codigo_ibge": "4210902",
+  "idhm_2010": 0.76,
+  "ranking": 71
+ },
+ {
+  "id": 72,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Porto Belo",
+  "codigo_ibge": "4213500",
+  "idhm_2010": 0.76,
+  "ranking": 72
+ },
+ {
+  "id": 73,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Tijucas",
+  "codigo_ibge": "4218004",
+  "idhm_2010": 0.76,
+  "ranking": 73
+ },
+ {
+  "id": 74,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Iporã do Oeste",
+  "codigo_ibge": "4207650",
+  "idhm_2010": 0.759,
+  "ranking": 74
+ },
+ {
+  "id": 75,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Presidente Getúlio",
+  "codigo_ibge": "4214003",
+  "idhm_2010": 0.759,
+  "ranking": 75
+ },
+ {
+  "id": 76,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Faxinal dos Guedes",
+  "codigo_ibge": "4205308",
+  "idhm_2010": 0.758,
+  "ranking": 76
+ },
+ {
+  "id": 77,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Herval d'Oeste",
+  "codigo_ibge": "4206702",
+  "idhm_2010": 0.758,
+  "ranking": 77
+ },
+ {
+  "id": 78,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Piratuba",
+  "codigo_ibge": "4213104",
+  "idhm_2010": 0.758,
+  "ranking": 78
+ },
+ {
+  "id": 79,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "municipio": "Canoinhas",
+  "codigo_ibge": "4203808",
+  "idhm_2010": 0.757,
+  "ranking": 79
+ },
+ {
+  "id": 80,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Gravatal",
+  "codigo_ibge": "4206207",
+  "idhm_2010": 0.757,
+  "ranking": 80
+ },
+ {
+  "id": 81,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Palhoça",
+  "codigo_ibge": "4211900",
+  "idhm_2010": 0.757,
+  "ranking": 81
+ },
+ {
+  "id": 82,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Santa Rosa de Lima",
+  "codigo_ibge": "4215604",
+  "idhm_2010": 0.757,
+  "ranking": 82
+ },
+ {
+  "id": 83,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Balneário Piçarras",
+  "codigo_ibge": "4212809",
+  "idhm_2010": 0.756,
+  "ranking": 83
+ },
+ {
+  "id": 84,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Alto Bela Vista",
+  "codigo_ibge": "4200754",
+  "idhm_2010": 0.755,
+  "ranking": 84
+ },
+ {
+  "id": 85,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Orleans",
+  "codigo_ibge": "4211702",
+  "idhm_2010": 0.755,
+  "ranking": 85
+ },
+ {
+  "id": 86,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "São Ludgero",
+  "codigo_ibge": "4217006",
+  "idhm_2010": 0.755,
+  "ranking": 86
+ },
+ {
+  "id": 87,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Saudades",
+  "codigo_ibge": "4217303",
+  "idhm_2010": 0.755,
+  "ranking": 87
+ },
+ {
+  "id": 88,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Cunhataí",
+  "codigo_ibge": "4204756",
+  "idhm_2010": 0.754,
+  "ranking": 88
+ },
+ {
+  "id": 89,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Guabiruba",
+  "codigo_ibge": "4206306",
+  "idhm_2010": 0.754,
+  "ranking": 89
+ },
+ {
+  "id": 90,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Rio do Oeste",
+  "codigo_ibge": "4214607",
+  "idhm_2010": 0.754,
+  "ranking": 90
+ },
+ {
+  "id": 91,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Rodeio",
+  "codigo_ibge": "4215109",
+  "idhm_2010": 0.754,
+  "ranking": 91
+ },
+ {
+  "id": 92,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Forquilhinha",
+  "codigo_ibge": "4205456",
+  "idhm_2010": 0.753,
+  "ranking": 92
+ },
+ {
+  "id": 93,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Garopaba",
+  "codigo_ibge": "4205704",
+  "idhm_2010": 0.753,
+  "ranking": 93
+ },
+ {
+  "id": 94,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Rancho Queimado",
+  "codigo_ibge": "4214300",
+  "idhm_2010": 0.753,
+  "ranking": 94
+ },
+ {
+  "id": 95,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Capinzal",
+  "codigo_ibge": "4203907",
+  "idhm_2010": 0.752,
+  "ranking": 95
+ },
+ {
+  "id": 96,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Laguna",
+  "codigo_ibge": "4209409",
+  "idhm_2010": 0.752,
+  "ranking": 96
+ },
+ {
+  "id": 97,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Tunápolis",
+  "codigo_ibge": "4218756",
+  "idhm_2010": 0.752,
+  "ranking": 97
+ },
+ {
+  "id": 98,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Xaxim",
+  "codigo_ibge": "4219705",
+  "idhm_2010": 0.752,
+  "ranking": 98
+ },
+ {
+  "id": 99,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Guaraciaba",
+  "codigo_ibge": "4206405",
+  "idhm_2010": 0.751,
+  "ranking": 99
+ },
+ {
+  "id": 100,
+  "ano": 2010,
+  "fecam": "AMVALI",
+  "municipio": "Guaramirim",
+  "codigo_ibge": "4206504",
+  "idhm_2010": 0.751,
+  "ranking": 100
+ },
+ {
+  "id": 101,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Planalto Alegre",
+  "codigo_ibge": "4213153",
+  "idhm_2010": 0.751,
+  "ranking": 101
+ },
+ {
+  "id": 102,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Antônio Carlos",
+  "codigo_ibge": "4201208",
+  "idhm_2010": 0.749,
+  "ranking": 102
+ },
+ {
+  "id": 103,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Laurentino",
+  "codigo_ibge": "4209508",
+  "idhm_2010": 0.749,
+  "ranking": 103
+ },
+ {
+  "id": 104,
+  "ano": 2010,
+  "fecam": "Amnoroeste",
+  "municipio": "São Lourenço do Oeste",
+  "codigo_ibge": "4216909",
+  "idhm_2010": 0.749,
+  "ranking": 104
+ },
+ {
+  "id": 105,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Xavantina",
+  "codigo_ibge": "4219606",
+  "idhm_2010": 0.749,
+  "ranking": 105
+ },
+ {
+  "id": 106,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Ituporanga",
+  "codigo_ibge": "4208500",
+  "idhm_2010": 0.748,
+  "ranking": 106
+ },
+ {
+  "id": 107,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Mondaí",
+  "codigo_ibge": "4211009",
+  "idhm_2010": 0.748,
+  "ranking": 107
+ },
+ {
+  "id": 108,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Nova Trento",
+  "codigo_ibge": "4211504",
+  "idhm_2010": 0.748,
+  "ranking": 108
+ },
+ {
+  "id": 109,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Cordilheira Alta",
+  "codigo_ibge": "4204350",
+  "idhm_2010": 0.747,
+  "ranking": 109
+ },
+ {
+  "id": 110,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Governador Celso Ramos",
+  "codigo_ibge": "4206009",
+  "idhm_2010": 0.747,
+  "ranking": 110
+ },
+ {
+  "id": 111,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Balneário Arroio do Silva",
+  "codigo_ibge": "4201950",
+  "idhm_2010": 0.746,
+  "ranking": 111
+ },
+ {
+  "id": 112,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Águas Frias",
+  "codigo_ibge": "4200556",
+  "idhm_2010": 0.745,
+  "ranking": 112
+ },
+ {
+  "id": 113,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Coronel Freitas",
+  "codigo_ibge": "4204400",
+  "idhm_2010": 0.744,
+  "ranking": 113
+ },
+ {
+  "id": 114,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Salete",
+  "codigo_ibge": "4215307",
+  "idhm_2010": 0.744,
+  "ranking": 114
+ },
+ {
+  "id": 115,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Descanso",
+  "codigo_ibge": "4204905",
+  "idhm_2010": 0.743,
+  "ranking": 115
+ },
+ {
+  "id": 116,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Lindóia do Sul",
+  "codigo_ibge": "4209854",
+  "idhm_2010": 0.743,
+  "ranking": 116
+ },
+ {
+  "id": 117,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Marema",
+  "codigo_ibge": "4210555",
+  "idhm_2010": 0.743,
+  "ranking": 117
+ },
+ {
+  "id": 118,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Penha",
+  "codigo_ibge": "4212502",
+  "idhm_2010": 0.743,
+  "ranking": 118
+ },
+ {
+  "id": 119,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Ascurra",
+  "codigo_ibge": "4201703",
+  "idhm_2010": 0.742,
+  "ranking": 119
+ },
+ {
+  "id": 120,
+  "ano": 2010,
+  "fecam": "Amplasc",
+  "municipio": "Campos Novos",
+  "codigo_ibge": "4203600",
+  "idhm_2010": 0.742,
+  "ranking": 120
+ },
+ {
+  "id": 121,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Cunha Porã",
+  "codigo_ibge": "4204707",
+  "idhm_2010": 0.742,
+  "ranking": 121
+ },
+ {
+  "id": 122,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Dona Emma",
+  "codigo_ibge": "4205100",
+  "idhm_2010": 0.742,
+  "ranking": 122
+ },
+ {
+  "id": 123,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Irani",
+  "codigo_ibge": "4207809",
+  "idhm_2010": 0.742,
+  "ranking": 123
+ },
+ {
+  "id": 124,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "São Martinho",
+  "codigo_ibge": "4217105",
+  "idhm_2010": 0.742,
+  "ranking": 124
+ },
+ {
+  "id": 125,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Agronômica",
+  "codigo_ibge": "4200309",
+  "idhm_2010": 0.741,
+  "ranking": 125
+ },
+ {
+  "id": 126,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Içara",
+  "codigo_ibge": "4207007",
+  "idhm_2010": 0.741,
+  "ranking": 126
+ },
+ {
+  "id": 127,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Benedito Novo",
+  "codigo_ibge": "4202206",
+  "idhm_2010": 0.74,
+  "ranking": 127
+ },
+ {
+  "id": 128,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Otacílio Costa",
+  "codigo_ibge": "4211751",
+  "idhm_2010": 0.74,
+  "ranking": 128
+ },
+ {
+  "id": 129,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "São João Batista",
+  "codigo_ibge": "4216305",
+  "idhm_2010": 0.74,
+  "ranking": 129
+ },
+ {
+  "id": 130,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Turvo",
+  "codigo_ibge": "4218806",
+  "idhm_2010": 0.74,
+  "ranking": 130
+ },
+ {
+  "id": 131,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Biguaçu",
+  "codigo_ibge": "4202305",
+  "idhm_2010": 0.739,
+  "ranking": 131
+ },
+ {
+  "id": 132,
+  "ano": 2010,
+  "fecam": "AMVALI",
+  "municipio": "Barra Velha",
+  "codigo_ibge": "4202107",
+  "idhm_2010": 0.738,
+  "ranking": 132
+ },
+ {
+  "id": 133,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Ilhota",
+  "codigo_ibge": "4207106",
+  "idhm_2010": 0.738,
+  "ranking": 133
+ },
+ {
+  "id": 134,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Ipumirim",
+  "codigo_ibge": "4207700",
+  "idhm_2010": 0.738,
+  "ranking": 134
+ },
+ {
+  "id": 135,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Meleiro",
+  "codigo_ibge": "4210803",
+  "idhm_2010": 0.738,
+  "ranking": 135
+ },
+ {
+  "id": 136,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Morro da Fumaça",
+  "codigo_ibge": "4211207",
+  "idhm_2010": 0.738,
+  "ranking": 136
+ },
+ {
+  "id": 137,
+  "ano": 2010,
+  "fecam": "Amunesc",
+  "municipio": "Rio Negrinho",
+  "codigo_ibge": "4215000",
+  "idhm_2010": 0.738,
+  "ranking": 137
+ },
+ {
+  "id": 138,
+  "ano": 2010,
+  "fecam": "AMVALI",
+  "municipio": "São João do Itaperiú",
+  "codigo_ibge": "4216354",
+  "idhm_2010": 0.738,
+  "ranking": 138
+ },
+ {
+  "id": 139,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Ibirama",
+  "codigo_ibge": "4206900",
+  "idhm_2010": 0.737,
+  "ranking": 139
+ },
+ {
+  "id": 140,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Luiz Alves",
+  "codigo_ibge": "4210001",
+  "idhm_2010": 0.737,
+  "ranking": 140
+ },
+ {
+  "id": 141,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Palmitos",
+  "codigo_ibge": "4212106",
+  "idhm_2010": 0.737,
+  "ranking": 141
+ },
+ {
+  "id": 142,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Presidente Nereu",
+  "codigo_ibge": "4214102",
+  "idhm_2010": 0.737,
+  "ranking": 142
+ },
+ {
+  "id": 143,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Tangará",
+  "codigo_ibge": "4217907",
+  "idhm_2010": 0.737,
+  "ranking": 143
+ },
+ {
+  "id": 144,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Grão-Pará",
+  "codigo_ibge": "4206108",
+  "idhm_2010": 0.736,
+  "ranking": 144
+ },
+ {
+  "id": 145,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Ipira",
+  "codigo_ibge": "4207601",
+  "idhm_2010": 0.736,
+  "ranking": 145
+ },
+ {
+  "id": 146,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Navegantes",
+  "codigo_ibge": "4211306",
+  "idhm_2010": 0.736,
+  "ranking": 146
+ },
+ {
+  "id": 147,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Nova Itaberaba",
+  "codigo_ibge": "4211454",
+  "idhm_2010": 0.736,
+  "ranking": 147
+ },
+ {
+  "id": 148,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Caçador",
+  "codigo_ibge": "4203006",
+  "idhm_2010": 0.735,
+  "ranking": 148
+ },
+ {
+  "id": 149,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Lauro Müller",
+  "codigo_ibge": "4209607",
+  "idhm_2010": 0.735,
+  "ranking": 149
+ },
+ {
+  "id": 150,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "São Pedro de Alcântara",
+  "codigo_ibge": "4217253",
+  "idhm_2010": 0.734,
+  "ranking": 150
+ },
+ {
+  "id": 151,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Arabutã",
+  "codigo_ibge": "4201273",
+  "idhm_2010": 0.733,
+  "ranking": 151
+ },
+ {
+  "id": 152,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Atalanta",
+  "codigo_ibge": "4201802",
+  "idhm_2010": 0.733,
+  "ranking": 152
+ },
+ {
+  "id": 153,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Aurora",
+  "codigo_ibge": "4201901",
+  "idhm_2010": 0.733,
+  "ranking": 153
+ },
+ {
+  "id": 154,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Jaborá",
+  "codigo_ibge": "4208609",
+  "idhm_2010": 0.732,
+  "ranking": 154
+ },
+ {
+  "id": 155,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Fraiburgo",
+  "codigo_ibge": "4205506",
+  "idhm_2010": 0.731,
+  "ranking": 155
+ },
+ {
+  "id": 156,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "São Bonifácio",
+  "codigo_ibge": "4215901",
+  "idhm_2010": 0.731,
+  "ranking": 156
+ },
+ {
+  "id": 157,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "São José do Cedro",
+  "codigo_ibge": "4216701",
+  "idhm_2010": 0.731,
+  "ranking": 157
+ },
+ {
+  "id": 158,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Guarujá do Sul",
+  "codigo_ibge": "4206603",
+  "idhm_2010": 0.73,
+  "ranking": 158
+ },
+ {
+  "id": 159,
+  "ano": 2010,
+  "fecam": "Amnoroeste",
+  "municipio": "Quilombo",
+  "codigo_ibge": "4214201",
+  "idhm_2010": 0.73,
+  "ranking": 159
+ },
+ {
+  "id": 160,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Rio do Campo",
+  "codigo_ibge": "4214508",
+  "idhm_2010": 0.729,
+  "ranking": 160
+ },
+ {
+  "id": 161,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Rio dos Cedros",
+  "codigo_ibge": "4214706",
+  "idhm_2010": 0.729,
+  "ranking": 161
+ },
+ {
+  "id": 162,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Treze de Maio",
+  "codigo_ibge": "4218400",
+  "idhm_2010": 0.729,
+  "ranking": 162
+ },
+ {
+  "id": 163,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Balneário Gaivota",
+  "codigo_ibge": "4202073",
+  "idhm_2010": 0.728,
+  "ranking": 163
+ },
+ {
+  "id": 164,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Caibi",
+  "codigo_ibge": "4203105",
+  "idhm_2010": 0.728,
+  "ranking": 164
+ },
+ {
+  "id": 165,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Pedras Grandes",
+  "codigo_ibge": "4212403",
+  "idhm_2010": 0.728,
+  "ranking": 165
+ },
+ {
+  "id": 166,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Santiago do Sul",
+  "codigo_ibge": "4215695",
+  "idhm_2010": 0.728,
+  "ranking": 166
+ },
+ {
+  "id": 167,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Sombrio",
+  "codigo_ibge": "4217709",
+  "idhm_2010": 0.728,
+  "ranking": 167
+ },
+ {
+  "id": 168,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Santa Helena",
+  "codigo_ibge": "4215554",
+  "idhm_2010": 0.727,
+  "ranking": 168
+ },
+ {
+  "id": 169,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Camboriú",
+  "codigo_ibge": "4203204",
+  "idhm_2010": 0.726,
+  "ranking": 169
+ },
+ {
+  "id": 170,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Ermo",
+  "codigo_ibge": "4205191",
+  "idhm_2010": 0.726,
+  "ranking": 170
+ },
+ {
+  "id": 171,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Agrolândia",
+  "codigo_ibge": "4200200",
+  "idhm_2010": 0.725,
+  "ranking": 171
+ },
+ {
+  "id": 172,
+  "ano": 2010,
+  "fecam": "Amunesc",
+  "municipio": "Garuva",
+  "codigo_ibge": "4205803",
+  "idhm_2010": 0.725,
+  "ranking": 172
+ },
+ {
+  "id": 173,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Ibiam",
+  "codigo_ibge": "4206751",
+  "idhm_2010": 0.725,
+  "ranking": 173
+ },
+ {
+  "id": 174,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Botuverá",
+  "codigo_ibge": "4202701",
+  "idhm_2010": 0.724,
+  "ranking": 174
+ },
+ {
+  "id": 175,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Águas Mornas",
+  "codigo_ibge": "4200606",
+  "idhm_2010": 0.723,
+  "ranking": 175
+ },
+ {
+  "id": 176,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Erval Velho",
+  "codigo_ibge": "4205209",
+  "idhm_2010": 0.723,
+  "ranking": 176
+ },
+ {
+  "id": 177,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Iraceminha",
+  "codigo_ibge": "4207759",
+  "idhm_2010": 0.722,
+  "ranking": 177
+ },
+ {
+  "id": 178,
+  "ano": 2010,
+  "fecam": "Amurc",
+  "municipio": "Curitibanos",
+  "codigo_ibge": "4204806",
+  "idhm_2010": 0.721,
+  "ranking": 178
+ },
+ {
+  "id": 179,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Jaguaruna",
+  "codigo_ibge": "4208807",
+  "idhm_2010": 0.721,
+  "ranking": 179
+ },
+ {
+  "id": 180,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Passo de Torres",
+  "codigo_ibge": "4212254",
+  "idhm_2010": 0.72,
+  "ranking": 180
+ },
+ {
+  "id": 181,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Pouso Redondo",
+  "codigo_ibge": "4213708",
+  "idhm_2010": 0.72,
+  "ranking": 181
+ },
+ {
+  "id": 182,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Timbé do Sul",
+  "codigo_ibge": "4218103",
+  "idhm_2010": 0.72,
+  "ranking": 182
+ },
+ {
+  "id": 183,
+  "ano": 2010,
+  "fecam": "Amplasc",
+  "municipio": "Celso Ramos",
+  "codigo_ibge": "4204152",
+  "idhm_2010": 0.719,
+  "ranking": 183
+ },
+ {
+  "id": 184,
+  "ano": 2010,
+  "fecam": "Amnoroeste",
+  "municipio": "Jupiá",
+  "codigo_ibge": "4209177",
+  "idhm_2010": 0.719,
+  "ranking": 184
+ },
+ {
+  "id": 185,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Bom Jesus",
+  "codigo_ibge": "4202537",
+  "idhm_2010": 0.718,
+  "ranking": 185
+ },
+ {
+  "id": 186,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Paial",
+  "codigo_ibge": "4211876",
+  "idhm_2010": 0.718,
+  "ranking": 186
+ },
+ {
+  "id": 187,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Praia Grande",
+  "codigo_ibge": "4213807",
+  "idhm_2010": 0.718,
+  "ranking": 187
+ },
+ {
+  "id": 188,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Vargem Bonita",
+  "codigo_ibge": "4219176",
+  "idhm_2010": 0.718,
+  "ranking": 188
+ },
+ {
+  "id": 189,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Guatambú",
+  "codigo_ibge": "4206652",
+  "idhm_2010": 0.717,
+  "ranking": 189
+ },
+ {
+  "id": 190,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Tigrinhos",
+  "codigo_ibge": "4217956",
+  "idhm_2010": 0.717,
+  "ranking": 190
+ },
+ {
+  "id": 191,
+  "ano": 2010,
+  "fecam": "Amunesc",
+  "municipio": "Balneário Barra do Sul",
+  "codigo_ibge": "4202057",
+  "idhm_2010": 0.716,
+  "ranking": 191
+ },
+ {
+  "id": 192,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Doutor Pedrinho",
+  "codigo_ibge": "4205159",
+  "idhm_2010": 0.716,
+  "ranking": 192
+ },
+ {
+  "id": 193,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Jacinto Machado",
+  "codigo_ibge": "4208708",
+  "idhm_2010": 0.716,
+  "ranking": 193
+ },
+ {
+  "id": 194,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Paulo Lopes",
+  "codigo_ibge": "4212304",
+  "idhm_2010": 0.716,
+  "ranking": 194
+ },
+ {
+  "id": 195,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Petrolândia",
+  "codigo_ibge": "4212700",
+  "idhm_2010": 0.716,
+  "ranking": 195
+ },
+ {
+  "id": 196,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Arvoredo",
+  "codigo_ibge": "4201653",
+  "idhm_2010": 0.715,
+  "ranking": 196
+ },
+ {
+  "id": 197,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Formosa do Sul",
+  "codigo_ibge": "4205431",
+  "idhm_2010": 0.715,
+  "ranking": 197
+ },
+ {
+  "id": 198,
+  "ano": 2010,
+  "fecam": "Amunesc",
+  "municipio": "Campo Alegre",
+  "codigo_ibge": "4203303",
+  "idhm_2010": 0.714,
+  "ranking": 198
+ },
+ {
+  "id": 199,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Catanduvas",
+  "codigo_ibge": "4204004",
+  "idhm_2010": 0.714,
+  "ranking": 199
+ },
+ {
+  "id": 200,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Riqueza",
+  "codigo_ibge": "4215075",
+  "idhm_2010": 0.714,
+  "ranking": 200
+ },
+ {
+  "id": 201,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Águas de Chapecó",
+  "codigo_ibge": "4200507",
+  "idhm_2010": 0.713,
+  "ranking": 201
+ },
+ {
+  "id": 202,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Imbuia",
+  "codigo_ibge": "4207403",
+  "idhm_2010": 0.713,
+  "ranking": 202
+ },
+ {
+  "id": 203,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Bom Jesus do Oeste",
+  "codigo_ibge": "4202578",
+  "idhm_2010": 0.712,
+  "ranking": 203
+ },
+ {
+  "id": 204,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "São Miguel da Boa Vista",
+  "codigo_ibge": "4217154",
+  "idhm_2010": 0.71,
+  "ranking": 204
+ },
+ {
+  "id": 205,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Witmarsum",
+  "codigo_ibge": "4219408",
+  "idhm_2010": 0.71,
+  "ranking": 205
+ },
+ {
+  "id": 206,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Jardinópolis",
+  "codigo_ibge": "4208955",
+  "idhm_2010": 0.709,
+  "ranking": 206
+ },
+ {
+  "id": 207,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Apiúna",
+  "codigo_ibge": "4201257",
+  "idhm_2010": 0.708,
+  "ranking": 207
+ },
+ {
+  "id": 208,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Flor do Sertão",
+  "codigo_ibge": "4205357",
+  "idhm_2010": 0.708,
+  "ranking": 208
+ },
+ {
+  "id": 209,
+  "ano": 2010,
+  "fecam": "Amnoroeste",
+  "municipio": "Galvão",
+  "codigo_ibge": "4205605",
+  "idhm_2010": 0.708,
+  "ranking": 209
+ },
+ {
+  "id": 210,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Ibicaré",
+  "codigo_ibge": "4206801",
+  "idhm_2010": 0.708,
+  "ranking": 210
+ },
+ {
+  "id": 211,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "municipio": "Itaiópolis",
+  "codigo_ibge": "4208104",
+  "idhm_2010": 0.708,
+  "ranking": 211
+ },
+ {
+  "id": 212,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Mirim Doce",
+  "codigo_ibge": "4210852",
+  "idhm_2010": 0.708,
+  "ranking": 212
+ },
+ {
+  "id": 213,
+  "ano": 2010,
+  "fecam": "Amnoroeste",
+  "municipio": "Irati",
+  "codigo_ibge": "4207858",
+  "idhm_2010": 0.707,
+  "ranking": 213
+ },
+ {
+  "id": 214,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Sul Brasil",
+  "codigo_ibge": "4217758",
+  "idhm_2010": 0.707,
+  "ranking": 214
+ },
+ {
+  "id": 215,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Dionísio Cerqueira",
+  "codigo_ibge": "4205001",
+  "idhm_2010": 0.706,
+  "ranking": 215
+ },
+ {
+  "id": 216,
+  "ano": 2010,
+  "fecam": "Amnoroeste",
+  "municipio": "Novo Horizonte",
+  "codigo_ibge": "4211652",
+  "idhm_2010": 0.706,
+  "ranking": 216
+ },
+ {
+  "id": 217,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Princesa",
+  "codigo_ibge": "4214151",
+  "idhm_2010": 0.706,
+  "ranking": 217
+ },
+ {
+  "id": 218,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "municipio": "Três Barras",
+  "codigo_ibge": "4218301",
+  "idhm_2010": 0.706,
+  "ranking": 218
+ },
+ {
+  "id": 219,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Belmonte",
+  "codigo_ibge": "4202156",
+  "idhm_2010": 0.705,
+  "ranking": 219
+ },
+ {
+  "id": 220,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Santa Rosa do Sul",
+  "codigo_ibge": "4215653",
+  "idhm_2010": 0.705,
+  "ranking": 220
+ },
+ {
+  "id": 221,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "União do Oeste",
+  "codigo_ibge": "4218855",
+  "idhm_2010": 0.705,
+  "ranking": 221
+ },
+ {
+  "id": 222,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Chapadão do Lageado",
+  "codigo_ibge": "4204194",
+  "idhm_2010": 0.704,
+  "ranking": 222
+ },
+ {
+  "id": 223,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Lontras",
+  "codigo_ibge": "4209904",
+  "idhm_2010": 0.704,
+  "ranking": 223
+ },
+ {
+  "id": 224,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Palma Sola",
+  "codigo_ibge": "4212007",
+  "idhm_2010": 0.704,
+  "ranking": 224
+ },
+ {
+  "id": 225,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "municipio": "Papanduva",
+  "codigo_ibge": "4212205",
+  "idhm_2010": 0.704,
+  "ranking": 225
+ },
+ {
+  "id": 226,
+  "ano": 2010,
+  "fecam": "Amunesc",
+  "municipio": "Araquari",
+  "codigo_ibge": "4201307",
+  "idhm_2010": 0.703,
+  "ranking": 226
+ },
+ {
+  "id": 227,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Correia Pinto",
+  "codigo_ibge": "4204558",
+  "idhm_2010": 0.702,
+  "ranking": 227
+ },
+ {
+  "id": 228,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Barra Bonita",
+  "codigo_ibge": "4202099",
+  "idhm_2010": 0.701,
+  "ranking": 228
+ },
+ {
+  "id": 229,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Morro Grande",
+  "codigo_ibge": "4211256",
+  "idhm_2010": 0.701,
+  "ranking": 229
+ },
+ {
+  "id": 230,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Paraíso",
+  "codigo_ibge": "4212239",
+  "idhm_2010": 0.7,
+  "ranking": 230
+ },
+ {
+  "id": 231,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Sangão",
+  "codigo_ibge": "4215455",
+  "idhm_2010": 0.7,
+  "ranking": 231
+ },
+ {
+  "id": 232,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Vidal Ramos",
+  "codigo_ibge": "4219200",
+  "idhm_2010": 0.7,
+  "ranking": 232
+ },
+ {
+  "id": 233,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Anchieta",
+  "codigo_ibge": "4200804",
+  "idhm_2010": 0.699,
+  "ranking": 233
+ },
+ {
+  "id": 234,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Bom Retiro",
+  "codigo_ibge": "4202602",
+  "idhm_2010": 0.699,
+  "ranking": 234
+ },
+ {
+  "id": 235,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "municipio": "Irineópolis",
+  "codigo_ibge": "4207908",
+  "idhm_2010": 0.699,
+  "ranking": 235
+ },
+ {
+  "id": 236,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Urupema",
+  "codigo_ibge": "4218954",
+  "idhm_2010": 0.699,
+  "ranking": 236
+ },
+ {
+  "id": 237,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Água Doce",
+  "codigo_ibge": "4200408",
+  "idhm_2010": 0.698,
+  "ranking": 237
+ },
+ {
+  "id": 238,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Major Gercino",
+  "codigo_ibge": "4210209",
+  "idhm_2010": 0.698,
+  "ranking": 238
+ },
+ {
+  "id": 239,
+  "ano": 2010,
+  "fecam": "Amurc",
+  "municipio": "Santa Cecília",
+  "codigo_ibge": "4215505",
+  "idhm_2010": 0.698,
+  "ranking": 239
+ },
+ {
+  "id": 240,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Canelinha",
+  "codigo_ibge": "4203709",
+  "idhm_2010": 0.697,
+  "ranking": 240
+ },
+ {
+  "id": 241,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Rio das Antas",
+  "codigo_ibge": "4214409",
+  "idhm_2010": 0.697,
+  "ranking": 241
+ },
+ {
+  "id": 242,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Bom Jardim da Serra",
+  "codigo_ibge": "4202503",
+  "idhm_2010": 0.696,
+  "ranking": 242
+ },
+ {
+  "id": 243,
+  "ano": 2010,
+  "fecam": "Amnoroeste",
+  "municipio": "Coronel Martins",
+  "codigo_ibge": "4204459",
+  "idhm_2010": 0.696,
+  "ranking": 243
+ },
+ {
+  "id": 244,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Abelardo Luz",
+  "codigo_ibge": "4200101",
+  "idhm_2010": 0.696,
+  "ranking": 244
+ },
+ {
+  "id": 245,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Ouro Verde",
+  "codigo_ibge": "4211850",
+  "idhm_2010": 0.695,
+  "ranking": 245
+ },
+ {
+  "id": 246,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "São João do Sul",
+  "codigo_ibge": "4216404",
+  "idhm_2010": 0.695,
+  "ranking": 246
+ },
+ {
+  "id": 247,
+  "ano": 2010,
+  "fecam": "Amplasc",
+  "municipio": "Abdon Batista",
+  "codigo_ibge": "4200051",
+  "idhm_2010": 0.694,
+  "ranking": 247
+ },
+ {
+  "id": 248,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "José Boiteux",
+  "codigo_ibge": "4209151",
+  "idhm_2010": 0.694,
+  "ranking": 248
+ },
+ {
+  "id": 249,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Urubici",
+  "codigo_ibge": "4218905",
+  "idhm_2010": 0.694,
+  "ranking": 249
+ },
+ {
+  "id": 250,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Ponte Serrada",
+  "codigo_ibge": "4213401",
+  "idhm_2010": 0.693,
+  "ranking": 250
+ },
+ {
+  "id": 251,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Romelândia",
+  "codigo_ibge": "4215208",
+  "idhm_2010": 0.692,
+  "ranking": 251
+ },
+ {
+  "id": 252,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Caxambu do Sul",
+  "codigo_ibge": "4204103",
+  "idhm_2010": 0.691,
+  "ranking": 252
+ },
+ {
+  "id": 253,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Campo Erê",
+  "codigo_ibge": "4203501",
+  "idhm_2010": 0.69,
+  "ranking": 253
+ },
+ {
+  "id": 254,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "municipio": "Major Vieira",
+  "codigo_ibge": "4210308",
+  "idhm_2010": 0.69,
+  "ranking": 254
+ },
+ {
+  "id": 255,
+  "ano": 2010,
+  "fecam": "Amurc",
+  "municipio": "Ponte Alta do Norte",
+  "codigo_ibge": "4213351",
+  "idhm_2010": 0.689,
+  "ranking": 255
+ },
+ {
+  "id": 256,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Anita Garibaldi",
+  "codigo_ibge": "4201000",
+  "idhm_2010": 0.688,
+  "ranking": 256
+ },
+ {
+  "id": 257,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Angelina",
+  "codigo_ibge": "4200903",
+  "idhm_2010": 0.687,
+  "ranking": 257
+ },
+ {
+  "id": 258,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "São Joaquim",
+  "codigo_ibge": "4216503",
+  "idhm_2010": 0.687,
+  "ranking": 258
+ },
+ {
+  "id": 259,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Leoberto Leal",
+  "codigo_ibge": "4209805",
+  "idhm_2010": 0.686,
+  "ranking": 259
+ },
+ {
+  "id": 260,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Vargeão",
+  "codigo_ibge": "4219101",
+  "idhm_2010": 0.686,
+  "ranking": 260
+ },
+ {
+  "id": 261,
+  "ano": 2010,
+  "fecam": "Amurc",
+  "municipio": "Frei Rogério",
+  "codigo_ibge": "4205555",
+  "idhm_2010": 0.682,
+  "ranking": 261
+ },
+ {
+  "id": 262,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Santa Terezinha do Progresso",
+  "codigo_ibge": "4215687",
+  "idhm_2010": 0.682,
+  "ranking": 262
+ },
+ {
+  "id": 263,
+  "ano": 2010,
+  "fecam": "Amnoroeste",
+  "municipio": "São Bernardino",
+  "codigo_ibge": "4215752",
+  "idhm_2010": 0.677,
+  "ranking": 263
+ },
+ {
+  "id": 264,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "municipio": "Bela Vista do Toldo",
+  "codigo_ibge": "4202131",
+  "idhm_2010": 0.675,
+  "ranking": 264
+ },
+ {
+  "id": 265,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "municipio": "Monte Castelo",
+  "codigo_ibge": "4211108",
+  "idhm_2010": 0.675,
+  "ranking": 265
+ },
+ {
+  "id": 266,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Anitápolis",
+  "codigo_ibge": "4201109",
+  "idhm_2010": 0.674,
+  "ranking": 266
+ },
+ {
+  "id": 267,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Ponte Alta",
+  "codigo_ibge": "4213302",
+  "idhm_2010": 0.673,
+  "ranking": 267
+ },
+ {
+  "id": 268,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Vitor Meireles",
+  "codigo_ibge": "4219358",
+  "idhm_2010": 0.673,
+  "ranking": 268
+ },
+ {
+  "id": 269,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Bandeirante",
+  "codigo_ibge": "4202081",
+  "idhm_2010": 0.672,
+  "ranking": 269
+ },
+ {
+  "id": 270,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Palmeira",
+  "codigo_ibge": "4212056",
+  "idhm_2010": 0.671,
+  "ranking": 270
+ },
+ {
+  "id": 271,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Santa Terezinha",
+  "codigo_ibge": "4215679",
+  "idhm_2010": 0.669,
+  "ranking": 271
+ },
+ {
+  "id": 272,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Alfredo Wagner",
+  "codigo_ibge": "4200705",
+  "idhm_2010": 0.668,
+  "ranking": 272
+ },
+ {
+  "id": 273,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Imaruí",
+  "codigo_ibge": "4207205",
+  "idhm_2010": 0.667,
+  "ranking": 273
+ },
+ {
+  "id": 274,
+  "ano": 2010,
+  "fecam": "Amurc",
+  "municipio": "São Cristóvão do Sul",
+  "codigo_ibge": "4216057",
+  "idhm_2010": 0.665,
+  "ranking": 274
+ },
+ {
+  "id": 275,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Painel",
+  "codigo_ibge": "4211892",
+  "idhm_2010": 0.664,
+  "ranking": 275
+ },
+ {
+  "id": 276,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Macieira",
+  "codigo_ibge": "4210050",
+  "idhm_2010": 0.662,
+  "ranking": 276
+ },
+ {
+  "id": 277,
+  "ano": 2010,
+  "fecam": "Amplasc",
+  "municipio": "Brunópolis",
+  "codigo_ibge": "4202875",
+  "idhm_2010": 0.661,
+  "ranking": 277
+ },
+ {
+  "id": 278,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Ipuaçu",
+  "codigo_ibge": "4207684",
+  "idhm_2010": 0.66,
+  "ranking": 278
+ },
+ {
+  "id": 279,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Passos Maia",
+  "codigo_ibge": "4212270",
+  "idhm_2010": 0.659,
+  "ranking": 279
+ },
+ {
+  "id": 280,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Timbó Grande",
+  "codigo_ibge": "4218251",
+  "idhm_2010": 0.659,
+  "ranking": 280
+ },
+ {
+  "id": 281,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Entre Rios",
+  "codigo_ibge": "4205175",
+  "idhm_2010": 0.657,
+  "ranking": 281
+ },
+ {
+  "id": 282,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Matos Costa",
+  "codigo_ibge": "4210704",
+  "idhm_2010": 0.657,
+  "ranking": 282
+ },
+ {
+  "id": 283,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Capão Alto",
+  "codigo_ibge": "4203253",
+  "idhm_2010": 0.654,
+  "ranking": 283
+ },
+ {
+  "id": 284,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Saltinho",
+  "codigo_ibge": "4215356",
+  "idhm_2010": 0.654,
+  "ranking": 284
+ },
+ {
+  "id": 285,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Rio Rufino",
+  "codigo_ibge": "4215059",
+  "idhm_2010": 0.653,
+  "ranking": 285
+ },
+ {
+  "id": 286,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Lebon Régis",
+  "codigo_ibge": "4209706",
+  "idhm_2010": 0.649,
+  "ranking": 286
+ },
+ {
+  "id": 287,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Bocaina do Sul",
+  "codigo_ibge": "4202438",
+  "idhm_2010": 0.647,
+  "ranking": 287
+ },
+ {
+  "id": 288,
+  "ano": 2010,
+  "fecam": "Amplasc",
+  "municipio": "Monte Carlo",
+  "codigo_ibge": "4211058",
+  "idhm_2010": 0.643,
+  "ranking": 288
+ },
+ {
+  "id": 289,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Campo Belo do Sul",
+  "codigo_ibge": "4203402",
+  "idhm_2010": 0.641,
+  "ranking": 289
+ },
+ {
+  "id": 290,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "São José do Cerrito",
+  "codigo_ibge": "4216800",
+  "idhm_2010": 0.636,
+  "ranking": 290
+ },
+ {
+  "id": 291,
+  "ano": 2010,
+  "fecam": "Amplasc",
+  "municipio": "Vargem",
+  "codigo_ibge": "4219150",
+  "idhm_2010": 0.629,
+  "ranking": 291
+ },
+ {
+  "id": 292,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Calmon",
+  "codigo_ibge": "4203154",
+  "idhm_2010": 0.622,
+  "ranking": 292
+ },
+ {
+  "id": 293,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Cerro Negro",
+  "codigo_ibge": "4204178",
+  "idhm_2010": 0.621,
+  "ranking": 293
+ },
+ {
+  "id": 294,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Balneário Rincão",
+  "codigo_ibge": "4220000",
+  "idhm_2010": null,
+  "ranking": 294
+ },
+ {
+  "id": 295,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Pescaria Brava",
+  "codigo_ibge": "4212650",
+  "idhm_2010": null,
+  "ranking": 295
+ }
+]
