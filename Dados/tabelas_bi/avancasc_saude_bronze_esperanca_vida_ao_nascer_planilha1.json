@@ -1,0 +1,7034 @@
+[
+ {
+  "id": 1,
+  "ano": 1991,
+  "fecam": "Amplasc",
+  "municipio": "Abdon Batista",
+  "codigo_ibge": "4200051",
+  "esperanca_de_vida_ao_nascer": 67.97
+ },
+ {
+  "id": 2,
+  "ano": 2000,
+  "fecam": "Amplasc",
+  "municipio": "Abdon Batista",
+  "codigo_ibge": "4200051",
+  "esperanca_de_vida_ao_nascer": 69.99
+ },
+ {
+  "id": 3,
+  "ano": 2010,
+  "fecam": "Amplasc",
+  "municipio": "Abdon Batista",
+  "codigo_ibge": "4200051",
+  "esperanca_de_vida_ao_nascer": 73.74
+ },
+ {
+  "id": 4,
+  "ano": 1991,
+  "fecam": "Amai",
+  "municipio": "Abelardo Luz",
+  "codigo_ibge": "4200101",
+  "esperanca_de_vida_ao_nascer": 70.05
+ },
+ {
+  "id": 5,
+  "ano": 2000,
+  "fecam": "Amai",
+  "municipio": "Abelardo Luz",
+  "codigo_ibge": "4200101",
+  "esperanca_de_vida_ao_nascer": 72.44
+ },
+ {
+  "id": 6,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Abelardo Luz",
+  "codigo_ibge": "4200101",
+  "esperanca_de_vida_ao_nascer": 76.1
+ },
+ {
+  "id": 7,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Agrolândia",
+  "codigo_ibge": "4200200",
+  "esperanca_de_vida_ao_nascer": 68.46
+ },
+ {
+  "id": 8,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Agrolândia",
+  "codigo_ibge": "4200200",
+  "esperanca_de_vida_ao_nascer": 70.59
+ },
+ {
+  "id": 9,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Agrolândia",
+  "codigo_ibge": "4200200",
+  "esperanca_de_vida_ao_nascer": 74.63
+ },
+ {
+  "id": 10,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Agronômica",
+  "codigo_ibge": "4200309",
+  "esperanca_de_vida_ao_nascer": 70.65
+ },
+ {
+  "id": 11,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Agronômica",
+  "codigo_ibge": "4200309",
+  "esperanca_de_vida_ao_nascer": 73.28
+ },
+ {
+  "id": 12,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Agronômica",
+  "codigo_ibge": "4200309",
+  "esperanca_de_vida_ao_nascer": 78.06
+ },
+ {
+  "id": 13,
+  "ano": 1991,
+  "fecam": "Ammoc",
+  "municipio": "Água Doce",
+  "codigo_ibge": "4200408",
+  "esperanca_de_vida_ao_nascer": 68.01
+ },
+ {
+  "id": 14,
+  "ano": 2000,
+  "fecam": "Ammoc",
+  "municipio": "Água Doce",
+  "codigo_ibge": "4200408",
+  "esperanca_de_vida_ao_nascer": 72.65
+ },
+ {
+  "id": 15,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Água Doce",
+  "codigo_ibge": "4200408",
+  "esperanca_de_vida_ao_nascer": 74.2
+ },
+ {
+  "id": 16,
+  "ano": 1991,
+  "fecam": "Amosc",
+  "municipio": "Águas de Chapecó",
+  "codigo_ibge": "4200507",
+  "esperanca_de_vida_ao_nascer": 68.1
+ },
+ {
+  "id": 17,
+  "ano": 2000,
+  "fecam": "Amosc",
+  "municipio": "Águas de Chapecó",
+  "codigo_ibge": "4200507",
+  "esperanca_de_vida_ao_nascer": 71.9
+ },
+ {
+  "id": 18,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Águas de Chapecó",
+  "codigo_ibge": "4200507",
+  "esperanca_de_vida_ao_nascer": 73.66
+ },
+ {
+  "id": 19,
+  "ano": 1991,
+  "fecam": "Amosc",
+  "municipio": "Águas Frias",
+  "codigo_ibge": "4200556",
+  "esperanca_de_vida_ao_nascer": 69.38
+ },
+ {
+  "id": 20,
+  "ano": 2000,
+  "fecam": "Amosc",
+  "municipio": "Águas Frias",
+  "codigo_ibge": "4200556",
+  "esperanca_de_vida_ao_nascer": 71.15
+ },
+ {
+  "id": 21,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Águas Frias",
+  "codigo_ibge": "4200556",
+  "esperanca_de_vida_ao_nascer": 76.61
+ },
+ {
+  "id": 22,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "Águas Mornas",
+  "codigo_ibge": "4200606",
+  "esperanca_de_vida_ao_nascer": 71.42
+ },
+ {
+  "id": 23,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "Águas Mornas",
+  "codigo_ibge": "4200606",
+  "esperanca_de_vida_ao_nascer": 73.55
+ },
+ {
+  "id": 24,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Águas Mornas",
+  "codigo_ibge": "4200606",
+  "esperanca_de_vida_ao_nascer": 76.15
+ },
+ {
+  "id": 25,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "Alfredo Wagner",
+  "codigo_ibge": "4200705",
+  "esperanca_de_vida_ao_nascer": 69.6
+ },
+ {
+  "id": 26,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "Alfredo Wagner",
+  "codigo_ibge": "4200705",
+  "esperanca_de_vida_ao_nascer": 75.37
+ },
+ {
+  "id": 27,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Alfredo Wagner",
+  "codigo_ibge": "4200705",
+  "esperanca_de_vida_ao_nascer": 77.9
+ },
+ {
+  "id": 28,
+  "ano": 1991,
+  "fecam": "Amauc",
+  "municipio": "Alto Bela Vista",
+  "codigo_ibge": "4200754",
+  "esperanca_de_vida_ao_nascer": 69.46
+ },
+ {
+  "id": 29,
+  "ano": 2000,
+  "fecam": "Amauc",
+  "municipio": "Alto Bela Vista",
+  "codigo_ibge": "4200754",
+  "esperanca_de_vida_ao_nascer": 72.35
+ },
+ {
+  "id": 30,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Alto Bela Vista",
+  "codigo_ibge": "4200754",
+  "esperanca_de_vida_ao_nascer": 77.93
+ },
+ {
+  "id": 31,
+  "ano": 1991,
+  "fecam": "Ameosc",
+  "municipio": "Anchieta",
+  "codigo_ibge": "4200804",
+  "esperanca_de_vida_ao_nascer": 69.51
+ },
+ {
+  "id": 32,
+  "ano": 2000,
+  "fecam": "Ameosc",
+  "municipio": "Anchieta",
+  "codigo_ibge": "4200804",
+  "esperanca_de_vida_ao_nascer": 71.72
+ },
+ {
+  "id": 33,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Anchieta",
+  "codigo_ibge": "4200804",
+  "esperanca_de_vida_ao_nascer": 73.01
+ },
+ {
+  "id": 34,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "Angelina",
+  "codigo_ibge": "4200903",
+  "esperanca_de_vida_ao_nascer": 67.58
+ },
+ {
+  "id": 35,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "Angelina",
+  "codigo_ibge": "4200903",
+  "esperanca_de_vida_ao_nascer": 71.72
+ },
+ {
+  "id": 36,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Angelina",
+  "codigo_ibge": "4200903",
+  "esperanca_de_vida_ao_nascer": 72.82
+ },
+ {
+  "id": 37,
+  "ano": 1991,
+  "fecam": "Amures",
+  "municipio": "Anita Garibaldi",
+  "codigo_ibge": "4201000",
+  "esperanca_de_vida_ao_nascer": 67.43
+ },
+ {
+  "id": 38,
+  "ano": 2000,
+  "fecam": "Amures",
+  "municipio": "Anita Garibaldi",
+  "codigo_ibge": "4201000",
+  "esperanca_de_vida_ao_nascer": 68.99
+ },
+ {
+  "id": 39,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Anita Garibaldi",
+  "codigo_ibge": "4201000",
+  "esperanca_de_vida_ao_nascer": 74.53
+ },
+ {
+  "id": 40,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "Anitápolis",
+  "codigo_ibge": "4201109",
+  "esperanca_de_vida_ao_nascer": 69.22
+ },
+ {
+  "id": 41,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "Anitápolis",
+  "codigo_ibge": "4201109",
+  "esperanca_de_vida_ao_nascer": 71.96
+ },
+ {
+  "id": 42,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Anitápolis",
+  "codigo_ibge": "4201109",
+  "esperanca_de_vida_ao_nascer": 75.17
+ },
+ {
+  "id": 43,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "Antônio Carlos",
+  "codigo_ibge": "4201208",
+  "esperanca_de_vida_ao_nascer": 72.58
+ },
+ {
+  "id": 44,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "Antônio Carlos",
+  "codigo_ibge": "4201208",
+  "esperanca_de_vida_ao_nascer": 76.46
+ },
+ {
+  "id": 45,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Antônio Carlos",
+  "codigo_ibge": "4201208",
+  "esperanca_de_vida_ao_nascer": 78.4
+ },
+ {
+  "id": 46,
+  "ano": 1991,
+  "fecam": "AMVE",
+  "municipio": "Apiúna",
+  "codigo_ibge": "4201257",
+  "esperanca_de_vida_ao_nascer": 67.71
+ },
+ {
+  "id": 47,
+  "ano": 2000,
+  "fecam": "AMVE",
+  "municipio": "Apiúna",
+  "codigo_ibge": "4201257",
+  "esperanca_de_vida_ao_nascer": 69.84
+ },
+ {
+  "id": 48,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Apiúna",
+  "codigo_ibge": "4201257",
+  "esperanca_de_vida_ao_nascer": 74.61
+ },
+ {
+  "id": 49,
+  "ano": 1991,
+  "fecam": "Amauc",
+  "municipio": "Arabutã",
+  "codigo_ibge": "4201273",
+  "esperanca_de_vida_ao_nascer": 69.46
+ },
+ {
+  "id": 50,
+  "ano": 2000,
+  "fecam": "Amauc",
+  "municipio": "Arabutã",
+  "codigo_ibge": "4201273",
+  "esperanca_de_vida_ao_nascer": 71.62
+ },
+ {
+  "id": 51,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Arabutã",
+  "codigo_ibge": "4201273",
+  "esperanca_de_vida_ao_nascer": 76.75
+ },
+ {
+  "id": 52,
+  "ano": 1991,
+  "fecam": "Amunesc",
+  "municipio": "Araquari",
+  "codigo_ibge": "4201307",
+  "esperanca_de_vida_ao_nascer": 67.98
+ },
+ {
+  "id": 53,
+  "ano": 2000,
+  "fecam": "Amunesc",
+  "municipio": "Araquari",
+  "codigo_ibge": "4201307",
+  "esperanca_de_vida_ao_nascer": 71.44
+ },
+ {
+  "id": 54,
+  "ano": 2010,
+  "fecam": "Amunesc",
+  "municipio": "Araquari",
+  "codigo_ibge": "4201307",
+  "esperanca_de_vida_ao_nascer": 74.82
+ },
+ {
+  "id": 55,
+  "ano": 1991,
+  "fecam": "Amesc",
+  "municipio": "Araranguá",
+  "codigo_ibge": "4201406",
+  "esperanca_de_vida_ao_nascer": 70.34
+ },
+ {
+  "id": 56,
+  "ano": 2000,
+  "fecam": "Amesc",
+  "municipio": "Araranguá",
+  "codigo_ibge": "4201406",
+  "esperanca_de_vida_ao_nascer": 73.47
+ },
+ {
+  "id": 57,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Araranguá",
+  "codigo_ibge": "4201406",
+  "esperanca_de_vida_ao_nascer": 76.17
+ },
+ {
+  "id": 58,
+  "ano": 1991,
+  "fecam": "Amurel",
+  "municipio": "Armazém",
+  "codigo_ibge": "4201505",
+  "esperanca_de_vida_ao_nascer": 71.09
+ },
+ {
+  "id": 59,
+  "ano": 2000,
+  "fecam": "Amurel",
+  "municipio": "Armazém",
+  "codigo_ibge": "4201505",
+  "esperanca_de_vida_ao_nascer": 73.46
+ },
+ {
+  "id": 60,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Armazém",
+  "codigo_ibge": "4201505",
+  "esperanca_de_vida_ao_nascer": 77.92
+ },
+ {
+  "id": 61,
+  "ano": 1991,
+  "fecam": "Amarp",
+  "municipio": "Arroio Trinta",
+  "codigo_ibge": "4201604",
+  "esperanca_de_vida_ao_nascer": 70.82
+ },
+ {
+  "id": 62,
+  "ano": 2000,
+  "fecam": "Amarp",
+  "municipio": "Arroio Trinta",
+  "codigo_ibge": "4201604",
+  "esperanca_de_vida_ao_nascer": 76.07
+ },
+ {
+  "id": 63,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Arroio Trinta",
+  "codigo_ibge": "4201604",
+  "esperanca_de_vida_ao_nascer": 77.38
+ },
+ {
+  "id": 64,
+  "ano": 1991,
+  "fecam": "Amosc",
+  "municipio": "Arvoredo",
+  "codigo_ibge": "4201653",
+  "esperanca_de_vida_ao_nascer": 70.96
+ },
+ {
+  "id": 65,
+  "ano": 2000,
+  "fecam": "Amosc",
+  "municipio": "Arvoredo",
+  "codigo_ibge": "4201653",
+  "esperanca_de_vida_ao_nascer": 74.13
+ },
+ {
+  "id": 66,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Arvoredo",
+  "codigo_ibge": "4201653",
+  "esperanca_de_vida_ao_nascer": 75.5
+ },
+ {
+  "id": 67,
+  "ano": 1991,
+  "fecam": "AMVE",
+  "municipio": "Ascurra",
+  "codigo_ibge": "4201703",
+  "esperanca_de_vida_ao_nascer": 69.97
+ },
+ {
+  "id": 68,
+  "ano": 2000,
+  "fecam": "AMVE",
+  "municipio": "Ascurra",
+  "codigo_ibge": "4201703",
+  "esperanca_de_vida_ao_nascer": 71.62
+ },
+ {
+  "id": 69,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Ascurra",
+  "codigo_ibge": "4201703",
+  "esperanca_de_vida_ao_nascer": 77.08
+ },
+ {
+  "id": 70,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Atalanta",
+  "codigo_ibge": "4201802",
+  "esperanca_de_vida_ao_nascer": 68.01
+ },
+ {
+  "id": 71,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Atalanta",
+  "codigo_ibge": "4201802",
+  "esperanca_de_vida_ao_nascer": 70.52
+ },
+ {
+  "id": 72,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Atalanta",
+  "codigo_ibge": "4201802",
+  "esperanca_de_vida_ao_nascer": 73.1
+ },
+ {
+  "id": 73,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Aurora",
+  "codigo_ibge": "4201901",
+  "esperanca_de_vida_ao_nascer": 71.74
+ },
+ {
+  "id": 74,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Aurora",
+  "codigo_ibge": "4201901",
+  "esperanca_de_vida_ao_nascer": 74.46
+ },
+ {
+  "id": 75,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Aurora",
+  "codigo_ibge": "4201901",
+  "esperanca_de_vida_ao_nascer": 77.21
+ },
+ {
+  "id": 76,
+  "ano": 1991,
+  "fecam": "Amesc",
+  "municipio": "Balneário Arroio do Silva",
+  "codigo_ibge": "4201950",
+  "esperanca_de_vida_ao_nascer": 69.05
+ },
+ {
+  "id": 77,
+  "ano": 2000,
+  "fecam": "Amesc",
+  "municipio": "Balneário Arroio do Silva",
+  "codigo_ibge": "4201950",
+  "esperanca_de_vida_ao_nascer": 74.55
+ },
+ {
+  "id": 78,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Balneário Arroio do Silva",
+  "codigo_ibge": "4201950",
+  "esperanca_de_vida_ao_nascer": 76.49
+ },
+ {
+  "id": 79,
+  "ano": 1991,
+  "fecam": "Amunesc",
+  "municipio": "Balneário Barra do Sul",
+  "codigo_ibge": "4202057",
+  "esperanca_de_vida_ao_nascer": 68.5
+ },
+ {
+  "id": 80,
+  "ano": 2000,
+  "fecam": "Amunesc",
+  "municipio": "Balneário Barra do Sul",
+  "codigo_ibge": "4202057",
+  "esperanca_de_vida_ao_nascer": 74.23
+ },
+ {
+  "id": 81,
+  "ano": 2010,
+  "fecam": "Amunesc",
+  "municipio": "Balneário Barra do Sul",
+  "codigo_ibge": "4202057",
+  "esperanca_de_vida_ao_nascer": 75.64
+ },
+ {
+  "id": 82,
+  "ano": 1991,
+  "fecam": "AMFRI",
+  "municipio": "Balneário Camboriú",
+  "codigo_ibge": "4202008",
+  "esperanca_de_vida_ao_nascer": 70.05
+ },
+ {
+  "id": 83,
+  "ano": 2000,
+  "fecam": "AMFRI",
+  "municipio": "Balneário Camboriú",
+  "codigo_ibge": "4202008",
+  "esperanca_de_vida_ao_nascer": 74.76
+ },
+ {
+  "id": 84,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Balneário Camboriú",
+  "codigo_ibge": "4202008",
+  "esperanca_de_vida_ao_nascer": 78.62
+ },
+ {
+  "id": 85,
+  "ano": 1991,
+  "fecam": "Amesc",
+  "municipio": "Balneário Gaivota",
+  "codigo_ibge": "4202073",
+  "esperanca_de_vida_ao_nascer": 69.88
+ },
+ {
+  "id": 86,
+  "ano": 2000,
+  "fecam": "Amesc",
+  "municipio": "Balneário Gaivota",
+  "codigo_ibge": "4202073",
+  "esperanca_de_vida_ao_nascer": 72.54
+ },
+ {
+  "id": 87,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Balneário Gaivota",
+  "codigo_ibge": "4202073",
+  "esperanca_de_vida_ao_nascer": 75.62
+ },
+ {
+  "id": 88,
+  "ano": 1991,
+  "fecam": "AMFRI",
+  "municipio": "Balneário Piçarras",
+  "codigo_ibge": "4212809",
+  "esperanca_de_vida_ao_nascer": 69
+ },
+ {
+  "id": 89,
+  "ano": 2000,
+  "fecam": "AMFRI",
+  "municipio": "Balneário Piçarras",
+  "codigo_ibge": "4212809",
+  "esperanca_de_vida_ao_nascer": 73.09
+ },
+ {
+  "id": 90,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Balneário Piçarras",
+  "codigo_ibge": "4212809",
+  "esperanca_de_vida_ao_nascer": 77.15
+ },
+ {
+  "id": 91,
+  "ano": 1991,
+  "fecam": "Ameosc",
+  "municipio": "Bandeirante",
+  "codigo_ibge": "4202081",
+  "esperanca_de_vida_ao_nascer": 67.43
+ },
+ {
+  "id": 92,
+  "ano": 2000,
+  "fecam": "Ameosc",
+  "municipio": "Bandeirante",
+  "codigo_ibge": "4202081",
+  "esperanca_de_vida_ao_nascer": 69.37
+ },
+ {
+  "id": 93,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Bandeirante",
+  "codigo_ibge": "4202081",
+  "esperanca_de_vida_ao_nascer": 72.68
+ },
+ {
+  "id": 94,
+  "ano": 1991,
+  "fecam": "Ameosc",
+  "municipio": "Barra Bonita",
+  "codigo_ibge": "4202099",
+  "esperanca_de_vida_ao_nascer": 68.24
+ },
+ {
+  "id": 95,
+  "ano": 2000,
+  "fecam": "Ameosc",
+  "municipio": "Barra Bonita",
+  "codigo_ibge": "4202099",
+  "esperanca_de_vida_ao_nascer": 69.37
+ },
+ {
+  "id": 96,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Barra Bonita",
+  "codigo_ibge": "4202099",
+  "esperanca_de_vida_ao_nascer": 74.79
+ },
+ {
+  "id": 97,
+  "ano": 1991,
+  "fecam": "AMVALI",
+  "municipio": "Barra Velha",
+  "codigo_ibge": "4202107",
+  "esperanca_de_vida_ao_nascer": 69.18
+ },
+ {
+  "id": 98,
+  "ano": 2000,
+  "fecam": "AMVALI",
+  "municipio": "Barra Velha",
+  "codigo_ibge": "4202107",
+  "esperanca_de_vida_ao_nascer": 73.79
+ },
+ {
+  "id": 99,
+  "ano": 2010,
+  "fecam": "AMVALI",
+  "municipio": "Barra Velha",
+  "codigo_ibge": "4202107",
+  "esperanca_de_vida_ao_nascer": 76.42
+ },
+ {
+  "id": 100,
+  "ano": 1991,
+  "fecam": "Amplanorte",
+  "municipio": "Bela Vista do Toldo",
+  "codigo_ibge": "4202131",
+  "esperanca_de_vida_ao_nascer": 64.19
+ },
+ {
+  "id": 101,
+  "ano": 2000,
+  "fecam": "Amplanorte",
+  "municipio": "Bela Vista do Toldo",
+  "codigo_ibge": "4202131",
+  "esperanca_de_vida_ao_nascer": 68.99
+ },
+ {
+  "id": 102,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "municipio": "Bela Vista do Toldo",
+  "codigo_ibge": "4202131",
+  "esperanca_de_vida_ao_nascer": 74.58
+ },
+ {
+  "id": 103,
+  "ano": 1991,
+  "fecam": "Ameosc",
+  "municipio": "Belmonte",
+  "codigo_ibge": "4202156",
+  "esperanca_de_vida_ao_nascer": 68.97
+ },
+ {
+  "id": 104,
+  "ano": 2000,
+  "fecam": "Ameosc",
+  "municipio": "Belmonte",
+  "codigo_ibge": "4202156",
+  "esperanca_de_vida_ao_nascer": 70.68
+ },
+ {
+  "id": 105,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Belmonte",
+  "codigo_ibge": "4202156",
+  "esperanca_de_vida_ao_nascer": 74.17
+ },
+ {
+  "id": 106,
+  "ano": 1991,
+  "fecam": "AMVE",
+  "municipio": "Benedito Novo",
+  "codigo_ibge": "4202206",
+  "esperanca_de_vida_ao_nascer": 70.17
+ },
+ {
+  "id": 107,
+  "ano": 2000,
+  "fecam": "AMVE",
+  "municipio": "Benedito Novo",
+  "codigo_ibge": "4202206",
+  "esperanca_de_vida_ao_nascer": 73.7
+ },
+ {
+  "id": 108,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Benedito Novo",
+  "codigo_ibge": "4202206",
+  "esperanca_de_vida_ao_nascer": 77.08
+ },
+ {
+  "id": 109,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "Biguaçu",
+  "codigo_ibge": "4202305",
+  "esperanca_de_vida_ao_nascer": 69.38
+ },
+ {
+  "id": 110,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "Biguaçu",
+  "codigo_ibge": "4202305",
+  "esperanca_de_vida_ao_nascer": 72.64
+ },
+ {
+  "id": 111,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Biguaçu",
+  "codigo_ibge": "4202305",
+  "esperanca_de_vida_ao_nascer": 75.17
+ },
+ {
+  "id": 112,
+  "ano": 1991,
+  "fecam": "AMVE",
+  "municipio": "Blumenau",
+  "codigo_ibge": "4202404",
+  "esperanca_de_vida_ao_nascer": 71.31
+ },
+ {
+  "id": 113,
+  "ano": 2000,
+  "fecam": "AMVE",
+  "municipio": "Blumenau",
+  "codigo_ibge": "4202404",
+  "esperanca_de_vida_ao_nascer": 74.54
+ },
+ {
+  "id": 114,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Blumenau",
+  "codigo_ibge": "4202404",
+  "esperanca_de_vida_ao_nascer": 78.64
+ },
+ {
+  "id": 115,
+  "ano": 1991,
+  "fecam": "Amures",
+  "municipio": "Bocaina do Sul",
+  "codigo_ibge": "4202438",
+  "esperanca_de_vida_ao_nascer": 67.43
+ },
+ {
+  "id": 116,
+  "ano": 2000,
+  "fecam": "Amures",
+  "municipio": "Bocaina do Sul",
+  "codigo_ibge": "4202438",
+  "esperanca_de_vida_ao_nascer": 68.95
+ },
+ {
+  "id": 117,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Bocaina do Sul",
+  "codigo_ibge": "4202438",
+  "esperanca_de_vida_ao_nascer": 71.05
+ },
+ {
+  "id": 118,
+  "ano": 1991,
+  "fecam": "AMFRI",
+  "municipio": "Bombinhas",
+  "codigo_ibge": "4202453",
+  "esperanca_de_vida_ao_nascer": 69.18
+ },
+ {
+  "id": 119,
+  "ano": 2000,
+  "fecam": "AMFRI",
+  "municipio": "Bombinhas",
+  "codigo_ibge": "4202453",
+  "esperanca_de_vida_ao_nascer": 72.89
+ },
+ {
+  "id": 120,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Bombinhas",
+  "codigo_ibge": "4202453",
+  "esperanca_de_vida_ao_nascer": 76.86
+ },
+ {
+  "id": 121,
+  "ano": 1991,
+  "fecam": "Amures",
+  "municipio": "Bom Jardim da Serra",
+  "codigo_ibge": "4202503",
+  "esperanca_de_vida_ao_nascer": 67.98
+ },
+ {
+  "id": 122,
+  "ano": 2000,
+  "fecam": "Amures",
+  "municipio": "Bom Jardim da Serra",
+  "codigo_ibge": "4202503",
+  "esperanca_de_vida_ao_nascer": 73.86
+ },
+ {
+  "id": 123,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Bom Jardim da Serra",
+  "codigo_ibge": "4202503",
+  "esperanca_de_vida_ao_nascer": 75.12
+ },
+ {
+  "id": 124,
+  "ano": 1991,
+  "fecam": "Amai",
+  "municipio": "Bom Jesus",
+  "codigo_ibge": "4202537",
+  "esperanca_de_vida_ao_nascer": 67.31
+ },
+ {
+  "id": 125,
+  "ano": 2000,
+  "fecam": "Amai",
+  "municipio": "Bom Jesus",
+  "codigo_ibge": "4202537",
+  "esperanca_de_vida_ao_nascer": 70.7
+ },
+ {
+  "id": 126,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Bom Jesus",
+  "codigo_ibge": "4202537",
+  "esperanca_de_vida_ao_nascer": 74.59
+ },
+ {
+  "id": 127,
+  "ano": 1991,
+  "fecam": "Amerios",
+  "municipio": "Bom Jesus do Oeste",
+  "codigo_ibge": "4202578",
+  "esperanca_de_vida_ao_nascer": 68.46
+ },
+ {
+  "id": 128,
+  "ano": 2000,
+  "fecam": "Amerios",
+  "municipio": "Bom Jesus do Oeste",
+  "codigo_ibge": "4202578",
+  "esperanca_de_vida_ao_nascer": 74.11
+ },
+ {
+  "id": 129,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Bom Jesus do Oeste",
+  "codigo_ibge": "4202578",
+  "esperanca_de_vida_ao_nascer": 74.82
+ },
+ {
+  "id": 130,
+  "ano": 1991,
+  "fecam": "Amures",
+  "municipio": "Bom Retiro",
+  "codigo_ibge": "4202602",
+  "esperanca_de_vida_ao_nascer": 67.38
+ },
+ {
+  "id": 131,
+  "ano": 2000,
+  "fecam": "Amures",
+  "municipio": "Bom Retiro",
+  "codigo_ibge": "4202602",
+  "esperanca_de_vida_ao_nascer": 71.61
+ },
+ {
+  "id": 132,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Bom Retiro",
+  "codigo_ibge": "4202602",
+  "esperanca_de_vida_ao_nascer": 77.13
+ },
+ {
+  "id": 133,
+  "ano": 1991,
+  "fecam": "AMVE",
+  "municipio": "Botuverá",
+  "codigo_ibge": "4202701",
+  "esperanca_de_vida_ao_nascer": 70.17
+ },
+ {
+  "id": 134,
+  "ano": 2000,
+  "fecam": "AMVE",
+  "municipio": "Botuverá",
+  "codigo_ibge": "4202701",
+  "esperanca_de_vida_ao_nascer": 74.08
+ },
+ {
+  "id": 135,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Botuverá",
+  "codigo_ibge": "4202701",
+  "esperanca_de_vida_ao_nascer": 75.87
+ },
+ {
+  "id": 136,
+  "ano": 1991,
+  "fecam": "Amurel",
+  "municipio": "Braço do Norte",
+  "codigo_ibge": "4202800",
+  "esperanca_de_vida_ao_nascer": 71.89
+ },
+ {
+  "id": 137,
+  "ano": 2000,
+  "fecam": "Amurel",
+  "municipio": "Braço do Norte",
+  "codigo_ibge": "4202800",
+  "esperanca_de_vida_ao_nascer": 73.97
+ },
+ {
+  "id": 138,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Braço do Norte",
+  "codigo_ibge": "4202800",
+  "esperanca_de_vida_ao_nascer": 77.83
+ },
+ {
+  "id": 139,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Braço do Trombudo",
+  "codigo_ibge": "4202859",
+  "esperanca_de_vida_ao_nascer": 70.69
+ },
+ {
+  "id": 140,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Braço do Trombudo",
+  "codigo_ibge": "4202859",
+  "esperanca_de_vida_ao_nascer": 74.62
+ },
+ {
+  "id": 141,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Braço do Trombudo",
+  "codigo_ibge": "4202859",
+  "esperanca_de_vida_ao_nascer": 77.99
+ },
+ {
+  "id": 142,
+  "ano": 1991,
+  "fecam": "Amplasc",
+  "municipio": "Brunópolis",
+  "codigo_ibge": "4202875",
+  "esperanca_de_vida_ao_nascer": 68.46
+ },
+ {
+  "id": 143,
+  "ano": 2000,
+  "fecam": "Amplasc",
+  "municipio": "Brunópolis",
+  "codigo_ibge": "4202875",
+  "esperanca_de_vida_ao_nascer": 71.65
+ },
+ {
+  "id": 144,
+  "ano": 2010,
+  "fecam": "Amplasc",
+  "municipio": "Brunópolis",
+  "codigo_ibge": "4202875",
+  "esperanca_de_vida_ao_nascer": 74.12
+ },
+ {
+  "id": 145,
+  "ano": 1991,
+  "fecam": "AMVE",
+  "municipio": "Brusque",
+  "codigo_ibge": "4202909",
+  "esperanca_de_vida_ao_nascer": 70.46
+ },
+ {
+  "id": 146,
+  "ano": 2000,
+  "fecam": "AMVE",
+  "municipio": "Brusque",
+  "codigo_ibge": "4202909",
+  "esperanca_de_vida_ao_nascer": 76.21
+ },
+ {
+  "id": 147,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Brusque",
+  "codigo_ibge": "4202909",
+  "esperanca_de_vida_ao_nascer": 78.64
+ },
+ {
+  "id": 148,
+  "ano": 1991,
+  "fecam": "Amarp",
+  "municipio": "Caçador",
+  "codigo_ibge": "4203006",
+  "esperanca_de_vida_ao_nascer": 68.65
+ },
+ {
+  "id": 149,
+  "ano": 2000,
+  "fecam": "Amarp",
+  "municipio": "Caçador",
+  "codigo_ibge": "4203006",
+  "esperanca_de_vida_ao_nascer": 73.34
+ },
+ {
+  "id": 150,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Caçador",
+  "codigo_ibge": "4203006",
+  "esperanca_de_vida_ao_nascer": 77.65
+ },
+ {
+  "id": 151,
+  "ano": 1991,
+  "fecam": "Amerios",
+  "municipio": "Caibi",
+  "codigo_ibge": "4203105",
+  "esperanca_de_vida_ao_nascer": 70.9
+ },
+ {
+  "id": 152,
+  "ano": 2000,
+  "fecam": "Amerios",
+  "municipio": "Caibi",
+  "codigo_ibge": "4203105",
+  "esperanca_de_vida_ao_nascer": 73.85
+ },
+ {
+  "id": 153,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Caibi",
+  "codigo_ibge": "4203105",
+  "esperanca_de_vida_ao_nascer": 74.82
+ },
+ {
+  "id": 154,
+  "ano": 1991,
+  "fecam": "Amarp",
+  "municipio": "Calmon",
+  "codigo_ibge": "4203154",
+  "esperanca_de_vida_ao_nascer": 65.98
+ },
+ {
+  "id": 155,
+  "ano": 2000,
+  "fecam": "Amarp",
+  "municipio": "Calmon",
+  "codigo_ibge": "4203154",
+  "esperanca_de_vida_ao_nascer": 66.97
+ },
+ {
+  "id": 156,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Calmon",
+  "codigo_ibge": "4203154",
+  "esperanca_de_vida_ao_nascer": 71.75
+ },
+ {
+  "id": 157,
+  "ano": 1991,
+  "fecam": "AMFRI",
+  "municipio": "Camboriú",
+  "codigo_ibge": "4203204",
+  "esperanca_de_vida_ao_nascer": 67.22
+ },
+ {
+  "id": 158,
+  "ano": 2000,
+  "fecam": "AMFRI",
+  "municipio": "Camboriú",
+  "codigo_ibge": "4203204",
+  "esperanca_de_vida_ao_nascer": 71.98
+ },
+ {
+  "id": 159,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Camboriú",
+  "codigo_ibge": "4203204",
+  "esperanca_de_vida_ao_nascer": 76.98
+ },
+ {
+  "id": 160,
+  "ano": 1991,
+  "fecam": "Amunesc",
+  "municipio": "Campo Alegre",
+  "codigo_ibge": "4203303",
+  "esperanca_de_vida_ao_nascer": 68.07
+ },
+ {
+  "id": 161,
+  "ano": 2000,
+  "fecam": "Amunesc",
+  "municipio": "Campo Alegre",
+  "codigo_ibge": "4203303",
+  "esperanca_de_vida_ao_nascer": 71.72
+ },
+ {
+  "id": 162,
+  "ano": 2010,
+  "fecam": "Amunesc",
+  "municipio": "Campo Alegre",
+  "codigo_ibge": "4203303",
+  "esperanca_de_vida_ao_nascer": 75.69
+ },
+ {
+  "id": 163,
+  "ano": 1991,
+  "fecam": "Amures",
+  "municipio": "Campo Belo do Sul",
+  "codigo_ibge": "4203402",
+  "esperanca_de_vida_ao_nascer": 65.51
+ },
+ {
+  "id": 164,
+  "ano": 2000,
+  "fecam": "Amures",
+  "municipio": "Campo Belo do Sul",
+  "codigo_ibge": "4203402",
+  "esperanca_de_vida_ao_nascer": 68.95
+ },
+ {
+  "id": 165,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Campo Belo do Sul",
+  "codigo_ibge": "4203402",
+  "esperanca_de_vida_ao_nascer": 71.05
+ },
+ {
+  "id": 166,
+  "ano": 1991,
+  "fecam": "Amerios",
+  "municipio": "Campo Erê",
+  "codigo_ibge": "4203501",
+  "esperanca_de_vida_ao_nascer": 66.12
+ },
+ {
+  "id": 167,
+  "ano": 2000,
+  "fecam": "Amerios",
+  "municipio": "Campo Erê",
+  "codigo_ibge": "4203501",
+  "esperanca_de_vida_ao_nascer": 70.49
+ },
+ {
+  "id": 168,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Campo Erê",
+  "codigo_ibge": "4203501",
+  "esperanca_de_vida_ao_nascer": 72.21
+ },
+ {
+  "id": 169,
+  "ano": 1991,
+  "fecam": "Amplasc",
+  "municipio": "Campos Novos",
+  "codigo_ibge": "4203600",
+  "esperanca_de_vida_ao_nascer": 70.03
+ },
+ {
+  "id": 170,
+  "ano": 2000,
+  "fecam": "Amplasc",
+  "municipio": "Campos Novos",
+  "codigo_ibge": "4203600",
+  "esperanca_de_vida_ao_nascer": 73.56
+ },
+ {
+  "id": 171,
+  "ano": 2010,
+  "fecam": "Amplasc",
+  "municipio": "Campos Novos",
+  "codigo_ibge": "4203600",
+  "esperanca_de_vida_ao_nascer": 76.64
+ },
+ {
+  "id": 172,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "Canelinha",
+  "codigo_ibge": "4203709",
+  "esperanca_de_vida_ao_nascer": 67.57
+ },
+ {
+  "id": 173,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "Canelinha",
+  "codigo_ibge": "4203709",
+  "esperanca_de_vida_ao_nascer": 71.16
+ },
+ {
+  "id": 174,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Canelinha",
+  "codigo_ibge": "4203709",
+  "esperanca_de_vida_ao_nascer": 76.89
+ },
+ {
+  "id": 175,
+  "ano": 1991,
+  "fecam": "Amplanorte",
+  "municipio": "Canoinhas",
+  "codigo_ibge": "4203808",
+  "esperanca_de_vida_ao_nascer": 67.38
+ },
+ {
+  "id": 176,
+  "ano": 2000,
+  "fecam": "Amplanorte",
+  "municipio": "Canoinhas",
+  "codigo_ibge": "4203808",
+  "esperanca_de_vida_ao_nascer": 71.88
+ },
+ {
+  "id": 177,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "municipio": "Canoinhas",
+  "codigo_ibge": "4203808",
+  "esperanca_de_vida_ao_nascer": 77.42
+ },
+ {
+  "id": 178,
+  "ano": 1991,
+  "fecam": "Amures",
+  "municipio": "Capão Alto",
+  "codigo_ibge": "4203253",
+  "esperanca_de_vida_ao_nascer": 64.18
+ },
+ {
+  "id": 179,
+  "ano": 2000,
+  "fecam": "Amures",
+  "municipio": "Capão Alto",
+  "codigo_ibge": "4203253",
+  "esperanca_de_vida_ao_nascer": 67.32
+ },
+ {
+  "id": 180,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Capão Alto",
+  "codigo_ibge": "4203253",
+  "esperanca_de_vida_ao_nascer": 72.74
+ },
+ {
+  "id": 181,
+  "ano": 1991,
+  "fecam": "Ammoc",
+  "municipio": "Capinzal",
+  "codigo_ibge": "4203907",
+  "esperanca_de_vida_ao_nascer": 70.82
+ },
+ {
+  "id": 182,
+  "ano": 2000,
+  "fecam": "Ammoc",
+  "municipio": "Capinzal",
+  "codigo_ibge": "4203907",
+  "esperanca_de_vida_ao_nascer": 74.7
+ },
+ {
+  "id": 183,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Capinzal",
+  "codigo_ibge": "4203907",
+  "esperanca_de_vida_ao_nascer": 77.11
+ },
+ {
+  "id": 184,
+  "ano": 1991,
+  "fecam": "Amurel",
+  "municipio": "Capivari de Baixo",
+  "codigo_ibge": "4203956",
+  "esperanca_de_vida_ao_nascer": 70.96
+ },
+ {
+  "id": 185,
+  "ano": 2000,
+  "fecam": "Amurel",
+  "municipio": "Capivari de Baixo",
+  "codigo_ibge": "4203956",
+  "esperanca_de_vida_ao_nascer": 73.99
+ },
+ {
+  "id": 186,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Capivari de Baixo",
+  "codigo_ibge": "4203956",
+  "esperanca_de_vida_ao_nascer": 77.19
+ },
+ {
+  "id": 187,
+  "ano": 1991,
+  "fecam": "Ammoc",
+  "municipio": "Catanduvas",
+  "codigo_ibge": "4204004",
+  "esperanca_de_vida_ao_nascer": 68.36
+ },
+ {
+  "id": 188,
+  "ano": 2000,
+  "fecam": "Ammoc",
+  "municipio": "Catanduvas",
+  "codigo_ibge": "4204004",
+  "esperanca_de_vida_ao_nascer": 70.2
+ },
+ {
+  "id": 189,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Catanduvas",
+  "codigo_ibge": "4204004",
+  "esperanca_de_vida_ao_nascer": 73.38
+ },
+ {
+  "id": 190,
+  "ano": 1991,
+  "fecam": "Amosc",
+  "municipio": "Caxambu do Sul",
+  "codigo_ibge": "4204103",
+  "esperanca_de_vida_ao_nascer": 67.38
+ },
+ {
+  "id": 191,
+  "ano": 2000,
+  "fecam": "Amosc",
+  "municipio": "Caxambu do Sul",
+  "codigo_ibge": "4204103",
+  "esperanca_de_vida_ao_nascer": 72.29
+ },
+ {
+  "id": 192,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Caxambu do Sul",
+  "codigo_ibge": "4204103",
+  "esperanca_de_vida_ao_nascer": 77.21
+ },
+ {
+  "id": 193,
+  "ano": 1991,
+  "fecam": "Amplasc",
+  "municipio": "Celso Ramos",
+  "codigo_ibge": "4204152",
+  "esperanca_de_vida_ao_nascer": 67.43
+ },
+ {
+  "id": 194,
+  "ano": 2000,
+  "fecam": "Amplasc",
+  "municipio": "Celso Ramos",
+  "codigo_ibge": "4204152",
+  "esperanca_de_vida_ao_nascer": 70.01
+ },
+ {
+  "id": 195,
+  "ano": 2010,
+  "fecam": "Amplasc",
+  "municipio": "Celso Ramos",
+  "codigo_ibge": "4204152",
+  "esperanca_de_vida_ao_nascer": 74.53
+ },
+ {
+  "id": 196,
+  "ano": 1991,
+  "fecam": "Amures",
+  "municipio": "Cerro Negro",
+  "codigo_ibge": "4204178",
+  "esperanca_de_vida_ao_nascer": 66.37
+ },
+ {
+  "id": 197,
+  "ano": 2000,
+  "fecam": "Amures",
+  "municipio": "Cerro Negro",
+  "codigo_ibge": "4204178",
+  "esperanca_de_vida_ao_nascer": 68.89
+ },
+ {
+  "id": 198,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Cerro Negro",
+  "codigo_ibge": "4204178",
+  "esperanca_de_vida_ao_nascer": 74.75
+ },
+ {
+  "id": 199,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Chapadão do Lageado",
+  "codigo_ibge": "4204194",
+  "esperanca_de_vida_ao_nascer": 68.46
+ },
+ {
+  "id": 200,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Chapadão do Lageado",
+  "codigo_ibge": "4204194",
+  "esperanca_de_vida_ao_nascer": 70.59
+ },
+ {
+  "id": 201,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Chapadão do Lageado",
+  "codigo_ibge": "4204194",
+  "esperanca_de_vida_ao_nascer": 74.95
+ },
+ {
+  "id": 202,
+  "ano": 1991,
+  "fecam": "Amosc",
+  "municipio": "Chapecó",
+  "codigo_ibge": "4204202",
+  "esperanca_de_vida_ao_nascer": 70.46
+ },
+ {
+  "id": 203,
+  "ano": 2000,
+  "fecam": "Amosc",
+  "municipio": "Chapecó",
+  "codigo_ibge": "4204202",
+  "esperanca_de_vida_ao_nascer": 73.4
+ },
+ {
+  "id": 204,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Chapecó",
+  "codigo_ibge": "4204202",
+  "esperanca_de_vida_ao_nascer": 77.25
+ },
+ {
+  "id": 205,
+  "ano": 1991,
+  "fecam": "Amrec",
+  "municipio": "Cocal do Sul",
+  "codigo_ibge": "4204251",
+  "esperanca_de_vida_ao_nascer": 72.06
+ },
+ {
+  "id": 206,
+  "ano": 2000,
+  "fecam": "Amrec",
+  "municipio": "Cocal do Sul",
+  "codigo_ibge": "4204251",
+  "esperanca_de_vida_ao_nascer": 74.32
+ },
+ {
+  "id": 207,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Cocal do Sul",
+  "codigo_ibge": "4204251",
+  "esperanca_de_vida_ao_nascer": 76.52
+ },
+ {
+  "id": 208,
+  "ano": 1991,
+  "fecam": "Amauc",
+  "municipio": "Concórdia",
+  "codigo_ibge": "4204301",
+  "esperanca_de_vida_ao_nascer": 72.26
+ },
+ {
+  "id": 209,
+  "ano": 2000,
+  "fecam": "Amauc",
+  "municipio": "Concórdia",
+  "codigo_ibge": "4204301",
+  "esperanca_de_vida_ao_nascer": 75.23
+ },
+ {
+  "id": 210,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Concórdia",
+  "codigo_ibge": "4204301",
+  "esperanca_de_vida_ao_nascer": 77.33
+ },
+ {
+  "id": 211,
+  "ano": 1991,
+  "fecam": "Amosc",
+  "municipio": "Cordilheira Alta",
+  "codigo_ibge": "4204350",
+  "esperanca_de_vida_ao_nascer": 69.31
+ },
+ {
+  "id": 212,
+  "ano": 2000,
+  "fecam": "Amosc",
+  "municipio": "Cordilheira Alta",
+  "codigo_ibge": "4204350",
+  "esperanca_de_vida_ao_nascer": 70.96
+ },
+ {
+  "id": 213,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Cordilheira Alta",
+  "codigo_ibge": "4204350",
+  "esperanca_de_vida_ao_nascer": 76.32
+ },
+ {
+  "id": 214,
+  "ano": 1991,
+  "fecam": "Amosc",
+  "municipio": "Coronel Freitas",
+  "codigo_ibge": "4204400",
+  "esperanca_de_vida_ao_nascer": 69.38
+ },
+ {
+  "id": 215,
+  "ano": 2000,
+  "fecam": "Amosc",
+  "municipio": "Coronel Freitas",
+  "codigo_ibge": "4204400",
+  "esperanca_de_vida_ao_nascer": 71.34
+ },
+ {
+  "id": 216,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Coronel Freitas",
+  "codigo_ibge": "4204400",
+  "esperanca_de_vida_ao_nascer": 76.59
+ },
+ {
+  "id": 217,
+  "ano": 1991,
+  "fecam": "Amnoroeste",
+  "municipio": "Coronel Martins",
+  "codigo_ibge": "4204459",
+  "esperanca_de_vida_ao_nascer": 66.64
+ },
+ {
+  "id": 218,
+  "ano": 2000,
+  "fecam": "Amnoroeste",
+  "municipio": "Coronel Martins",
+  "codigo_ibge": "4204459",
+  "esperanca_de_vida_ao_nascer": 71.53
+ },
+ {
+  "id": 219,
+  "ano": 2010,
+  "fecam": "Amnoroeste",
+  "municipio": "Coronel Martins",
+  "codigo_ibge": "4204459",
+  "esperanca_de_vida_ao_nascer": 73.93
+ },
+ {
+  "id": 220,
+  "ano": 1991,
+  "fecam": "Amures",
+  "municipio": "Correia Pinto",
+  "codigo_ibge": "4204558",
+  "esperanca_de_vida_ao_nascer": 67.43
+ },
+ {
+  "id": 221,
+  "ano": 2000,
+  "fecam": "Amures",
+  "municipio": "Correia Pinto",
+  "codigo_ibge": "4204558",
+  "esperanca_de_vida_ao_nascer": 70.16
+ },
+ {
+  "id": 222,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Correia Pinto",
+  "codigo_ibge": "4204558",
+  "esperanca_de_vida_ao_nascer": 73.21
+ },
+ {
+  "id": 223,
+  "ano": 1991,
+  "fecam": "AMVALI",
+  "municipio": "Corupá",
+  "codigo_ibge": "4204509",
+  "esperanca_de_vida_ao_nascer": 70.42
+ },
+ {
+  "id": 224,
+  "ano": 2000,
+  "fecam": "AMVALI",
+  "municipio": "Corupá",
+  "codigo_ibge": "4204509",
+  "esperanca_de_vida_ao_nascer": 74.71
+ },
+ {
+  "id": 225,
+  "ano": 2010,
+  "fecam": "AMVALI",
+  "municipio": "Corupá",
+  "codigo_ibge": "4204509",
+  "esperanca_de_vida_ao_nascer": 77.39
+ },
+ {
+  "id": 226,
+  "ano": 1991,
+  "fecam": "Amrec",
+  "municipio": "Criciúma",
+  "codigo_ibge": "4204608",
+  "esperanca_de_vida_ao_nascer": 69.26
+ },
+ {
+  "id": 227,
+  "ano": 2000,
+  "fecam": "Amrec",
+  "municipio": "Criciúma",
+  "codigo_ibge": "4204608",
+  "esperanca_de_vida_ao_nascer": 72.97
+ },
+ {
+  "id": 228,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Criciúma",
+  "codigo_ibge": "4204608",
+  "esperanca_de_vida_ao_nascer": 75.76
+ },
+ {
+  "id": 229,
+  "ano": 1991,
+  "fecam": "Amerios",
+  "municipio": "Cunha Porã",
+  "codigo_ibge": "4204707",
+  "esperanca_de_vida_ao_nascer": 68.24
+ },
+ {
+  "id": 230,
+  "ano": 2000,
+  "fecam": "Amerios",
+  "municipio": "Cunha Porã",
+  "codigo_ibge": "4204707",
+  "esperanca_de_vida_ao_nascer": 71.9
+ },
+ {
+  "id": 231,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Cunha Porã",
+  "codigo_ibge": "4204707",
+  "esperanca_de_vida_ao_nascer": 73.24
+ },
+ {
+  "id": 232,
+  "ano": 1991,
+  "fecam": "Amerios",
+  "municipio": "Cunhataí",
+  "codigo_ibge": "4204756",
+  "esperanca_de_vida_ao_nascer": 73.61
+ },
+ {
+  "id": 233,
+  "ano": 2000,
+  "fecam": "Amerios",
+  "municipio": "Cunhataí",
+  "codigo_ibge": "4204756",
+  "esperanca_de_vida_ao_nascer": 77.24
+ },
+ {
+  "id": 234,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Cunhataí",
+  "codigo_ibge": "4204756",
+  "esperanca_de_vida_ao_nascer": 78.17
+ },
+ {
+  "id": 235,
+  "ano": 1991,
+  "fecam": "Amurc",
+  "municipio": "Curitibanos",
+  "codigo_ibge": "4204806",
+  "esperanca_de_vida_ao_nascer": 67.22
+ },
+ {
+  "id": 236,
+  "ano": 2000,
+  "fecam": "Amurc",
+  "municipio": "Curitibanos",
+  "codigo_ibge": "4204806",
+  "esperanca_de_vida_ao_nascer": 72.51
+ },
+ {
+  "id": 237,
+  "ano": 2010,
+  "fecam": "Amurc",
+  "municipio": "Curitibanos",
+  "codigo_ibge": "4204806",
+  "esperanca_de_vida_ao_nascer": 75.78
+ },
+ {
+  "id": 238,
+  "ano": 1991,
+  "fecam": "Ameosc",
+  "municipio": "Descanso",
+  "codigo_ibge": "4204905",
+  "esperanca_de_vida_ao_nascer": 69.26
+ },
+ {
+  "id": 239,
+  "ano": 2000,
+  "fecam": "Ameosc",
+  "municipio": "Descanso",
+  "codigo_ibge": "4204905",
+  "esperanca_de_vida_ao_nascer": 71.01
+ },
+ {
+  "id": 240,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Descanso",
+  "codigo_ibge": "4204905",
+  "esperanca_de_vida_ao_nascer": 76.22
+ },
+ {
+  "id": 241,
+  "ano": 1991,
+  "fecam": "Ameosc",
+  "municipio": "Dionísio Cerqueira",
+  "codigo_ibge": "4205001",
+  "esperanca_de_vida_ao_nascer": 68.97
+ },
+ {
+  "id": 242,
+  "ano": 2000,
+  "fecam": "Ameosc",
+  "municipio": "Dionísio Cerqueira",
+  "codigo_ibge": "4205001",
+  "esperanca_de_vida_ao_nascer": 71
+ },
+ {
+  "id": 243,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Dionísio Cerqueira",
+  "codigo_ibge": "4205001",
+  "esperanca_de_vida_ao_nascer": 74.17
+ },
+ {
+  "id": 244,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Dona Emma",
+  "codigo_ibge": "4205100",
+  "esperanca_de_vida_ao_nascer": 69.22
+ },
+ {
+  "id": 245,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Dona Emma",
+  "codigo_ibge": "4205100",
+  "esperanca_de_vida_ao_nascer": 73.9
+ },
+ {
+  "id": 246,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Dona Emma",
+  "codigo_ibge": "4205100",
+  "esperanca_de_vida_ao_nascer": 76.71
+ },
+ {
+  "id": 247,
+  "ano": 1991,
+  "fecam": "AMVE",
+  "municipio": "Doutor Pedrinho",
+  "codigo_ibge": "4205159",
+  "esperanca_de_vida_ao_nascer": 68.01
+ },
+ {
+  "id": 248,
+  "ano": 2000,
+  "fecam": "AMVE",
+  "municipio": "Doutor Pedrinho",
+  "codigo_ibge": "4205159",
+  "esperanca_de_vida_ao_nascer": 69.84
+ },
+ {
+  "id": 249,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Doutor Pedrinho",
+  "codigo_ibge": "4205159",
+  "esperanca_de_vida_ao_nascer": 75.55
+ },
+ {
+  "id": 250,
+  "ano": 1991,
+  "fecam": "Amai",
+  "municipio": "Entre Rios",
+  "codigo_ibge": "4205175",
+  "esperanca_de_vida_ao_nascer": 66.92
+ },
+ {
+  "id": 251,
+  "ano": 2000,
+  "fecam": "Amai",
+  "municipio": "Entre Rios",
+  "codigo_ibge": "4205175",
+  "esperanca_de_vida_ao_nascer": 67.78
+ },
+ {
+  "id": 252,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Entre Rios",
+  "codigo_ibge": "4205175",
+  "esperanca_de_vida_ao_nascer": 73.46
+ },
+ {
+  "id": 253,
+  "ano": 1991,
+  "fecam": "Amesc",
+  "municipio": "Ermo",
+  "codigo_ibge": "4205191",
+  "esperanca_de_vida_ao_nascer": 67.22
+ },
+ {
+  "id": 254,
+  "ano": 2000,
+  "fecam": "Amesc",
+  "municipio": "Ermo",
+  "codigo_ibge": "4205191",
+  "esperanca_de_vida_ao_nascer": 71.22
+ },
+ {
+  "id": 255,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Ermo",
+  "codigo_ibge": "4205191",
+  "esperanca_de_vida_ao_nascer": 73.5
+ },
+ {
+  "id": 256,
+  "ano": 1991,
+  "fecam": "Ammoc",
+  "municipio": "Erval Velho",
+  "codigo_ibge": "4205209",
+  "esperanca_de_vida_ao_nascer": 69.26
+ },
+ {
+  "id": 257,
+  "ano": 2000,
+  "fecam": "Ammoc",
+  "municipio": "Erval Velho",
+  "codigo_ibge": "4205209",
+  "esperanca_de_vida_ao_nascer": 71.31
+ },
+ {
+  "id": 258,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Erval Velho",
+  "codigo_ibge": "4205209",
+  "esperanca_de_vida_ao_nascer": 77.07
+ },
+ {
+  "id": 259,
+  "ano": 1991,
+  "fecam": "Amai",
+  "municipio": "Faxinal dos Guedes",
+  "codigo_ibge": "4205308",
+  "esperanca_de_vida_ao_nascer": 69.63
+ },
+ {
+  "id": 260,
+  "ano": 2000,
+  "fecam": "Amai",
+  "municipio": "Faxinal dos Guedes",
+  "codigo_ibge": "4205308",
+  "esperanca_de_vida_ao_nascer": 71.39
+ },
+ {
+  "id": 261,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Faxinal dos Guedes",
+  "codigo_ibge": "4205308",
+  "esperanca_de_vida_ao_nascer": 76.78
+ },
+ {
+  "id": 262,
+  "ano": 1991,
+  "fecam": "Amerios",
+  "municipio": "Flor do Sertão",
+  "codigo_ibge": "4205357",
+  "esperanca_de_vida_ao_nascer": 64.18
+ },
+ {
+  "id": 263,
+  "ano": 2000,
+  "fecam": "Amerios",
+  "municipio": "Flor do Sertão",
+  "codigo_ibge": "4205357",
+  "esperanca_de_vida_ao_nascer": 69.07
+ },
+ {
+  "id": 264,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Flor do Sertão",
+  "codigo_ibge": "4205357",
+  "esperanca_de_vida_ao_nascer": 72.52
+ },
+ {
+  "id": 265,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "Florianópolis",
+  "codigo_ibge": "4205407",
+  "esperanca_de_vida_ao_nascer": 71.25
+ },
+ {
+  "id": 266,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "Florianópolis",
+  "codigo_ibge": "4205407",
+  "esperanca_de_vida_ao_nascer": 74.35
+ },
+ {
+  "id": 267,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Florianópolis",
+  "codigo_ibge": "4205407",
+  "esperanca_de_vida_ao_nascer": 77.35
+ },
+ {
+  "id": 268,
+  "ano": 1991,
+  "fecam": "Amosc",
+  "municipio": "Formosa do Sul",
+  "codigo_ibge": "4205431",
+  "esperanca_de_vida_ao_nascer": 68.97
+ },
+ {
+  "id": 269,
+  "ano": 2000,
+  "fecam": "Amosc",
+  "municipio": "Formosa do Sul",
+  "codigo_ibge": "4205431",
+  "esperanca_de_vida_ao_nascer": 71.34
+ },
+ {
+  "id": 270,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Formosa do Sul",
+  "codigo_ibge": "4205431",
+  "esperanca_de_vida_ao_nascer": 75.71
+ },
+ {
+  "id": 271,
+  "ano": 1991,
+  "fecam": "Amrec",
+  "municipio": "Forquilhinha",
+  "codigo_ibge": "4205456",
+  "esperanca_de_vida_ao_nascer": 69.68
+ },
+ {
+  "id": 272,
+  "ano": 2000,
+  "fecam": "Amrec",
+  "municipio": "Forquilhinha",
+  "codigo_ibge": "4205456",
+  "esperanca_de_vida_ao_nascer": 72.77
+ },
+ {
+  "id": 273,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Forquilhinha",
+  "codigo_ibge": "4205456",
+  "esperanca_de_vida_ao_nascer": 76.64
+ },
+ {
+  "id": 274,
+  "ano": 1991,
+  "fecam": "Amarp",
+  "municipio": "Fraiburgo",
+  "codigo_ibge": "4205506",
+  "esperanca_de_vida_ao_nascer": 67.42
+ },
+ {
+  "id": 275,
+  "ano": 2000,
+  "fecam": "Amarp",
+  "municipio": "Fraiburgo",
+  "codigo_ibge": "4205506",
+  "esperanca_de_vida_ao_nascer": 71.47
+ },
+ {
+  "id": 276,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Fraiburgo",
+  "codigo_ibge": "4205506",
+  "esperanca_de_vida_ao_nascer": 76.58
+ },
+ {
+  "id": 277,
+  "ano": 1991,
+  "fecam": "Amurc",
+  "municipio": "Frei Rogério",
+  "codigo_ibge": "4205555",
+  "esperanca_de_vida_ao_nascer": 64.92
+ },
+ {
+  "id": 278,
+  "ano": 2000,
+  "fecam": "Amurc",
+  "municipio": "Frei Rogério",
+  "codigo_ibge": "4205555",
+  "esperanca_de_vida_ao_nascer": 68.38
+ },
+ {
+  "id": 279,
+  "ano": 2010,
+  "fecam": "Amurc",
+  "municipio": "Frei Rogério",
+  "codigo_ibge": "4205555",
+  "esperanca_de_vida_ao_nascer": 73.74
+ },
+ {
+  "id": 280,
+  "ano": 1991,
+  "fecam": "Amnoroeste",
+  "municipio": "Galvão",
+  "codigo_ibge": "4205605",
+  "esperanca_de_vida_ao_nascer": 69.31
+ },
+ {
+  "id": 281,
+  "ano": 2000,
+  "fecam": "Amnoroeste",
+  "municipio": "Galvão",
+  "codigo_ibge": "4205605",
+  "esperanca_de_vida_ao_nascer": 72.49
+ },
+ {
+  "id": 282,
+  "ano": 2010,
+  "fecam": "Amnoroeste",
+  "municipio": "Galvão",
+  "codigo_ibge": "4205605",
+  "esperanca_de_vida_ao_nascer": 73.91
+ },
+ {
+  "id": 283,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "Garopaba",
+  "codigo_ibge": "4205704",
+  "esperanca_de_vida_ao_nascer": 72.06
+ },
+ {
+  "id": 284,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "Garopaba",
+  "codigo_ibge": "4205704",
+  "esperanca_de_vida_ao_nascer": 74.24
+ },
+ {
+  "id": 285,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Garopaba",
+  "codigo_ibge": "4205704",
+  "esperanca_de_vida_ao_nascer": 77.07
+ },
+ {
+  "id": 286,
+  "ano": 1991,
+  "fecam": "Amunesc",
+  "municipio": "Garuva",
+  "codigo_ibge": "4205803",
+  "esperanca_de_vida_ao_nascer": 68.1
+ },
+ {
+  "id": 287,
+  "ano": 2000,
+  "fecam": "Amunesc",
+  "municipio": "Garuva",
+  "codigo_ibge": "4205803",
+  "esperanca_de_vida_ao_nascer": 73.06
+ },
+ {
+  "id": 288,
+  "ano": 2010,
+  "fecam": "Amunesc",
+  "municipio": "Garuva",
+  "codigo_ibge": "4205803",
+  "esperanca_de_vida_ao_nascer": 74.82
+ },
+ {
+  "id": 289,
+  "ano": 1991,
+  "fecam": "AMVE",
+  "municipio": "Gaspar",
+  "codigo_ibge": "4205902",
+  "esperanca_de_vida_ao_nascer": 69.82
+ },
+ {
+  "id": 290,
+  "ano": 2000,
+  "fecam": "AMVE",
+  "municipio": "Gaspar",
+  "codigo_ibge": "4205902",
+  "esperanca_de_vida_ao_nascer": 73.79
+ },
+ {
+  "id": 291,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Gaspar",
+  "codigo_ibge": "4205902",
+  "esperanca_de_vida_ao_nascer": 78.34
+ },
+ {
+  "id": 292,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "Governador Celso Ramos",
+  "codigo_ibge": "4206009",
+  "esperanca_de_vida_ao_nascer": 71.74
+ },
+ {
+  "id": 293,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "Governador Celso Ramos",
+  "codigo_ibge": "4206009",
+  "esperanca_de_vida_ao_nascer": 74.4
+ },
+ {
+  "id": 294,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Governador Celso Ramos",
+  "codigo_ibge": "4206009",
+  "esperanca_de_vida_ao_nascer": 77.21
+ },
+ {
+  "id": 295,
+  "ano": 1991,
+  "fecam": "Amurel",
+  "municipio": "Grão-Pará",
+  "codigo_ibge": "4206108",
+  "esperanca_de_vida_ao_nascer": 71.09
+ },
+ {
+  "id": 296,
+  "ano": 2000,
+  "fecam": "Amurel",
+  "municipio": "Grão-Pará",
+  "codigo_ibge": "4206108",
+  "esperanca_de_vida_ao_nascer": 73.47
+ },
+ {
+  "id": 297,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Grão-Pará",
+  "codigo_ibge": "4206108",
+  "esperanca_de_vida_ao_nascer": 75.76
+ },
+ {
+  "id": 298,
+  "ano": 1991,
+  "fecam": "Amurel",
+  "municipio": "Gravatal",
+  "codigo_ibge": "4206207",
+  "esperanca_de_vida_ao_nascer": 71.74
+ },
+ {
+  "id": 299,
+  "ano": 2000,
+  "fecam": "Amurel",
+  "municipio": "Gravatal",
+  "codigo_ibge": "4206207",
+  "esperanca_de_vida_ao_nascer": 73.69
+ },
+ {
+  "id": 300,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Gravatal",
+  "codigo_ibge": "4206207",
+  "esperanca_de_vida_ao_nascer": 77.64
+ },
+ {
+  "id": 301,
+  "ano": 1991,
+  "fecam": "AMVE",
+  "municipio": "Guabiruba",
+  "codigo_ibge": "4206306",
+  "esperanca_de_vida_ao_nascer": 73.61
+ },
+ {
+  "id": 302,
+  "ano": 2000,
+  "fecam": "AMVE",
+  "municipio": "Guabiruba",
+  "codigo_ibge": "4206306",
+  "esperanca_de_vida_ao_nascer": 75.91
+ },
+ {
+  "id": 303,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Guabiruba",
+  "codigo_ibge": "4206306",
+  "esperanca_de_vida_ao_nascer": 77.53
+ },
+ {
+  "id": 304,
+  "ano": 1991,
+  "fecam": "Ameosc",
+  "municipio": "Guaraciaba",
+  "codigo_ibge": "4206405",
+  "esperanca_de_vida_ao_nascer": 70.98
+ },
+ {
+  "id": 305,
+  "ano": 2000,
+  "fecam": "Ameosc",
+  "municipio": "Guaraciaba",
+  "codigo_ibge": "4206405",
+  "esperanca_de_vida_ao_nascer": 72.93
+ },
+ {
+  "id": 306,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Guaraciaba",
+  "codigo_ibge": "4206405",
+  "esperanca_de_vida_ao_nascer": 77.28
+ },
+ {
+  "id": 307,
+  "ano": 1991,
+  "fecam": "AMVALI",
+  "municipio": "Guaramirim",
+  "codigo_ibge": "4206504",
+  "esperanca_de_vida_ao_nascer": 72.21
+ },
+ {
+  "id": 308,
+  "ano": 2000,
+  "fecam": "AMVALI",
+  "municipio": "Guaramirim",
+  "codigo_ibge": "4206504",
+  "esperanca_de_vida_ao_nascer": 74.32
+ },
+ {
+  "id": 309,
+  "ano": 2010,
+  "fecam": "AMVALI",
+  "municipio": "Guaramirim",
+  "codigo_ibge": "4206504",
+  "esperanca_de_vida_ao_nascer": 78.08
+ },
+ {
+  "id": 310,
+  "ano": 1991,
+  "fecam": "Ameosc",
+  "municipio": "Guarujá do Sul",
+  "codigo_ibge": "4206603",
+  "esperanca_de_vida_ao_nascer": 70.81
+ },
+ {
+  "id": 311,
+  "ano": 2000,
+  "fecam": "Ameosc",
+  "municipio": "Guarujá do Sul",
+  "codigo_ibge": "4206603",
+  "esperanca_de_vida_ao_nascer": 74.28
+ },
+ {
+  "id": 312,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Guarujá do Sul",
+  "codigo_ibge": "4206603",
+  "esperanca_de_vida_ao_nascer": 75
+ },
+ {
+  "id": 313,
+  "ano": 1991,
+  "fecam": "Amosc",
+  "municipio": "Guatambú",
+  "codigo_ibge": "4206652",
+  "esperanca_de_vida_ao_nascer": 67.42
+ },
+ {
+  "id": 314,
+  "ano": 2000,
+  "fecam": "Amosc",
+  "municipio": "Guatambú",
+  "codigo_ibge": "4206652",
+  "esperanca_de_vida_ao_nascer": 72.29
+ },
+ {
+  "id": 315,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Guatambú",
+  "codigo_ibge": "4206652",
+  "esperanca_de_vida_ao_nascer": 74.37
+ },
+ {
+  "id": 316,
+  "ano": 1991,
+  "fecam": "Ammoc",
+  "municipio": "Herval d'Oeste",
+  "codigo_ibge": "4206702",
+  "esperanca_de_vida_ao_nascer": 69
+ },
+ {
+  "id": 317,
+  "ano": 2000,
+  "fecam": "Ammoc",
+  "municipio": "Herval d'Oeste",
+  "codigo_ibge": "4206702",
+  "esperanca_de_vida_ao_nascer": 74.72
+ },
+ {
+  "id": 318,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Herval d'Oeste",
+  "codigo_ibge": "4206702",
+  "esperanca_de_vida_ao_nascer": 76.51
+ },
+ {
+  "id": 319,
+  "ano": 1991,
+  "fecam": "Amarp",
+  "municipio": "Ibiam",
+  "codigo_ibge": "4206751",
+  "esperanca_de_vida_ao_nascer": 69.38
+ },
+ {
+  "id": 320,
+  "ano": 2000,
+  "fecam": "Amarp",
+  "municipio": "Ibiam",
+  "codigo_ibge": "4206751",
+  "esperanca_de_vida_ao_nascer": 73.33
+ },
+ {
+  "id": 321,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Ibiam",
+  "codigo_ibge": "4206751",
+  "esperanca_de_vida_ao_nascer": 74.2
+ },
+ {
+  "id": 322,
+  "ano": 1991,
+  "fecam": "Ammoc",
+  "municipio": "Ibicaré",
+  "codigo_ibge": "4206801",
+  "esperanca_de_vida_ao_nascer": 70.82
+ },
+ {
+  "id": 323,
+  "ano": 2000,
+  "fecam": "Ammoc",
+  "municipio": "Ibicaré",
+  "codigo_ibge": "4206801",
+  "esperanca_de_vida_ao_nascer": 73.3
+ },
+ {
+  "id": 324,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Ibicaré",
+  "codigo_ibge": "4206801",
+  "esperanca_de_vida_ao_nascer": 74.53
+ },
+ {
+  "id": 325,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Ibirama",
+  "codigo_ibge": "4206900",
+  "esperanca_de_vida_ao_nascer": 70.65
+ },
+ {
+  "id": 326,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Ibirama",
+  "codigo_ibge": "4206900",
+  "esperanca_de_vida_ao_nascer": 73.45
+ },
+ {
+  "id": 327,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Ibirama",
+  "codigo_ibge": "4206900",
+  "esperanca_de_vida_ao_nascer": 75.87
+ },
+ {
+  "id": 328,
+  "ano": 1991,
+  "fecam": "Amrec",
+  "municipio": "Içara",
+  "codigo_ibge": "4207007",
+  "esperanca_de_vida_ao_nascer": 69.8
+ },
+ {
+  "id": 329,
+  "ano": 2000,
+  "fecam": "Amrec",
+  "municipio": "Içara",
+  "codigo_ibge": "4207007",
+  "esperanca_de_vida_ao_nascer": 72.08
+ },
+ {
+  "id": 330,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Içara",
+  "codigo_ibge": "4207007",
+  "esperanca_de_vida_ao_nascer": 76.67
+ },
+ {
+  "id": 331,
+  "ano": 1991,
+  "fecam": "AMFRI",
+  "municipio": "Ilhota",
+  "codigo_ibge": "4207106",
+  "esperanca_de_vida_ao_nascer": 72.09
+ },
+ {
+  "id": 332,
+  "ano": 2000,
+  "fecam": "AMFRI",
+  "municipio": "Ilhota",
+  "codigo_ibge": "4207106",
+  "esperanca_de_vida_ao_nascer": 74.55
+ },
+ {
+  "id": 333,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Ilhota",
+  "codigo_ibge": "4207106",
+  "esperanca_de_vida_ao_nascer": 77.95
+ },
+ {
+  "id": 334,
+  "ano": 1991,
+  "fecam": "Amurel",
+  "municipio": "Imaruí",
+  "codigo_ibge": "4207205",
+  "esperanca_de_vida_ao_nascer": 69.51
+ },
+ {
+  "id": 335,
+  "ano": 2000,
+  "fecam": "Amurel",
+  "municipio": "Imaruí",
+  "codigo_ibge": "4207205",
+  "esperanca_de_vida_ao_nascer": 71.13
+ },
+ {
+  "id": 336,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Imaruí",
+  "codigo_ibge": "4207205",
+  "esperanca_de_vida_ao_nascer": 75.01
+ },
+ {
+  "id": 337,
+  "ano": 1991,
+  "fecam": "Amurel",
+  "municipio": "Imbituba",
+  "codigo_ibge": "4207304",
+  "esperanca_de_vida_ao_nascer": 70.41
+ },
+ {
+  "id": 338,
+  "ano": 2000,
+  "fecam": "Amurel",
+  "municipio": "Imbituba",
+  "codigo_ibge": "4207304",
+  "esperanca_de_vida_ao_nascer": 73.58
+ },
+ {
+  "id": 339,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Imbituba",
+  "codigo_ibge": "4207304",
+  "esperanca_de_vida_ao_nascer": 77.09
+ },
+ {
+  "id": 340,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Imbuia",
+  "codigo_ibge": "4207403",
+  "esperanca_de_vida_ao_nascer": 68.01
+ },
+ {
+  "id": 341,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Imbuia",
+  "codigo_ibge": "4207403",
+  "esperanca_de_vida_ao_nascer": 70.01
+ },
+ {
+  "id": 342,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Imbuia",
+  "codigo_ibge": "4207403",
+  "esperanca_de_vida_ao_nascer": 75.38
+ },
+ {
+  "id": 343,
+  "ano": 1991,
+  "fecam": "AMVE",
+  "municipio": "Indaial",
+  "codigo_ibge": "4207502",
+  "esperanca_de_vida_ao_nascer": 69.82
+ },
+ {
+  "id": 344,
+  "ano": 2000,
+  "fecam": "AMVE",
+  "municipio": "Indaial",
+  "codigo_ibge": "4207502",
+  "esperanca_de_vida_ao_nascer": 74.84
+ },
+ {
+  "id": 345,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Indaial",
+  "codigo_ibge": "4207502",
+  "esperanca_de_vida_ao_nascer": 77.39
+ },
+ {
+  "id": 346,
+  "ano": 1991,
+  "fecam": "Amarp",
+  "municipio": "Iomerê",
+  "codigo_ibge": "4207577",
+  "esperanca_de_vida_ao_nascer": 71.81
+ },
+ {
+  "id": 347,
+  "ano": 2000,
+  "fecam": "Amarp",
+  "municipio": "Iomerê",
+  "codigo_ibge": "4207577",
+  "esperanca_de_vida_ao_nascer": 74.39
+ },
+ {
+  "id": 348,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Iomerê",
+  "codigo_ibge": "4207577",
+  "esperanca_de_vida_ao_nascer": 78.44
+ },
+ {
+  "id": 349,
+  "ano": 1991,
+  "fecam": "Amauc",
+  "municipio": "Ipira",
+  "codigo_ibge": "4207601",
+  "esperanca_de_vida_ao_nascer": 69.46
+ },
+ {
+  "id": 350,
+  "ano": 2000,
+  "fecam": "Amauc",
+  "municipio": "Ipira",
+  "codigo_ibge": "4207601",
+  "esperanca_de_vida_ao_nascer": 70.84
+ },
+ {
+  "id": 351,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Ipira",
+  "codigo_ibge": "4207601",
+  "esperanca_de_vida_ao_nascer": 75.25
+ },
+ {
+  "id": 352,
+  "ano": 1991,
+  "fecam": "Ameosc",
+  "municipio": "Iporã do Oeste",
+  "codigo_ibge": "4207650",
+  "esperanca_de_vida_ao_nascer": 69.26
+ },
+ {
+  "id": 353,
+  "ano": 2000,
+  "fecam": "Ameosc",
+  "municipio": "Iporã do Oeste",
+  "codigo_ibge": "4207650",
+  "esperanca_de_vida_ao_nascer": 71.01
+ },
+ {
+  "id": 354,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Iporã do Oeste",
+  "codigo_ibge": "4207650",
+  "esperanca_de_vida_ao_nascer": 75.81
+ },
+ {
+  "id": 355,
+  "ano": 1991,
+  "fecam": "Amai",
+  "municipio": "Ipuaçu",
+  "codigo_ibge": "4207684",
+  "esperanca_de_vida_ao_nascer": 65.98
+ },
+ {
+  "id": 356,
+  "ano": 2000,
+  "fecam": "Amai",
+  "municipio": "Ipuaçu",
+  "codigo_ibge": "4207684",
+  "esperanca_de_vida_ao_nascer": 67.36
+ },
+ {
+  "id": 357,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Ipuaçu",
+  "codigo_ibge": "4207684",
+  "esperanca_de_vida_ao_nascer": 72.4
+ },
+ {
+  "id": 358,
+  "ano": 1991,
+  "fecam": "Amauc",
+  "municipio": "Ipumirim",
+  "codigo_ibge": "4207700",
+  "esperanca_de_vida_ao_nascer": 69.46
+ },
+ {
+  "id": 359,
+  "ano": 2000,
+  "fecam": "Amauc",
+  "municipio": "Ipumirim",
+  "codigo_ibge": "4207700",
+  "esperanca_de_vida_ao_nascer": 73.16
+ },
+ {
+  "id": 360,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Ipumirim",
+  "codigo_ibge": "4207700",
+  "esperanca_de_vida_ao_nascer": 76.18
+ },
+ {
+  "id": 361,
+  "ano": 1991,
+  "fecam": "Amerios",
+  "municipio": "Iraceminha",
+  "codigo_ibge": "4207759",
+  "esperanca_de_vida_ao_nascer": 69.31
+ },
+ {
+  "id": 362,
+  "ano": 2000,
+  "fecam": "Amerios",
+  "municipio": "Iraceminha",
+  "codigo_ibge": "4207759",
+  "esperanca_de_vida_ao_nascer": 72.12
+ },
+ {
+  "id": 363,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Iraceminha",
+  "codigo_ibge": "4207759",
+  "esperanca_de_vida_ao_nascer": 75.71
+ },
+ {
+  "id": 364,
+  "ano": 1991,
+  "fecam": "Amauc",
+  "municipio": "Irani",
+  "codigo_ibge": "4207809",
+  "esperanca_de_vida_ao_nascer": 69.63
+ },
+ {
+  "id": 365,
+  "ano": 2000,
+  "fecam": "Amauc",
+  "municipio": "Irani",
+  "codigo_ibge": "4207809",
+  "esperanca_de_vida_ao_nascer": 73.12
+ },
+ {
+  "id": 366,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Irani",
+  "codigo_ibge": "4207809",
+  "esperanca_de_vida_ao_nascer": 75.84
+ },
+ {
+  "id": 367,
+  "ano": 1991,
+  "fecam": "Amnoroeste",
+  "municipio": "Irati",
+  "codigo_ibge": "4207858",
+  "esperanca_de_vida_ao_nascer": 69.12
+ },
+ {
+  "id": 368,
+  "ano": 2000,
+  "fecam": "Amnoroeste",
+  "municipio": "Irati",
+  "codigo_ibge": "4207858",
+  "esperanca_de_vida_ao_nascer": 71.16
+ },
+ {
+  "id": 369,
+  "ano": 2010,
+  "fecam": "Amnoroeste",
+  "municipio": "Irati",
+  "codigo_ibge": "4207858",
+  "esperanca_de_vida_ao_nascer": 75.15
+ },
+ {
+  "id": 370,
+  "ano": 1991,
+  "fecam": "Amplanorte",
+  "municipio": "Irineópolis",
+  "codigo_ibge": "4207908",
+  "esperanca_de_vida_ao_nascer": 67.02
+ },
+ {
+  "id": 371,
+  "ano": 2000,
+  "fecam": "Amplanorte",
+  "municipio": "Irineópolis",
+  "codigo_ibge": "4207908",
+  "esperanca_de_vida_ao_nascer": 71.88
+ },
+ {
+  "id": 372,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "municipio": "Irineópolis",
+  "codigo_ibge": "4207908",
+  "esperanca_de_vida_ao_nascer": 75.17
+ },
+ {
+  "id": 373,
+  "ano": 1991,
+  "fecam": "Amauc",
+  "municipio": "Itá",
+  "codigo_ibge": "4208005",
+  "esperanca_de_vida_ao_nascer": 69.8
+ },
+ {
+  "id": 374,
+  "ano": 2000,
+  "fecam": "Amauc",
+  "municipio": "Itá",
+  "codigo_ibge": "4208005",
+  "esperanca_de_vida_ao_nascer": 74.48
+ },
+ {
+  "id": 375,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Itá",
+  "codigo_ibge": "4208005",
+  "esperanca_de_vida_ao_nascer": 77.73
+ },
+ {
+  "id": 376,
+  "ano": 1991,
+  "fecam": "Amplanorte",
+  "municipio": "Itaiópolis",
+  "codigo_ibge": "4208104",
+  "esperanca_de_vida_ao_nascer": 64.18
+ },
+ {
+  "id": 377,
+  "ano": 2000,
+  "fecam": "Amplanorte",
+  "municipio": "Itaiópolis",
+  "codigo_ibge": "4208104",
+  "esperanca_de_vida_ao_nascer": 70.81
+ },
+ {
+  "id": 378,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "municipio": "Itaiópolis",
+  "codigo_ibge": "4208104",
+  "esperanca_de_vida_ao_nascer": 75.17
+ },
+ {
+  "id": 379,
+  "ano": 1991,
+  "fecam": "AMFRI",
+  "municipio": "Itajaí",
+  "codigo_ibge": "4208203",
+  "esperanca_de_vida_ao_nascer": 69.18
+ },
+ {
+  "id": 380,
+  "ano": 2000,
+  "fecam": "AMFRI",
+  "municipio": "Itajaí",
+  "codigo_ibge": "4208203",
+  "esperanca_de_vida_ao_nascer": 72.2
+ },
+ {
+  "id": 381,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Itajaí",
+  "codigo_ibge": "4208203",
+  "esperanca_de_vida_ao_nascer": 78.02
+ },
+ {
+  "id": 382,
+  "ano": 1991,
+  "fecam": "AMFRI",
+  "municipio": "Itapema",
+  "codigo_ibge": "4208302",
+  "esperanca_de_vida_ao_nascer": 68.53
+ },
+ {
+  "id": 383,
+  "ano": 2000,
+  "fecam": "AMFRI",
+  "municipio": "Itapema",
+  "codigo_ibge": "4208302",
+  "esperanca_de_vida_ao_nascer": 74.16
+ },
+ {
+  "id": 384,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Itapema",
+  "codigo_ibge": "4208302",
+  "esperanca_de_vida_ao_nascer": 77.86
+ },
+ {
+  "id": 385,
+  "ano": 1991,
+  "fecam": "Ameosc",
+  "municipio": "Itapiranga",
+  "codigo_ibge": "4208401",
+  "esperanca_de_vida_ao_nascer": 72.21
+ },
+ {
+  "id": 386,
+  "ano": 2000,
+  "fecam": "Ameosc",
+  "municipio": "Itapiranga",
+  "codigo_ibge": "4208401",
+  "esperanca_de_vida_ao_nascer": 74.66
+ },
+ {
+  "id": 387,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Itapiranga",
+  "codigo_ibge": "4208401",
+  "esperanca_de_vida_ao_nascer": 75.5
+ },
+ {
+  "id": 388,
+  "ano": 1991,
+  "fecam": "Amunesc",
+  "municipio": "Itapoá",
+  "codigo_ibge": "4208450",
+  "esperanca_de_vida_ao_nascer": 68.85
+ },
+ {
+  "id": 389,
+  "ano": 2000,
+  "fecam": "Amunesc",
+  "municipio": "Itapoá",
+  "codigo_ibge": "4208450",
+  "esperanca_de_vida_ao_nascer": 72.81
+ },
+ {
+  "id": 390,
+  "ano": 2010,
+  "fecam": "Amunesc",
+  "municipio": "Itapoá",
+  "codigo_ibge": "4208450",
+  "esperanca_de_vida_ao_nascer": 77.41
+ },
+ {
+  "id": 391,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Ituporanga",
+  "codigo_ibge": "4208500",
+  "esperanca_de_vida_ao_nascer": 70.72
+ },
+ {
+  "id": 392,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Ituporanga",
+  "codigo_ibge": "4208500",
+  "esperanca_de_vida_ao_nascer": 74.24
+ },
+ {
+  "id": 393,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Ituporanga",
+  "codigo_ibge": "4208500",
+  "esperanca_de_vida_ao_nascer": 77.58
+ },
+ {
+  "id": 394,
+  "ano": 1991,
+  "fecam": "Amauc",
+  "municipio": "Jaborá",
+  "codigo_ibge": "4208609",
+  "esperanca_de_vida_ao_nascer": 68.01
+ },
+ {
+  "id": 395,
+  "ano": 2000,
+  "fecam": "Amauc",
+  "municipio": "Jaborá",
+  "codigo_ibge": "4208609",
+  "esperanca_de_vida_ao_nascer": 71.12
+ },
+ {
+  "id": 396,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Jaborá",
+  "codigo_ibge": "4208609",
+  "esperanca_de_vida_ao_nascer": 73.06
+ },
+ {
+  "id": 397,
+  "ano": 1991,
+  "fecam": "Amesc",
+  "municipio": "Jacinto Machado",
+  "codigo_ibge": "4208708",
+  "esperanca_de_vida_ao_nascer": 68.72
+ },
+ {
+  "id": 398,
+  "ano": 2000,
+  "fecam": "Amesc",
+  "municipio": "Jacinto Machado",
+  "codigo_ibge": "4208708",
+  "esperanca_de_vida_ao_nascer": 71.58
+ },
+ {
+  "id": 399,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Jacinto Machado",
+  "codigo_ibge": "4208708",
+  "esperanca_de_vida_ao_nascer": 74.06
+ },
+ {
+  "id": 400,
+  "ano": 1991,
+  "fecam": "Amurel",
+  "municipio": "Jaguaruna",
+  "codigo_ibge": "4208807",
+  "esperanca_de_vida_ao_nascer": 69.51
+ },
+ {
+  "id": 401,
+  "ano": 2000,
+  "fecam": "Amurel",
+  "municipio": "Jaguaruna",
+  "codigo_ibge": "4208807",
+  "esperanca_de_vida_ao_nascer": 71.55
+ },
+ {
+  "id": 402,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Jaguaruna",
+  "codigo_ibge": "4208807",
+  "esperanca_de_vida_ao_nascer": 74.8
+ },
+ {
+  "id": 403,
+  "ano": 1991,
+  "fecam": "AMVALI",
+  "municipio": "Jaraguá do Sul",
+  "codigo_ibge": "4208906",
+  "esperanca_de_vida_ao_nascer": 70.64
+ },
+ {
+  "id": 404,
+  "ano": 2000,
+  "fecam": "AMVALI",
+  "municipio": "Jaraguá do Sul",
+  "codigo_ibge": "4208906",
+  "esperanca_de_vida_ao_nascer": 75.15
+ },
+ {
+  "id": 405,
+  "ano": 2010,
+  "fecam": "AMVALI",
+  "municipio": "Jaraguá do Sul",
+  "codigo_ibge": "4208906",
+  "esperanca_de_vida_ao_nascer": 76.92
+ },
+ {
+  "id": 406,
+  "ano": 1991,
+  "fecam": "Amosc",
+  "municipio": "Jardinópolis",
+  "codigo_ibge": "4208955",
+  "esperanca_de_vida_ao_nascer": 67.31
+ },
+ {
+  "id": 407,
+  "ano": 2000,
+  "fecam": "Amosc",
+  "municipio": "Jardinópolis",
+  "codigo_ibge": "4208955",
+  "esperanca_de_vida_ao_nascer": 69.75
+ },
+ {
+  "id": 408,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Jardinópolis",
+  "codigo_ibge": "4208955",
+  "esperanca_de_vida_ao_nascer": 74.37
+ },
+ {
+  "id": 409,
+  "ano": 1991,
+  "fecam": "Ammoc",
+  "municipio": "Joaçaba",
+  "codigo_ibge": "4209003",
+  "esperanca_de_vida_ao_nascer": 72.46
+ },
+ {
+  "id": 410,
+  "ano": 2000,
+  "fecam": "Ammoc",
+  "municipio": "Joaçaba",
+  "codigo_ibge": "4209003",
+  "esperanca_de_vida_ao_nascer": 74.47
+ },
+ {
+  "id": 411,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Joaçaba",
+  "codigo_ibge": "4209003",
+  "esperanca_de_vida_ao_nascer": 78.44
+ },
+ {
+  "id": 412,
+  "ano": 1991,
+  "fecam": "Amunesc",
+  "municipio": "Joinville",
+  "codigo_ibge": "4209102",
+  "esperanca_de_vida_ao_nascer": 72.58
+ },
+ {
+  "id": 413,
+  "ano": 2000,
+  "fecam": "Amunesc",
+  "municipio": "Joinville",
+  "codigo_ibge": "4209102",
+  "esperanca_de_vida_ao_nascer": 77.14
+ },
+ {
+  "id": 414,
+  "ano": 2010,
+  "fecam": "Amunesc",
+  "municipio": "Joinville",
+  "codigo_ibge": "4209102",
+  "esperanca_de_vida_ao_nascer": 78.34
+ },
+ {
+  "id": 415,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "José Boiteux",
+  "codigo_ibge": "4209151",
+  "esperanca_de_vida_ao_nascer": 67.71
+ },
+ {
+  "id": 416,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "José Boiteux",
+  "codigo_ibge": "4209151",
+  "esperanca_de_vida_ao_nascer": 70.43
+ },
+ {
+  "id": 417,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "José Boiteux",
+  "codigo_ibge": "4209151",
+  "esperanca_de_vida_ao_nascer": 75.44
+ },
+ {
+  "id": 418,
+  "ano": 1991,
+  "fecam": "Amnoroeste",
+  "municipio": "Jupiá",
+  "codigo_ibge": "4209177",
+  "esperanca_de_vida_ao_nascer": 68.65
+ },
+ {
+  "id": 419,
+  "ano": 2000,
+  "fecam": "Amnoroeste",
+  "municipio": "Jupiá",
+  "codigo_ibge": "4209177",
+  "esperanca_de_vida_ao_nascer": 71.58
+ },
+ {
+  "id": 420,
+  "ano": 2010,
+  "fecam": "Amnoroeste",
+  "municipio": "Jupiá",
+  "codigo_ibge": "4209177",
+  "esperanca_de_vida_ao_nascer": 76.71
+ },
+ {
+  "id": 421,
+  "ano": 1991,
+  "fecam": "Ammoc",
+  "municipio": "Lacerdópolis",
+  "codigo_ibge": "4209201",
+  "esperanca_de_vida_ao_nascer": 72.46
+ },
+ {
+  "id": 422,
+  "ano": 2000,
+  "fecam": "Ammoc",
+  "municipio": "Lacerdópolis",
+  "codigo_ibge": "4209201",
+  "esperanca_de_vida_ao_nascer": 75.54
+ },
+ {
+  "id": 423,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Lacerdópolis",
+  "codigo_ibge": "4209201",
+  "esperanca_de_vida_ao_nascer": 77.97
+ },
+ {
+  "id": 424,
+  "ano": 1991,
+  "fecam": "Amures",
+  "municipio": "Lages",
+  "codigo_ibge": "4209300",
+  "esperanca_de_vida_ao_nascer": 68.53
+ },
+ {
+  "id": 425,
+  "ano": 2000,
+  "fecam": "Amures",
+  "municipio": "Lages",
+  "codigo_ibge": "4209300",
+  "esperanca_de_vida_ao_nascer": 73.38
+ },
+ {
+  "id": 426,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Lages",
+  "codigo_ibge": "4209300",
+  "esperanca_de_vida_ao_nascer": 77.04
+ },
+ {
+  "id": 427,
+  "ano": 1991,
+  "fecam": "Amurel",
+  "municipio": "Laguna",
+  "codigo_ibge": "4209409",
+  "esperanca_de_vida_ao_nascer": 70.41
+ },
+ {
+  "id": 428,
+  "ano": 2000,
+  "fecam": "Amurel",
+  "municipio": "Laguna",
+  "codigo_ibge": "4209409",
+  "esperanca_de_vida_ao_nascer": 74.25
+ },
+ {
+  "id": 429,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Laguna",
+  "codigo_ibge": "4209409",
+  "esperanca_de_vida_ao_nascer": 77.27
+ },
+ {
+  "id": 430,
+  "ano": 1991,
+  "fecam": "Amai",
+  "municipio": "Lajeado Grande",
+  "codigo_ibge": "4209458",
+  "esperanca_de_vida_ao_nascer": 71.82
+ },
+ {
+  "id": 431,
+  "ano": 2000,
+  "fecam": "Amai",
+  "municipio": "Lajeado Grande",
+  "codigo_ibge": "4209458",
+  "esperanca_de_vida_ao_nascer": 75.3
+ },
+ {
+  "id": 432,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Lajeado Grande",
+  "codigo_ibge": "4209458",
+  "esperanca_de_vida_ao_nascer": 76.45
+ },
+ {
+  "id": 433,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Laurentino",
+  "codigo_ibge": "4209508",
+  "esperanca_de_vida_ao_nascer": 70.65
+ },
+ {
+  "id": 434,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Laurentino",
+  "codigo_ibge": "4209508",
+  "esperanca_de_vida_ao_nascer": 72.4
+ },
+ {
+  "id": 435,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Laurentino",
+  "codigo_ibge": "4209508",
+  "esperanca_de_vida_ao_nascer": 76.28
+ },
+ {
+  "id": 436,
+  "ano": 1991,
+  "fecam": "Amrec",
+  "municipio": "Lauro Müller",
+  "codigo_ibge": "4209607",
+  "esperanca_de_vida_ao_nascer": 69.6
+ },
+ {
+  "id": 437,
+  "ano": 2000,
+  "fecam": "Amrec",
+  "municipio": "Lauro Müller",
+  "codigo_ibge": "4209607",
+  "esperanca_de_vida_ao_nascer": 72.59
+ },
+ {
+  "id": 438,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Lauro Müller",
+  "codigo_ibge": "4209607",
+  "esperanca_de_vida_ao_nascer": 74.32
+ },
+ {
+  "id": 439,
+  "ano": 1991,
+  "fecam": "Amarp",
+  "municipio": "Lebon Régis",
+  "codigo_ibge": "4209706",
+  "esperanca_de_vida_ao_nascer": 67.57
+ },
+ {
+  "id": 440,
+  "ano": 2000,
+  "fecam": "Amarp",
+  "municipio": "Lebon Régis",
+  "codigo_ibge": "4209706",
+  "esperanca_de_vida_ao_nascer": 70.74
+ },
+ {
+  "id": 441,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Lebon Régis",
+  "codigo_ibge": "4209706",
+  "esperanca_de_vida_ao_nascer": 73.38
+ },
+ {
+  "id": 442,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "Leoberto Leal",
+  "codigo_ibge": "4209805",
+  "esperanca_de_vida_ao_nascer": 69.38
+ },
+ {
+  "id": 443,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "Leoberto Leal",
+  "codigo_ibge": "4209805",
+  "esperanca_de_vida_ao_nascer": 71.64
+ },
+ {
+  "id": 444,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Leoberto Leal",
+  "codigo_ibge": "4209805",
+  "esperanca_de_vida_ao_nascer": 74.06
+ },
+ {
+  "id": 445,
+  "ano": 1991,
+  "fecam": "Amauc",
+  "municipio": "Lindóia do Sul",
+  "codigo_ibge": "4209854",
+  "esperanca_de_vida_ao_nascer": 69.22
+ },
+ {
+  "id": 446,
+  "ano": 2000,
+  "fecam": "Amauc",
+  "municipio": "Lindóia do Sul",
+  "codigo_ibge": "4209854",
+  "esperanca_de_vida_ao_nascer": 71.15
+ },
+ {
+  "id": 447,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Lindóia do Sul",
+  "codigo_ibge": "4209854",
+  "esperanca_de_vida_ao_nascer": 76.89
+ },
+ {
+  "id": 448,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Lontras",
+  "codigo_ibge": "4209904",
+  "esperanca_de_vida_ao_nascer": 70.65
+ },
+ {
+  "id": 449,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Lontras",
+  "codigo_ibge": "4209904",
+  "esperanca_de_vida_ao_nascer": 72.19
+ },
+ {
+  "id": 450,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Lontras",
+  "codigo_ibge": "4209904",
+  "esperanca_de_vida_ao_nascer": 74.2
+ },
+ {
+  "id": 451,
+  "ano": 1991,
+  "fecam": "AMFRI",
+  "municipio": "Luiz Alves",
+  "codigo_ibge": "4210001",
+  "esperanca_de_vida_ao_nascer": 70.17
+ },
+ {
+  "id": 452,
+  "ano": 2000,
+  "fecam": "AMFRI",
+  "municipio": "Luiz Alves",
+  "codigo_ibge": "4210001",
+  "esperanca_de_vida_ao_nascer": 72.68
+ },
+ {
+  "id": 453,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Luiz Alves",
+  "codigo_ibge": "4210001",
+  "esperanca_de_vida_ao_nascer": 77.17
+ },
+ {
+  "id": 454,
+  "ano": 1991,
+  "fecam": "Ammoc",
+  "municipio": "Luzerna",
+  "codigo_ibge": "4210035",
+  "esperanca_de_vida_ao_nascer": 71.81
+ },
+ {
+  "id": 455,
+  "ano": 2000,
+  "fecam": "Ammoc",
+  "municipio": "Luzerna",
+  "codigo_ibge": "4210035",
+  "esperanca_de_vida_ao_nascer": 76.09
+ },
+ {
+  "id": 456,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Luzerna",
+  "codigo_ibge": "4210035",
+  "esperanca_de_vida_ao_nascer": 77.59
+ },
+ {
+  "id": 457,
+  "ano": 1991,
+  "fecam": "Amarp",
+  "municipio": "Macieira",
+  "codigo_ibge": "4210050",
+  "esperanca_de_vida_ao_nascer": 67.57
+ },
+ {
+  "id": 458,
+  "ano": 2000,
+  "fecam": "Amarp",
+  "municipio": "Macieira",
+  "codigo_ibge": "4210050",
+  "esperanca_de_vida_ao_nascer": 70.74
+ },
+ {
+  "id": 459,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Macieira",
+  "codigo_ibge": "4210050",
+  "esperanca_de_vida_ao_nascer": 73.38
+ },
+ {
+  "id": 460,
+  "ano": 1991,
+  "fecam": "Amplanorte",
+  "municipio": "Mafra",
+  "codigo_ibge": "4210100",
+  "esperanca_de_vida_ao_nascer": 70.43
+ },
+ {
+  "id": 461,
+  "ano": 2000,
+  "fecam": "Amplanorte",
+  "municipio": "Mafra",
+  "codigo_ibge": "4210100",
+  "esperanca_de_vida_ao_nascer": 73.15
+ },
+ {
+  "id": 462,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "municipio": "Mafra",
+  "codigo_ibge": "4210100",
+  "esperanca_de_vida_ao_nascer": 77.82
+ },
+ {
+  "id": 463,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "Major Gercino",
+  "codigo_ibge": "4210209",
+  "esperanca_de_vida_ao_nascer": 68.1
+ },
+ {
+  "id": 464,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "Major Gercino",
+  "codigo_ibge": "4210209",
+  "esperanca_de_vida_ao_nascer": 73.3
+ },
+ {
+  "id": 465,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Major Gercino",
+  "codigo_ibge": "4210209",
+  "esperanca_de_vida_ao_nascer": 74.06
+ },
+ {
+  "id": 466,
+  "ano": 1991,
+  "fecam": "Amplanorte",
+  "municipio": "Major Vieira",
+  "codigo_ibge": "4210308",
+  "esperanca_de_vida_ao_nascer": 68.19
+ },
+ {
+  "id": 467,
+  "ano": 2000,
+  "fecam": "Amplanorte",
+  "municipio": "Major Vieira",
+  "codigo_ibge": "4210308",
+  "esperanca_de_vida_ao_nascer": 70.59
+ },
+ {
+  "id": 468,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "municipio": "Major Vieira",
+  "codigo_ibge": "4210308",
+  "esperanca_de_vida_ao_nascer": 74.01
+ },
+ {
+  "id": 469,
+  "ano": 1991,
+  "fecam": "Amesc",
+  "municipio": "Maracajá",
+  "codigo_ibge": "4210407",
+  "esperanca_de_vida_ao_nascer": 70.03
+ },
+ {
+  "id": 470,
+  "ano": 2000,
+  "fecam": "Amesc",
+  "municipio": "Maracajá",
+  "codigo_ibge": "4210407",
+  "esperanca_de_vida_ao_nascer": 73.41
+ },
+ {
+  "id": 471,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Maracajá",
+  "codigo_ibge": "4210407",
+  "esperanca_de_vida_ao_nascer": 76.63
+ },
+ {
+  "id": 472,
+  "ano": 1991,
+  "fecam": "Amerios",
+  "municipio": "Maravilha",
+  "codigo_ibge": "4210506",
+  "esperanca_de_vida_ao_nascer": 69.05
+ },
+ {
+  "id": 473,
+  "ano": 2000,
+  "fecam": "Amerios",
+  "municipio": "Maravilha",
+  "codigo_ibge": "4210506",
+  "esperanca_de_vida_ao_nascer": 74.16
+ },
+ {
+  "id": 474,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Maravilha",
+  "codigo_ibge": "4210506",
+  "esperanca_de_vida_ao_nascer": 78.17
+ },
+ {
+  "id": 475,
+  "ano": 1991,
+  "fecam": "Amai",
+  "municipio": "Marema",
+  "codigo_ibge": "4210555",
+  "esperanca_de_vida_ao_nascer": 70.67
+ },
+ {
+  "id": 476,
+  "ano": 2000,
+  "fecam": "Amai",
+  "municipio": "Marema",
+  "codigo_ibge": "4210555",
+  "esperanca_de_vida_ao_nascer": 75.91
+ },
+ {
+  "id": 477,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Marema",
+  "codigo_ibge": "4210555",
+  "esperanca_de_vida_ao_nascer": 76.7
+ },
+ {
+  "id": 478,
+  "ano": 1991,
+  "fecam": "AMVALI",
+  "municipio": "Massaranduba",
+  "codigo_ibge": "4210605",
+  "esperanca_de_vida_ao_nascer": 73
+ },
+ {
+  "id": 479,
+  "ano": 2000,
+  "fecam": "AMVALI",
+  "municipio": "Massaranduba",
+  "codigo_ibge": "4210605",
+  "esperanca_de_vida_ao_nascer": 76.19
+ },
+ {
+  "id": 480,
+  "ano": 2010,
+  "fecam": "AMVALI",
+  "municipio": "Massaranduba",
+  "codigo_ibge": "4210605",
+  "esperanca_de_vida_ao_nascer": 77.04
+ },
+ {
+  "id": 481,
+  "ano": 1991,
+  "fecam": "Amarp",
+  "municipio": "Matos Costa",
+  "codigo_ibge": "4210704",
+  "esperanca_de_vida_ao_nascer": 67.66
+ },
+ {
+  "id": 482,
+  "ano": 2000,
+  "fecam": "Amarp",
+  "municipio": "Matos Costa",
+  "codigo_ibge": "4210704",
+  "esperanca_de_vida_ao_nascer": 71.64
+ },
+ {
+  "id": 483,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Matos Costa",
+  "codigo_ibge": "4210704",
+  "esperanca_de_vida_ao_nascer": 74.83
+ },
+ {
+  "id": 484,
+  "ano": 1991,
+  "fecam": "Amesc",
+  "municipio": "Meleiro",
+  "codigo_ibge": "4210803",
+  "esperanca_de_vida_ao_nascer": 67.98
+ },
+ {
+  "id": 485,
+  "ano": 2000,
+  "fecam": "Amesc",
+  "municipio": "Meleiro",
+  "codigo_ibge": "4210803",
+  "esperanca_de_vida_ao_nascer": 72.1
+ },
+ {
+  "id": 486,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Meleiro",
+  "codigo_ibge": "4210803",
+  "esperanca_de_vida_ao_nascer": 73.5
+ },
+ {
+  "id": 487,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Mirim Doce",
+  "codigo_ibge": "4210852",
+  "esperanca_de_vida_ao_nascer": 69.51
+ },
+ {
+  "id": 488,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Mirim Doce",
+  "codigo_ibge": "4210852",
+  "esperanca_de_vida_ao_nascer": 72.19
+ },
+ {
+  "id": 489,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Mirim Doce",
+  "codigo_ibge": "4210852",
+  "esperanca_de_vida_ao_nascer": 74.23
+ },
+ {
+  "id": 490,
+  "ano": 1991,
+  "fecam": "Amerios",
+  "municipio": "Modelo",
+  "codigo_ibge": "4210902",
+  "esperanca_de_vida_ao_nascer": 70.41
+ },
+ {
+  "id": 491,
+  "ano": 2000,
+  "fecam": "Amerios",
+  "municipio": "Modelo",
+  "codigo_ibge": "4210902",
+  "esperanca_de_vida_ao_nascer": 73.88
+ },
+ {
+  "id": 492,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Modelo",
+  "codigo_ibge": "4210902",
+  "esperanca_de_vida_ao_nascer": 78.17
+ },
+ {
+  "id": 493,
+  "ano": 1991,
+  "fecam": "Ameosc",
+  "municipio": "Mondaí",
+  "codigo_ibge": "4211009",
+  "esperanca_de_vida_ao_nascer": 69.38
+ },
+ {
+  "id": 494,
+  "ano": 2000,
+  "fecam": "Ameosc",
+  "municipio": "Mondaí",
+  "codigo_ibge": "4211009",
+  "esperanca_de_vida_ao_nascer": 71.8
+ },
+ {
+  "id": 495,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Mondaí",
+  "codigo_ibge": "4211009",
+  "esperanca_de_vida_ao_nascer": 77.52
+ },
+ {
+  "id": 496,
+  "ano": 1991,
+  "fecam": "Amplasc",
+  "municipio": "Monte Carlo",
+  "codigo_ibge": "4211058",
+  "esperanca_de_vida_ao_nascer": 67.98
+ },
+ {
+  "id": 497,
+  "ano": 2000,
+  "fecam": "Amplasc",
+  "municipio": "Monte Carlo",
+  "codigo_ibge": "4211058",
+  "esperanca_de_vida_ao_nascer": 69.99
+ },
+ {
+  "id": 498,
+  "ano": 2010,
+  "fecam": "Amplasc",
+  "municipio": "Monte Carlo",
+  "codigo_ibge": "4211058",
+  "esperanca_de_vida_ao_nascer": 73.23
+ },
+ {
+  "id": 499,
+  "ano": 1991,
+  "fecam": "Amplanorte",
+  "municipio": "Monte Castelo",
+  "codigo_ibge": "4211108",
+  "esperanca_de_vida_ao_nascer": 65.86
+ },
+ {
+  "id": 500,
+  "ano": 2000,
+  "fecam": "Amplanorte",
+  "municipio": "Monte Castelo",
+  "codigo_ibge": "4211108",
+  "esperanca_de_vida_ao_nascer": 70.86
+ },
+ {
+  "id": 501,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "municipio": "Monte Castelo",
+  "codigo_ibge": "4211108",
+  "esperanca_de_vida_ao_nascer": 74.58
+ },
+ {
+  "id": 502,
+  "ano": 1991,
+  "fecam": "Amrec",
+  "municipio": "Morro da Fumaça",
+  "codigo_ibge": "4211207",
+  "esperanca_de_vida_ao_nascer": 70.34
+ },
+ {
+  "id": 503,
+  "ano": 2000,
+  "fecam": "Amrec",
+  "municipio": "Morro da Fumaça",
+  "codigo_ibge": "4211207",
+  "esperanca_de_vida_ao_nascer": 73.46
+ },
+ {
+  "id": 504,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Morro da Fumaça",
+  "codigo_ibge": "4211207",
+  "esperanca_de_vida_ao_nascer": 74.51
+ },
+ {
+  "id": 505,
+  "ano": 1991,
+  "fecam": "Amesc",
+  "municipio": "Morro Grande",
+  "codigo_ibge": "4211256",
+  "esperanca_de_vida_ao_nascer": 68.19
+ },
+ {
+  "id": 506,
+  "ano": 2000,
+  "fecam": "Amesc",
+  "municipio": "Morro Grande",
+  "codigo_ibge": "4211256",
+  "esperanca_de_vida_ao_nascer": 72.1
+ },
+ {
+  "id": 507,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Morro Grande",
+  "codigo_ibge": "4211256",
+  "esperanca_de_vida_ao_nascer": 75.8
+ },
+ {
+  "id": 508,
+  "ano": 1991,
+  "fecam": "AMFRI",
+  "municipio": "Navegantes",
+  "codigo_ibge": "4211306",
+  "esperanca_de_vida_ao_nascer": 67.42
+ },
+ {
+  "id": 509,
+  "ano": 2000,
+  "fecam": "AMFRI",
+  "municipio": "Navegantes",
+  "codigo_ibge": "4211306",
+  "esperanca_de_vida_ao_nascer": 71.98
+ },
+ {
+  "id": 510,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Navegantes",
+  "codigo_ibge": "4211306",
+  "esperanca_de_vida_ao_nascer": 77.37
+ },
+ {
+  "id": 511,
+  "ano": 1991,
+  "fecam": "Amosc",
+  "municipio": "Nova Erechim",
+  "codigo_ibge": "4211405",
+  "esperanca_de_vida_ao_nascer": 70.42
+ },
+ {
+  "id": 512,
+  "ano": 2000,
+  "fecam": "Amosc",
+  "municipio": "Nova Erechim",
+  "codigo_ibge": "4211405",
+  "esperanca_de_vida_ao_nascer": 74.66
+ },
+ {
+  "id": 513,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Nova Erechim",
+  "codigo_ibge": "4211405",
+  "esperanca_de_vida_ao_nascer": 76.03
+ },
+ {
+  "id": 514,
+  "ano": 1991,
+  "fecam": "Amosc",
+  "municipio": "Nova Itaberaba",
+  "codigo_ibge": "4211454",
+  "esperanca_de_vida_ao_nascer": 67.38
+ },
+ {
+  "id": 515,
+  "ano": 2000,
+  "fecam": "Amosc",
+  "municipio": "Nova Itaberaba",
+  "codigo_ibge": "4211454",
+  "esperanca_de_vida_ao_nascer": 72.29
+ },
+ {
+  "id": 516,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Nova Itaberaba",
+  "codigo_ibge": "4211454",
+  "esperanca_de_vida_ao_nascer": 77.54
+ },
+ {
+  "id": 517,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "Nova Trento",
+  "codigo_ibge": "4211504",
+  "esperanca_de_vida_ao_nascer": 71.2
+ },
+ {
+  "id": 518,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "Nova Trento",
+  "codigo_ibge": "4211504",
+  "esperanca_de_vida_ao_nascer": 73.99
+ },
+ {
+  "id": 519,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Nova Trento",
+  "codigo_ibge": "4211504",
+  "esperanca_de_vida_ao_nascer": 78.43
+ },
+ {
+  "id": 520,
+  "ano": 1991,
+  "fecam": "Amrec",
+  "municipio": "Nova Veneza",
+  "codigo_ibge": "4211603",
+  "esperanca_de_vida_ao_nascer": 70.69
+ },
+ {
+  "id": 521,
+  "ano": 2000,
+  "fecam": "Amrec",
+  "municipio": "Nova Veneza",
+  "codigo_ibge": "4211603",
+  "esperanca_de_vida_ao_nascer": 73.02
+ },
+ {
+  "id": 522,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Nova Veneza",
+  "codigo_ibge": "4211603",
+  "esperanca_de_vida_ao_nascer": 77.14
+ },
+ {
+  "id": 523,
+  "ano": 1991,
+  "fecam": "Amnoroeste",
+  "municipio": "Novo Horizonte",
+  "codigo_ibge": "4211652",
+  "esperanca_de_vida_ao_nascer": 67.02
+ },
+ {
+  "id": 524,
+  "ano": 2000,
+  "fecam": "Amnoroeste",
+  "municipio": "Novo Horizonte",
+  "codigo_ibge": "4211652",
+  "esperanca_de_vida_ao_nascer": 70.49
+ },
+ {
+  "id": 525,
+  "ano": 2010,
+  "fecam": "Amnoroeste",
+  "municipio": "Novo Horizonte",
+  "codigo_ibge": "4211652",
+  "esperanca_de_vida_ao_nascer": 75.76
+ },
+ {
+  "id": 526,
+  "ano": 1991,
+  "fecam": "Amrec",
+  "municipio": "Orleans",
+  "codigo_ibge": "4211702",
+  "esperanca_de_vida_ao_nascer": 70.34
+ },
+ {
+  "id": 527,
+  "ano": 2000,
+  "fecam": "Amrec",
+  "municipio": "Orleans",
+  "codigo_ibge": "4211702",
+  "esperanca_de_vida_ao_nascer": 72.74
+ },
+ {
+  "id": 528,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Orleans",
+  "codigo_ibge": "4211702",
+  "esperanca_de_vida_ao_nascer": 77.35
+ },
+ {
+  "id": 529,
+  "ano": 1991,
+  "fecam": "Amures",
+  "municipio": "Otacílio Costa",
+  "codigo_ibge": "4211751",
+  "esperanca_de_vida_ao_nascer": 67.43
+ },
+ {
+  "id": 530,
+  "ano": 2000,
+  "fecam": "Amures",
+  "municipio": "Otacílio Costa",
+  "codigo_ibge": "4211751",
+  "esperanca_de_vida_ao_nascer": 70.07
+ },
+ {
+  "id": 531,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Otacílio Costa",
+  "codigo_ibge": "4211751",
+  "esperanca_de_vida_ao_nascer": 75.12
+ },
+ {
+  "id": 532,
+  "ano": 1991,
+  "fecam": "Ammoc",
+  "municipio": "Ouro",
+  "codigo_ibge": "4211801",
+  "esperanca_de_vida_ao_nascer": 70.68
+ },
+ {
+  "id": 533,
+  "ano": 2000,
+  "fecam": "Ammoc",
+  "municipio": "Ouro",
+  "codigo_ibge": "4211801",
+  "esperanca_de_vida_ao_nascer": 74.07
+ },
+ {
+  "id": 534,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Ouro",
+  "codigo_ibge": "4211801",
+  "esperanca_de_vida_ao_nascer": 78.06
+ },
+ {
+  "id": 535,
+  "ano": 1991,
+  "fecam": "Amai",
+  "municipio": "Ouro Verde",
+  "codigo_ibge": "4211850",
+  "esperanca_de_vida_ao_nascer": 65.98
+ },
+ {
+  "id": 536,
+  "ano": 2000,
+  "fecam": "Amai",
+  "municipio": "Ouro Verde",
+  "codigo_ibge": "4211850",
+  "esperanca_de_vida_ao_nascer": 71.47
+ },
+ {
+  "id": 537,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Ouro Verde",
+  "codigo_ibge": "4211850",
+  "esperanca_de_vida_ao_nascer": 72.4
+ },
+ {
+  "id": 538,
+  "ano": 1991,
+  "fecam": "Amosc",
+  "municipio": "Paial",
+  "codigo_ibge": "4211876",
+  "esperanca_de_vida_ao_nascer": 67.38
+ },
+ {
+  "id": 539,
+  "ano": 2000,
+  "fecam": "Amosc",
+  "municipio": "Paial",
+  "codigo_ibge": "4211876",
+  "esperanca_de_vida_ao_nascer": 71.63
+ },
+ {
+  "id": 540,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Paial",
+  "codigo_ibge": "4211876",
+  "esperanca_de_vida_ao_nascer": 75.84
+ },
+ {
+  "id": 541,
+  "ano": 1991,
+  "fecam": "Amures",
+  "municipio": "Painel",
+  "codigo_ibge": "4211892",
+  "esperanca_de_vida_ao_nascer": 67.57
+ },
+ {
+  "id": 542,
+  "ano": 2000,
+  "fecam": "Amures",
+  "municipio": "Painel",
+  "codigo_ibge": "4211892",
+  "esperanca_de_vida_ao_nascer": 68.89
+ },
+ {
+  "id": 543,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Painel",
+  "codigo_ibge": "4211892",
+  "esperanca_de_vida_ao_nascer": 73.45
+ },
+ {
+  "id": 544,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "Palhoça",
+  "codigo_ibge": "4211900",
+  "esperanca_de_vida_ao_nascer": 71.5
+ },
+ {
+  "id": 545,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "Palhoça",
+  "codigo_ibge": "4211900",
+  "esperanca_de_vida_ao_nascer": 76.09
+ },
+ {
+  "id": 546,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Palhoça",
+  "codigo_ibge": "4211900",
+  "esperanca_de_vida_ao_nascer": 76.55
+ },
+ {
+  "id": 547,
+  "ano": 1991,
+  "fecam": "Ameosc",
+  "municipio": "Palma Sola",
+  "codigo_ibge": "4212007",
+  "esperanca_de_vida_ao_nascer": 67.58
+ },
+ {
+  "id": 548,
+  "ano": 2000,
+  "fecam": "Ameosc",
+  "municipio": "Palma Sola",
+  "codigo_ibge": "4212007",
+  "esperanca_de_vida_ao_nascer": 70.89
+ },
+ {
+  "id": 549,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Palma Sola",
+  "codigo_ibge": "4212007",
+  "esperanca_de_vida_ao_nascer": 73.01
+ },
+ {
+  "id": 550,
+  "ano": 1991,
+  "fecam": "Amures",
+  "municipio": "Palmeira",
+  "codigo_ibge": "4212056",
+  "esperanca_de_vida_ao_nascer": 67.42
+ },
+ {
+  "id": 551,
+  "ano": 2000,
+  "fecam": "Amures",
+  "municipio": "Palmeira",
+  "codigo_ibge": "4212056",
+  "esperanca_de_vida_ao_nascer": 68.81
+ },
+ {
+  "id": 552,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Palmeira",
+  "codigo_ibge": "4212056",
+  "esperanca_de_vida_ao_nascer": 74.61
+ },
+ {
+  "id": 553,
+  "ano": 1991,
+  "fecam": "Amerios",
+  "municipio": "Palmitos",
+  "codigo_ibge": "4212106",
+  "esperanca_de_vida_ao_nascer": 70.34
+ },
+ {
+  "id": 554,
+  "ano": 2000,
+  "fecam": "Amerios",
+  "municipio": "Palmitos",
+  "codigo_ibge": "4212106",
+  "esperanca_de_vida_ao_nascer": 72.37
+ },
+ {
+  "id": 555,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Palmitos",
+  "codigo_ibge": "4212106",
+  "esperanca_de_vida_ao_nascer": 75.13
+ },
+ {
+  "id": 556,
+  "ano": 1991,
+  "fecam": "Amplanorte",
+  "municipio": "Papanduva",
+  "codigo_ibge": "4212205",
+  "esperanca_de_vida_ao_nascer": 66.23
+ },
+ {
+  "id": 557,
+  "ano": 2000,
+  "fecam": "Amplanorte",
+  "municipio": "Papanduva",
+  "codigo_ibge": "4212205",
+  "esperanca_de_vida_ao_nascer": 71.8
+ },
+ {
+  "id": 558,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "municipio": "Papanduva",
+  "codigo_ibge": "4212205",
+  "esperanca_de_vida_ao_nascer": 75.17
+ },
+ {
+  "id": 559,
+  "ano": 1991,
+  "fecam": "Ameosc",
+  "municipio": "Paraíso",
+  "codigo_ibge": "4212239",
+  "esperanca_de_vida_ao_nascer": 70.34
+ },
+ {
+  "id": 560,
+  "ano": 2000,
+  "fecam": "Ameosc",
+  "municipio": "Paraíso",
+  "codigo_ibge": "4212239",
+  "esperanca_de_vida_ao_nascer": 73.5
+ },
+ {
+  "id": 561,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Paraíso",
+  "codigo_ibge": "4212239",
+  "esperanca_de_vida_ao_nascer": 75
+ },
+ {
+  "id": 562,
+  "ano": 1991,
+  "fecam": "Amesc",
+  "municipio": "Passo de Torres",
+  "codigo_ibge": "4212254",
+  "esperanca_de_vida_ao_nascer": 69.05
+ },
+ {
+  "id": 563,
+  "ano": 2000,
+  "fecam": "Amesc",
+  "municipio": "Passo de Torres",
+  "codigo_ibge": "4212254",
+  "esperanca_de_vida_ao_nascer": 73.4
+ },
+ {
+  "id": 564,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Passo de Torres",
+  "codigo_ibge": "4212254",
+  "esperanca_de_vida_ao_nascer": 77.13
+ },
+ {
+  "id": 565,
+  "ano": 1991,
+  "fecam": "Amai",
+  "municipio": "Passos Maia",
+  "codigo_ibge": "4212270",
+  "esperanca_de_vida_ao_nascer": 67.31
+ },
+ {
+  "id": 566,
+  "ano": 2000,
+  "fecam": "Amai",
+  "municipio": "Passos Maia",
+  "codigo_ibge": "4212270",
+  "esperanca_de_vida_ao_nascer": 70.36
+ },
+ {
+  "id": 567,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Passos Maia",
+  "codigo_ibge": "4212270",
+  "esperanca_de_vida_ao_nascer": 73.46
+ },
+ {
+  "id": 568,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "Paulo Lopes",
+  "codigo_ibge": "4212304",
+  "esperanca_de_vida_ao_nascer": 71.42
+ },
+ {
+  "id": 569,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "Paulo Lopes",
+  "codigo_ibge": "4212304",
+  "esperanca_de_vida_ao_nascer": 73.81
+ },
+ {
+  "id": 570,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Paulo Lopes",
+  "codigo_ibge": "4212304",
+  "esperanca_de_vida_ao_nascer": 76.91
+ },
+ {
+  "id": 571,
+  "ano": 1991,
+  "fecam": "Amurel",
+  "municipio": "Pedras Grandes",
+  "codigo_ibge": "4212403",
+  "esperanca_de_vida_ao_nascer": 70.42
+ },
+ {
+  "id": 572,
+  "ano": 2000,
+  "fecam": "Amurel",
+  "municipio": "Pedras Grandes",
+  "codigo_ibge": "4212403",
+  "esperanca_de_vida_ao_nascer": 74.42
+ },
+ {
+  "id": 573,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Pedras Grandes",
+  "codigo_ibge": "4212403",
+  "esperanca_de_vida_ao_nascer": 77.18
+ },
+ {
+  "id": 574,
+  "ano": 1991,
+  "fecam": "AMFRI",
+  "municipio": "Penha",
+  "codigo_ibge": "4212502",
+  "esperanca_de_vida_ao_nascer": 69.12
+ },
+ {
+  "id": 575,
+  "ano": 2000,
+  "fecam": "AMFRI",
+  "municipio": "Penha",
+  "codigo_ibge": "4212502",
+  "esperanca_de_vida_ao_nascer": 74
+ },
+ {
+  "id": 576,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Penha",
+  "codigo_ibge": "4212502",
+  "esperanca_de_vida_ao_nascer": 77.02
+ },
+ {
+  "id": 577,
+  "ano": 1991,
+  "fecam": "Amauc",
+  "municipio": "Peritiba",
+  "codigo_ibge": "4212601",
+  "esperanca_de_vida_ao_nascer": 69.88
+ },
+ {
+  "id": 578,
+  "ano": 2000,
+  "fecam": "Amauc",
+  "municipio": "Peritiba",
+  "codigo_ibge": "4212601",
+  "esperanca_de_vida_ao_nascer": 74.83
+ },
+ {
+  "id": 579,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Peritiba",
+  "codigo_ibge": "4212601",
+  "esperanca_de_vida_ao_nascer": 77.9
+ },
+ {
+  "id": 580,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Petrolândia",
+  "codigo_ibge": "4212700",
+  "esperanca_de_vida_ao_nascer": 68.01
+ },
+ {
+  "id": 581,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Petrolândia",
+  "codigo_ibge": "4212700",
+  "esperanca_de_vida_ao_nascer": 71.82
+ },
+ {
+  "id": 582,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Petrolândia",
+  "codigo_ibge": "4212700",
+  "esperanca_de_vida_ao_nascer": 73.1
+ },
+ {
+  "id": 583,
+  "ano": 1991,
+  "fecam": "Amosc",
+  "municipio": "Pinhalzinho",
+  "codigo_ibge": "4212908",
+  "esperanca_de_vida_ao_nascer": 72.26
+ },
+ {
+  "id": 584,
+  "ano": 2000,
+  "fecam": "Amosc",
+  "municipio": "Pinhalzinho",
+  "codigo_ibge": "4212908",
+  "esperanca_de_vida_ao_nascer": 75.36
+ },
+ {
+  "id": 585,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Pinhalzinho",
+  "codigo_ibge": "4212908",
+  "esperanca_de_vida_ao_nascer": 78.17
+ },
+ {
+  "id": 586,
+  "ano": 1991,
+  "fecam": "Amarp",
+  "municipio": "Pinheiro Preto",
+  "codigo_ibge": "4213005",
+  "esperanca_de_vida_ao_nascer": 69.26
+ },
+ {
+  "id": 587,
+  "ano": 2000,
+  "fecam": "Amarp",
+  "municipio": "Pinheiro Preto",
+  "codigo_ibge": "4213005",
+  "esperanca_de_vida_ao_nascer": 71.12
+ },
+ {
+  "id": 588,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Pinheiro Preto",
+  "codigo_ibge": "4213005",
+  "esperanca_de_vida_ao_nascer": 76.95
+ },
+ {
+  "id": 589,
+  "ano": 1991,
+  "fecam": "Amauc",
+  "municipio": "Piratuba",
+  "codigo_ibge": "4213104",
+  "esperanca_de_vida_ao_nascer": 70.48
+ },
+ {
+  "id": 590,
+  "ano": 2000,
+  "fecam": "Amauc",
+  "municipio": "Piratuba",
+  "codigo_ibge": "4213104",
+  "esperanca_de_vida_ao_nascer": 72.2
+ },
+ {
+  "id": 591,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Piratuba",
+  "codigo_ibge": "4213104",
+  "esperanca_de_vida_ao_nascer": 74.72
+ },
+ {
+  "id": 592,
+  "ano": 1991,
+  "fecam": "Amosc",
+  "municipio": "Planalto Alegre",
+  "codigo_ibge": "4213153",
+  "esperanca_de_vida_ao_nascer": 70.43
+ },
+ {
+  "id": 593,
+  "ano": 2000,
+  "fecam": "Amosc",
+  "municipio": "Planalto Alegre",
+  "codigo_ibge": "4213153",
+  "esperanca_de_vida_ao_nascer": 74.11
+ },
+ {
+  "id": 594,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Planalto Alegre",
+  "codigo_ibge": "4213153",
+  "esperanca_de_vida_ao_nascer": 77.87
+ },
+ {
+  "id": 595,
+  "ano": 1991,
+  "fecam": "AMVE",
+  "municipio": "Pomerode",
+  "codigo_ibge": "4213203",
+  "esperanca_de_vida_ao_nascer": 70.7
+ },
+ {
+  "id": 596,
+  "ano": 2000,
+  "fecam": "AMVE",
+  "municipio": "Pomerode",
+  "codigo_ibge": "4213203",
+  "esperanca_de_vida_ao_nascer": 75.03
+ },
+ {
+  "id": 597,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Pomerode",
+  "codigo_ibge": "4213203",
+  "esperanca_de_vida_ao_nascer": 78.14
+ },
+ {
+  "id": 598,
+  "ano": 1991,
+  "fecam": "Amures",
+  "municipio": "Ponte Alta",
+  "codigo_ibge": "4213302",
+  "esperanca_de_vida_ao_nascer": 64.73
+ },
+ {
+  "id": 599,
+  "ano": 2000,
+  "fecam": "Amures",
+  "municipio": "Ponte Alta",
+  "codigo_ibge": "4213302",
+  "esperanca_de_vida_ao_nascer": 69.59
+ },
+ {
+  "id": 600,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Ponte Alta",
+  "codigo_ibge": "4213302",
+  "esperanca_de_vida_ao_nascer": 73.23
+ },
+ {
+  "id": 601,
+  "ano": 1991,
+  "fecam": "Amurc",
+  "municipio": "Ponte Alta do Norte",
+  "codigo_ibge": "4213351",
+  "esperanca_de_vida_ao_nascer": 67.97
+ },
+ {
+  "id": 602,
+  "ano": 2000,
+  "fecam": "Amurc",
+  "municipio": "Ponte Alta do Norte",
+  "codigo_ibge": "4213351",
+  "esperanca_de_vida_ao_nascer": 69.99
+ },
+ {
+  "id": 603,
+  "ano": 2010,
+  "fecam": "Amurc",
+  "municipio": "Ponte Alta do Norte",
+  "codigo_ibge": "4213351",
+  "esperanca_de_vida_ao_nascer": 74.12
+ },
+ {
+  "id": 604,
+  "ano": 1991,
+  "fecam": "Amai",
+  "municipio": "Ponte Serrada",
+  "codigo_ibge": "4213401",
+  "esperanca_de_vida_ao_nascer": 67.31
+ },
+ {
+  "id": 605,
+  "ano": 2000,
+  "fecam": "Amai",
+  "municipio": "Ponte Serrada",
+  "codigo_ibge": "4213401",
+  "esperanca_de_vida_ao_nascer": 68.81
+ },
+ {
+  "id": 606,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Ponte Serrada",
+  "codigo_ibge": "4213401",
+  "esperanca_de_vida_ao_nascer": 72.4
+ },
+ {
+  "id": 607,
+  "ano": 1991,
+  "fecam": "AMFRI",
+  "municipio": "Porto Belo",
+  "codigo_ibge": "4213500",
+  "esperanca_de_vida_ao_nascer": 70.34
+ },
+ {
+  "id": 608,
+  "ano": 2000,
+  "fecam": "AMFRI",
+  "municipio": "Porto Belo",
+  "codigo_ibge": "4213500",
+  "esperanca_de_vida_ao_nascer": 73.09
+ },
+ {
+  "id": 609,
+  "ano": 2010,
+  "fecam": "AMFRI",
+  "municipio": "Porto Belo",
+  "codigo_ibge": "4213500",
+  "esperanca_de_vida_ao_nascer": 78.14
+ },
+ {
+  "id": 610,
+  "ano": 1991,
+  "fecam": "Amplanorte",
+  "municipio": "Porto União",
+  "codigo_ibge": "4213609",
+  "esperanca_de_vida_ao_nascer": 70.43
+ },
+ {
+  "id": 611,
+  "ano": 2000,
+  "fecam": "Amplanorte",
+  "municipio": "Porto União",
+  "codigo_ibge": "4213609",
+  "esperanca_de_vida_ao_nascer": 72.76
+ },
+ {
+  "id": 612,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "municipio": "Porto União",
+  "codigo_ibge": "4213609",
+  "esperanca_de_vida_ao_nascer": 78.43
+ },
+ {
+  "id": 613,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Pouso Redondo",
+  "codigo_ibge": "4213708",
+  "esperanca_de_vida_ao_nascer": 70.03
+ },
+ {
+  "id": 614,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Pouso Redondo",
+  "codigo_ibge": "4213708",
+  "esperanca_de_vida_ao_nascer": 73.84
+ },
+ {
+  "id": 615,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Pouso Redondo",
+  "codigo_ibge": "4213708",
+  "esperanca_de_vida_ao_nascer": 76.41
+ },
+ {
+  "id": 616,
+  "ano": 1991,
+  "fecam": "Amesc",
+  "municipio": "Praia Grande",
+  "codigo_ibge": "4213807",
+  "esperanca_de_vida_ao_nascer": 67.02
+ },
+ {
+  "id": 617,
+  "ano": 2000,
+  "fecam": "Amesc",
+  "municipio": "Praia Grande",
+  "codigo_ibge": "4213807",
+  "esperanca_de_vida_ao_nascer": 70.94
+ },
+ {
+  "id": 618,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Praia Grande",
+  "codigo_ibge": "4213807",
+  "esperanca_de_vida_ao_nascer": 75.39
+ },
+ {
+  "id": 619,
+  "ano": 1991,
+  "fecam": "Amauc",
+  "municipio": "Presidente Castello Branco",
+  "codigo_ibge": "4213906",
+  "esperanca_de_vida_ao_nascer": 70.48
+ },
+ {
+  "id": 620,
+  "ano": 2000,
+  "fecam": "Amauc",
+  "municipio": "Presidente Castello Branco",
+  "codigo_ibge": "4213906",
+  "esperanca_de_vida_ao_nascer": 74.72
+ },
+ {
+  "id": 621,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Presidente Castello Branco",
+  "codigo_ibge": "4213906",
+  "esperanca_de_vida_ao_nascer": 78
+ },
+ {
+  "id": 622,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Presidente Getúlio",
+  "codigo_ibge": "4214003",
+  "esperanca_de_vida_ao_nascer": 71.81
+ },
+ {
+  "id": 623,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Presidente Getúlio",
+  "codigo_ibge": "4214003",
+  "esperanca_de_vida_ao_nascer": 74.66
+ },
+ {
+  "id": 624,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Presidente Getúlio",
+  "codigo_ibge": "4214003",
+  "esperanca_de_vida_ao_nascer": 77.44
+ },
+ {
+  "id": 625,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Presidente Nereu",
+  "codigo_ibge": "4214102",
+  "esperanca_de_vida_ao_nascer": 71.82
+ },
+ {
+  "id": 626,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Presidente Nereu",
+  "codigo_ibge": "4214102",
+  "esperanca_de_vida_ao_nascer": 76.09
+ },
+ {
+  "id": 627,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Presidente Nereu",
+  "codigo_ibge": "4214102",
+  "esperanca_de_vida_ao_nascer": 76.64
+ },
+ {
+  "id": 628,
+  "ano": 1991,
+  "fecam": "Ameosc",
+  "municipio": "Princesa",
+  "codigo_ibge": "4214151",
+  "esperanca_de_vida_ao_nascer": 68.97
+ },
+ {
+  "id": 629,
+  "ano": 2000,
+  "fecam": "Ameosc",
+  "municipio": "Princesa",
+  "codigo_ibge": "4214151",
+  "esperanca_de_vida_ao_nascer": 71.92
+ },
+ {
+  "id": 630,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Princesa",
+  "codigo_ibge": "4214151",
+  "esperanca_de_vida_ao_nascer": 74.17
+ },
+ {
+  "id": 631,
+  "ano": 1991,
+  "fecam": "Amnoroeste",
+  "municipio": "Quilombo",
+  "codigo_ibge": "4214201",
+  "esperanca_de_vida_ao_nascer": 68.85
+ },
+ {
+  "id": 632,
+  "ano": 2000,
+  "fecam": "Amnoroeste",
+  "municipio": "Quilombo",
+  "codigo_ibge": "4214201",
+  "esperanca_de_vida_ao_nascer": 70.65
+ },
+ {
+  "id": 633,
+  "ano": 2010,
+  "fecam": "Amnoroeste",
+  "municipio": "Quilombo",
+  "codigo_ibge": "4214201",
+  "esperanca_de_vida_ao_nascer": 74.93
+ },
+ {
+  "id": 634,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "Rancho Queimado",
+  "codigo_ibge": "4214300",
+  "esperanca_de_vida_ao_nascer": 71.42
+ },
+ {
+  "id": 635,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "Rancho Queimado",
+  "codigo_ibge": "4214300",
+  "esperanca_de_vida_ao_nascer": 74.67
+ },
+ {
+  "id": 636,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Rancho Queimado",
+  "codigo_ibge": "4214300",
+  "esperanca_de_vida_ao_nascer": 78.59
+ },
+ {
+  "id": 637,
+  "ano": 1991,
+  "fecam": "Amarp",
+  "municipio": "Rio das Antas",
+  "codigo_ibge": "4214409",
+  "esperanca_de_vida_ao_nascer": 69.38
+ },
+ {
+  "id": 638,
+  "ano": 2000,
+  "fecam": "Amarp",
+  "municipio": "Rio das Antas",
+  "codigo_ibge": "4214409",
+  "esperanca_de_vida_ao_nascer": 72.1
+ },
+ {
+  "id": 639,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Rio das Antas",
+  "codigo_ibge": "4214409",
+  "esperanca_de_vida_ao_nascer": 74.2
+ },
+ {
+  "id": 640,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Rio do Campo",
+  "codigo_ibge": "4214508",
+  "esperanca_de_vida_ao_nascer": 68.01
+ },
+ {
+  "id": 641,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Rio do Campo",
+  "codigo_ibge": "4214508",
+  "esperanca_de_vida_ao_nascer": 70.43
+ },
+ {
+  "id": 642,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Rio do Campo",
+  "codigo_ibge": "4214508",
+  "esperanca_de_vida_ao_nascer": 73.18
+ },
+ {
+  "id": 643,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Rio do Oeste",
+  "codigo_ibge": "4214607",
+  "esperanca_de_vida_ao_nascer": 70.68
+ },
+ {
+  "id": 644,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Rio do Oeste",
+  "codigo_ibge": "4214607",
+  "esperanca_de_vida_ao_nascer": 74.23
+ },
+ {
+  "id": 645,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Rio do Oeste",
+  "codigo_ibge": "4214607",
+  "esperanca_de_vida_ao_nascer": 78.52
+ },
+ {
+  "id": 646,
+  "ano": 1991,
+  "fecam": "AMVE",
+  "municipio": "Rio dos Cedros",
+  "codigo_ibge": "4214706",
+  "esperanca_de_vida_ao_nascer": 68.24
+ },
+ {
+  "id": 647,
+  "ano": 2000,
+  "fecam": "AMVE",
+  "municipio": "Rio dos Cedros",
+  "codigo_ibge": "4214706",
+  "esperanca_de_vida_ao_nascer": 73.81
+ },
+ {
+  "id": 648,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Rio dos Cedros",
+  "codigo_ibge": "4214706",
+  "esperanca_de_vida_ao_nascer": 74.61
+ },
+ {
+  "id": 649,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Rio do Sul",
+  "codigo_ibge": "4214805",
+  "esperanca_de_vida_ao_nascer": 69.12
+ },
+ {
+  "id": 650,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Rio do Sul",
+  "codigo_ibge": "4214805",
+  "esperanca_de_vida_ao_nascer": 72.69
+ },
+ {
+  "id": 651,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Rio do Sul",
+  "codigo_ibge": "4214805",
+  "esperanca_de_vida_ao_nascer": 78.61
+ },
+ {
+  "id": 652,
+  "ano": 1991,
+  "fecam": "Amurel",
+  "municipio": "Rio Fortuna",
+  "codigo_ibge": "4214904",
+  "esperanca_de_vida_ao_nascer": 72.06
+ },
+ {
+  "id": 653,
+  "ano": 2000,
+  "fecam": "Amurel",
+  "municipio": "Rio Fortuna",
+  "codigo_ibge": "4214904",
+  "esperanca_de_vida_ao_nascer": 74.37
+ },
+ {
+  "id": 654,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Rio Fortuna",
+  "codigo_ibge": "4214904",
+  "esperanca_de_vida_ao_nascer": 75.98
+ },
+ {
+  "id": 655,
+  "ano": 1991,
+  "fecam": "Amunesc",
+  "municipio": "Rio Negrinho",
+  "codigo_ibge": "4215000",
+  "esperanca_de_vida_ao_nascer": 67.66
+ },
+ {
+  "id": 656,
+  "ano": 2000,
+  "fecam": "Amunesc",
+  "municipio": "Rio Negrinho",
+  "codigo_ibge": "4215000",
+  "esperanca_de_vida_ao_nascer": 71.61
+ },
+ {
+  "id": 657,
+  "ano": 2010,
+  "fecam": "Amunesc",
+  "municipio": "Rio Negrinho",
+  "codigo_ibge": "4215000",
+  "esperanca_de_vida_ao_nascer": 75.89
+ },
+ {
+  "id": 658,
+  "ano": 1991,
+  "fecam": "Amures",
+  "municipio": "Rio Rufino",
+  "codigo_ibge": "4215059",
+  "esperanca_de_vida_ao_nascer": 66.92
+ },
+ {
+  "id": 659,
+  "ano": 2000,
+  "fecam": "Amures",
+  "municipio": "Rio Rufino",
+  "codigo_ibge": "4215059",
+  "esperanca_de_vida_ao_nascer": 69.99
+ },
+ {
+  "id": 660,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Rio Rufino",
+  "codigo_ibge": "4215059",
+  "esperanca_de_vida_ao_nascer": 73.34
+ },
+ {
+  "id": 661,
+  "ano": 1991,
+  "fecam": "Amerios",
+  "municipio": "Riqueza",
+  "codigo_ibge": "4215075",
+  "esperanca_de_vida_ao_nascer": 69
+ },
+ {
+  "id": 662,
+  "ano": 2000,
+  "fecam": "Amerios",
+  "municipio": "Riqueza",
+  "codigo_ibge": "4215075",
+  "esperanca_de_vida_ao_nascer": 72.39
+ },
+ {
+  "id": 663,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Riqueza",
+  "codigo_ibge": "4215075",
+  "esperanca_de_vida_ao_nascer": 74.79
+ },
+ {
+  "id": 664,
+  "ano": 1991,
+  "fecam": "AMVE",
+  "municipio": "Rodeio",
+  "codigo_ibge": "4215109",
+  "esperanca_de_vida_ao_nascer": 71.31
+ },
+ {
+  "id": 665,
+  "ano": 2000,
+  "fecam": "AMVE",
+  "municipio": "Rodeio",
+  "codigo_ibge": "4215109",
+  "esperanca_de_vida_ao_nascer": 74.08
+ },
+ {
+  "id": 666,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Rodeio",
+  "codigo_ibge": "4215109",
+  "esperanca_de_vida_ao_nascer": 78.34
+ },
+ {
+  "id": 667,
+  "ano": 1991,
+  "fecam": "Amerios",
+  "municipio": "Romelândia",
+  "codigo_ibge": "4215208",
+  "esperanca_de_vida_ao_nascer": 67.58
+ },
+ {
+  "id": 668,
+  "ano": 2000,
+  "fecam": "Amerios",
+  "municipio": "Romelândia",
+  "codigo_ibge": "4215208",
+  "esperanca_de_vida_ao_nascer": 69.49
+ },
+ {
+  "id": 669,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Romelândia",
+  "codigo_ibge": "4215208",
+  "esperanca_de_vida_ao_nascer": 73.01
+ },
+ {
+  "id": 670,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Salete",
+  "codigo_ibge": "4215307",
+  "esperanca_de_vida_ao_nascer": 68.24
+ },
+ {
+  "id": 671,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Salete",
+  "codigo_ibge": "4215307",
+  "esperanca_de_vida_ao_nascer": 71.58
+ },
+ {
+  "id": 672,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Salete",
+  "codigo_ibge": "4215307",
+  "esperanca_de_vida_ao_nascer": 73.18
+ },
+ {
+  "id": 673,
+  "ano": 1991,
+  "fecam": "Amerios",
+  "municipio": "Saltinho",
+  "codigo_ibge": "4215356",
+  "esperanca_de_vida_ao_nascer": 67.23
+ },
+ {
+  "id": 674,
+  "ano": 2000,
+  "fecam": "Amerios",
+  "municipio": "Saltinho",
+  "codigo_ibge": "4215356",
+  "esperanca_de_vida_ao_nascer": 69.07
+ },
+ {
+  "id": 675,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Saltinho",
+  "codigo_ibge": "4215356",
+  "esperanca_de_vida_ao_nascer": 72.68
+ },
+ {
+  "id": 676,
+  "ano": 1991,
+  "fecam": "Amarp",
+  "municipio": "Salto Veloso",
+  "codigo_ibge": "4215406",
+  "esperanca_de_vida_ao_nascer": 69.05
+ },
+ {
+  "id": 677,
+  "ano": 2000,
+  "fecam": "Amarp",
+  "municipio": "Salto Veloso",
+  "codigo_ibge": "4215406",
+  "esperanca_de_vida_ao_nascer": 74.21
+ },
+ {
+  "id": 678,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Salto Veloso",
+  "codigo_ibge": "4215406",
+  "esperanca_de_vida_ao_nascer": 77.82
+ },
+ {
+  "id": 679,
+  "ano": 1991,
+  "fecam": "Amurel",
+  "municipio": "Sangão",
+  "codigo_ibge": "4215455",
+  "esperanca_de_vida_ao_nascer": 69.51
+ },
+ {
+  "id": 680,
+  "ano": 2000,
+  "fecam": "Amurel",
+  "municipio": "Sangão",
+  "codigo_ibge": "4215455",
+  "esperanca_de_vida_ao_nascer": 71.13
+ },
+ {
+  "id": 681,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Sangão",
+  "codigo_ibge": "4215455",
+  "esperanca_de_vida_ao_nascer": 76.16
+ },
+ {
+  "id": 682,
+  "ano": 1991,
+  "fecam": "Amurc",
+  "municipio": "Santa Cecília",
+  "codigo_ibge": "4215505",
+  "esperanca_de_vida_ao_nascer": 66.12
+ },
+ {
+  "id": 683,
+  "ano": 2000,
+  "fecam": "Amurc",
+  "municipio": "Santa Cecília",
+  "codigo_ibge": "4215505",
+  "esperanca_de_vida_ao_nascer": 69.59
+ },
+ {
+  "id": 684,
+  "ano": 2010,
+  "fecam": "Amurc",
+  "municipio": "Santa Cecília",
+  "codigo_ibge": "4215505",
+  "esperanca_de_vida_ao_nascer": 74.12
+ },
+ {
+  "id": 685,
+  "ano": 1991,
+  "fecam": "Ameosc",
+  "municipio": "Santa Helena",
+  "codigo_ibge": "4215554",
+  "esperanca_de_vida_ao_nascer": 70.89
+ },
+ {
+  "id": 686,
+  "ano": 2000,
+  "fecam": "Ameosc",
+  "municipio": "Santa Helena",
+  "codigo_ibge": "4215554",
+  "esperanca_de_vida_ao_nascer": 74.28
+ },
+ {
+  "id": 687,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Santa Helena",
+  "codigo_ibge": "4215554",
+  "esperanca_de_vida_ao_nascer": 74.99
+ },
+ {
+  "id": 688,
+  "ano": 1991,
+  "fecam": "Amurel",
+  "municipio": "Santa Rosa de Lima",
+  "codigo_ibge": "4215604",
+  "esperanca_de_vida_ao_nascer": 68.01
+ },
+ {
+  "id": 689,
+  "ano": 2000,
+  "fecam": "Amurel",
+  "municipio": "Santa Rosa de Lima",
+  "codigo_ibge": "4215604",
+  "esperanca_de_vida_ao_nascer": 69.63
+ },
+ {
+  "id": 690,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Santa Rosa de Lima",
+  "codigo_ibge": "4215604",
+  "esperanca_de_vida_ao_nascer": 75.55
+ },
+ {
+  "id": 691,
+  "ano": 1991,
+  "fecam": "Amesc",
+  "municipio": "Santa Rosa do Sul",
+  "codigo_ibge": "4215653",
+  "esperanca_de_vida_ao_nascer": 67.23
+ },
+ {
+  "id": 692,
+  "ano": 2000,
+  "fecam": "Amesc",
+  "municipio": "Santa Rosa do Sul",
+  "codigo_ibge": "4215653",
+  "esperanca_de_vida_ao_nascer": 70.34
+ },
+ {
+  "id": 693,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Santa Rosa do Sul",
+  "codigo_ibge": "4215653",
+  "esperanca_de_vida_ao_nascer": 73.38
+ },
+ {
+  "id": 694,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Santa Terezinha",
+  "codigo_ibge": "4215679",
+  "esperanca_de_vida_ao_nascer": 68.19
+ },
+ {
+  "id": 695,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Santa Terezinha",
+  "codigo_ibge": "4215679",
+  "esperanca_de_vida_ao_nascer": 70.86
+ },
+ {
+  "id": 696,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Santa Terezinha",
+  "codigo_ibge": "4215679",
+  "esperanca_de_vida_ao_nascer": 74.01
+ },
+ {
+  "id": 697,
+  "ano": 1991,
+  "fecam": "Amerios",
+  "municipio": "Santa Terezinha do Progresso",
+  "codigo_ibge": "4215687",
+  "esperanca_de_vida_ao_nascer": 67.38
+ },
+ {
+  "id": 698,
+  "ano": 2000,
+  "fecam": "Amerios",
+  "municipio": "Santa Terezinha do Progresso",
+  "codigo_ibge": "4215687",
+  "esperanca_de_vida_ao_nascer": 70.49
+ },
+ {
+  "id": 699,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Santa Terezinha do Progresso",
+  "codigo_ibge": "4215687",
+  "esperanca_de_vida_ao_nascer": 72.45
+ },
+ {
+  "id": 700,
+  "ano": 1991,
+  "fecam": "Amosc",
+  "municipio": "Santiago do Sul",
+  "codigo_ibge": "4215695",
+  "esperanca_de_vida_ao_nascer": 68.85
+ },
+ {
+  "id": 701,
+  "ano": 2000,
+  "fecam": "Amosc",
+  "municipio": "Santiago do Sul",
+  "codigo_ibge": "4215695",
+  "esperanca_de_vida_ao_nascer": 70.49
+ },
+ {
+  "id": 702,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Santiago do Sul",
+  "codigo_ibge": "4215695",
+  "esperanca_de_vida_ao_nascer": 73.68
+ },
+ {
+  "id": 703,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "Santo Amaro da Imperatriz",
+  "codigo_ibge": "4215703",
+  "esperanca_de_vida_ao_nascer": 71.5
+ },
+ {
+  "id": 704,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "Santo Amaro da Imperatriz",
+  "codigo_ibge": "4215703",
+  "esperanca_de_vida_ao_nascer": 74.81
+ },
+ {
+  "id": 705,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Santo Amaro da Imperatriz",
+  "codigo_ibge": "4215703",
+  "esperanca_de_vida_ao_nascer": 78.4
+ },
+ {
+  "id": 706,
+  "ano": 1991,
+  "fecam": "Amunesc",
+  "municipio": "São Bento do Sul",
+  "codigo_ibge": "4215802",
+  "esperanca_de_vida_ao_nascer": 72.46
+ },
+ {
+  "id": 707,
+  "ano": 2000,
+  "fecam": "Amunesc",
+  "municipio": "São Bento do Sul",
+  "codigo_ibge": "4215802",
+  "esperanca_de_vida_ao_nascer": 75.57
+ },
+ {
+  "id": 708,
+  "ano": 2010,
+  "fecam": "Amunesc",
+  "municipio": "São Bento do Sul",
+  "codigo_ibge": "4215802",
+  "esperanca_de_vida_ao_nascer": 77.25
+ },
+ {
+  "id": 709,
+  "ano": 1991,
+  "fecam": "Amnoroeste",
+  "municipio": "São Bernardino",
+  "codigo_ibge": "4215752",
+  "esperanca_de_vida_ao_nascer": 66.88
+ },
+ {
+  "id": 710,
+  "ano": 2000,
+  "fecam": "Amnoroeste",
+  "municipio": "São Bernardino",
+  "codigo_ibge": "4215752",
+  "esperanca_de_vida_ao_nascer": 69.83
+ },
+ {
+  "id": 711,
+  "ano": 2010,
+  "fecam": "Amnoroeste",
+  "municipio": "São Bernardino",
+  "codigo_ibge": "4215752",
+  "esperanca_de_vida_ao_nascer": 74.34
+ },
+ {
+  "id": 712,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "São Bonifácio",
+  "codigo_ibge": "4215901",
+  "esperanca_de_vida_ao_nascer": 71.42
+ },
+ {
+  "id": 713,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "São Bonifácio",
+  "codigo_ibge": "4215901",
+  "esperanca_de_vida_ao_nascer": 73.5
+ },
+ {
+  "id": 714,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "São Bonifácio",
+  "codigo_ibge": "4215901",
+  "esperanca_de_vida_ao_nascer": 76.61
+ },
+ {
+  "id": 715,
+  "ano": 1991,
+  "fecam": "Amosc",
+  "municipio": "São Carlos",
+  "codigo_ibge": "4216008",
+  "esperanca_de_vida_ao_nascer": 68.85
+ },
+ {
+  "id": 716,
+  "ano": 2000,
+  "fecam": "Amosc",
+  "municipio": "São Carlos",
+  "codigo_ibge": "4216008",
+  "esperanca_de_vida_ao_nascer": 73.92
+ },
+ {
+  "id": 717,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "São Carlos",
+  "codigo_ibge": "4216008",
+  "esperanca_de_vida_ao_nascer": 77.01
+ },
+ {
+  "id": 718,
+  "ano": 1991,
+  "fecam": "Amurc",
+  "municipio": "São Cristóvão do Sul",
+  "codigo_ibge": "4216057",
+  "esperanca_de_vida_ao_nascer": 67.66
+ },
+ {
+  "id": 719,
+  "ano": 2000,
+  "fecam": "Amurc",
+  "municipio": "São Cristóvão do Sul",
+  "codigo_ibge": "4216057",
+  "esperanca_de_vida_ao_nascer": 71.65
+ },
+ {
+  "id": 720,
+  "ano": 2010,
+  "fecam": "Amurc",
+  "municipio": "São Cristóvão do Sul",
+  "codigo_ibge": "4216057",
+  "esperanca_de_vida_ao_nascer": 73.74
+ },
+ {
+  "id": 721,
+  "ano": 1991,
+  "fecam": "Amai",
+  "municipio": "São Domingos",
+  "codigo_ibge": "4216107",
+  "esperanca_de_vida_ao_nascer": 70.67
+ },
+ {
+  "id": 722,
+  "ano": 2000,
+  "fecam": "Amai",
+  "municipio": "São Domingos",
+  "codigo_ibge": "4216107",
+  "esperanca_de_vida_ao_nascer": 72.32
+ },
+ {
+  "id": 723,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "São Domingos",
+  "codigo_ibge": "4216107",
+  "esperanca_de_vida_ao_nascer": 76.66
+ },
+ {
+  "id": 724,
+  "ano": 1991,
+  "fecam": "Amunesc",
+  "municipio": "São Francisco do Sul",
+  "codigo_ibge": "4216206",
+  "esperanca_de_vida_ao_nascer": 70.73
+ },
+ {
+  "id": 725,
+  "ano": 2000,
+  "fecam": "Amunesc",
+  "municipio": "São Francisco do Sul",
+  "codigo_ibge": "4216206",
+  "esperanca_de_vida_ao_nascer": 73.45
+ },
+ {
+  "id": 726,
+  "ano": 2010,
+  "fecam": "Amunesc",
+  "municipio": "São Francisco do Sul",
+  "codigo_ibge": "4216206",
+  "esperanca_de_vida_ao_nascer": 76.35
+ },
+ {
+  "id": 727,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "São João Batista",
+  "codigo_ibge": "4216305",
+  "esperanca_de_vida_ao_nascer": 71.2
+ },
+ {
+  "id": 728,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "São João Batista",
+  "codigo_ibge": "4216305",
+  "esperanca_de_vida_ao_nascer": 73.45
+ },
+ {
+  "id": 729,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "São João Batista",
+  "codigo_ibge": "4216305",
+  "esperanca_de_vida_ao_nascer": 76.9
+ },
+ {
+  "id": 730,
+  "ano": 1991,
+  "fecam": "AMVALI",
+  "municipio": "São João do Itaperiú",
+  "codigo_ibge": "4216354",
+  "esperanca_de_vida_ao_nascer": 71.89
+ },
+ {
+  "id": 731,
+  "ano": 2000,
+  "fecam": "AMVALI",
+  "municipio": "São João do Itaperiú",
+  "codigo_ibge": "4216354",
+  "esperanca_de_vida_ao_nascer": 74.13
+ },
+ {
+  "id": 732,
+  "ano": 2010,
+  "fecam": "AMVALI",
+  "municipio": "São João do Itaperiú",
+  "codigo_ibge": "4216354",
+  "esperanca_de_vida_ao_nascer": 77.37
+ },
+ {
+  "id": 733,
+  "ano": 1991,
+  "fecam": "Ameosc",
+  "municipio": "São João do Oeste",
+  "codigo_ibge": "4216255",
+  "esperanca_de_vida_ao_nascer": 69.8
+ },
+ {
+  "id": 734,
+  "ano": 2000,
+  "fecam": "Ameosc",
+  "municipio": "São João do Oeste",
+  "codigo_ibge": "4216255",
+  "esperanca_de_vida_ao_nascer": 73.54
+ },
+ {
+  "id": 735,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "São João do Oeste",
+  "codigo_ibge": "4216255",
+  "esperanca_de_vida_ao_nascer": 77.35
+ },
+ {
+  "id": 736,
+  "ano": 1991,
+  "fecam": "Amesc",
+  "municipio": "São João do Sul",
+  "codigo_ibge": "4216404",
+  "esperanca_de_vida_ao_nascer": 68.72
+ },
+ {
+  "id": 737,
+  "ano": 2000,
+  "fecam": "Amesc",
+  "municipio": "São João do Sul",
+  "codigo_ibge": "4216404",
+  "esperanca_de_vida_ao_nascer": 71.58
+ },
+ {
+  "id": 738,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "São João do Sul",
+  "codigo_ibge": "4216404",
+  "esperanca_de_vida_ao_nascer": 75.39
+ },
+ {
+  "id": 739,
+  "ano": 1991,
+  "fecam": "Amures",
+  "municipio": "São Joaquim",
+  "codigo_ibge": "4216503",
+  "esperanca_de_vida_ao_nascer": 67.43
+ },
+ {
+  "id": 740,
+  "ano": 2000,
+  "fecam": "Amures",
+  "municipio": "São Joaquim",
+  "codigo_ibge": "4216503",
+  "esperanca_de_vida_ao_nascer": 71.1
+ },
+ {
+  "id": 741,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "São Joaquim",
+  "codigo_ibge": "4216503",
+  "esperanca_de_vida_ao_nascer": 74.01
+ },
+ {
+  "id": 742,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "São José",
+  "codigo_ibge": "4216602",
+  "esperanca_de_vida_ao_nascer": 72.14
+ },
+ {
+  "id": 743,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "São José",
+  "codigo_ibge": "4216602",
+  "esperanca_de_vida_ao_nascer": 75.09
+ },
+ {
+  "id": 744,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "São José",
+  "codigo_ibge": "4216602",
+  "esperanca_de_vida_ao_nascer": 77.81
+ },
+ {
+  "id": 745,
+  "ano": 1991,
+  "fecam": "Ameosc",
+  "municipio": "São José do Cedro",
+  "codigo_ibge": "4216701",
+  "esperanca_de_vida_ao_nascer": 69.38
+ },
+ {
+  "id": 746,
+  "ano": 2000,
+  "fecam": "Ameosc",
+  "municipio": "São José do Cedro",
+  "codigo_ibge": "4216701",
+  "esperanca_de_vida_ao_nascer": 74.08
+ },
+ {
+  "id": 747,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "São José do Cedro",
+  "codigo_ibge": "4216701",
+  "esperanca_de_vida_ao_nascer": 74.79
+ },
+ {
+  "id": 748,
+  "ano": 1991,
+  "fecam": "Amures",
+  "municipio": "São José do Cerrito",
+  "codigo_ibge": "4216800",
+  "esperanca_de_vida_ao_nascer": 66.64
+ },
+ {
+  "id": 749,
+  "ano": 2000,
+  "fecam": "Amures",
+  "municipio": "São José do Cerrito",
+  "codigo_ibge": "4216800",
+  "esperanca_de_vida_ao_nascer": 68.89
+ },
+ {
+  "id": 750,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "São José do Cerrito",
+  "codigo_ibge": "4216800",
+  "esperanca_de_vida_ao_nascer": 74.61
+ },
+ {
+  "id": 751,
+  "ano": 1991,
+  "fecam": "Amnoroeste",
+  "municipio": "São Lourenço do Oeste",
+  "codigo_ibge": "4216909",
+  "esperanca_de_vida_ao_nascer": 70.34
+ },
+ {
+  "id": 752,
+  "ano": 2000,
+  "fecam": "Amnoroeste",
+  "municipio": "São Lourenço do Oeste",
+  "codigo_ibge": "4216909",
+  "esperanca_de_vida_ao_nascer": 72.68
+ },
+ {
+  "id": 753,
+  "ano": 2010,
+  "fecam": "Amnoroeste",
+  "municipio": "São Lourenço do Oeste",
+  "codigo_ibge": "4216909",
+  "esperanca_de_vida_ao_nascer": 73.43
+ },
+ {
+  "id": 754,
+  "ano": 1991,
+  "fecam": "Amurel",
+  "municipio": "São Ludgero",
+  "codigo_ibge": "4217006",
+  "esperanca_de_vida_ao_nascer": 70.05
+ },
+ {
+  "id": 755,
+  "ano": 2000,
+  "fecam": "Amurel",
+  "municipio": "São Ludgero",
+  "codigo_ibge": "4217006",
+  "esperanca_de_vida_ao_nascer": 72.53
+ },
+ {
+  "id": 756,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "São Ludgero",
+  "codigo_ibge": "4217006",
+  "esperanca_de_vida_ao_nascer": 75.01
+ },
+ {
+  "id": 757,
+  "ano": 1991,
+  "fecam": "Amurel",
+  "municipio": "São Martinho",
+  "codigo_ibge": "4217105",
+  "esperanca_de_vida_ao_nascer": 68.01
+ },
+ {
+  "id": 758,
+  "ano": 2000,
+  "fecam": "Amurel",
+  "municipio": "São Martinho",
+  "codigo_ibge": "4217105",
+  "esperanca_de_vida_ao_nascer": 69.63
+ },
+ {
+  "id": 759,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "São Martinho",
+  "codigo_ibge": "4217105",
+  "esperanca_de_vida_ao_nascer": 74.8
+ },
+ {
+  "id": 760,
+  "ano": 1991,
+  "fecam": "Amerios",
+  "municipio": "São Miguel da Boa Vista",
+  "codigo_ibge": "4217154",
+  "esperanca_de_vida_ao_nascer": 67.58
+ },
+ {
+  "id": 761,
+  "ano": 2000,
+  "fecam": "Amerios",
+  "municipio": "São Miguel da Boa Vista",
+  "codigo_ibge": "4217154",
+  "esperanca_de_vida_ao_nascer": 69.07
+ },
+ {
+  "id": 762,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "São Miguel da Boa Vista",
+  "codigo_ibge": "4217154",
+  "esperanca_de_vida_ao_nascer": 72.67
+ },
+ {
+  "id": 763,
+  "ano": 1991,
+  "fecam": "Ameosc",
+  "municipio": "São Miguel do Oeste",
+  "codigo_ibge": "4217204",
+  "esperanca_de_vida_ao_nascer": 72.46
+ },
+ {
+  "id": 764,
+  "ano": 2000,
+  "fecam": "Ameosc",
+  "municipio": "São Miguel do Oeste",
+  "codigo_ibge": "4217204",
+  "esperanca_de_vida_ao_nascer": 76.07
+ },
+ {
+  "id": 765,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "São Miguel do Oeste",
+  "codigo_ibge": "4217204",
+  "esperanca_de_vida_ao_nascer": 78.06
+ },
+ {
+  "id": 766,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "São Pedro de Alcântara",
+  "codigo_ibge": "4217253",
+  "esperanca_de_vida_ao_nascer": 70.43
+ },
+ {
+  "id": 767,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "São Pedro de Alcântara",
+  "codigo_ibge": "4217253",
+  "esperanca_de_vida_ao_nascer": 73.32
+ },
+ {
+  "id": 768,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "São Pedro de Alcântara",
+  "codigo_ibge": "4217253",
+  "esperanca_de_vida_ao_nascer": 75.77
+ },
+ {
+  "id": 769,
+  "ano": 1991,
+  "fecam": "Amerios",
+  "municipio": "Saudades",
+  "codigo_ibge": "4217303",
+  "esperanca_de_vida_ao_nascer": 69.6
+ },
+ {
+  "id": 770,
+  "ano": 2000,
+  "fecam": "Amerios",
+  "municipio": "Saudades",
+  "codigo_ibge": "4217303",
+  "esperanca_de_vida_ao_nascer": 74.22
+ },
+ {
+  "id": 771,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Saudades",
+  "codigo_ibge": "4217303",
+  "esperanca_de_vida_ao_nascer": 75.97
+ },
+ {
+  "id": 772,
+  "ano": 1991,
+  "fecam": "AMVALI",
+  "municipio": "Schroeder",
+  "codigo_ibge": "4217402",
+  "esperanca_de_vida_ao_nascer": 70.64
+ },
+ {
+  "id": 773,
+  "ano": 2000,
+  "fecam": "AMVALI",
+  "municipio": "Schroeder",
+  "codigo_ibge": "4217402",
+  "esperanca_de_vida_ao_nascer": 72.42
+ },
+ {
+  "id": 774,
+  "ano": 2010,
+  "fecam": "AMVALI",
+  "municipio": "Schroeder",
+  "codigo_ibge": "4217402",
+  "esperanca_de_vida_ao_nascer": 76.27
+ },
+ {
+  "id": 775,
+  "ano": 1991,
+  "fecam": "Amauc",
+  "municipio": "Seara",
+  "codigo_ibge": "4217501",
+  "esperanca_de_vida_ao_nascer": 70.48
+ },
+ {
+  "id": 776,
+  "ano": 2000,
+  "fecam": "Amauc",
+  "municipio": "Seara",
+  "codigo_ibge": "4217501",
+  "esperanca_de_vida_ao_nascer": 76.45
+ },
+ {
+  "id": 777,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Seara",
+  "codigo_ibge": "4217501",
+  "esperanca_de_vida_ao_nascer": 77.32
+ },
+ {
+  "id": 778,
+  "ano": 1991,
+  "fecam": "Amosc",
+  "municipio": "Serra Alta",
+  "codigo_ibge": "4217550",
+  "esperanca_de_vida_ao_nascer": 70.43
+ },
+ {
+  "id": 779,
+  "ano": 2000,
+  "fecam": "Amosc",
+  "municipio": "Serra Alta",
+  "codigo_ibge": "4217550",
+  "esperanca_de_vida_ao_nascer": 73.31
+ },
+ {
+  "id": 780,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Serra Alta",
+  "codigo_ibge": "4217550",
+  "esperanca_de_vida_ao_nascer": 77.72
+ },
+ {
+  "id": 781,
+  "ano": 1991,
+  "fecam": "Amrec",
+  "municipio": "Siderópolis",
+  "codigo_ibge": "4217600",
+  "esperanca_de_vida_ao_nascer": 69.31
+ },
+ {
+  "id": 782,
+  "ano": 2000,
+  "fecam": "Amrec",
+  "municipio": "Siderópolis",
+  "codigo_ibge": "4217600",
+  "esperanca_de_vida_ao_nascer": 72.08
+ },
+ {
+  "id": 783,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Siderópolis",
+  "codigo_ibge": "4217600",
+  "esperanca_de_vida_ao_nascer": 77.81
+ },
+ {
+  "id": 784,
+  "ano": 1991,
+  "fecam": "Amesc",
+  "municipio": "Sombrio",
+  "codigo_ibge": "4217709",
+  "esperanca_de_vida_ao_nascer": 71.02
+ },
+ {
+  "id": 785,
+  "ano": 2000,
+  "fecam": "Amesc",
+  "municipio": "Sombrio",
+  "codigo_ibge": "4217709",
+  "esperanca_de_vida_ao_nascer": 73.86
+ },
+ {
+  "id": 786,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Sombrio",
+  "codigo_ibge": "4217709",
+  "esperanca_de_vida_ao_nascer": 76.49
+ },
+ {
+  "id": 787,
+  "ano": 1991,
+  "fecam": "Amosc",
+  "municipio": "Sul Brasil",
+  "codigo_ibge": "4217758",
+  "esperanca_de_vida_ao_nascer": 69
+ },
+ {
+  "id": 788,
+  "ano": 2000,
+  "fecam": "Amosc",
+  "municipio": "Sul Brasil",
+  "codigo_ibge": "4217758",
+  "esperanca_de_vida_ao_nascer": 72.12
+ },
+ {
+  "id": 789,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "Sul Brasil",
+  "codigo_ibge": "4217758",
+  "esperanca_de_vida_ao_nascer": 74.89
+ },
+ {
+  "id": 790,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Taió",
+  "codigo_ibge": "4217808",
+  "esperanca_de_vida_ao_nascer": 69
+ },
+ {
+  "id": 791,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Taió",
+  "codigo_ibge": "4217808",
+  "esperanca_de_vida_ao_nascer": 74.92
+ },
+ {
+  "id": 792,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Taió",
+  "codigo_ibge": "4217808",
+  "esperanca_de_vida_ao_nascer": 77.71
+ },
+ {
+  "id": 793,
+  "ano": 1991,
+  "fecam": "Amarp",
+  "municipio": "Tangará",
+  "codigo_ibge": "4217907",
+  "esperanca_de_vida_ao_nascer": 70.49
+ },
+ {
+  "id": 794,
+  "ano": 2000,
+  "fecam": "Amarp",
+  "municipio": "Tangará",
+  "codigo_ibge": "4217907",
+  "esperanca_de_vida_ao_nascer": 73.55
+ },
+ {
+  "id": 795,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Tangará",
+  "codigo_ibge": "4217907",
+  "esperanca_de_vida_ao_nascer": 76.99
+ },
+ {
+  "id": 796,
+  "ano": 1991,
+  "fecam": "Amerios",
+  "municipio": "Tigrinhos",
+  "codigo_ibge": "4217956",
+  "esperanca_de_vida_ao_nascer": 67.38
+ },
+ {
+  "id": 797,
+  "ano": 2000,
+  "fecam": "Amerios",
+  "municipio": "Tigrinhos",
+  "codigo_ibge": "4217956",
+  "esperanca_de_vida_ao_nascer": 70.96
+ },
+ {
+  "id": 798,
+  "ano": 2010,
+  "fecam": "Amerios",
+  "municipio": "Tigrinhos",
+  "codigo_ibge": "4217956",
+  "esperanca_de_vida_ao_nascer": 75.76
+ },
+ {
+  "id": 799,
+  "ano": 1991,
+  "fecam": "Granfpolis",
+  "municipio": "Tijucas",
+  "codigo_ibge": "4218004",
+  "esperanca_de_vida_ao_nascer": 70.72
+ },
+ {
+  "id": 800,
+  "ano": 2000,
+  "fecam": "Granfpolis",
+  "municipio": "Tijucas",
+  "codigo_ibge": "4218004",
+  "esperanca_de_vida_ao_nascer": 72.75
+ },
+ {
+  "id": 801,
+  "ano": 2010,
+  "fecam": "Granfpolis",
+  "municipio": "Tijucas",
+  "codigo_ibge": "4218004",
+  "esperanca_de_vida_ao_nascer": 77.39
+ },
+ {
+  "id": 802,
+  "ano": 1991,
+  "fecam": "Amesc",
+  "municipio": "Timbé do Sul",
+  "codigo_ibge": "4218103",
+  "esperanca_de_vida_ao_nascer": 68.72
+ },
+ {
+  "id": 803,
+  "ano": 2000,
+  "fecam": "Amesc",
+  "municipio": "Timbé do Sul",
+  "codigo_ibge": "4218103",
+  "esperanca_de_vida_ao_nascer": 72.14
+ },
+ {
+  "id": 804,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Timbé do Sul",
+  "codigo_ibge": "4218103",
+  "esperanca_de_vida_ao_nascer": 76.33
+ },
+ {
+  "id": 805,
+  "ano": 1991,
+  "fecam": "AMVE",
+  "municipio": "Timbó",
+  "codigo_ibge": "4218202",
+  "esperanca_de_vida_ao_nascer": 70.7
+ },
+ {
+  "id": 806,
+  "ano": 2000,
+  "fecam": "AMVE",
+  "municipio": "Timbó",
+  "codigo_ibge": "4218202",
+  "esperanca_de_vida_ao_nascer": 73.5
+ },
+ {
+  "id": 807,
+  "ano": 2010,
+  "fecam": "AMVE",
+  "municipio": "Timbó",
+  "codigo_ibge": "4218202",
+  "esperanca_de_vida_ao_nascer": 76.36
+ },
+ {
+  "id": 808,
+  "ano": 1991,
+  "fecam": "Amarp",
+  "municipio": "Timbó Grande",
+  "codigo_ibge": "4218251",
+  "esperanca_de_vida_ao_nascer": 64.19
+ },
+ {
+  "id": 809,
+  "ano": 2000,
+  "fecam": "Amarp",
+  "municipio": "Timbó Grande",
+  "codigo_ibge": "4218251",
+  "esperanca_de_vida_ao_nascer": 68.11
+ },
+ {
+  "id": 810,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Timbó Grande",
+  "codigo_ibge": "4218251",
+  "esperanca_de_vida_ao_nascer": 72.88
+ },
+ {
+  "id": 811,
+  "ano": 1991,
+  "fecam": "Amplanorte",
+  "municipio": "Três Barras",
+  "codigo_ibge": "4218301",
+  "esperanca_de_vida_ao_nascer": 65.86
+ },
+ {
+  "id": 812,
+  "ano": 2000,
+  "fecam": "Amplanorte",
+  "municipio": "Três Barras",
+  "codigo_ibge": "4218301",
+  "esperanca_de_vida_ao_nascer": 70.52
+ },
+ {
+  "id": 813,
+  "ano": 2010,
+  "fecam": "Amplanorte",
+  "municipio": "Três Barras",
+  "codigo_ibge": "4218301",
+  "esperanca_de_vida_ao_nascer": 73.85
+ },
+ {
+  "id": 814,
+  "ano": 1991,
+  "fecam": "Amrec",
+  "municipio": "Treviso",
+  "codigo_ibge": "4218350",
+  "esperanca_de_vida_ao_nascer": 69.31
+ },
+ {
+  "id": 815,
+  "ano": 2000,
+  "fecam": "Amrec",
+  "municipio": "Treviso",
+  "codigo_ibge": "4218350",
+  "esperanca_de_vida_ao_nascer": 72.59
+ },
+ {
+  "id": 816,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Treviso",
+  "codigo_ibge": "4218350",
+  "esperanca_de_vida_ao_nascer": 77.94
+ },
+ {
+  "id": 817,
+  "ano": 1991,
+  "fecam": "Amurel",
+  "municipio": "Treze de Maio",
+  "codigo_ibge": "4218400",
+  "esperanca_de_vida_ao_nascer": 69.8
+ },
+ {
+  "id": 818,
+  "ano": 2000,
+  "fecam": "Amurel",
+  "municipio": "Treze de Maio",
+  "codigo_ibge": "4218400",
+  "esperanca_de_vida_ao_nascer": 73.21
+ },
+ {
+  "id": 819,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Treze de Maio",
+  "codigo_ibge": "4218400",
+  "esperanca_de_vida_ao_nascer": 77.83
+ },
+ {
+  "id": 820,
+  "ano": 1991,
+  "fecam": "Ammoc",
+  "municipio": "Treze Tílias",
+  "codigo_ibge": "4218509",
+  "esperanca_de_vida_ao_nascer": 70.34
+ },
+ {
+  "id": 821,
+  "ano": 2000,
+  "fecam": "Ammoc",
+  "municipio": "Treze Tílias",
+  "codigo_ibge": "4218509",
+  "esperanca_de_vida_ao_nascer": 73.86
+ },
+ {
+  "id": 822,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Treze Tílias",
+  "codigo_ibge": "4218509",
+  "esperanca_de_vida_ao_nascer": 77.43
+ },
+ {
+  "id": 823,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Trombudo Central",
+  "codigo_ibge": "4218608",
+  "esperanca_de_vida_ao_nascer": 71.82
+ },
+ {
+  "id": 824,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Trombudo Central",
+  "codigo_ibge": "4218608",
+  "esperanca_de_vida_ao_nascer": 73.8
+ },
+ {
+  "id": 825,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Trombudo Central",
+  "codigo_ibge": "4218608",
+  "esperanca_de_vida_ao_nascer": 77.77
+ },
+ {
+  "id": 826,
+  "ano": 1991,
+  "fecam": "Amurel",
+  "municipio": "Tubarão",
+  "codigo_ibge": "4218707",
+  "esperanca_de_vida_ao_nascer": 71.5
+ },
+ {
+  "id": 827,
+  "ano": 2000,
+  "fecam": "Amurel",
+  "municipio": "Tubarão",
+  "codigo_ibge": "4218707",
+  "esperanca_de_vida_ao_nascer": 75.59
+ },
+ {
+  "id": 828,
+  "ano": 2010,
+  "fecam": "Amurel",
+  "municipio": "Tubarão",
+  "codigo_ibge": "4218707",
+  "esperanca_de_vida_ao_nascer": 76.96
+ },
+ {
+  "id": 829,
+  "ano": 1991,
+  "fecam": "Ameosc",
+  "municipio": "Tunápolis",
+  "codigo_ibge": "4218756",
+  "esperanca_de_vida_ao_nascer": 69.6
+ },
+ {
+  "id": 830,
+  "ano": 2000,
+  "fecam": "Ameosc",
+  "municipio": "Tunápolis",
+  "codigo_ibge": "4218756",
+  "esperanca_de_vida_ao_nascer": 74.08
+ },
+ {
+  "id": 831,
+  "ano": 2010,
+  "fecam": "Ameosc",
+  "municipio": "Tunápolis",
+  "codigo_ibge": "4218756",
+  "esperanca_de_vida_ao_nascer": 74.79
+ },
+ {
+  "id": 832,
+  "ano": 1991,
+  "fecam": "Amesc",
+  "municipio": "Turvo",
+  "codigo_ibge": "4218806",
+  "esperanca_de_vida_ao_nascer": 69.97
+ },
+ {
+  "id": 833,
+  "ano": 2000,
+  "fecam": "Amesc",
+  "municipio": "Turvo",
+  "codigo_ibge": "4218806",
+  "esperanca_de_vida_ao_nascer": 75.55
+ },
+ {
+  "id": 834,
+  "ano": 2010,
+  "fecam": "Amesc",
+  "municipio": "Turvo",
+  "codigo_ibge": "4218806",
+  "esperanca_de_vida_ao_nascer": 77.01
+ },
+ {
+  "id": 835,
+  "ano": 1991,
+  "fecam": "Amosc",
+  "municipio": "União do Oeste",
+  "codigo_ibge": "4218855",
+  "esperanca_de_vida_ao_nascer": 67.23
+ },
+ {
+  "id": 836,
+  "ano": 2000,
+  "fecam": "Amosc",
+  "municipio": "União do Oeste",
+  "codigo_ibge": "4218855",
+  "esperanca_de_vida_ao_nascer": 69.37
+ },
+ {
+  "id": 837,
+  "ano": 2010,
+  "fecam": "Amosc",
+  "municipio": "União do Oeste",
+  "codigo_ibge": "4218855",
+  "esperanca_de_vida_ao_nascer": 74.37
+ },
+ {
+  "id": 838,
+  "ano": 1991,
+  "fecam": "Amures",
+  "municipio": "Urubici",
+  "codigo_ibge": "4218905",
+  "esperanca_de_vida_ao_nascer": 69.51
+ },
+ {
+  "id": 839,
+  "ano": 2000,
+  "fecam": "Amures",
+  "municipio": "Urubici",
+  "codigo_ibge": "4218905",
+  "esperanca_de_vida_ao_nascer": 72.19
+ },
+ {
+  "id": 840,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Urubici",
+  "codigo_ibge": "4218905",
+  "esperanca_de_vida_ao_nascer": 74.4
+ },
+ {
+  "id": 841,
+  "ano": 1991,
+  "fecam": "Amures",
+  "municipio": "Urupema",
+  "codigo_ibge": "4218954",
+  "esperanca_de_vida_ao_nascer": 69.51
+ },
+ {
+  "id": 842,
+  "ano": 2000,
+  "fecam": "Amures",
+  "municipio": "Urupema",
+  "codigo_ibge": "4218954",
+  "esperanca_de_vida_ao_nascer": 71.55
+ },
+ {
+  "id": 843,
+  "ano": 2010,
+  "fecam": "Amures",
+  "municipio": "Urupema",
+  "codigo_ibge": "4218954",
+  "esperanca_de_vida_ao_nascer": 74.4
+ },
+ {
+  "id": 844,
+  "ano": 1991,
+  "fecam": "Amrec",
+  "municipio": "Urussanga",
+  "codigo_ibge": "4219002",
+  "esperanca_de_vida_ao_nascer": 73
+ },
+ {
+  "id": 845,
+  "ano": 2000,
+  "fecam": "Amrec",
+  "municipio": "Urussanga",
+  "codigo_ibge": "4219002",
+  "esperanca_de_vida_ao_nascer": 76.49
+ },
+ {
+  "id": 846,
+  "ano": 2010,
+  "fecam": "Amrec",
+  "municipio": "Urussanga",
+  "codigo_ibge": "4219002",
+  "esperanca_de_vida_ao_nascer": 77.54
+ },
+ {
+  "id": 847,
+  "ano": 1991,
+  "fecam": "Amai",
+  "municipio": "Vargeão",
+  "codigo_ibge": "4219101",
+  "esperanca_de_vida_ao_nascer": 68.97
+ },
+ {
+  "id": 848,
+  "ano": 2000,
+  "fecam": "Amai",
+  "municipio": "Vargeão",
+  "codigo_ibge": "4219101",
+  "esperanca_de_vida_ao_nascer": 71.53
+ },
+ {
+  "id": 849,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Vargeão",
+  "codigo_ibge": "4219101",
+  "esperanca_de_vida_ao_nascer": 74.59
+ },
+ {
+  "id": 850,
+  "ano": 1991,
+  "fecam": "Amplasc",
+  "municipio": "Vargem",
+  "codigo_ibge": "4219150",
+  "esperanca_de_vida_ao_nascer": 67.57
+ },
+ {
+  "id": 851,
+  "ano": 2000,
+  "fecam": "Amplasc",
+  "municipio": "Vargem",
+  "codigo_ibge": "4219150",
+  "esperanca_de_vida_ao_nascer": 71.32
+ },
+ {
+  "id": 852,
+  "ano": 2010,
+  "fecam": "Amplasc",
+  "municipio": "Vargem",
+  "codigo_ibge": "4219150",
+  "esperanca_de_vida_ao_nascer": 72.42
+ },
+ {
+  "id": 853,
+  "ano": 1991,
+  "fecam": "Ammoc",
+  "municipio": "Vargem Bonita",
+  "codigo_ibge": "4219176",
+  "esperanca_de_vida_ao_nascer": 67.58
+ },
+ {
+  "id": 854,
+  "ano": 2000,
+  "fecam": "Ammoc",
+  "municipio": "Vargem Bonita",
+  "codigo_ibge": "4219176",
+  "esperanca_de_vida_ao_nascer": 71.31
+ },
+ {
+  "id": 855,
+  "ano": 2010,
+  "fecam": "Ammoc",
+  "municipio": "Vargem Bonita",
+  "codigo_ibge": "4219176",
+  "esperanca_de_vida_ao_nascer": 73.06
+ },
+ {
+  "id": 856,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Vidal Ramos",
+  "codigo_ibge": "4219200",
+  "esperanca_de_vida_ao_nascer": 69.12
+ },
+ {
+  "id": 857,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Vidal Ramos",
+  "codigo_ibge": "4219200",
+  "esperanca_de_vida_ao_nascer": 71.82
+ },
+ {
+  "id": 858,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Vidal Ramos",
+  "codigo_ibge": "4219200",
+  "esperanca_de_vida_ao_nascer": 73.1
+ },
+ {
+  "id": 859,
+  "ano": 1991,
+  "fecam": "Amarp",
+  "municipio": "Videira",
+  "codigo_ibge": "4219309",
+  "esperanca_de_vida_ao_nascer": 72.58
+ },
+ {
+  "id": 860,
+  "ano": 2000,
+  "fecam": "Amarp",
+  "municipio": "Videira",
+  "codigo_ibge": "4219309",
+  "esperanca_de_vida_ao_nascer": 75.11
+ },
+ {
+  "id": 861,
+  "ano": 2010,
+  "fecam": "Amarp",
+  "municipio": "Videira",
+  "codigo_ibge": "4219309",
+  "esperanca_de_vida_ao_nascer": 76.42
+ },
+ {
+  "id": 862,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Vitor Meireles",
+  "codigo_ibge": "4219358",
+  "esperanca_de_vida_ao_nascer": 67.71
+ },
+ {
+  "id": 863,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Vitor Meireles",
+  "codigo_ibge": "4219358",
+  "esperanca_de_vida_ao_nascer": 70.19
+ },
+ {
+  "id": 864,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Vitor Meireles",
+  "codigo_ibge": "4219358",
+  "esperanca_de_vida_ao_nascer": 75.44
+ },
+ {
+  "id": 865,
+  "ano": 1991,
+  "fecam": "Amavi",
+  "municipio": "Witmarsum",
+  "codigo_ibge": "4219408",
+  "esperanca_de_vida_ao_nascer": 70.65
+ },
+ {
+  "id": 866,
+  "ano": 2000,
+  "fecam": "Amavi",
+  "municipio": "Witmarsum",
+  "codigo_ibge": "4219408",
+  "esperanca_de_vida_ao_nascer": 73.41
+ },
+ {
+  "id": 867,
+  "ano": 2010,
+  "fecam": "Amavi",
+  "municipio": "Witmarsum",
+  "codigo_ibge": "4219408",
+  "esperanca_de_vida_ao_nascer": 77.18
+ },
+ {
+  "id": 868,
+  "ano": 1991,
+  "fecam": "Amai",
+  "municipio": "Xanxerê",
+  "codigo_ibge": "4219507",
+  "esperanca_de_vida_ao_nascer": 68.65
+ },
+ {
+  "id": 869,
+  "ano": 2000,
+  "fecam": "Amai",
+  "municipio": "Xanxerê",
+  "codigo_ibge": "4219507",
+  "esperanca_de_vida_ao_nascer": 73.48
+ },
+ {
+  "id": 870,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Xanxerê",
+  "codigo_ibge": "4219507",
+  "esperanca_de_vida_ao_nascer": 76.67
+ },
+ {
+  "id": 871,
+  "ano": 1991,
+  "fecam": "Amauc",
+  "municipio": "Xavantina",
+  "codigo_ibge": "4219606",
+  "esperanca_de_vida_ao_nascer": 70.48
+ },
+ {
+  "id": 872,
+  "ano": 2000,
+  "fecam": "Amauc",
+  "municipio": "Xavantina",
+  "codigo_ibge": "4219606",
+  "esperanca_de_vida_ao_nascer": 75
+ },
+ {
+  "id": 873,
+  "ano": 2010,
+  "fecam": "Amauc",
+  "municipio": "Xavantina",
+  "codigo_ibge": "4219606",
+  "esperanca_de_vida_ao_nascer": 76.63
+ },
+ {
+  "id": 874,
+  "ano": 1991,
+  "fecam": "Amai",
+  "municipio": "Xaxim",
+  "codigo_ibge": "4219705",
+  "esperanca_de_vida_ao_nascer": 69.63
+ },
+ {
+  "id": 875,
+  "ano": 2000,
+  "fecam": "Amai",
+  "municipio": "Xaxim",
+  "codigo_ibge": "4219705",
+  "esperanca_de_vida_ao_nascer": 72.44
+ },
+ {
+  "id": 876,
+  "ano": 2010,
+  "fecam": "Amai",
+  "municipio": "Xaxim",
+  "codigo_ibge": "4219705",
+  "esperanca_de_vida_ao_nascer": 77.23
+ },
+ {
+  "id": 877,
+  "ano": 1991,
+  "fecam": "Amplasc",
+  "municipio": "Zortéa",
+  "codigo_ibge": "4219853",
+  "esperanca_de_vida_ao_nascer": 71.07
+ },
+ {
+  "id": 878,
+  "ano": 2000,
+  "fecam": "Amplasc",
+  "municipio": "Zortéa",
+  "codigo_ibge": "4219853",
+  "esperanca_de_vida_ao_nascer": 76.65
+ },
+ {
+  "id": 879,
+  "ano": 2010,
+  "fecam": "Amplasc",
+  "municipio": "Zortéa",
+  "codigo_ibge": "4219853",
+  "esperanca_de_vida_ao_nascer": 78.07
+ }
+]

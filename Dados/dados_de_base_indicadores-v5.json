@@ -311,7 +311,8 @@
     "link_da_fonte_publico": "ftp://ftp.mtps.gov.br/pdet/microdados/",
     "link_da_fonte_publico_2": "https://www.gov.br/trabalho-e-emprego/pt-br",
     "tabela_databricks": "avancasc.emprego_renda_ouro.id_stem_emprego_formal",
-    "link_do_arquivo_json": "tabelas_bi/avancasc.emprego_renda_ouro.id_stem_emprego_formal.json"
+    "link_do_arquivo_json": "tabelas_bi/avancasc.emprego_renda_ouro.id_stem_emprego_formal.json",
+    "coluna_do_valor": "stem_por_100_trabalhadores"
   },
   {
     "id": 23,
@@ -381,7 +382,8 @@
     "link_da_fonte_publico": "ftp://ftp.mtps.gov.br/pdet/microdados/RAIS/",
     "link_da_fonte_publico_2": "https://www.gov.br/trabalho-e-emprego/pt-br",
     "tabela_databricks": "emprego_renda_hab_asssoc.gold.tl_fecam_qtd_vinculos_ativos_municipal",
-    "link_do_arquivo_json": "tabelas_bi/emprego_renda_hab_asssoc.gold.tl_fecam_qtd_vinculos_ativos_municipal.json"
+    "link_do_arquivo_json": "tabelas_bi/emprego_renda_hab_asssoc.gold.tl_fecam_qtd_vinculos_ativos_municipal.json",
+    "coluna_do_valor": "qtd_vinculos_ativos"
   },
   {
     "id": 28,
@@ -549,7 +551,8 @@
     "link_da_fonte_publico": "ftp://ftp.mtps.gov.br/pdet/microdados/RAIS/",
     "link_da_fonte_publico_2": "https://www.gov.br/trabalho-e-emprego/pt-br",
     "tabela_databricks": "emprego_renda_hab_asssoc.gold.tl__rendimento_medio_por_fecam",
-    "link_do_arquivo_json": "tabelas_bi/emprego_renda_hab_asssoc.gold.tl__rendimento_medio_por_fecam.json"
+    "link_do_arquivo_json": "tabelas_bi/emprego_renda_hab_asssoc.gold.tl__rendimento_medio_por_fecam.json",
+    "coluna_do_valor": "vl_remun_medio"
   },
   {
     "id": 40,
@@ -661,7 +664,8 @@
     "link_da_fonte_publico": "Elaboração própria com base nos dados de Datasus/SIM/SI",
     "link_da_fonte_publico_2": "https://datasus.saude.gov.br",
     "tabela_databricks": "saude.gold.tl_tmi_total",
-    "link_do_arquivo_json": "tabelas_bi/saude.gold.tl_tmi_total.json"
+    "link_do_arquivo_json": "tabelas_bi/saude.gold.tl_tmi_total.json",
+    "coluna_do_valor": "tmi"
   },
   {
     "id": 48,

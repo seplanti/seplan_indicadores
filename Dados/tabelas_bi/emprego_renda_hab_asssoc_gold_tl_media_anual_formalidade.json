@@ -1,0 +1,102 @@
+[
+ {
+  "id": 1,
+  "ano": 2015,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 73.8,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_mais": null,
+  "intervalo_de_confianca_menos": null
+ },
+ {
+  "id": 2,
+  "ano": 2016,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 73.05,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_mais": null,
+  "intervalo_de_confianca_menos": null
+ },
+ {
+  "id": 3,
+  "ano": 2017,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 72.575,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_mais": null,
+  "intervalo_de_confianca_menos": null
+ },
+ {
+  "id": 4,
+  "ano": 2018,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 72.775,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_mais": null,
+  "intervalo_de_confianca_menos": null
+ },
+ {
+  "id": 5,
+  "ano": 2019,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 73.3,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_mais": null,
+  "intervalo_de_confianca_menos": null
+ },
+ {
+  "id": 6,
+  "ano": 2020,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 73.975,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_mais": null,
+  "intervalo_de_confianca_menos": null
+ },
+ {
+  "id": 7,
+  "ano": 2021,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 73.475,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_mais": null,
+  "intervalo_de_confianca_menos": null
+ },
+ {
+  "id": 8,
+  "ano": 2022,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 73.325,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_mais": null,
+  "intervalo_de_confianca_menos": null
+ },
+ {
+  "id": 9,
+  "ano": 2023,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 73.225,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_mais": null,
+  "intervalo_de_confianca_menos": null
+ },
+ {
+  "id": 10,
+  "ano": 2024,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 73.275,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_mais": null,
+  "intervalo_de_confianca_menos": null
+ }
+]

@@ -188,6 +188,52 @@ class TestImportacao(unittest.TestCase):
             with self.assertRaises(ValueError):
                 importar_csv(raiz / "dados.csv", raiz / "saida.json", raiz / "municipios.json")
 
+    def test_importar_csv_por_fecam_com_comparacoes(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            raiz = Path(tmp)
+            (raiz / "municipios.json").write_text(json.dumps(
+                [{"codigo_ibge": "4200051", "municipio": "Abdon Batista", "fecam": "Amnoroeste"}]), encoding="utf-8")
+            (raiz / "dados.csv").write_text(
+                "fecam,valor\nBrasil,25.2\nParaná,34.3\nSanta Catarina,27.5\nAMONOROESTE,37.5\n", encoding="utf-8")
+            registros = importar_csv(raiz / "dados.csv", raiz / "saida.json", raiz / "municipios.json", ano=2020).registros
+            self.assertEqual([(r["fecam"], r["abrangencia"]) for r in registros],
+                             [("Amnoroeste", "FECAM"), ("SC", "Estado"), ("Paraná", "UF"), ("Brasil", "País")])
+            estat = TabelaDados(registros).estatisticas()
+            self.assertEqual((estat.total, estat.media, estat.valor_estado), (1, 37.5, 27.5))
+
+    def test_importar_csv_com_codigo_de_6_digitos(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            raiz = Path(tmp)
+            (raiz / "municipios.json").write_text(json.dumps(
+                [{"codigo_ibge": "4202404", "municipio": "Blumenau", "fecam": "AMVE"}]), encoding="utf-8")
+            (raiz / "dados.csv").write_text(
+                "id_municipio,municipio,fecam,ano,total_stem\n420240,BLUMENAU,AMVE,2010,3277\n", encoding="utf-8")
+            registros = importar_csv(raiz / "dados.csv", raiz / "saida.json", raiz / "municipios.json").registros
+            self.assertEqual(registros, [{"id": 1, "ano": 2010, "fecam": "AMVE", "municipio": "Blumenau",
+                                          "codigo_ibge": "4202404", "total_stem": 3277}])
+
+    def test_importar_csv_com_nome_na_coluna_municipio(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            raiz = Path(tmp)
+            (raiz / "municipios.json").write_text(json.dumps(
+                [{"codigo_ibge": "4202404", "municipio": "Blumenau", "fecam": "AMVE"}]), encoding="utf-8")
+            (raiz / "dados.csv").write_text(
+                "ano,fecam,municipio,cod__municipio,remun\n2010,AMVE,Blumenau,4202404,2891.25\n", encoding="utf-8")
+            registros = importar_csv(raiz / "dados.csv", raiz / "saida.json", raiz / "municipios.json").registros
+            self.assertEqual(registros, [{"id": 1, "ano": 2010, "fecam": "AMVE", "municipio": "Blumenau",
+                                          "codigo_ibge": "4202404", "remun": 2891.25}])
+
+    def test_importar_csv_com_colunas_por_ano(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            raiz = Path(tmp)
+            (raiz / "municipios.json").write_text(json.dumps(
+                [{"codigo_ibge": "4200051", "municipio": "Abdon Batista", "fecam": "Amplasc"}]), encoding="utf-8")
+            (raiz / "dados.csv").write_text(
+                "codigo,espacialidades,vida_2010,vida_2000\n4200051,Abdon Batista,73.74,69.99\n", encoding="utf-8")
+            registros = importar_csv(raiz / "dados.csv", raiz / "saida.json", raiz / "municipios.json",
+                                     colunas_por_ano=True, descartar=["espacialidades"]).registros
+            self.assertEqual([(r["ano"], r["vida"]) for r in registros], [(2000, 69.99), (2010, 73.74)])
+
     def test_normalizar_codigo(self):
         self.assertEqual(normalizar_codigo("4209508.0"), "4209508")
         self.assertIsNone(normalizar_codigo("NULL"))

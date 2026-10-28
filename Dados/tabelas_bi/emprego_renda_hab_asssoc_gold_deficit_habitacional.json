@@ -1,0 +1,2657 @@
+[
+ {
+  "id": 1,
+  "fecam": "Amurel",
+  "municipio": "Rio Fortuna",
+  "codigo_ibge": "4214904",
+  "total_deficit": 100,
+  "total_domicilios": 1582,
+  "percentual_deficit": 0.0632111251580278
+ },
+ {
+  "id": 2,
+  "fecam": "Amarp",
+  "municipio": "Calmon",
+  "codigo_ibge": "4203154",
+  "total_deficit": 60,
+  "total_domicilios": 1127,
+  "percentual_deficit": 0.05323868677905945
+ },
+ {
+  "id": 3,
+  "fecam": "Amai",
+  "municipio": "Ipuaçu",
+  "codigo_ibge": "4207684",
+  "total_deficit": 133,
+  "total_domicilios": 2528,
+  "percentual_deficit": 0.05261075949367089
+ },
+ {
+  "id": 4,
+  "fecam": "AMFRI",
+  "municipio": "Navegantes",
+  "codigo_ibge": "4211306",
+  "total_deficit": 1370,
+  "total_domicilios": 29442,
+  "percentual_deficit": 0.04653216493444739
+ },
+ {
+  "id": 5,
+  "fecam": "Amavi",
+  "municipio": "José Boiteux",
+  "codigo_ibge": "4209151",
+  "total_deficit": 87,
+  "total_domicilios": 1871,
+  "percentual_deficit": 0.046499198289684664
+ },
+ {
+  "id": 6,
+  "fecam": "Amarp",
+  "municipio": "Matos Costa",
+  "codigo_ibge": "4210704",
+  "total_deficit": 43,
+  "total_domicilios": 964,
+  "percentual_deficit": 0.044605809128630707
+ },
+ {
+  "id": 7,
+  "fecam": "Amplanorte",
+  "municipio": "Três Barras",
+  "codigo_ibge": "4218301",
+  "total_deficit": 286,
+  "total_domicilios": 6573,
+  "percentual_deficit": 0.04351133424615853
+ },
+ {
+  "id": 8,
+  "fecam": "Amunesc",
+  "municipio": "Araquari",
+  "codigo_ibge": "4201307",
+  "total_deficit": 623,
+  "total_domicilios": 15020,
+  "percentual_deficit": 0.0414780292942743
+ },
+ {
+  "id": 9,
+  "fecam": "Amarp",
+  "municipio": "Lebon Régis",
+  "codigo_ibge": "4209706",
+  "total_deficit": 158,
+  "total_domicilios": 3873,
+  "percentual_deficit": 0.040795249160857215
+ },
+ {
+  "id": 10,
+  "fecam": "Amurel",
+  "municipio": "Sangão",
+  "codigo_ibge": "4215455",
+  "total_deficit": 157,
+  "total_domicilios": 4251,
+  "percentual_deficit": 0.03693248647377088
+ },
+ {
+  "id": 11,
+  "fecam": "Amunesc",
+  "municipio": "Garuva",
+  "codigo_ibge": "4205803",
+  "total_deficit": 228,
+  "total_domicilios": 6213,
+  "percentual_deficit": 0.03669724770642202
+ },
+ {
+  "id": 12,
+  "fecam": "Amarp",
+  "municipio": "Timbó Grande",
+  "codigo_ibge": "4218251",
+  "total_deficit": 89,
+  "total_domicilios": 2520,
+  "percentual_deficit": 0.03531746031746032
+ },
+ {
+  "id": 13,
+  "fecam": "Amai",
+  "municipio": "Marema",
+  "codigo_ibge": "4210555",
+  "total_deficit": 26,
+  "total_domicilios": 742,
+  "percentual_deficit": 0.03504043126684636
+ },
+ {
+  "id": 14,
+  "fecam": "Amavi",
+  "municipio": "Dona Emma",
+  "codigo_ibge": "4205100",
+  "total_deficit": 50,
+  "total_domicilios": 1455,
+  "percentual_deficit": 0.03436426116838488
+ },
+ {
+  "id": 15,
+  "fecam": "Amarp",
+  "municipio": "Caçador",
+  "codigo_ibge": "4203006",
+  "total_deficit": 896,
+  "total_domicilios": 26331,
+  "percentual_deficit": 0.034028331624321145
+ },
+ {
+  "id": 16,
+  "fecam": "Amai",
+  "municipio": "Passos Maia",
+  "codigo_ibge": "4212270",
+  "total_deficit": 45,
+  "total_domicilios": 1336,
+  "percentual_deficit": 0.033682634730538924
+ },
+ {
+  "id": 17,
+  "fecam": "AMVALI",
+  "municipio": "Barra Velha",
+  "codigo_ibge": "4202107",
+  "total_deficit": 544,
+  "total_domicilios": 16156,
+  "percentual_deficit": 0.03367170091606833
+ },
+ {
+  "id": 18,
+  "fecam": "Amplasc",
+  "municipio": "Monte Carlo",
+  "codigo_ibge": "4211058",
+  "total_deficit": 106,
+  "total_domicilios": 3167,
+  "percentual_deficit": 0.03347016103568046
+ },
+ {
+  "id": 19,
+  "fecam": "AMVALI",
+  "municipio": "São João do Itaperiú",
+  "codigo_ibge": "4216354",
+  "total_deficit": 49,
+  "total_domicilios": 1490,
+  "percentual_deficit": 0.032885906040268455
+ },
+ {
+  "id": 20,
+  "fecam": "Amplanorte",
+  "municipio": "Monte Castelo",
+  "codigo_ibge": "4211108",
+  "total_deficit": 88,
+  "total_domicilios": 2676,
+  "percentual_deficit": 0.03288490284005979
+ },
+ {
+  "id": 21,
+  "fecam": "AMFRI",
+  "municipio": "Camboriú",
+  "codigo_ibge": "4203204",
+  "total_deficit": 1199,
+  "total_domicilios": 36483,
+  "percentual_deficit": 0.03286462187868322
+ },
+ {
+  "id": 22,
+  "fecam": "Amai",
+  "municipio": "Lajeado Grande",
+  "codigo_ibge": "4209458",
+  "total_deficit": 19,
+  "total_domicilios": 584,
+  "percentual_deficit": 0.032534246575342464
+ },
+ {
+  "id": 23,
+  "fecam": "Amavi",
+  "municipio": "Presidente Getúlio",
+  "codigo_ibge": "4214003",
+  "total_deficit": 227,
+  "total_domicilios": 7008,
+  "percentual_deficit": 0.032391552511415525
+ },
+ {
+  "id": 24,
+  "fecam": "Amai",
+  "municipio": "Abelardo Luz",
+  "codigo_ibge": "4200101",
+  "total_deficit": 193,
+  "total_domicilios": 6016,
+  "percentual_deficit": 0.0320811170212766
+ },
+ {
+  "id": 25,
+  "fecam": "AMFRI",
+  "municipio": "Itajaí",
+  "codigo_ibge": "4208203",
+  "total_deficit": 2986,
+  "total_domicilios": 94053,
+  "percentual_deficit": 0.03174805694661521
+ },
+ {
+  "id": 26,
+  "fecam": "AMVE",
+  "municipio": "Pomerode",
+  "codigo_ibge": "4213203",
+  "total_deficit": 379,
+  "total_domicilios": 11949,
+  "percentual_deficit": 0.03171813540882082
+ },
+ {
+  "id": 27,
+  "fecam": "Ameosc",
+  "municipio": "Belmonte",
+  "codigo_ibge": "4202156",
+  "total_deficit": 30,
+  "total_domicilios": 953,
+  "percentual_deficit": 0.03147953830010493
+ },
+ {
+  "id": 28,
+  "fecam": "Amauc",
+  "municipio": "Jaborá",
+  "codigo_ibge": "4208609",
+  "total_deficit": 48,
+  "total_domicilios": 1543,
+  "percentual_deficit": 0.031108230719377836
+ },
+ {
+  "id": 29,
+  "fecam": "AMFRI",
+  "municipio": "Penha",
+  "codigo_ibge": "4212502",
+  "total_deficit": 367,
+  "total_domicilios": 11982,
+  "percentual_deficit": 0.030629277249207144
+ },
+ {
+  "id": 30,
+  "fecam": "Amurc",
+  "municipio": "Santa Cecília",
+  "codigo_ibge": "4215505",
+  "total_deficit": 163,
+  "total_domicilios": 5383,
+  "percentual_deficit": 0.030280512725246147
+ },
+ {
+  "id": 31,
+  "fecam": "Amurc",
+  "municipio": "Ponte Alta do Norte",
+  "codigo_ibge": "4213351",
+  "total_deficit": 32,
+  "total_domicilios": 1063,
+  "percentual_deficit": 0.030103480714957668
+ },
+ {
+  "id": 32,
+  "fecam": "Ameosc",
+  "municipio": "Barra Bonita",
+  "codigo_ibge": "4202099",
+  "total_deficit": 18,
+  "total_domicilios": 611,
+  "percentual_deficit": 0.029459901800327332
+ },
+ {
+  "id": 33,
+  "fecam": "AMVE",
+  "municipio": "Rio dos Cedros",
+  "codigo_ibge": "4214706",
+  "total_deficit": 113,
+  "total_domicilios": 3850,
+  "percentual_deficit": 0.02935064935064935
+ },
+ {
+  "id": 34,
+  "fecam": "AMFRI",
+  "municipio": "Ilhota",
+  "codigo_ibge": "4207106",
+  "total_deficit": 172,
+  "total_domicilios": 5861,
+  "percentual_deficit": 0.029346527896263436
+ },
+ {
+  "id": 35,
+  "fecam": "Amarp",
+  "municipio": "Ibiam",
+  "codigo_ibge": "4206751",
+  "total_deficit": 21,
+  "total_domicilios": 716,
+  "percentual_deficit": 0.029329608938547486
+ },
+ {
+  "id": 36,
+  "fecam": "Granfpolis",
+  "municipio": "Tijucas",
+  "codigo_ibge": "4218004",
+  "total_deficit": 524,
+  "total_domicilios": 18229,
+  "percentual_deficit": 0.02874540567228043
+ },
+ {
+  "id": 37,
+  "fecam": "Amauc",
+  "municipio": "Xavantina",
+  "codigo_ibge": "4219606",
+  "total_deficit": 36,
+  "total_domicilios": 1253,
+  "percentual_deficit": 0.028731045490822026
+ },
+ {
+  "id": 38,
+  "fecam": "AMVE",
+  "municipio": "Guabiruba",
+  "codigo_ibge": "4206306",
+  "total_deficit": 240,
+  "total_domicilios": 8367,
+  "percentual_deficit": 0.02868411617067049
+ },
+ {
+  "id": 39,
+  "fecam": "AMFRI",
+  "municipio": "Porto Belo",
+  "codigo_ibge": "4213500",
+  "total_deficit": 283,
+  "total_domicilios": 9875,
+  "percentual_deficit": 0.028658227848101264
+ },
+ {
+  "id": 40,
+  "fecam": "Amures",
+  "municipio": "Painel",
+  "codigo_ibge": "4211892",
+  "total_deficit": 24,
+  "total_domicilios": 841,
+  "percentual_deficit": 0.028537455410225922
+ },
+ {
+  "id": 41,
+  "fecam": "Amnoroeste",
+  "municipio": "Quilombo",
+  "codigo_ibge": "4214201",
+  "total_deficit": 108,
+  "total_domicilios": 3843,
+  "percentual_deficit": 0.02810304449648712
+ },
+ {
+  "id": 42,
+  "fecam": "Amarp",
+  "municipio": "Pinheiro Preto",
+  "codigo_ibge": "4213005",
+  "total_deficit": 33,
+  "total_domicilios": 1175,
+  "percentual_deficit": 0.028085106382978724
+ },
+ {
+  "id": 43,
+  "fecam": "Amosc",
+  "municipio": "Sul Brasil",
+  "codigo_ibge": "4217758",
+  "total_deficit": 28,
+  "total_domicilios": 999,
+  "percentual_deficit": 0.028028028028028028
+ },
+ {
+  "id": 44,
+  "fecam": "AMFRI",
+  "municipio": "Itapema",
+  "codigo_ibge": "4208302",
+  "total_deficit": 768,
+  "total_domicilios": 27423,
+  "percentual_deficit": 0.02800568865550815
+ },
+ {
+  "id": 45,
+  "fecam": "Amplanorte",
+  "municipio": "Itaiópolis",
+  "codigo_ibge": "4208104",
+  "total_deficit": 215,
+  "total_domicilios": 7708,
+  "percentual_deficit": 0.02789309807991697
+ },
+ {
+  "id": 46,
+  "fecam": "Granfpolis",
+  "municipio": "Antônio Carlos",
+  "codigo_ibge": "4201208",
+  "total_deficit": 104,
+  "total_domicilios": 3777,
+  "percentual_deficit": 0.027535080751919513
+ },
+ {
+  "id": 47,
+  "fecam": "Amurel",
+  "municipio": "São Martinho",
+  "codigo_ibge": "4217105",
+  "total_deficit": 31,
+  "total_domicilios": 1167,
+  "percentual_deficit": 0.026563838903170524
+ },
+ {
+  "id": 48,
+  "fecam": "Amai",
+  "municipio": "Ponte Serrada",
+  "codigo_ibge": "4213401",
+  "total_deficit": 100,
+  "total_domicilios": 3779,
+  "percentual_deficit": 0.02646202699126753
+ },
+ {
+  "id": 49,
+  "fecam": "Amerios",
+  "municipio": "Campo Erê",
+  "codigo_ibge": "4203501",
+  "total_deficit": 92,
+  "total_domicilios": 3482,
+  "percentual_deficit": 0.026421596783457783
+ },
+ {
+  "id": 50,
+  "fecam": "Amauc",
+  "municipio": "Presidente Castello Branco",
+  "codigo_ibge": "4213906",
+  "total_deficit": 16,
+  "total_domicilios": 606,
+  "percentual_deficit": 0.026402640264026403
+ },
+ {
+  "id": 51,
+  "fecam": "AMVE",
+  "municipio": "Gaspar",
+  "codigo_ibge": "4205902",
+  "total_deficit": 678,
+  "total_domicilios": 25845,
+  "percentual_deficit": 0.026233313987231572
+ },
+ {
+  "id": 52,
+  "fecam": "Ammoc",
+  "municipio": "Catanduvas",
+  "codigo_ibge": "4204004",
+  "total_deficit": 100,
+  "total_domicilios": 3813,
+  "percentual_deficit": 0.026226068712300026
+ },
+ {
+  "id": 53,
+  "fecam": "Amurel",
+  "municipio": "Grão-Pará",
+  "codigo_ibge": "4206108",
+  "total_deficit": 57,
+  "total_domicilios": 2174,
+  "percentual_deficit": 0.02621895124195032
+ },
+ {
+  "id": 54,
+  "fecam": "Ammoc",
+  "municipio": "Vargem Bonita",
+  "codigo_ibge": "4219176",
+  "total_deficit": 42,
+  "total_domicilios": 1609,
+  "percentual_deficit": 0.02610316967060286
+ },
+ {
+  "id": 55,
+  "fecam": "AMVE",
+  "municipio": "Brusque",
+  "codigo_ibge": "4202909",
+  "total_deficit": 1292,
+  "total_domicilios": 50275,
+  "percentual_deficit": 0.025698657384385877
+ },
+ {
+  "id": 56,
+  "fecam": "AMVE",
+  "municipio": "Timbó",
+  "codigo_ibge": "4218202",
+  "total_deficit": 427,
+  "total_domicilios": 16731,
+  "percentual_deficit": 0.025521487059948597
+ },
+ {
+  "id": 57,
+  "fecam": "Amurel",
+  "municipio": "Capivari de Baixo",
+  "codigo_ibge": "4203956",
+  "total_deficit": 219,
+  "total_domicilios": 8586,
+  "percentual_deficit": 0.025506638714185886
+ },
+ {
+  "id": 58,
+  "fecam": "Amunesc",
+  "municipio": "Itapoá",
+  "codigo_ibge": "4208450",
+  "total_deficit": 291,
+  "total_domicilios": 11491,
+  "percentual_deficit": 0.02532416673918719
+ },
+ {
+  "id": 59,
+  "fecam": "Amures",
+  "municipio": "Urubici",
+  "codigo_ibge": "4218905",
+  "total_deficit": 100,
+  "total_domicilios": 3956,
+  "percentual_deficit": 0.025278058645096056
+ },
+ {
+  "id": 60,
+  "fecam": "Amesc",
+  "municipio": "Balneário Arroio do Silva",
+  "codigo_ibge": "4201950",
+  "total_deficit": 151,
+  "total_domicilios": 6020,
+  "percentual_deficit": 0.025083056478405315
+ },
+ {
+  "id": 61,
+  "fecam": "Amures",
+  "municipio": "Bom Retiro",
+  "codigo_ibge": "4202602",
+  "total_deficit": 76,
+  "total_domicilios": 3037,
+  "percentual_deficit": 0.025024695423114918
+ },
+ {
+  "id": 62,
+  "fecam": "Granfpolis",
+  "municipio": "Biguaçu",
+  "codigo_ibge": "4202305",
+  "total_deficit": 706,
+  "total_domicilios": 28289,
+  "percentual_deficit": 0.024956696949344267
+ },
+ {
+  "id": 63,
+  "fecam": "AMVE",
+  "municipio": "Apiúna",
+  "codigo_ibge": "4201257",
+  "total_deficit": 88,
+  "total_domicilios": 3535,
+  "percentual_deficit": 0.024893917963224894
+ },
+ {
+  "id": 64,
+  "fecam": "Amesc",
+  "municipio": "Passo de Torres",
+  "codigo_ibge": "4212254",
+  "total_deficit": 117,
+  "total_domicilios": 4746,
+  "percentual_deficit": 0.02465233881163085
+ },
+ {
+  "id": 65,
+  "fecam": "Amarp",
+  "municipio": "Rio das Antas",
+  "codigo_ibge": "4214409",
+  "total_deficit": 55,
+  "total_domicilios": 2239,
+  "percentual_deficit": 0.02456453774006253
+ },
+ {
+  "id": 66,
+  "fecam": "Amarp",
+  "municipio": "Fraiburgo",
+  "codigo_ibge": "4205506",
+  "total_deficit": 292,
+  "total_domicilios": 11911,
+  "percentual_deficit": 0.02451515405927294
+ },
+ {
+  "id": 67,
+  "fecam": "AMVE",
+  "municipio": "Indaial",
+  "codigo_ibge": "4207502",
+  "total_deficit": 629,
+  "total_domicilios": 25814,
+  "percentual_deficit": 0.024366622762841867
+ },
+ {
+  "id": 68,
+  "fecam": "Amures",
+  "municipio": "Lages",
+  "codigo_ibge": "4209300",
+  "total_deficit": 1456,
+  "total_domicilios": 59933,
+  "percentual_deficit": 0.024293794737456825
+ },
+ {
+  "id": 69,
+  "fecam": "Amplanorte",
+  "municipio": "Porto União",
+  "codigo_ibge": "4213609",
+  "total_deficit": 286,
+  "total_domicilios": 11869,
+  "percentual_deficit": 0.024096385542168676
+ },
+ {
+  "id": 70,
+  "fecam": "Amrec",
+  "municipio": "Balneário Rincão",
+  "codigo_ibge": "4220000",
+  "total_deficit": 139,
+  "total_domicilios": 5808,
+  "percentual_deficit": 0.02393250688705234
+ },
+ {
+  "id": 71,
+  "fecam": "Ammoc",
+  "municipio": "Água Doce",
+  "codigo_ibge": "4200408",
+  "total_deficit": 58,
+  "total_domicilios": 2427,
+  "percentual_deficit": 0.023897816234033788
+ },
+ {
+  "id": 72,
+  "fecam": "AMVE",
+  "municipio": "Ascurra",
+  "codigo_ibge": "4201703",
+  "total_deficit": 72,
+  "total_domicilios": 3019,
+  "percentual_deficit": 0.023848956608148394
+ },
+ {
+  "id": 73,
+  "fecam": "Amunesc",
+  "municipio": "Joinville",
+  "codigo_ibge": "4209102",
+  "total_deficit": 5272,
+  "total_domicilios": 221957,
+  "percentual_deficit": 0.023752348427848638
+ },
+ {
+  "id": 74,
+  "fecam": "Amunesc",
+  "municipio": "Rio Negrinho",
+  "codigo_ibge": "4215000",
+  "total_deficit": 325,
+  "total_domicilios": 13742,
+  "percentual_deficit": 0.023650123708339396
+ },
+ {
+  "id": 75,
+  "fecam": "Amrec",
+  "municipio": "Morro da Fumaça",
+  "codigo_ibge": "4211207",
+  "total_deficit": 151,
+  "total_domicilios": 6391,
+  "percentual_deficit": 0.02362697543420435
+ },
+ {
+  "id": 76,
+  "fecam": "Granfpolis",
+  "municipio": "Canelinha",
+  "codigo_ibge": "4203709",
+  "total_deficit": 106,
+  "total_domicilios": 4490,
+  "percentual_deficit": 0.023608017817371936
+ },
+ {
+  "id": 77,
+  "fecam": "AMFRI",
+  "municipio": "Balneário Piçarras",
+  "codigo_ibge": "4212809",
+  "total_deficit": 231,
+  "total_domicilios": 9832,
+  "percentual_deficit": 0.023494711147274208
+ },
+ {
+  "id": 78,
+  "fecam": "Amosc",
+  "municipio": "Chapecó",
+  "codigo_ibge": "4204202",
+  "total_deficit": 2178,
+  "total_domicilios": 92889,
+  "percentual_deficit": 0.023447340373994766
+ },
+ {
+  "id": 79,
+  "fecam": "AMVE",
+  "municipio": "Benedito Novo",
+  "codigo_ibge": "4202206",
+  "total_deficit": 87,
+  "total_domicilios": 3711,
+  "percentual_deficit": 0.023443815683104285
+ },
+ {
+  "id": 80,
+  "fecam": "Amerios",
+  "municipio": "Caibi",
+  "codigo_ibge": "4203105",
+  "total_deficit": 54,
+  "total_domicilios": 2310,
+  "percentual_deficit": 0.023376623376623377
+ },
+ {
+  "id": 81,
+  "fecam": "AMFRI",
+  "municipio": "Luiz Alves",
+  "codigo_ibge": "4210001",
+  "total_deficit": 93,
+  "total_domicilios": 3984,
+  "percentual_deficit": 0.023343373493975902
+ },
+ {
+  "id": 82,
+  "fecam": "AMVALI",
+  "municipio": "Guaramirim",
+  "codigo_ibge": "4206504",
+  "total_deficit": 378,
+  "total_domicilios": 16297,
+  "percentual_deficit": 0.023194452966803707
+ },
+ {
+  "id": 83,
+  "fecam": "Granfpolis",
+  "municipio": "Palhoça",
+  "codigo_ibge": "4211900",
+  "total_deficit": 1890,
+  "total_domicilios": 81729,
+  "percentual_deficit": 0.02312520647505781
+ },
+ {
+  "id": 84,
+  "fecam": "AMVALI",
+  "municipio": "Schroeder",
+  "codigo_ibge": "4217402",
+  "total_deficit": 158,
+  "total_domicilios": 6835,
+  "percentual_deficit": 0.02311631309436723
+ },
+ {
+  "id": 85,
+  "fecam": "Amauc",
+  "municipio": "Seara",
+  "codigo_ibge": "4217501",
+  "total_deficit": 151,
+  "total_domicilios": 6667,
+  "percentual_deficit": 0.022648867556622168
+ },
+ {
+  "id": 86,
+  "fecam": "Amai",
+  "municipio": "Bom Jesus",
+  "codigo_ibge": "4202537",
+  "total_deficit": 22,
+  "total_domicilios": 974,
+  "percentual_deficit": 0.022587268993839837
+ },
+ {
+  "id": 87,
+  "fecam": "Amavi",
+  "municipio": "Pouso Redondo",
+  "codigo_ibge": "4213708",
+  "total_deficit": 136,
+  "total_domicilios": 6067,
+  "percentual_deficit": 0.022416350749958795
+ },
+ {
+  "id": 88,
+  "fecam": "Amunesc",
+  "municipio": "São Francisco do Sul",
+  "codigo_ibge": "4216206",
+  "total_deficit": 434,
+  "total_domicilios": 19370,
+  "percentual_deficit": 0.02240578213732576
+ },
+ {
+  "id": 89,
+  "fecam": "Amerios",
+  "municipio": "Bom Jesus do Oeste",
+  "codigo_ibge": "4202578",
+  "total_deficit": 18,
+  "total_domicilios": 804,
+  "percentual_deficit": 0.022388059701492536
+ },
+ {
+  "id": 90,
+  "fecam": "Amurel",
+  "municipio": "São Ludgero",
+  "codigo_ibge": "4217006",
+  "total_deficit": 104,
+  "total_domicilios": 4660,
+  "percentual_deficit": 0.022317596566523604
+ },
+ {
+  "id": 91,
+  "fecam": "Amosc",
+  "municipio": "Formosa do Sul",
+  "codigo_ibge": "4205431",
+  "total_deficit": 21,
+  "total_domicilios": 949,
+  "percentual_deficit": 0.022128556375131718
+ },
+ {
+  "id": 92,
+  "fecam": "Amurel",
+  "municipio": "Braço do Norte",
+  "codigo_ibge": "4202800",
+  "total_deficit": 261,
+  "total_domicilios": 11856,
+  "percentual_deficit": 0.02201417004048583
+ },
+ {
+  "id": 93,
+  "fecam": "Amosc",
+  "municipio": "Guatambú",
+  "codigo_ibge": "4206652",
+  "total_deficit": 64,
+  "total_domicilios": 2913,
+  "percentual_deficit": 0.021970477171301066
+ },
+ {
+  "id": 94,
+  "fecam": "Ameosc",
+  "municipio": "Bandeirante",
+  "codigo_ibge": "4202081",
+  "total_deficit": 25,
+  "total_domicilios": 1141,
+  "percentual_deficit": 0.021910604732690624
+ },
+ {
+  "id": 95,
+  "fecam": "Amauc",
+  "municipio": "Irani",
+  "codigo_ibge": "4207809",
+  "total_deficit": 80,
+  "total_domicilios": 3654,
+  "percentual_deficit": 0.021893814997263273
+ },
+ {
+  "id": 96,
+  "fecam": "Amures",
+  "municipio": "Correia Pinto",
+  "codigo_ibge": "4204558",
+  "total_deficit": 123,
+  "total_domicilios": 5639,
+  "percentual_deficit": 0.021812378081220076
+ },
+ {
+  "id": 97,
+  "fecam": "Amunesc",
+  "municipio": "Campo Alegre",
+  "codigo_ibge": "4203303",
+  "total_deficit": 96,
+  "total_domicilios": 4403,
+  "percentual_deficit": 0.02180331592096298
+ },
+ {
+  "id": 98,
+  "fecam": "Amosc",
+  "municipio": "Planalto Alegre",
+  "codigo_ibge": "4213153",
+  "total_deficit": 23,
+  "total_domicilios": 1058,
+  "percentual_deficit": 0.021739130434782608
+ },
+ {
+  "id": 99,
+  "fecam": "Amurc",
+  "municipio": "São Cristóvão do Sul",
+  "codigo_ibge": "4216057",
+  "total_deficit": 32,
+  "total_domicilios": 1475,
+  "percentual_deficit": 0.02169491525423729
+ },
+ {
+  "id": 100,
+  "fecam": "Amurc",
+  "municipio": "Curitibanos",
+  "codigo_ibge": "4204806",
+  "total_deficit": 308,
+  "total_domicilios": 14314,
+  "percentual_deficit": 0.02151739555679754
+ },
+ {
+  "id": 101,
+  "fecam": "Amai",
+  "municipio": "São Domingos",
+  "codigo_ibge": "4216107",
+  "total_deficit": 74,
+  "total_domicilios": 3453,
+  "percentual_deficit": 0.02143064002316826
+ },
+ {
+  "id": 102,
+  "fecam": "Granfpolis",
+  "municipio": "São João Batista",
+  "codigo_ibge": "4216305",
+  "total_deficit": 246,
+  "total_domicilios": 11623,
+  "percentual_deficit": 0.02116493160113568
+ },
+ {
+  "id": 103,
+  "fecam": "Amavi",
+  "municipio": "Mirim Doce",
+  "codigo_ibge": "4210852",
+  "total_deficit": 19,
+  "total_domicilios": 902,
+  "percentual_deficit": 0.02106430155210643
+ },
+ {
+  "id": 104,
+  "fecam": "Ameosc",
+  "municipio": "Tunápolis",
+  "codigo_ibge": "4218756",
+  "total_deficit": 37,
+  "total_domicilios": 1764,
+  "percentual_deficit": 0.020975056689342405
+ },
+ {
+  "id": 105,
+  "fecam": "Amosc",
+  "municipio": "Caxambu do Sul",
+  "codigo_ibge": "4204103",
+  "total_deficit": 35,
+  "total_domicilios": 1675,
+  "percentual_deficit": 0.020895522388059702
+ },
+ {
+  "id": 106,
+  "fecam": "Amplanorte",
+  "municipio": "Canoinhas",
+  "codigo_ibge": "4203808",
+  "total_deficit": 412,
+  "total_domicilios": 19730,
+  "percentual_deficit": 0.020881905727318805
+ },
+ {
+  "id": 107,
+  "fecam": "AMVE",
+  "municipio": "Rodeio",
+  "codigo_ibge": "4215109",
+  "total_deficit": 98,
+  "total_domicilios": 4697,
+  "percentual_deficit": 0.020864381520119227
+ },
+ {
+  "id": 108,
+  "fecam": "Amauc",
+  "municipio": "Ipumirim",
+  "codigo_ibge": "4207700",
+  "total_deficit": 58,
+  "total_domicilios": 2812,
+  "percentual_deficit": 0.020625889046941678
+ },
+ {
+  "id": 109,
+  "fecam": "Amplanorte",
+  "municipio": "Major Vieira",
+  "codigo_ibge": "4210308",
+  "total_deficit": 55,
+  "total_domicilios": 2672,
+  "percentual_deficit": 0.02058383233532934
+ },
+ {
+  "id": 110,
+  "fecam": "Amosc",
+  "municipio": "Coronel Freitas",
+  "codigo_ibge": "4204400",
+  "total_deficit": 76,
+  "total_domicilios": 3721,
+  "percentual_deficit": 0.02042461703843053
+ },
+ {
+  "id": 111,
+  "fecam": "Amnoroeste",
+  "municipio": "São Lourenço do Oeste",
+  "codigo_ibge": "4216909",
+  "total_deficit": 183,
+  "total_domicilios": 8983,
+  "percentual_deficit": 0.02037181342535901
+ },
+ {
+  "id": 112,
+  "fecam": "AMFRI",
+  "municipio": "Bombinhas",
+  "codigo_ibge": "4202453",
+  "total_deficit": 184,
+  "total_domicilios": 9062,
+  "percentual_deficit": 0.02030456852791878
+ },
+ {
+  "id": 113,
+  "fecam": "Amavi",
+  "municipio": "Ibirama",
+  "codigo_ibge": "4206900",
+  "total_deficit": 147,
+  "total_domicilios": 7261,
+  "percentual_deficit": 0.020245145296791077
+ },
+ {
+  "id": 114,
+  "fecam": "Amrec",
+  "municipio": "Forquilhinha",
+  "codigo_ibge": "4205456",
+  "total_deficit": 217,
+  "total_domicilios": 10851,
+  "percentual_deficit": 0.01999815685190305
+ },
+ {
+  "id": 115,
+  "fecam": "Amesc",
+  "municipio": "Ermo",
+  "codigo_ibge": "4205191",
+  "total_deficit": 16,
+  "total_domicilios": 807,
+  "percentual_deficit": 0.01982651796778191
+ },
+ {
+  "id": 116,
+  "fecam": "Amerios",
+  "municipio": "Flor do Sertão",
+  "codigo_ibge": "4205357",
+  "total_deficit": 13,
+  "total_domicilios": 663,
+  "percentual_deficit": 0.0196078431372549
+ },
+ {
+  "id": 117,
+  "fecam": "Amosc",
+  "municipio": "Arvoredo",
+  "codigo_ibge": "4201653",
+  "total_deficit": 17,
+  "total_domicilios": 869,
+  "percentual_deficit": 0.019562715765247412
+ },
+ {
+  "id": 118,
+  "fecam": "Amauc",
+  "municipio": "Lindóia do Sul",
+  "codigo_ibge": "4209854",
+  "total_deficit": 32,
+  "total_domicilios": 1637,
+  "percentual_deficit": 0.019547953573610263
+ },
+ {
+  "id": 119,
+  "fecam": "Amplanorte",
+  "municipio": "Mafra",
+  "codigo_ibge": "4210100",
+  "total_deficit": 392,
+  "total_domicilios": 20079,
+  "percentual_deficit": 0.01952288460580706
+ },
+ {
+  "id": 120,
+  "fecam": "Ameosc",
+  "municipio": "Descanso",
+  "codigo_ibge": "4204905",
+  "total_deficit": 61,
+  "total_domicilios": 3128,
+  "percentual_deficit": 0.019501278772378516
+ },
+ {
+  "id": 121,
+  "fecam": "Amerios",
+  "municipio": "Saudades",
+  "codigo_ibge": "4217303",
+  "total_deficit": 70,
+  "total_domicilios": 3595,
+  "percentual_deficit": 0.019471488178025034
+ },
+ {
+  "id": 122,
+  "fecam": "AMVALI",
+  "municipio": "Jaraguá do Sul",
+  "codigo_ibge": "4208906",
+  "total_deficit": 1291,
+  "total_domicilios": 66374,
+  "percentual_deficit": 0.019450387199807153
+ },
+ {
+  "id": 123,
+  "fecam": "Amavi",
+  "municipio": "Rio do Sul",
+  "codigo_ibge": "4214805",
+  "total_deficit": 532,
+  "total_domicilios": 27416,
+  "percentual_deficit": 0.019404727166618032
+ },
+ {
+  "id": 124,
+  "fecam": "AMVALI",
+  "municipio": "Corupá",
+  "codigo_ibge": "4204509",
+  "total_deficit": 105,
+  "total_domicilios": 5427,
+  "percentual_deficit": 0.019347705914870093
+ },
+ {
+  "id": 125,
+  "fecam": "Ameosc",
+  "municipio": "Itapiranga",
+  "codigo_ibge": "4208401",
+  "total_deficit": 116,
+  "total_domicilios": 6004,
+  "percentual_deficit": 0.019320453031312457
+ },
+ {
+  "id": 126,
+  "fecam": "Amplanorte",
+  "municipio": "Bela Vista do Toldo",
+  "codigo_ibge": "4202131",
+  "total_deficit": 40,
+  "total_domicilios": 2081,
+  "percentual_deficit": 0.019221528111484865
+ },
+ {
+  "id": 127,
+  "fecam": "Amai",
+  "municipio": "Ouro Verde",
+  "codigo_ibge": "4211850",
+  "total_deficit": 15,
+  "total_domicilios": 783,
+  "percentual_deficit": 0.019157088122605363
+ },
+ {
+  "id": 128,
+  "fecam": "Amerios",
+  "municipio": "Iraceminha",
+  "codigo_ibge": "4207759",
+  "total_deficit": 28,
+  "total_domicilios": 1466,
+  "percentual_deficit": 0.019099590723055934
+ },
+ {
+  "id": 129,
+  "fecam": "Amesc",
+  "municipio": "Sombrio",
+  "codigo_ibge": "4217709",
+  "total_deficit": 211,
+  "total_domicilios": 11048,
+  "percentual_deficit": 0.019098479362780595
+ },
+ {
+  "id": 130,
+  "fecam": "Amosc",
+  "municipio": "Paial",
+  "codigo_ibge": "4211876",
+  "total_deficit": 13,
+  "total_domicilios": 692,
+  "percentual_deficit": 0.01878612716763006
+ },
+ {
+  "id": 131,
+  "fecam": "Amunesc",
+  "municipio": "São Bento do Sul",
+  "codigo_ibge": "4215802",
+  "total_deficit": 562,
+  "total_domicilios": 30054,
+  "percentual_deficit": 0.018699673920276834
+ },
+ {
+  "id": 132,
+  "fecam": "AMVE",
+  "municipio": "Blumenau",
+  "codigo_ibge": "4202404",
+  "total_deficit": 2560,
+  "total_domicilios": 137275,
+  "percentual_deficit": 0.018648697869240574
+ },
+ {
+  "id": 133,
+  "fecam": "Amplasc",
+  "municipio": "Campos Novos",
+  "codigo_ibge": "4203600",
+  "total_deficit": 253,
+  "total_domicilios": 13591,
+  "percentual_deficit": 0.01861526009859466
+ },
+ {
+  "id": 134,
+  "fecam": "Amplanorte",
+  "municipio": "Irineópolis",
+  "codigo_ibge": "4207908",
+  "total_deficit": 67,
+  "total_domicilios": 3603,
+  "percentual_deficit": 0.018595614765473216
+ },
+ {
+  "id": 135,
+  "fecam": "Granfpolis",
+  "municipio": "Paulo Lopes",
+  "codigo_ibge": "4212304",
+  "total_deficit": 61,
+  "total_domicilios": 3289,
+  "percentual_deficit": 0.018546670720583764
+ },
+ {
+  "id": 136,
+  "fecam": "Amavi",
+  "municipio": "Ituporanga",
+  "codigo_ibge": "4208500",
+  "total_deficit": 175,
+  "total_domicilios": 9510,
+  "percentual_deficit": 0.01840168243953733
+ },
+ {
+  "id": 137,
+  "fecam": "Amavi",
+  "municipio": "Agrolândia",
+  "codigo_ibge": "4200200",
+  "total_deficit": 72,
+  "total_domicilios": 3914,
+  "percentual_deficit": 0.018395503321410323
+ },
+ {
+  "id": 138,
+  "fecam": "Amavi",
+  "municipio": "Witmarsum",
+  "codigo_ibge": "4219408",
+  "total_deficit": 28,
+  "total_domicilios": 1527,
+  "percentual_deficit": 0.0183366077275704
+ },
+ {
+  "id": 139,
+  "fecam": "Amurel",
+  "municipio": "Treze de Maio",
+  "codigo_ibge": "4218400",
+  "total_deficit": 47,
+  "total_domicilios": 2586,
+  "percentual_deficit": 0.01817478731631864
+ },
+ {
+  "id": 140,
+  "fecam": "Ammoc",
+  "municipio": "Treze Tílias",
+  "codigo_ibge": "4218509",
+  "total_deficit": 59,
+  "total_domicilios": 3249,
+  "percentual_deficit": 0.018159433671899046
+ },
+ {
+  "id": 141,
+  "fecam": "Amosc",
+  "municipio": "Nova Erechim",
+  "codigo_ibge": "4211405",
+  "total_deficit": 34,
+  "total_domicilios": 1874,
+  "percentual_deficit": 0.01814300960512273
+ },
+ {
+  "id": 142,
+  "fecam": "AMFRI",
+  "municipio": "Balneário Camboriú",
+  "codigo_ibge": "4202008",
+  "total_deficit": 1049,
+  "total_domicilios": 57862,
+  "percentual_deficit": 0.018129342228059866
+ },
+ {
+  "id": 143,
+  "fecam": "Amures",
+  "municipio": "Otacílio Costa",
+  "codigo_ibge": "4211751",
+  "total_deficit": 114,
+  "total_domicilios": 6307,
+  "percentual_deficit": 0.01807515459013794
+ },
+ {
+  "id": 144,
+  "fecam": "Granfpolis",
+  "municipio": "São José",
+  "codigo_ibge": "4216602",
+  "total_deficit": 1902,
+  "total_domicilios": 105573,
+  "percentual_deficit": 0.018015969992327584
+ },
+ {
+  "id": 145,
+  "fecam": "Amures",
+  "municipio": "Campo Belo do Sul",
+  "codigo_ibge": "4203402",
+  "total_deficit": 48,
+  "total_domicilios": 2675,
+  "percentual_deficit": 0.01794392523364486
+ },
+ {
+  "id": 146,
+  "fecam": "Amavi",
+  "municipio": "Taió",
+  "codigo_ibge": "4217808",
+  "total_deficit": 122,
+  "total_domicilios": 6824,
+  "percentual_deficit": 0.01787807737397421
+ },
+ {
+  "id": 147,
+  "fecam": "Amures",
+  "municipio": "Palmeira",
+  "codigo_ibge": "4212056",
+  "total_deficit": 17,
+  "total_domicilios": 960,
+  "percentual_deficit": 0.017708333333333333
+ },
+ {
+  "id": 148,
+  "fecam": "Amavi",
+  "municipio": "Vitor Meireles",
+  "codigo_ibge": "4219358",
+  "total_deficit": 34,
+  "total_domicilios": 1922,
+  "percentual_deficit": 0.01768990634755463
+ },
+ {
+  "id": 149,
+  "fecam": "Amures",
+  "municipio": "Bom Jardim da Serra",
+  "codigo_ibge": "4202503",
+  "total_deficit": 27,
+  "total_domicilios": 1528,
+  "percentual_deficit": 0.01767015706806283
+ },
+ {
+  "id": 150,
+  "fecam": "Amures",
+  "municipio": "São Joaquim",
+  "codigo_ibge": "4216503",
+  "total_deficit": 169,
+  "total_domicilios": 9578,
+  "percentual_deficit": 0.017644602213405722
+ },
+ {
+  "id": 151,
+  "fecam": "Amnoroeste",
+  "municipio": "Novo Horizonte",
+  "codigo_ibge": "4211652",
+  "total_deficit": 16,
+  "total_domicilios": 908,
+  "percentual_deficit": 0.01762114537444934
+ },
+ {
+  "id": 152,
+  "fecam": "AMVE",
+  "municipio": "Doutor Pedrinho",
+  "codigo_ibge": "4205159",
+  "total_deficit": 24,
+  "total_domicilios": 1363,
+  "percentual_deficit": 0.01760821716801174
+ },
+ {
+  "id": 153,
+  "fecam": "Amavi",
+  "municipio": "Lontras",
+  "codigo_ibge": "4209904",
+  "total_deficit": 82,
+  "total_domicilios": 4659,
+  "percentual_deficit": 0.01760034342133505
+ },
+ {
+  "id": 154,
+  "fecam": "Amarp",
+  "municipio": "Videira",
+  "codigo_ibge": "4219309",
+  "total_deficit": 361,
+  "total_domicilios": 20539,
+  "percentual_deficit": 0.01757631822386679
+ },
+ {
+  "id": 155,
+  "fecam": "Granfpolis",
+  "municipio": "Governador Celso Ramos",
+  "codigo_ibge": "4206009",
+  "total_deficit": 108,
+  "total_domicilios": 6150,
+  "percentual_deficit": 0.0175609756097561
+ },
+ {
+  "id": 156,
+  "fecam": "Amrec",
+  "municipio": "Cocal do Sul",
+  "codigo_ibge": "4204251",
+  "total_deficit": 109,
+  "total_domicilios": 6227,
+  "percentual_deficit": 0.017504416251806647
+ },
+ {
+  "id": 157,
+  "fecam": "Amnoroeste",
+  "municipio": "São Bernardino",
+  "codigo_ibge": "4215752",
+  "total_deficit": 17,
+  "total_domicilios": 975,
+  "percentual_deficit": 0.017435897435897435
+ },
+ {
+  "id": 158,
+  "fecam": "Amurel",
+  "municipio": "Jaguaruna",
+  "codigo_ibge": "4208807",
+  "total_deficit": 131,
+  "total_domicilios": 7564,
+  "percentual_deficit": 0.017318878900052882
+ },
+ {
+  "id": 159,
+  "fecam": "Amavi",
+  "municipio": "Presidente Nereu",
+  "codigo_ibge": "4214102",
+  "total_deficit": 15,
+  "total_domicilios": 873,
+  "percentual_deficit": 0.01718213058419244
+ },
+ {
+  "id": 160,
+  "fecam": "Granfpolis",
+  "municipio": "Garopaba",
+  "codigo_ibge": "4205704",
+  "total_deficit": 193,
+  "total_domicilios": 11257,
+  "percentual_deficit": 0.01714488762547748
+ },
+ {
+  "id": 161,
+  "fecam": "Amrec",
+  "municipio": "Içara",
+  "codigo_ibge": "4207007",
+  "total_deficit": 358,
+  "total_domicilios": 21067,
+  "percentual_deficit": 0.016993402003132863
+ },
+ {
+  "id": 162,
+  "fecam": "Amurel",
+  "municipio": "Imbituba",
+  "codigo_ibge": "4207304",
+  "total_deficit": 338,
+  "total_domicilios": 19931,
+  "percentual_deficit": 0.016958506848627767
+ },
+ {
+  "id": 163,
+  "fecam": "Amesc",
+  "municipio": "Balneário Gaivota",
+  "codigo_ibge": "4202073",
+  "total_deficit": 101,
+  "total_domicilios": 5970,
+  "percentual_deficit": 0.0169179229480737
+ },
+ {
+  "id": 164,
+  "fecam": "Amplanorte",
+  "municipio": "Papanduva",
+  "codigo_ibge": "4212205",
+  "total_deficit": 116,
+  "total_domicilios": 6896,
+  "percentual_deficit": 0.016821345707656612
+ },
+ {
+  "id": 165,
+  "fecam": "Amai",
+  "municipio": "Xaxim",
+  "codigo_ibge": "4219705",
+  "total_deficit": 195,
+  "total_domicilios": 11645,
+  "percentual_deficit": 0.016745384285100903
+ },
+ {
+  "id": 166,
+  "fecam": "Amerios",
+  "municipio": "Romelândia",
+  "codigo_ibge": "4215208",
+  "total_deficit": 31,
+  "total_domicilios": 1859,
+  "percentual_deficit": 0.016675632060247445
+ },
+ {
+  "id": 167,
+  "fecam": "Granfpolis",
+  "municipio": "Major Gercino",
+  "codigo_ibge": "4210209",
+  "total_deficit": 20,
+  "total_domicilios": 1201,
+  "percentual_deficit": 0.01665278934221482
+ },
+ {
+  "id": 168,
+  "fecam": "Ameosc",
+  "municipio": "Palma Sola",
+  "codigo_ibge": "4212007",
+  "total_deficit": 46,
+  "total_domicilios": 2781,
+  "percentual_deficit": 0.01654081265731751
+ },
+ {
+  "id": 169,
+  "fecam": "Amrec",
+  "municipio": "Criciúma",
+  "codigo_ibge": "4204608",
+  "total_deficit": 1318,
+  "total_domicilios": 79750,
+  "percentual_deficit": 0.016526645768025077
+ },
+ {
+  "id": 170,
+  "fecam": "Amauc",
+  "municipio": "Concórdia",
+  "codigo_ibge": "4204301",
+  "total_deficit": 498,
+  "total_domicilios": 30413,
+  "percentual_deficit": 0.016374576661296155
+ },
+ {
+  "id": 171,
+  "fecam": "Amai",
+  "municipio": "Faxinal dos Guedes",
+  "codigo_ibge": "4205308",
+  "total_deficit": 66,
+  "total_domicilios": 4035,
+  "percentual_deficit": 0.016356877323420074
+ },
+ {
+  "id": 172,
+  "fecam": "Amurel",
+  "municipio": "Santa Rosa de Lima",
+  "codigo_ibge": "4215604",
+  "total_deficit": 12,
+  "total_domicilios": 737,
+  "percentual_deficit": 0.016282225237449117
+ },
+ {
+  "id": 173,
+  "fecam": "Amures",
+  "municipio": "Ponte Alta",
+  "codigo_ibge": "4213302",
+  "total_deficit": 26,
+  "total_domicilios": 1599,
+  "percentual_deficit": 0.016260162601626018
+ },
+ {
+  "id": 174,
+  "fecam": "Amai",
+  "municipio": "Xanxerê",
+  "codigo_ibge": "4219507",
+  "total_deficit": 313,
+  "total_domicilios": 19294,
+  "percentual_deficit": 0.016222659894267646
+ },
+ {
+  "id": 175,
+  "fecam": "Granfpolis",
+  "municipio": "Santo Amaro da Imperatriz",
+  "codigo_ibge": "4215703",
+  "total_deficit": 165,
+  "total_domicilios": 10185,
+  "percentual_deficit": 0.016200294550810016
+ },
+ {
+  "id": 176,
+  "fecam": "Amai",
+  "municipio": "Entre Rios",
+  "codigo_ibge": "4205175",
+  "total_deficit": 19,
+  "total_domicilios": 1173,
+  "percentual_deficit": 0.01619778346121057
+ },
+ {
+  "id": 177,
+  "fecam": "Amavi",
+  "municipio": "Rio do Oeste",
+  "codigo_ibge": "4214607",
+  "total_deficit": 44,
+  "total_domicilios": 2731,
+  "percentual_deficit": 0.016111314536799707
+ },
+ {
+  "id": 178,
+  "fecam": "Granfpolis",
+  "municipio": "Angelina",
+  "codigo_ibge": "4200903",
+  "total_deficit": 32,
+  "total_domicilios": 1993,
+  "percentual_deficit": 0.016056196688409432
+ },
+ {
+  "id": 179,
+  "fecam": "Amrec",
+  "municipio": "Siderópolis",
+  "codigo_ibge": "4217600",
+  "total_deficit": 79,
+  "total_domicilios": 4961,
+  "percentual_deficit": 0.01592420882886515
+ },
+ {
+  "id": 180,
+  "fecam": "Amosc",
+  "municipio": "São Carlos",
+  "codigo_ibge": "4216008",
+  "total_deficit": 61,
+  "total_domicilios": 3873,
+  "percentual_deficit": 0.015750064549444876
+ },
+ {
+  "id": 181,
+  "fecam": "Amunesc",
+  "municipio": "Balneário Barra do Sul",
+  "codigo_ibge": "4202057",
+  "total_deficit": 91,
+  "total_domicilios": 5793,
+  "percentual_deficit": 0.01570861384429484
+ },
+ {
+  "id": 182,
+  "fecam": "Ammoc",
+  "municipio": "Lacerdópolis",
+  "codigo_ibge": "4209201",
+  "total_deficit": 13,
+  "total_domicilios": 828,
+  "percentual_deficit": 0.01570048309178744
+ },
+ {
+  "id": 183,
+  "fecam": "Amurel",
+  "municipio": "Armazém",
+  "codigo_ibge": "4201505",
+  "total_deficit": 51,
+  "total_domicilios": 3250,
+  "percentual_deficit": 0.015692307692307693
+ },
+ {
+  "id": 184,
+  "fecam": "Amurel",
+  "municipio": "Laguna",
+  "codigo_ibge": "4209409",
+  "total_deficit": 257,
+  "total_domicilios": 16383,
+  "percentual_deficit": 0.015686992614295306
+ },
+ {
+  "id": 185,
+  "fecam": "Amavi",
+  "municipio": "Aurora",
+  "codigo_ibge": "4201901",
+  "total_deficit": 38,
+  "total_domicilios": 2431,
+  "percentual_deficit": 0.01563142739613328
+ },
+ {
+  "id": 186,
+  "fecam": "Amosc",
+  "municipio": "Santiago do Sul",
+  "codigo_ibge": "4215695",
+  "total_deficit": 9,
+  "total_domicilios": 577,
+  "percentual_deficit": 0.01559792027729636
+ },
+ {
+  "id": 187,
+  "fecam": "Granfpolis",
+  "municipio": "Florianópolis",
+  "codigo_ibge": "4205407",
+  "total_deficit": 3424,
+  "total_domicilios": 219705,
+  "percentual_deficit": 0.015584533806695342
+ },
+ {
+  "id": 188,
+  "fecam": "Ameosc",
+  "municipio": "Guaraciaba",
+  "codigo_ibge": "4206405",
+  "total_deficit": 62,
+  "total_domicilios": 3986,
+  "percentual_deficit": 0.015554440541896638
+ },
+ {
+  "id": 189,
+  "fecam": "Granfpolis",
+  "municipio": "Nova Trento",
+  "codigo_ibge": "4211504",
+  "total_deficit": 78,
+  "total_domicilios": 5022,
+  "percentual_deficit": 0.015531660692951015
+ },
+ {
+  "id": 190,
+  "fecam": "Granfpolis",
+  "municipio": "São Pedro de Alcântara",
+  "codigo_ibge": "4217253",
+  "total_deficit": 27,
+  "total_domicilios": 1742,
+  "percentual_deficit": 0.015499425947187142
+ },
+ {
+  "id": 191,
+  "fecam": "Amavi",
+  "municipio": "Salete",
+  "codigo_ibge": "4215307",
+  "total_deficit": 42,
+  "total_domicilios": 2748,
+  "percentual_deficit": 0.015283842794759825
+ },
+ {
+  "id": 192,
+  "fecam": "Granfpolis",
+  "municipio": "Anitápolis",
+  "codigo_ibge": "4201109",
+  "total_deficit": 20,
+  "total_domicilios": 1331,
+  "percentual_deficit": 0.015026296018031555
+ },
+ {
+  "id": 193,
+  "fecam": "Amesc",
+  "municipio": "Araranguá",
+  "codigo_ibge": "4201406",
+  "total_deficit": 401,
+  "total_domicilios": 26770,
+  "percentual_deficit": 0.014979454613373178
+ },
+ {
+  "id": 194,
+  "fecam": "Amesc",
+  "municipio": "Praia Grande",
+  "codigo_ibge": "4213807",
+  "total_deficit": 48,
+  "total_domicilios": 3233,
+  "percentual_deficit": 0.014846891432106402
+ },
+ {
+  "id": 195,
+  "fecam": "Ameosc",
+  "municipio": "Santa Helena",
+  "codigo_ibge": "4215554",
+  "total_deficit": 13,
+  "total_domicilios": 881,
+  "percentual_deficit": 0.014755959137343927
+ },
+ {
+  "id": 196,
+  "fecam": "AMVALI",
+  "municipio": "Massaranduba",
+  "codigo_ibge": "4210605",
+  "total_deficit": 89,
+  "total_domicilios": 6204,
+  "percentual_deficit": 0.014345583494519665
+ },
+ {
+  "id": 197,
+  "fecam": "Amavi",
+  "municipio": "Rio do Campo",
+  "codigo_ibge": "4214508",
+  "total_deficit": 33,
+  "total_domicilios": 2343,
+  "percentual_deficit": 0.014084507042253521
+ },
+ {
+  "id": 198,
+  "fecam": "Amavi",
+  "municipio": "Santa Terezinha",
+  "codigo_ibge": "4215679",
+  "total_deficit": 41,
+  "total_domicilios": 2944,
+  "percentual_deficit": 0.013926630434782608
+ },
+ {
+  "id": 199,
+  "fecam": "Amavi",
+  "municipio": "Petrolândia",
+  "codigo_ibge": "4212700",
+  "total_deficit": 34,
+  "total_domicilios": 2443,
+  "percentual_deficit": 0.01391731477691363
+ },
+ {
+  "id": 200,
+  "fecam": "Ammoc",
+  "municipio": "Capinzal",
+  "codigo_ibge": "4203907",
+  "total_deficit": 124,
+  "total_domicilios": 8946,
+  "percentual_deficit": 0.013860943438408227
+ },
+ {
+  "id": 201,
+  "fecam": "Amrec",
+  "municipio": "Orleans",
+  "codigo_ibge": "4211702",
+  "total_deficit": 118,
+  "total_domicilios": 8538,
+  "percentual_deficit": 0.013820566877488873
+ },
+ {
+  "id": 202,
+  "fecam": "Amauc",
+  "municipio": "Alto Bela Vista",
+  "codigo_ibge": "4200754",
+  "total_deficit": 10,
+  "total_domicilios": 725,
+  "percentual_deficit": 0.013793103448275862
+ },
+ {
+  "id": 203,
+  "fecam": "Amures",
+  "municipio": "Rio Rufino",
+  "codigo_ibge": "4215059",
+  "total_deficit": 12,
+  "total_domicilios": 871,
+  "percentual_deficit": 0.013777267508610792
+ },
+ {
+  "id": 204,
+  "fecam": "Amurel",
+  "municipio": "Tubarão",
+  "codigo_ibge": "4218707",
+  "total_deficit": 576,
+  "total_domicilios": 42129,
+  "percentual_deficit": 0.013672292245246742
+ },
+ {
+  "id": 205,
+  "fecam": "Amosc",
+  "municipio": "Nova Itaberaba",
+  "codigo_ibge": "4211454",
+  "total_deficit": 23,
+  "total_domicilios": 1684,
+  "percentual_deficit": 0.013657957244655582
+ },
+ {
+  "id": 206,
+  "fecam": "Amosc",
+  "municipio": "Pinhalzinho",
+  "codigo_ibge": "4212908",
+  "total_deficit": 111,
+  "total_domicilios": 8160,
+  "percentual_deficit": 0.013602941176470588
+ },
+ {
+  "id": 207,
+  "fecam": "Ameosc",
+  "municipio": "Iporã do Oeste",
+  "codigo_ibge": "4207650",
+  "total_deficit": 46,
+  "total_domicilios": 3401,
+  "percentual_deficit": 0.013525433695971773
+ },
+ {
+  "id": 208,
+  "fecam": "Amplasc",
+  "municipio": "Abdon Batista",
+  "codigo_ibge": "4200051",
+  "total_deficit": 13,
+  "total_domicilios": 969,
+  "percentual_deficit": 0.013415892672858616
+ },
+ {
+  "id": 209,
+  "fecam": "Amauc",
+  "municipio": "Itá",
+  "codigo_ibge": "4208005",
+  "total_deficit": 36,
+  "total_domicilios": 2686,
+  "percentual_deficit": 0.01340282948622487
+ },
+ {
+  "id": 210,
+  "fecam": "Amurel",
+  "municipio": "Pescaria Brava",
+  "codigo_ibge": "4212650",
+  "total_deficit": 51,
+  "total_domicilios": 3822,
+  "percentual_deficit": 0.013343799058084773
+ },
+ {
+  "id": 211,
+  "fecam": "Amures",
+  "municipio": "São José do Cerrito",
+  "codigo_ibge": "4216800",
+  "total_deficit": 44,
+  "total_domicilios": 3327,
+  "percentual_deficit": 0.013225127742711151
+ },
+ {
+  "id": 212,
+  "fecam": "Granfpolis",
+  "municipio": "Leoberto Leal",
+  "codigo_ibge": "4209805",
+  "total_deficit": 16,
+  "total_domicilios": 1217,
+  "percentual_deficit": 0.01314708299096138
+ },
+ {
+  "id": 213,
+  "fecam": "Amrec",
+  "municipio": "Urussanga",
+  "codigo_ibge": "4219002",
+  "total_deficit": 102,
+  "total_domicilios": 7763,
+  "percentual_deficit": 0.013139250289836403
+ },
+ {
+  "id": 214,
+  "fecam": "Amesc",
+  "municipio": "Maracajá",
+  "codigo_ibge": "4210407",
+  "total_deficit": 36,
+  "total_domicilios": 2744,
+  "percentual_deficit": 0.013119533527696793
+ },
+ {
+  "id": 215,
+  "fecam": "Amosc",
+  "municipio": "Serra Alta",
+  "codigo_ibge": "4217550",
+  "total_deficit": 16,
+  "total_domicilios": 1230,
+  "percentual_deficit": 0.013008130081300813
+ },
+ {
+  "id": 216,
+  "fecam": "Ameosc",
+  "municipio": "Paraíso",
+  "codigo_ibge": "4212239",
+  "total_deficit": 20,
+  "total_domicilios": 1574,
+  "percentual_deficit": 0.012706480304955527
+ },
+ {
+  "id": 217,
+  "fecam": "Amosc",
+  "municipio": "Cordilheira Alta",
+  "codigo_ibge": "4204350",
+  "total_deficit": 21,
+  "total_domicilios": 1664,
+  "percentual_deficit": 0.012620192307692308
+ },
+ {
+  "id": 218,
+  "fecam": "Granfpolis",
+  "municipio": "Alfredo Wagner",
+  "codigo_ibge": "4200705",
+  "total_deficit": 49,
+  "total_domicilios": 3893,
+  "percentual_deficit": 0.012586694066272797
+ },
+ {
+  "id": 219,
+  "fecam": "Amerios",
+  "municipio": "Saltinho",
+  "codigo_ibge": "4215356",
+  "total_deficit": 17,
+  "total_domicilios": 1356,
+  "percentual_deficit": 0.012536873156342183
+ },
+ {
+  "id": 220,
+  "fecam": "Amures",
+  "municipio": "Cerro Negro",
+  "codigo_ibge": "4204178",
+  "total_deficit": 15,
+  "total_domicilios": 1197,
+  "percentual_deficit": 0.012531328320802004
+ },
+ {
+  "id": 221,
+  "fecam": "Amavi",
+  "municipio": "Atalanta",
+  "codigo_ibge": "4201802",
+  "total_deficit": 15,
+  "total_domicilios": 1200,
+  "percentual_deficit": 0.0125
+ },
+ {
+  "id": 222,
+  "fecam": "Ammoc",
+  "municipio": "Joaçaba",
+  "codigo_ibge": "4209003",
+  "total_deficit": 147,
+  "total_domicilios": 11769,
+  "percentual_deficit": 0.012490440989039
+ },
+ {
+  "id": 223,
+  "fecam": "Amai",
+  "municipio": "Vargeão",
+  "codigo_ibge": "4219101",
+  "total_deficit": 16,
+  "total_domicilios": 1291,
+  "percentual_deficit": 0.012393493415956624
+ },
+ {
+  "id": 224,
+  "fecam": "Amavi",
+  "municipio": "Imbuia",
+  "codigo_ibge": "4207403",
+  "total_deficit": 27,
+  "total_domicilios": 2182,
+  "percentual_deficit": 0.01237396883593034
+ },
+ {
+  "id": 225,
+  "fecam": "Amarp",
+  "municipio": "Macieira",
+  "codigo_ibge": "4210050",
+  "total_deficit": 8,
+  "total_domicilios": 648,
+  "percentual_deficit": 0.012345679012345678
+ },
+ {
+  "id": 226,
+  "fecam": "Ammoc",
+  "municipio": "Herval d'Oeste",
+  "codigo_ibge": "4206702",
+  "total_deficit": 102,
+  "total_domicilios": 8275,
+  "percentual_deficit": 0.012326283987915408
+ },
+ {
+  "id": 227,
+  "fecam": "Amurel",
+  "municipio": "Imaruí",
+  "codigo_ibge": "4207205",
+  "total_deficit": 56,
+  "total_domicilios": 4582,
+  "percentual_deficit": 0.012221737232649499
+ },
+ {
+  "id": 228,
+  "fecam": "AMVE",
+  "municipio": "Botuverá",
+  "codigo_ibge": "4202701",
+  "total_deficit": 24,
+  "total_domicilios": 1973,
+  "percentual_deficit": 0.012164216928535226
+ },
+ {
+  "id": 229,
+  "fecam": "Ammoc",
+  "municipio": "Ouro",
+  "codigo_ibge": "4211801",
+  "total_deficit": 32,
+  "total_domicilios": 2653,
+  "percentual_deficit": 0.01206181681115718
+ },
+ {
+  "id": 230,
+  "fecam": "Ammoc",
+  "municipio": "Ibicaré",
+  "codigo_ibge": "4206801",
+  "total_deficit": 15,
+  "total_domicilios": 1250,
+  "percentual_deficit": 0.012
+ },
+ {
+  "id": 231,
+  "fecam": "Amrec",
+  "municipio": "Lauro Müller",
+  "codigo_ibge": "4209607",
+  "total_deficit": 63,
+  "total_domicilios": 5281,
+  "percentual_deficit": 0.011929558795682636
+ },
+ {
+  "id": 232,
+  "fecam": "Ameosc",
+  "municipio": "Princesa",
+  "codigo_ibge": "4214151",
+  "total_deficit": 13,
+  "total_domicilios": 1093,
+  "percentual_deficit": 0.011893870082342177
+ },
+ {
+  "id": 233,
+  "fecam": "Amosc",
+  "municipio": "Águas de Chapecó",
+  "codigo_ibge": "4200507",
+  "total_deficit": 27,
+  "total_domicilios": 2274,
+  "percentual_deficit": 0.011873350923482849
+ },
+ {
+  "id": 234,
+  "fecam": "Ameosc",
+  "municipio": "Dionísio Cerqueira",
+  "codigo_ibge": "4205001",
+  "total_deficit": 65,
+  "total_domicilios": 5630,
+  "percentual_deficit": 0.011545293072824156
+ },
+ {
+  "id": 235,
+  "fecam": "Amerios",
+  "municipio": "Santa Terezinha do Progresso",
+  "codigo_ibge": "4215687",
+  "total_deficit": 11,
+  "total_domicilios": 955,
+  "percentual_deficit": 0.011518324607329843
+ },
+ {
+  "id": 236,
+  "fecam": "Amures",
+  "municipio": "Urupema",
+  "codigo_ibge": "4218954",
+  "total_deficit": 11,
+  "total_domicilios": 962,
+  "percentual_deficit": 0.011434511434511435
+ },
+ {
+  "id": 237,
+  "fecam": "Amnoroeste",
+  "municipio": "Galvão",
+  "codigo_ibge": "4205605",
+  "total_deficit": 13,
+  "total_domicilios": 1155,
+  "percentual_deficit": 0.011255411255411256
+ },
+ {
+  "id": 238,
+  "fecam": "Amauc",
+  "municipio": "Arabutã",
+  "codigo_ibge": "4201273",
+  "total_deficit": 18,
+  "total_domicilios": 1605,
+  "percentual_deficit": 0.011214953271028037
+ },
+ {
+  "id": 239,
+  "fecam": "Amrec",
+  "municipio": "Treviso",
+  "codigo_ibge": "4218350",
+  "total_deficit": 15,
+  "total_domicilios": 1367,
+  "percentual_deficit": 0.010972933430870519
+ },
+ {
+  "id": 240,
+  "fecam": "Amerios",
+  "municipio": "Riqueza",
+  "codigo_ibge": "4215075",
+  "total_deficit": 20,
+  "total_domicilios": 1836,
+  "percentual_deficit": 0.010893246187363835
+ },
+ {
+  "id": 241,
+  "fecam": "Amesc",
+  "municipio": "Santa Rosa do Sul",
+  "codigo_ibge": "4215653",
+  "total_deficit": 40,
+  "total_domicilios": 3674,
+  "percentual_deficit": 0.010887316276537834
+ },
+ {
+  "id": 242,
+  "fecam": "Ameosc",
+  "municipio": "Mondaí",
+  "codigo_ibge": "4211009",
+  "total_deficit": 41,
+  "total_domicilios": 3779,
+  "percentual_deficit": 0.010849431066419687
+ },
+ {
+  "id": 243,
+  "fecam": "Amavi",
+  "municipio": "Agronômica",
+  "codigo_ibge": "4200309",
+  "total_deficit": 24,
+  "total_domicilios": 2229,
+  "percentual_deficit": 0.010767160161507403
+ },
+ {
+  "id": 244,
+  "fecam": "Amavi",
+  "municipio": "Trombudo Central",
+  "codigo_ibge": "4218608",
+  "total_deficit": 29,
+  "total_domicilios": 2724,
+  "percentual_deficit": 0.010646108663729809
+ },
+ {
+  "id": 245,
+  "fecam": "Amarp",
+  "municipio": "Tangará",
+  "codigo_ibge": "4217907",
+  "total_deficit": 32,
+  "total_domicilios": 3050,
+  "percentual_deficit": 0.010491803278688525
+ },
+ {
+  "id": 246,
+  "fecam": "Amrec",
+  "municipio": "Nova Veneza",
+  "codigo_ibge": "4211603",
+  "total_deficit": 51,
+  "total_domicilios": 4870,
+  "percentual_deficit": 0.010472279260780287
+ },
+ {
+  "id": 247,
+  "fecam": "Amosc",
+  "municipio": "Jardinópolis",
+  "codigo_ibge": "4208955",
+  "total_deficit": 7,
+  "total_domicilios": 676,
+  "percentual_deficit": 0.010355029585798817
+ },
+ {
+  "id": 248,
+  "fecam": "Amesc",
+  "municipio": "Turvo",
+  "codigo_ibge": "4218806",
+  "total_deficit": 49,
+  "total_domicilios": 4814,
+  "percentual_deficit": 0.01017864561695056
+ },
+ {
+  "id": 249,
+  "fecam": "Granfpolis",
+  "municipio": "Águas Mornas",
+  "codigo_ibge": "4200606",
+  "total_deficit": 25,
+  "total_domicilios": 2460,
+  "percentual_deficit": 0.01016260162601626
+ },
+ {
+  "id": 250,
+  "fecam": "Amurel",
+  "municipio": "Gravatal",
+  "codigo_ibge": "4206207",
+  "total_deficit": 47,
+  "total_domicilios": 4626,
+  "percentual_deficit": 0.010159965412883701
+ },
+ {
+  "id": 251,
+  "fecam": "Amerios",
+  "municipio": "Cunhataí",
+  "codigo_ibge": "4204756",
+  "total_deficit": 7,
+  "total_domicilios": 703,
+  "percentual_deficit": 0.00995732574679943
+ },
+ {
+  "id": 252,
+  "fecam": "Amures",
+  "municipio": "Bocaina do Sul",
+  "codigo_ibge": "4202438",
+  "total_deficit": 13,
+  "total_domicilios": 1324,
+  "percentual_deficit": 0.009818731117824773
+ },
+ {
+  "id": 253,
+  "fecam": "Amerios",
+  "municipio": "Maravilha",
+  "codigo_ibge": "4210506",
+  "total_deficit": 104,
+  "total_domicilios": 10619,
+  "percentual_deficit": 0.009793765891326868
+ },
+ {
+  "id": 254,
+  "fecam": "Ameosc",
+  "municipio": "São José do Cedro",
+  "codigo_ibge": "4216701",
+  "total_deficit": 52,
+  "total_domicilios": 5336,
+  "percentual_deficit": 0.009745127436281859
+ },
+ {
+  "id": 255,
+  "fecam": "Ameosc",
+  "municipio": "Anchieta",
+  "codigo_ibge": "4200804",
+  "total_deficit": 22,
+  "total_domicilios": 2276,
+  "percentual_deficit": 0.009666080843585237
+ },
+ {
+  "id": 256,
+  "fecam": "Amavi",
+  "municipio": "Laurentino",
+  "codigo_ibge": "4209508",
+  "total_deficit": 28,
+  "total_domicilios": 2938,
+  "percentual_deficit": 0.009530292716133424
+ },
+ {
+  "id": 257,
+  "fecam": "Amavi",
+  "municipio": "Vidal Ramos",
+  "codigo_ibge": "4219200",
+  "total_deficit": 22,
+  "total_domicilios": 2330,
+  "percentual_deficit": 0.00944206008583691
+ },
+ {
+  "id": 258,
+  "fecam": "Amarp",
+  "municipio": "Arroio Trinta",
+  "codigo_ibge": "4201604",
+  "total_deficit": 13,
+  "total_domicilios": 1391,
+  "percentual_deficit": 0.009345794392523364
+ },
+ {
+  "id": 259,
+  "fecam": "Ameosc",
+  "municipio": "São Miguel do Oeste",
+  "codigo_ibge": "4217204",
+  "total_deficit": 161,
+  "total_domicilios": 17296,
+  "percentual_deficit": 0.009308510638297872
+ },
+ {
+  "id": 260,
+  "fecam": "Amurc",
+  "municipio": "Frei Rogério",
+  "codigo_ibge": "4205555",
+  "total_deficit": 8,
+  "total_domicilios": 866,
+  "percentual_deficit": 0.009237875288683603
+ },
+ {
+  "id": 261,
+  "fecam": "Amnoroeste",
+  "municipio": "Coronel Martins",
+  "codigo_ibge": "4204459",
+  "total_deficit": 7,
+  "total_domicilios": 762,
+  "percentual_deficit": 0.009186351706036745
+ },
+ {
+  "id": 262,
+  "fecam": "Amerios",
+  "municipio": "São Miguel da Boa Vista",
+  "codigo_ibge": "4217154",
+  "total_deficit": 6,
+  "total_domicilios": 662,
+  "percentual_deficit": 0.00906344410876133
+ },
+ {
+  "id": 263,
+  "fecam": "Ammoc",
+  "municipio": "Erval Velho",
+  "codigo_ibge": "4205209",
+  "total_deficit": 17,
+  "total_domicilios": 1878,
+  "percentual_deficit": 0.009052183173588925
+ },
+ {
+  "id": 264,
+  "fecam": "Amures",
+  "municipio": "Capão Alto",
+  "codigo_ibge": "4203253",
+  "total_deficit": 9,
+  "total_domicilios": 1002,
+  "percentual_deficit": 0.008982035928143712
+ },
+ {
+  "id": 265,
+  "fecam": "Amesc",
+  "municipio": "Jacinto Machado",
+  "codigo_ibge": "4208708",
+  "total_deficit": 35,
+  "total_domicilios": 3951,
+  "percentual_deficit": 0.00885851683118198
+ },
+ {
+  "id": 266,
+  "fecam": "Amosc",
+  "municipio": "União do Oeste",
+  "codigo_ibge": "4218855",
+  "total_deficit": 9,
+  "total_domicilios": 1026,
+  "percentual_deficit": 0.008771929824561403
+ },
+ {
+  "id": 267,
+  "fecam": "Amavi",
+  "municipio": "Braço do Trombudo",
+  "codigo_ibge": "4202859",
+  "total_deficit": 13,
+  "total_domicilios": 1491,
+  "percentual_deficit": 0.008718980549966466
+ },
+ {
+  "id": 268,
+  "fecam": "Amerios",
+  "municipio": "Cunha Porã",
+  "codigo_ibge": "4204707",
+  "total_deficit": 36,
+  "total_domicilios": 4189,
+  "percentual_deficit": 0.008593936500358081
+ },
+ {
+  "id": 269,
+  "fecam": "Amesc",
+  "municipio": "Timbé do Sul",
+  "codigo_ibge": "4218103",
+  "total_deficit": 17,
+  "total_domicilios": 1988,
+  "percentual_deficit": 0.008551307847082495
+ },
+ {
+  "id": 270,
+  "fecam": "Ammoc",
+  "municipio": "Luzerna",
+  "codigo_ibge": "4210035",
+  "total_deficit": 19,
+  "total_domicilios": 2283,
+  "percentual_deficit": 0.008322382829610162
+ },
+ {
+  "id": 271,
+  "fecam": "Amesc",
+  "municipio": "Morro Grande",
+  "codigo_ibge": "4211256",
+  "total_deficit": 9,
+  "total_domicilios": 1088,
+  "percentual_deficit": 0.008272058823529412
+ },
+ {
+  "id": 272,
+  "fecam": "Granfpolis",
+  "municipio": "Rancho Queimado",
+  "codigo_ibge": "4214300",
+  "total_deficit": 10,
+  "total_domicilios": 1246,
+  "percentual_deficit": 0.008025682182985553
+ },
+ {
+  "id": 273,
+  "fecam": "Granfpolis",
+  "municipio": "São Bonifácio",
+  "codigo_ibge": "4215901",
+  "total_deficit": 9,
+  "total_domicilios": 1124,
+  "percentual_deficit": 0.00800711743772242
+ },
+ {
+  "id": 274,
+  "fecam": "Amauc",
+  "municipio": "Piratuba",
+  "codigo_ibge": "4213104",
+  "total_deficit": 18,
+  "total_domicilios": 2284,
+  "percentual_deficit": 0.00788091068301226
+ },
+ {
+  "id": 275,
+  "fecam": "Amarp",
+  "municipio": "Salto Veloso",
+  "codigo_ibge": "4215406",
+  "total_deficit": 13,
+  "total_domicilios": 1663,
+  "percentual_deficit": 0.007817197835237523
+ },
+ {
+  "id": 276,
+  "fecam": "Amnoroeste",
+  "municipio": "Irati",
+  "codigo_ibge": "4207858",
+  "total_deficit": 6,
+  "total_domicilios": 787,
+  "percentual_deficit": 0.007623888182973317
+ },
+ {
+  "id": 277,
+  "fecam": "Amurel",
+  "municipio": "Pedras Grandes",
+  "codigo_ibge": "4212403",
+  "total_deficit": 12,
+  "total_domicilios": 1588,
+  "percentual_deficit": 0.007556675062972292
+ },
+ {
+  "id": 278,
+  "fecam": "Amarp",
+  "municipio": "Iomerê",
+  "codigo_ibge": "4207577",
+  "total_deficit": 8,
+  "total_domicilios": 1066,
+  "percentual_deficit": 0.0075046904315197
+ },
+ {
+  "id": 279,
+  "fecam": "Amavi",
+  "municipio": "Chapadão do Lageado",
+  "codigo_ibge": "4204194",
+  "total_deficit": 8,
+  "total_domicilios": 1078,
+  "percentual_deficit": 0.0074211502782931356
+ },
+ {
+  "id": 280,
+  "fecam": "Amnoroeste",
+  "municipio": "Jupiá",
+  "codigo_ibge": "4209177",
+  "total_deficit": 7,
+  "total_domicilios": 947,
+  "percentual_deficit": 0.007391763463569166
+ },
+ {
+  "id": 281,
+  "fecam": "Amerios",
+  "municipio": "Modelo",
+  "codigo_ibge": "4210902",
+  "total_deficit": 11,
+  "total_domicilios": 1531,
+  "percentual_deficit": 0.007184846505551927
+ },
+ {
+  "id": 282,
+  "fecam": "Amplasc",
+  "municipio": "Zortéa",
+  "codigo_ibge": "4219853",
+  "total_deficit": 10,
+  "total_domicilios": 1463,
+  "percentual_deficit": 0.00683526999316473
+ },
+ {
+  "id": 283,
+  "fecam": "Amures",
+  "municipio": "Anita Garibaldi",
+  "codigo_ibge": "4201000",
+  "total_deficit": 21,
+  "total_domicilios": 3125,
+  "percentual_deficit": 0.00672
+ },
+ {
+  "id": 284,
+  "fecam": "Amerios",
+  "municipio": "Palmitos",
+  "codigo_ibge": "4212106",
+  "total_deficit": 40,
+  "total_domicilios": 6048,
+  "percentual_deficit": 0.006613756613756613
+ },
+ {
+  "id": 285,
+  "fecam": "Amesc",
+  "municipio": "Meleiro",
+  "codigo_ibge": "4210803",
+  "total_deficit": 16,
+  "total_domicilios": 2585,
+  "percentual_deficit": 0.006189555125725338
+ },
+ {
+  "id": 286,
+  "fecam": "Amesc",
+  "municipio": "São João do Sul",
+  "codigo_ibge": "4216404",
+  "total_deficit": 20,
+  "total_domicilios": 3323,
+  "percentual_deficit": 0.006018657839301836
+ },
+ {
+  "id": 287,
+  "fecam": "Amosc",
+  "municipio": "Águas Frias",
+  "codigo_ibge": "4200556",
+  "total_deficit": 6,
+  "total_domicilios": 1026,
+  "percentual_deficit": 0.005847953216374269
+ },
+ {
+  "id": 288,
+  "fecam": "Amauc",
+  "municipio": "Ipira",
+  "codigo_ibge": "4207601",
+  "total_deficit": 10,
+  "total_domicilios": 1835,
+  "percentual_deficit": 0.005449591280653951
+ },
+ {
+  "id": 289,
+  "fecam": "Amauc",
+  "municipio": "Peritiba",
+  "codigo_ibge": "4212601",
+  "total_deficit": 6,
+  "total_domicilios": 1200,
+  "percentual_deficit": 0.005
+ },
+ {
+  "id": 290,
+  "fecam": "Amplasc",
+  "municipio": "Vargem",
+  "codigo_ibge": "4219150",
+  "total_deficit": 5,
+  "total_domicilios": 1009,
+  "percentual_deficit": 0.004955401387512388
+ },
+ {
+  "id": 291,
+  "fecam": "Amplasc",
+  "municipio": "Brunópolis",
+  "codigo_ibge": "4202875",
+  "total_deficit": 4,
+  "total_domicilios": 935,
+  "percentual_deficit": 0.0042780748663101605
+ },
+ {
+  "id": 292,
+  "fecam": "Ameosc",
+  "municipio": "São João do Oeste",
+  "codigo_ibge": "4216255",
+  "total_deficit": 10,
+  "total_domicilios": 2347,
+  "percentual_deficit": 0.004260758414997869
+ },
+ {
+  "id": 293,
+  "fecam": "Amerios",
+  "municipio": "Tigrinhos",
+  "codigo_ibge": "4217956",
+  "total_deficit": 3,
+  "total_domicilios": 863,
+  "percentual_deficit": 0.0034762456546929316
+ },
+ {
+  "id": 294,
+  "fecam": "Amplasc",
+  "municipio": "Celso Ramos",
+  "codigo_ibge": "4204152",
+  "total_deficit": 3,
+  "total_domicilios": 1031,
+  "percentual_deficit": 0.002909796314258002
+ },
+ {
+  "id": 295,
+  "fecam": "Ameosc",
+  "municipio": "Guarujá do Sul",
+  "codigo_ibge": "4206603",
+  "total_deficit": 3,
+  "total_domicilios": 1946,
+  "percentual_deficit": 0.001541623843782117
+ }
+]
