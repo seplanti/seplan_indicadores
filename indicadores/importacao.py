@@ -1,10 +1,11 @@
 """Conversão de CSV exportado do Impala/Databricks para o JSON da pasta tabelas_bi.
 
 Dados por município: o CSV traz o código IBGE na coluna `id_municipio`, `codigo`,
-`codigo_ibge`, `cod_munic`, `cod__municipio`, `co_municipio`, `cd_mun` ou `municipio` (aceita "4209508.0" e o código de 6 dígitos, sem o dígito verificador); cada
+`codigo_ibge`, `codigo_do_municipio`, `cod_munic`, `cod__municipio`, `co_municipio`, `cd_mun` ou `municipio` (aceita "4209508.0" e o código de 6 dígitos, sem o dígito verificador); cada
 registro recebe o nome do município e a FECAM a partir de Dados/municipios_sc.json, e as
-colunas fecam/municipio do CSV, se houver, são descartadas. Linhas sem código (rodapés como
-"NULL" ou "OBS: ...") são ignoradas.
+colunas fecam/municipio do CSV, se houver, são descartadas. Se o código vier NULL mas a coluna
+`municipio` trouxer o nome, o município é achado pelo nome (sem diferenciar acentos). Linhas sem
+código nem nome conhecido (rodapés como "NULL" ou "OBS: ...") são ignoradas.
 
 Dados por FECAM: sem coluna de código, mas com a coluna `fecam`; o nome é padronizado
 pela grafia de municipios_sc.json e a linha "SC" (ou "Santa Catarina") é o total do estado
@@ -14,7 +15,7 @@ abrangencia "UF" ou "País".
 Com --colunas-por-ano, colunas como `esperanca_de_vida_1991`, `esperanca_de_vida_2000` viram
 uma linha por ano, com a coluna `ano` e a coluna `esperanca_de_vida`.
 
-Em ambos, valores NULL viram null, números inteiros perdem o ".0" e as colunas de controle
+Em ambos, valores NULL viram null, decimais com vírgula ("68,61") viram número, números inteiros perdem o ".0" e as colunas de controle
 da carga (write_*) são descartadas.
 
 Uso:  python -m indicadores.importacao <arquivo.csv> <nome_destino.json>
@@ -27,6 +28,7 @@ import argparse
 import csv
 import json
 import re
+import unicodedata
 from dataclasses import dataclass, field
 from pathlib import Path
 
@@ -34,8 +36,8 @@ from . import config
 from .repositorio import carregar_json
 
 # "municipio" fica depois dos demais porque, em alguns CSVs, traz o nome e não o código
-COLUNAS_CODIGO = ("id_municipio", "codigo", "codigo_ibge", "cod_munic", "cod__municipio", "co_municipio", "cd_mun",
-                  "municipio")
+COLUNAS_CODIGO = ("id_municipio", "codigo", "codigo_ibge", "codigo_do_municipio", "cod_munic", "cod__municipio",
+                  "co_municipio", "cd_mun", "municipio")
 COLUNAS_PREENCHIDAS = ("fecam", "municipio", "codigo_ibge")  # vêm de municipios_sc.json
 COLUNA_COM_ANO = re.compile(r"^(?P<base>.+)_(?P<ano>(19|20)\d{2})$")
 COLUNA_FECAM = "fecam"
@@ -51,17 +53,26 @@ GRAFIAS_ALTERNATIVAS = {"AMONOROESTE": "AMNOROESTE"}
 ORDEM_ABRANGENCIA = {"FECAM": 0, "Estado": 1, "UF": 2, "País": 3}
 COLUNAS_DESCARTADAS = ("write_date", "write_time")
 NULOS = ("", "NULL", "null", "None")
+DECIMAL_COM_VIRGULA = re.compile(r"^-?\d+,\d+$")
 
 
 def converter_valor(texto):
-    """'2718.0' -> 2718, '1.5' -> 1.5, 'NULL' -> None; demais textos ficam como estão."""
+    """'2718.0' -> 2718, '1.5' e '1,5' -> 1.5, 'NULL' -> None; demais textos ficam como estão."""
     if texto is None or texto.strip() in NULOS:
         return None
+    if DECIMAL_COM_VIRGULA.match(texto.strip()):
+        texto = texto.strip().replace(",", ".")
     try:
         numero = float(texto)
     except ValueError:
         return texto
     return int(numero) if numero.is_integer() else numero
+
+
+def normalizar_nome(texto):
+    """'Lauro Müller' e 'LAURO MULLER' -> 'lauro muller' (para achar o município pelo nome)."""
+    sem_acento = unicodedata.normalize("NFKD", texto or "").encode("ascii", "ignore").decode()
+    return " ".join(sem_acento.lower().split())
 
 
 def normalizar_codigo(texto):
@@ -98,6 +109,7 @@ def converter_registros(linhas, municipios, ano=None, somente_sc=False, descarta
     resultado = Importacao()
     linhas = iter(expandir_colunas_por_ano(linhas) if colunas_por_ano else linhas)
     sem_digito = {c[:6]: c for c in municipios}
+    por_nome = {normalizar_nome(m["municipio"]): c for c, m in municipios.items()}
     coluna_codigo = None
     for linha in linhas:
         if coluna_codigo is None:
@@ -109,6 +121,9 @@ def converter_registros(linhas, municipios, ano=None, somente_sc=False, descarta
         codigo = normalizar_codigo(linha[coluna_codigo])
         if codigo is not None and len(codigo) == 6:
             codigo = sem_digito.get(codigo, codigo)
+        if codigo is None and coluna_codigo != "municipio" and linha.get("municipio"):
+            # código NULL no CSV, mas o nome do município está presente
+            codigo = por_nome.get(normalizar_nome(linha["municipio"]))
         if codigo is None or (somente_sc and codigo not in municipios):
             resultado.ignoradas += 1
             continue

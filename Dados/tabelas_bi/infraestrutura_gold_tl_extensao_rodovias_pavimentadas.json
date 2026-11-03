@@ -1,0 +1,156 @@
+[
+ {
+  "id": 1,
+  "ano": 2025,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "extensao_km": 212.8
+ },
+ {
+  "id": 2,
+  "ano": 2025,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "extensao_km": 454.3
+ },
+ {
+  "id": 3,
+  "ano": 2025,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "extensao_km": 274.1
+ },
+ {
+  "id": 4,
+  "ano": 2025,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "extensao_km": 459.6
+ },
+ {
+  "id": 5,
+  "ano": 2025,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "extensao_km": 181.9
+ },
+ {
+  "id": 6,
+  "ano": 2025,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "extensao_km": 187.4
+ },
+ {
+  "id": 7,
+  "ano": 2025,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "extensao_km": 169.3
+ },
+ {
+  "id": 8,
+  "ano": 2025,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "extensao_km": 17.7
+ },
+ {
+  "id": 9,
+  "ano": 2025,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "extensao_km": 229.2
+ },
+ {
+  "id": 10,
+  "ano": 2025,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "extensao_km": 91.4
+ },
+ {
+  "id": 11,
+  "ano": 2025,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "extensao_km": 360.9
+ },
+ {
+  "id": 12,
+  "ano": 2025,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "extensao_km": 57.4
+ },
+ {
+  "id": 13,
+  "ano": 2025,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "extensao_km": 77.9
+ },
+ {
+  "id": 14,
+  "ano": 2025,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "extensao_km": 248.8
+ },
+ {
+  "id": 15,
+  "ano": 2025,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "extensao_km": 226.9
+ },
+ {
+  "id": 16,
+  "ano": 2025,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "extensao_km": 136
+ },
+ {
+  "id": 17,
+  "ano": 2025,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "extensao_km": 310
+ },
+ {
+  "id": 18,
+  "ano": 2025,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "extensao_km": 505.7
+ },
+ {
+  "id": 19,
+  "ano": 2025,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "extensao_km": 55.2
+ },
+ {
+  "id": 20,
+  "ano": 2025,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "extensao_km": 397.7
+ },
+ {
+  "id": 21,
+  "ano": 2025,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "extensao_km": 349.6
+ },
+ {
+  "id": 22,
+  "ano": 2025,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "extensao_km": 5003.8
+ }
+]
