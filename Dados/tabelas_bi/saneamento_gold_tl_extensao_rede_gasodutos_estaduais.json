@@ -1,0 +1,123 @@
+[
+ {
+  "id": 1,
+  "ano": 2025,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "estrutura_produtiva": "Região em Ascensão",
+  "trajetoria_observada": 93088.84000000001,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 2,
+  "ano": 2025,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "estrutura_produtiva": "Região com Potencial",
+  "trajetoria_observada": 18279.079999999994,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 3,
+  "ano": 2025,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "estrutura_produtiva": "Região Avançada",
+  "trajetoria_observada": 212319.1,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 4,
+  "ano": 2025,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "estrutura_produtiva": "Região Avançada",
+  "trajetoria_observada": 238639.43000000002,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 5,
+  "ano": 2025,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "estrutura_produtiva": "Região Avançada",
+  "trajetoria_observada": 296496.11,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 6,
+  "ano": 2025,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "estrutura_produtiva": "Região em Ascensão",
+  "trajetoria_observada": 89980.98999999999,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 7,
+  "ano": 2025,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "estrutura_produtiva": "Região com Potencial",
+  "trajetoria_observada": 96495.92,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 8,
+  "ano": 2025,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "estrutura_produtiva": "Região Avançada",
+  "trajetoria_observada": 105072.73,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 9,
+  "ano": 2025,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "estrutura_produtiva": "Região Avançada",
+  "trajetoria_observada": 273726.05700000003,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 10,
+  "ano": 2025,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "estrutura_produtiva": "Região Avançada",
+  "trajetoria_observada": 191002.47999999998,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ },
+ {
+  "id": 11,
+  "ano": 2025,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "estrutura_produtiva": null,
+  "trajetoria_observada": 1615100.7369999997,
+  "trajetoria_suavizada": null,
+  "intervalo_de_confianca_menos": null,
+  "intervalo_de_confianca_mais": null
+ }
+]

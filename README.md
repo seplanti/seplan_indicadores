@@ -46,6 +46,34 @@ sem reiniciar o app):
 
 A chave é o `id` do indicador no catálogo. `motivo` e `desde` são opcionais.
 
+## Gateway do Hue (Impala/HDFS)
+
+O próprio painel (`python app.py`, porta 8000) atende as rotas abaixo e repassa para a
+API v1 do Hue (`https://boavista-dados.ciasc.sc.gov.br`), cuidando do token JWT sozinho.
+Copie `.env.exemplo` para `.env` (ignorado pelo git) e preencha `HUE_USUARIO` e `HUE_SENHA`;
+sem isso as rotas respondem 503. Alternativa sem senha em arquivo: envie o header
+`Authorization: Bearer <access_token>` (o token de `/api/v1/token/auth/` do Hue), que é repassado ao Hue
+e tem prioridade sobre o `.env`. `HUE_BANCO` é o banco usado quando o corpo não traz `database`.
+
+Para rodar o Hue separado do painel há também `python gateway.py` (porta 8001), com as mesmas rotas.
+
+| Método | Rota | Hue |
+|---|---|---|
+| POST | `/api/queries` com `{"statement": "SHOW TABLES", "dialect": "impala", "database": "seplan_avancasc"}` → `{"id": ...}` | `editor/execute/<dialeto>` |
+| GET | `/api/queries/<id>/status` | `editor/check_status` |
+| GET | `/api/queries/<id>/results?rows=100` | `editor/fetch_result_data` |
+| GET | `/api/files?path=/user/<usuario>` | `storage/view=<caminho>` |
+| GET | `/api/tabelas?database=<banco>` | `SHOW TABLES IN <banco>` |
+| GET | `/api/tabelas/<tabela>?database=<banco>&limit=100&colunas=a,b` | `SELECT a, b FROM <banco>.<tabela> LIMIT 100` |
+
+As rotas `/api/tabelas` fazem o ciclo execute → check_status → fetch_result_data numa só chamada e
+devolvem `{"sql", "columns", "total", "rows": [{coluna: valor}], "has_more"}`. Banco, tabela e colunas só
+aceitam letras, números e `_` (400 caso contrário); tabela inexistente dá 404 e falta de permissão no Ranger, 403.
+`limit` vai de 1 a `HUE_LIMITE_MAXIMO` (10000) e a espera pela consulta é de até `HUE_TEMPO_MAXIMO` (120 s, depois 504).
+A maioria das tabelas está em `seplan_avancasc_stage`.
+
+No Insomnia, `gateway_url` = `http://127.0.0.1:8000` (ou `:8001` se usar o `gateway.py` avulso).
+
 ## Importar dados do Impala/Databricks (CSV)
 
 ```
@@ -53,12 +81,13 @@ python -m indicadores.importacao <arquivo.csv> <nome_destino.json> [--ano 2024] 
 ```
 
 Grava o JSON em `Dados/tabelas_bi`. O CSV deve ter o código IBGE do município na
-coluna `id_municipio`, `codigo`, `codigo_ibge`, `cod_munic`, `cod__municipio`, `co_municipio`, `cd_mun` ou `municipio`
+coluna `id_municipio`, `codigo`, `codigo_ibge`, `codigo_do_municipio`, `cod_munic`, `cod__municipio`, `co_municipio`, `cd_mun` ou `municipio`
 (nessa ordem de preferência, porque `municipio` às vezes traz o nome; aceita `4209508.0` e o código de
 6 dígitos, sem o dígito verificador); as demais colunas viram colunas de dados (as colunas
 `fecam`/`municipio` do CSV são substituídas pelas de `municipios_sc.json`, `write_date`/`write_time`
-são descartadas, `NULL` vira `null`) e linhas sem
-código (rodapés `NULL`/`OBS: ...`) são ignoradas. Nome e FECAM de cada município vêm de
+são descartadas, `NULL` vira `null`, decimal com vírgula como `"68,61"` vira número). Se o código vier
+`NULL` mas a coluna `municipio` trouxer o nome, o município é achado pelo nome (sem diferenciar acentos);
+linhas sem código nem nome conhecido (rodapés `NULL`/`OBS: ...`) são ignoradas. Nome e FECAM de cada município vêm de
 `Dados/municipios_sc.json`.
 
 CSVs agregados por FECAM (coluna `fecam`, sem código de município) também são aceitos:
@@ -84,8 +113,15 @@ python -m indicadores.importacao Taxa_de_participacao_cultura_emprego.csv turism
 python -m indicadores.importacao tl_percent_programas_habit.csv avancasc_assistencia_social_ouro_tl_percent_programas_habit.json --ano 2020
 python -m indicadores.importacao id_graf_taxa_abandono_ensino_medio.csv avancasc_educacao_ouro_id_graf_taxa_abandono_ensino_medio.json --descartar file_source
 python -m indicadores.importacao avancasc.saude_bronze.esperanca_vida_ao_nascer_planilha1.csv avancasc_saude_bronze_esperanca_vida_ao_nascer_planilha1.json --colunas-por-ano --descartar espacialidades
+python -m indicadores.importacao avancasc.saneamento_ouro.indice_de_abastecimento_de_agua.csv avancasc_saneamento_ouro_indice_de_abastecimento_de_agua.json
+python -m indicadores.importacao taxa_rdo_corrigido.csv avancasc_saneamento_bronze_taxa_rdo.json --descartar estado
 python -m indicadores.importacao empregos_economia_criativa_sebrae.csv emprego_renda_hab_asssoc_gold_tl_empregos_economia_criativa_sebrae.json --descartar trajetoria_suavizada intervalo_de_confianca_mais intervalo_de_confianca_menos
 ```
+
+O CSV `avancasc.saneamento_bronze.taxa_rdo.csv` vem do Impala com nomes de prestador que têm vírgula
+sem aspas (ex.: `Secretaria de Agricultura, Indústria, Comércio`), o que desloca as colunas. Antes de
+importar, junte as partes do nome em `prestador` e deixe `natureza_juridica` como `NULL` nessas linhas
+(nelas a taxa já vem `NULL`).
 
 Quando vários indicadores dividem o mesmo arquivo (ex.: a participação do VAB de cada setor
 em `industria_silver_tl__extract_pib_municipal_fecam.json`), informe no catálogo a coluna de

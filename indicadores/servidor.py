@@ -66,9 +66,13 @@ class ArquivosEstaticos:
 class Aplicacao:
     """Recebe o caminho da requisição e devolve uma Resposta (independente de HTTP)."""
 
-    def __init__(self, consulta, estaticos: ArquivosEstaticos):
+    # Rotas atendidas pelo gateway do Hue quando ele é ligado ao painel (mesma porta).
+    PREFIXOS_GATEWAY = ("/api/queries", "/api/files", "/api/tabelas")
+
+    def __init__(self, consulta, estaticos: ArquivosEstaticos, gateway=None):
         self.consulta = consulta
         self.estaticos = estaticos
+        self.gateway = gateway
         self.rotas = [
             (re.compile(r"/api/indicadores"), self.indicadores),
             (re.compile(r"/api/indicadores/(\d+)/dados"), self.dados),
@@ -76,8 +80,12 @@ class Aplicacao:
             (re.compile(r"/api/notificacoes"), self.notificacoes),
         ]
 
-    def tratar(self, caminho):
+    def tratar(self, caminho, metodo="GET", corpo=b"", token=None):
         url = urlparse(caminho)
+        if self.gateway and url.path.startswith(self.PREFIXOS_GATEWAY):
+            return self.gateway.tratar(metodo, caminho, corpo, token)
+        if metodo != "GET":
+            return Resposta.erro(405, f"Método {metodo} não permitido em {url.path}")
         try:
             for padrao, rota in self.rotas:
                 encontrado = padrao.fullmatch(url.path)
@@ -108,11 +116,22 @@ class Aplicacao:
         return Resposta.json(self.consulta.notificacoes())
 
 
+def token_bearer(cabecalhos):
+    """Token do header "Authorization: Bearer <token>" (repassado ao Hue), ou None."""
+    tipo, _, token = (cabecalhos.get("Authorization") or "").partition(" ")
+    return token.strip() or None if tipo.lower() == "bearer" else None
+
+
 class Handler(BaseHTTPRequestHandler):
     server: "Servidor"
 
     def do_GET(self):
-        self._enviar(self.server.aplicacao.tratar(self.path))
+        self._enviar(self.server.aplicacao.tratar(self.path, token=token_bearer(self.headers)))
+
+    def do_POST(self):
+        tamanho = int(self.headers.get("Content-Length") or 0)
+        corpo = self.rfile.read(tamanho) if tamanho else b""
+        self._enviar(self.server.aplicacao.tratar(self.path, "POST", corpo, token_bearer(self.headers)))
 
     def _enviar(self, resposta: Resposta):
         self.send_response(resposta.status)
@@ -130,8 +149,8 @@ class Servidor(ThreadingHTTPServer):
     # (e as requisições continuam indo para o primeiro); lá a porta em uso deve falhar.
     allow_reuse_address = sys.platform != "win32"
 
-    def __init__(self, aplicacao: Aplicacao, host, porta):
-        super().__init__((host, porta), Handler)
+    def __init__(self, aplicacao, host, porta, handler=Handler):
+        super().__init__((host, porta), handler)
         self.aplicacao = aplicacao
 
     @property

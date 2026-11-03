@@ -1,0 +1,5502 @@
+[
+ {
+  "id": 1,
+  "ano": 2011,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 66.99,
+  "trajetoria_suavizada": 69.53,
+  "intervalo_de_confianca_menos": 69.53,
+  "intervalo_de_confianca_mais": 69.53
+ },
+ {
+  "id": 2,
+  "ano": 2012,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 78.28,
+  "trajetoria_suavizada": 74.3,
+  "intervalo_de_confianca_menos": 74.3,
+  "intervalo_de_confianca_mais": 74.3
+ },
+ {
+  "id": 3,
+  "ano": 2013,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 80.86,
+  "trajetoria_suavizada": 77.21,
+  "intervalo_de_confianca_menos": 77.21,
+  "intervalo_de_confianca_mais": 77.21
+ },
+ {
+  "id": 4,
+  "ano": 2014,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 76.52,
+  "trajetoria_suavizada": 78.31,
+  "intervalo_de_confianca_menos": 78.31,
+  "intervalo_de_confianca_mais": 78.31
+ },
+ {
+  "id": 5,
+  "ano": 2015,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 84.24,
+  "trajetoria_suavizada": 77.54,
+  "intervalo_de_confianca_menos": 77.54,
+  "intervalo_de_confianca_mais": 77.54
+ },
+ {
+  "id": 6,
+  "ano": 2016,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 74.16,
+  "trajetoria_suavizada": 76.09,
+  "intervalo_de_confianca_menos": 76.09,
+  "intervalo_de_confianca_mais": 76.09
+ },
+ {
+  "id": 7,
+  "ano": 2017,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 71.51,
+  "trajetoria_suavizada": 74.74,
+  "intervalo_de_confianca_menos": 74.74,
+  "intervalo_de_confianca_mais": 74.74
+ },
+ {
+  "id": 8,
+  "ano": 2018,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 73.2,
+  "trajetoria_suavizada": 73.68,
+  "intervalo_de_confianca_menos": 73.68,
+  "intervalo_de_confianca_mais": 73.68
+ },
+ {
+  "id": 9,
+  "ano": 2019,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 72.18,
+  "trajetoria_suavizada": 73.38,
+  "intervalo_de_confianca_menos": 73.38,
+  "intervalo_de_confianca_mais": 73.38
+ },
+ {
+  "id": 10,
+  "ano": 2020,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 76.07,
+  "trajetoria_suavizada": 73.47,
+  "intervalo_de_confianca_menos": 73.47,
+  "intervalo_de_confianca_mais": 73.47
+ },
+ {
+  "id": 11,
+  "ano": 2021,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 73.65,
+  "trajetoria_suavizada": 73.35,
+  "intervalo_de_confianca_menos": 73.35,
+  "intervalo_de_confianca_mais": 73.35
+ },
+ {
+  "id": 12,
+  "ano": 2022,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 71.9,
+  "trajetoria_suavizada": 72.33,
+  "intervalo_de_confianca_menos": 72.33,
+  "intervalo_de_confianca_mais": 72.33
+ },
+ {
+  "id": 13,
+  "ano": 2023,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 73.32,
+  "intervalo_de_confianca_menos": 73.03,
+  "intervalo_de_confianca_mais": 73.61
+ },
+ {
+  "id": 14,
+  "ano": 2024,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 74.21,
+  "intervalo_de_confianca_menos": 73.81,
+  "intervalo_de_confianca_mais": 74.6
+ },
+ {
+  "id": 15,
+  "ano": 2025,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 75.01,
+  "intervalo_de_confianca_menos": 74.55,
+  "intervalo_de_confianca_mais": 75.47
+ },
+ {
+  "id": 16,
+  "ano": 2026,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 75.73,
+  "intervalo_de_confianca_menos": 75.22,
+  "intervalo_de_confianca_mais": 76.24
+ },
+ {
+  "id": 17,
+  "ano": 2027,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 76.38,
+  "intervalo_de_confianca_menos": 75.84,
+  "intervalo_de_confianca_mais": 76.92
+ },
+ {
+  "id": 18,
+  "ano": 2028,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 76.97,
+  "intervalo_de_confianca_menos": 76.4,
+  "intervalo_de_confianca_mais": 77.54
+ },
+ {
+  "id": 19,
+  "ano": 2029,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 77.49,
+  "intervalo_de_confianca_menos": 76.9,
+  "intervalo_de_confianca_mais": 78.08
+ },
+ {
+  "id": 20,
+  "ano": 2030,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 77.96,
+  "intervalo_de_confianca_menos": 77.36,
+  "intervalo_de_confianca_mais": 78.57
+ },
+ {
+  "id": 21,
+  "ano": 2031,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 78.39,
+  "intervalo_de_confianca_menos": 77.77,
+  "intervalo_de_confianca_mais": 79.01
+ },
+ {
+  "id": 22,
+  "ano": 2032,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 78.77,
+  "intervalo_de_confianca_menos": 78.14,
+  "intervalo_de_confianca_mais": 79.41
+ },
+ {
+  "id": 23,
+  "ano": 2033,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 79.12,
+  "intervalo_de_confianca_menos": 78.48,
+  "intervalo_de_confianca_mais": 79.76
+ },
+ {
+  "id": 24,
+  "ano": 2034,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 79.43,
+  "intervalo_de_confianca_menos": 78.78,
+  "intervalo_de_confianca_mais": 80.08
+ },
+ {
+  "id": 25,
+  "ano": 2035,
+  "fecam": "Amai",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 79.71,
+  "intervalo_de_confianca_menos": 79.06,
+  "intervalo_de_confianca_mais": 80.36
+ },
+ {
+  "id": 26,
+  "ano": 2011,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 93.49,
+  "trajetoria_suavizada": 93.35,
+  "intervalo_de_confianca_menos": 93.35,
+  "intervalo_de_confianca_mais": 93.35
+ },
+ {
+  "id": 27,
+  "ano": 2012,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 91.27,
+  "trajetoria_suavizada": 91.68,
+  "intervalo_de_confianca_menos": 91.68,
+  "intervalo_de_confianca_mais": 91.68
+ },
+ {
+  "id": 28,
+  "ano": 2013,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 90.47,
+  "trajetoria_suavizada": 90.47,
+  "intervalo_de_confianca_menos": 90.47,
+  "intervalo_de_confianca_mais": 90.47
+ },
+ {
+  "id": 29,
+  "ano": 2014,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 87.85,
+  "trajetoria_suavizada": 89.47,
+  "intervalo_de_confianca_menos": 89.47,
+  "intervalo_de_confianca_mais": 89.47
+ },
+ {
+  "id": 30,
+  "ano": 2015,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 89.88,
+  "trajetoria_suavizada": 88.51,
+  "intervalo_de_confianca_menos": 88.51,
+  "intervalo_de_confianca_mais": 88.51
+ },
+ {
+  "id": 31,
+  "ano": 2016,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 87.74,
+  "trajetoria_suavizada": 87.69,
+  "intervalo_de_confianca_menos": 87.69,
+  "intervalo_de_confianca_mais": 87.69
+ },
+ {
+  "id": 32,
+  "ano": 2017,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 86.6,
+  "trajetoria_suavizada": 87.01,
+  "intervalo_de_confianca_menos": 87.01,
+  "intervalo_de_confianca_mais": 87.01
+ },
+ {
+  "id": 33,
+  "ano": 2018,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 85.63,
+  "trajetoria_suavizada": 86.6,
+  "intervalo_de_confianca_menos": 86.6,
+  "intervalo_de_confianca_mais": 86.6
+ },
+ {
+  "id": 34,
+  "ano": 2019,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 85.7,
+  "trajetoria_suavizada": 86.92,
+  "intervalo_de_confianca_menos": 86.92,
+  "intervalo_de_confianca_mais": 86.92
+ },
+ {
+  "id": 35,
+  "ano": 2020,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 86.05,
+  "trajetoria_suavizada": 87.91,
+  "intervalo_de_confianca_menos": 87.91,
+  "intervalo_de_confianca_mais": 87.91
+ },
+ {
+  "id": 36,
+  "ano": 2021,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 90.64,
+  "trajetoria_suavizada": 89.52,
+  "intervalo_de_confianca_menos": 89.52,
+  "intervalo_de_confianca_mais": 89.52
+ },
+ {
+  "id": 37,
+  "ano": 2022,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 91.34,
+  "trajetoria_suavizada": 91.8,
+  "intervalo_de_confianca_menos": 91.8,
+  "intervalo_de_confianca_mais": 91.8
+ },
+ {
+  "id": 38,
+  "ano": 2023,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 92.43,
+  "intervalo_de_confianca_menos": 92.13,
+  "intervalo_de_confianca_mais": 92.72
+ },
+ {
+  "id": 39,
+  "ano": 2024,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 92.98,
+  "intervalo_de_confianca_menos": 92.59,
+  "intervalo_de_confianca_mais": 93.38
+ },
+ {
+  "id": 40,
+  "ano": 2025,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 93.49,
+  "intervalo_de_confianca_menos": 93.03,
+  "intervalo_de_confianca_mais": 93.95
+ },
+ {
+  "id": 41,
+  "ano": 2026,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 93.94,
+  "intervalo_de_confianca_menos": 93.43,
+  "intervalo_de_confianca_mais": 94.45
+ },
+ {
+  "id": 42,
+  "ano": 2027,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 94.35,
+  "intervalo_de_confianca_menos": 93.8,
+  "intervalo_de_confianca_mais": 94.89
+ },
+ {
+  "id": 43,
+  "ano": 2028,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 94.71,
+  "intervalo_de_confianca_menos": 94.14,
+  "intervalo_de_confianca_mais": 95.28
+ },
+ {
+  "id": 44,
+  "ano": 2029,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 95.04,
+  "intervalo_de_confianca_menos": 94.45,
+  "intervalo_de_confianca_mais": 95.63
+ },
+ {
+  "id": 45,
+  "ano": 2030,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 95.34,
+  "intervalo_de_confianca_menos": 94.73,
+  "intervalo_de_confianca_mais": 95.95
+ },
+ {
+  "id": 46,
+  "ano": 2031,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 95.61,
+  "intervalo_de_confianca_menos": 94.99,
+  "intervalo_de_confianca_mais": 96.23
+ },
+ {
+  "id": 47,
+  "ano": 2032,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 95.85,
+  "intervalo_de_confianca_menos": 95.22,
+  "intervalo_de_confianca_mais": 96.48
+ },
+ {
+  "id": 48,
+  "ano": 2033,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 96.06,
+  "intervalo_de_confianca_menos": 95.42,
+  "intervalo_de_confianca_mais": 96.7
+ },
+ {
+  "id": 49,
+  "ano": 2034,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 96.26,
+  "intervalo_de_confianca_menos": 95.61,
+  "intervalo_de_confianca_mais": 96.91
+ },
+ {
+  "id": 50,
+  "ano": 2035,
+  "fecam": "Amarp",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 96.43,
+  "intervalo_de_confianca_menos": 95.78,
+  "intervalo_de_confianca_mais": 97.09
+ },
+ {
+  "id": 51,
+  "ano": 2011,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 77.42,
+  "trajetoria_suavizada": 79.23,
+  "intervalo_de_confianca_menos": 79.23,
+  "intervalo_de_confianca_mais": 79.23
+ },
+ {
+  "id": 52,
+  "ano": 2012,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 81.01,
+  "trajetoria_suavizada": 77.44,
+  "intervalo_de_confianca_menos": 77.44,
+  "intervalo_de_confianca_mais": 77.44
+ },
+ {
+  "id": 53,
+  "ano": 2013,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 74.04,
+  "trajetoria_suavizada": 76.26,
+  "intervalo_de_confianca_menos": 76.26,
+  "intervalo_de_confianca_mais": 76.26
+ },
+ {
+  "id": 54,
+  "ano": 2014,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 72.54,
+  "trajetoria_suavizada": 75.18,
+  "intervalo_de_confianca_menos": 75.18,
+  "intervalo_de_confianca_mais": 75.18
+ },
+ {
+  "id": 55,
+  "ano": 2015,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 77.13,
+  "trajetoria_suavizada": 74.13,
+  "intervalo_de_confianca_menos": 74.13,
+  "intervalo_de_confianca_mais": 74.13
+ },
+ {
+  "id": 56,
+  "ano": 2016,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 72.03,
+  "trajetoria_suavizada": 73.66,
+  "intervalo_de_confianca_menos": 73.66,
+  "intervalo_de_confianca_mais": 73.66
+ },
+ {
+  "id": 57,
+  "ano": 2017,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 73.38,
+  "trajetoria_suavizada": 73.44,
+  "intervalo_de_confianca_menos": 73.44,
+  "intervalo_de_confianca_mais": 73.44
+ },
+ {
+  "id": 58,
+  "ano": 2018,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 72.83,
+  "trajetoria_suavizada": 73.1,
+  "intervalo_de_confianca_menos": 73.1,
+  "intervalo_de_confianca_mais": 73.1
+ },
+ {
+  "id": 59,
+  "ano": 2019,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 72.63,
+  "trajetoria_suavizada": 72.69,
+  "intervalo_de_confianca_menos": 72.69,
+  "intervalo_de_confianca_mais": 72.69
+ },
+ {
+  "id": 60,
+  "ano": 2020,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 74.57,
+  "trajetoria_suavizada": 72.11,
+  "intervalo_de_confianca_menos": 72.11,
+  "intervalo_de_confianca_mais": 72.11
+ },
+ {
+  "id": 61,
+  "ano": 2021,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 70.13,
+  "trajetoria_suavizada": 71.25,
+  "intervalo_de_confianca_menos": 71.25,
+  "intervalo_de_confianca_mais": 71.25
+ },
+ {
+  "id": 62,
+  "ano": 2022,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 70.07,
+  "trajetoria_suavizada": 69.69,
+  "intervalo_de_confianca_menos": 69.69,
+  "intervalo_de_confianca_mais": 69.69
+ },
+ {
+  "id": 63,
+  "ano": 2023,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 71.04,
+  "intervalo_de_confianca_menos": 70.75,
+  "intervalo_de_confianca_mais": 71.34
+ },
+ {
+  "id": 64,
+  "ano": 2024,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 72.26,
+  "intervalo_de_confianca_menos": 71.86,
+  "intervalo_de_confianca_mais": 72.65
+ },
+ {
+  "id": 65,
+  "ano": 2025,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 73.35,
+  "intervalo_de_confianca_menos": 72.89,
+  "intervalo_de_confianca_mais": 73.81
+ },
+ {
+  "id": 66,
+  "ano": 2026,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 74.34,
+  "intervalo_de_confianca_menos": 73.83,
+  "intervalo_de_confianca_mais": 74.84
+ },
+ {
+  "id": 67,
+  "ano": 2027,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 75.22,
+  "intervalo_de_confianca_menos": 74.68,
+  "intervalo_de_confianca_mais": 75.77
+ },
+ {
+  "id": 68,
+  "ano": 2028,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 76.02,
+  "intervalo_de_confianca_menos": 75.45,
+  "intervalo_de_confianca_mais": 76.59
+ },
+ {
+  "id": 69,
+  "ano": 2029,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 76.74,
+  "intervalo_de_confianca_menos": 76.15,
+  "intervalo_de_confianca_mais": 77.33
+ },
+ {
+  "id": 70,
+  "ano": 2030,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 77.38,
+  "intervalo_de_confianca_menos": 76.77,
+  "intervalo_de_confianca_mais": 77.99
+ },
+ {
+  "id": 71,
+  "ano": 2031,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 77.96,
+  "intervalo_de_confianca_menos": 77.34,
+  "intervalo_de_confianca_mais": 78.58
+ },
+ {
+  "id": 72,
+  "ano": 2032,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 78.49,
+  "intervalo_de_confianca_menos": 77.86,
+  "intervalo_de_confianca_mais": 79.12
+ },
+ {
+  "id": 73,
+  "ano": 2033,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 78.96,
+  "intervalo_de_confianca_menos": 78.32,
+  "intervalo_de_confianca_mais": 79.6
+ },
+ {
+  "id": 74,
+  "ano": 2034,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 79.38,
+  "intervalo_de_confianca_menos": 78.74,
+  "intervalo_de_confianca_mais": 80.03
+ },
+ {
+  "id": 75,
+  "ano": 2035,
+  "fecam": "Amauc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 79.76,
+  "intervalo_de_confianca_menos": 79.11,
+  "intervalo_de_confianca_mais": 80.41
+ },
+ {
+  "id": 76,
+  "ano": 2011,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 92.56,
+  "trajetoria_suavizada": 91.7,
+  "intervalo_de_confianca_menos": 91.7,
+  "intervalo_de_confianca_mais": 91.7
+ },
+ {
+  "id": 77,
+  "ano": 2012,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 88.11,
+  "trajetoria_suavizada": 89.15,
+  "intervalo_de_confianca_menos": 89.15,
+  "intervalo_de_confianca_mais": 89.15
+ },
+ {
+  "id": 78,
+  "ano": 2013,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 84.9,
+  "trajetoria_suavizada": 87.16,
+  "intervalo_de_confianca_menos": 87.16,
+  "intervalo_de_confianca_mais": 87.16
+ },
+ {
+  "id": 79,
+  "ano": 2014,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 88.15,
+  "trajetoria_suavizada": 84.76,
+  "intervalo_de_confianca_menos": 84.76,
+  "intervalo_de_confianca_mais": 84.76
+ },
+ {
+  "id": 80,
+  "ano": 2015,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 83.42,
+  "trajetoria_suavizada": 82.69,
+  "intervalo_de_confianca_menos": 82.69,
+  "intervalo_de_confianca_mais": 82.69
+ },
+ {
+  "id": 81,
+  "ano": 2016,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 77.63,
+  "trajetoria_suavizada": 80.76,
+  "intervalo_de_confianca_menos": 80.76,
+  "intervalo_de_confianca_mais": 80.76
+ },
+ {
+  "id": 82,
+  "ano": 2017,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 78.33,
+  "trajetoria_suavizada": 78.32,
+  "intervalo_de_confianca_menos": 78.32,
+  "intervalo_de_confianca_mais": 78.32
+ },
+ {
+  "id": 83,
+  "ano": 2018,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 78.89,
+  "trajetoria_suavizada": 76.34,
+  "intervalo_de_confianca_menos": 76.34,
+  "intervalo_de_confianca_mais": 76.34
+ },
+ {
+  "id": 84,
+  "ano": 2019,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 72.63,
+  "trajetoria_suavizada": 75.63,
+  "intervalo_de_confianca_menos": 75.63,
+  "intervalo_de_confianca_mais": 75.63
+ },
+ {
+  "id": 85,
+  "ano": 2020,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 71.07,
+  "trajetoria_suavizada": 75.37,
+  "intervalo_de_confianca_menos": 75.37,
+  "intervalo_de_confianca_mais": 75.37
+ },
+ {
+  "id": 86,
+  "ano": 2021,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 78.26,
+  "trajetoria_suavizada": 75.83,
+  "intervalo_de_confianca_menos": 75.83,
+  "intervalo_de_confianca_mais": 75.83
+ },
+ {
+  "id": 87,
+  "ano": 2022,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 77.06,
+  "trajetoria_suavizada": 78.1,
+  "intervalo_de_confianca_menos": 78.1,
+  "intervalo_de_confianca_mais": 78.1
+ },
+ {
+  "id": 88,
+  "ano": 2023,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 79.92,
+  "intervalo_de_confianca_menos": 79.62,
+  "intervalo_de_confianca_mais": 80.21
+ },
+ {
+  "id": 89,
+  "ano": 2024,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 81.55,
+  "intervalo_de_confianca_menos": 81.16,
+  "intervalo_de_confianca_mais": 81.95
+ },
+ {
+  "id": 90,
+  "ano": 2025,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 83.03,
+  "intervalo_de_confianca_menos": 82.57,
+  "intervalo_de_confianca_mais": 83.49
+ },
+ {
+  "id": 91,
+  "ano": 2026,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 84.35,
+  "intervalo_de_confianca_menos": 83.84,
+  "intervalo_de_confianca_mais": 84.86
+ },
+ {
+  "id": 92,
+  "ano": 2027,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 85.55,
+  "intervalo_de_confianca_menos": 85,
+  "intervalo_de_confianca_mais": 86.09
+ },
+ {
+  "id": 93,
+  "ano": 2028,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 86.62,
+  "intervalo_de_confianca_menos": 86.05,
+  "intervalo_de_confianca_mais": 87.19
+ },
+ {
+  "id": 94,
+  "ano": 2029,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 87.59,
+  "intervalo_de_confianca_menos": 86.99,
+  "intervalo_de_confianca_mais": 88.18
+ },
+ {
+  "id": 95,
+  "ano": 2030,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 88.46,
+  "intervalo_de_confianca_menos": 87.85,
+  "intervalo_de_confianca_mais": 89.06
+ },
+ {
+  "id": 96,
+  "ano": 2031,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 89.24,
+  "intervalo_de_confianca_menos": 88.62,
+  "intervalo_de_confianca_mais": 89.86
+ },
+ {
+  "id": 97,
+  "ano": 2032,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 89.94,
+  "intervalo_de_confianca_menos": 89.31,
+  "intervalo_de_confianca_mais": 90.57
+ },
+ {
+  "id": 98,
+  "ano": 2033,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 90.58,
+  "intervalo_de_confianca_menos": 89.94,
+  "intervalo_de_confianca_mais": 91.22
+ },
+ {
+  "id": 99,
+  "ano": 2034,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 91.15,
+  "intervalo_de_confianca_menos": 90.5,
+  "intervalo_de_confianca_mais": 91.79
+ },
+ {
+  "id": 100,
+  "ano": 2035,
+  "fecam": "Amavi",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 91.66,
+  "intervalo_de_confianca_menos": 91.01,
+  "intervalo_de_confianca_mais": 92.31
+ },
+ {
+  "id": 101,
+  "ano": 2011,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 70.37,
+  "trajetoria_suavizada": 67.76,
+  "intervalo_de_confianca_menos": 67.76,
+  "intervalo_de_confianca_mais": 67.76
+ },
+ {
+  "id": 102,
+  "ano": 2012,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 62.38,
+  "trajetoria_suavizada": 66.58,
+  "intervalo_de_confianca_menos": 66.58,
+  "intervalo_de_confianca_mais": 66.58
+ },
+ {
+  "id": 103,
+  "ano": 2013,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 63.88,
+  "trajetoria_suavizada": 66.67,
+  "intervalo_de_confianca_menos": 66.67,
+  "intervalo_de_confianca_mais": 66.67
+ },
+ {
+  "id": 104,
+  "ano": 2014,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 71.25,
+  "trajetoria_suavizada": 66.17,
+  "intervalo_de_confianca_menos": 66.17,
+  "intervalo_de_confianca_mais": 66.17
+ },
+ {
+  "id": 105,
+  "ano": 2015,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 68.68,
+  "trajetoria_suavizada": 66.23,
+  "intervalo_de_confianca_menos": 66.23,
+  "intervalo_de_confianca_mais": 66.23
+ },
+ {
+  "id": 106,
+  "ano": 2016,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 60.93,
+  "trajetoria_suavizada": 66.37,
+  "intervalo_de_confianca_menos": 66.37,
+  "intervalo_de_confianca_mais": 66.37
+ },
+ {
+  "id": 107,
+  "ano": 2017,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 66,
+  "trajetoria_suavizada": 65.65,
+  "intervalo_de_confianca_menos": 65.65,
+  "intervalo_de_confianca_mais": 65.65
+ },
+ {
+  "id": 108,
+  "ano": 2018,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 67.84,
+  "trajetoria_suavizada": 64.79,
+  "intervalo_de_confianca_menos": 64.79,
+  "intervalo_de_confianca_mais": 64.79
+ },
+ {
+  "id": 109,
+  "ano": 2019,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 65.4,
+  "trajetoria_suavizada": 64.32,
+  "intervalo_de_confianca_menos": 64.32,
+  "intervalo_de_confianca_mais": 64.32
+ },
+ {
+  "id": 110,
+  "ano": 2020,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 61.19,
+  "trajetoria_suavizada": 63.5,
+  "intervalo_de_confianca_menos": 63.5,
+  "intervalo_de_confianca_mais": 63.5
+ },
+ {
+  "id": 111,
+  "ano": 2021,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 61.96,
+  "trajetoria_suavizada": 62.32,
+  "intervalo_de_confianca_menos": 62.32,
+  "intervalo_de_confianca_mais": 62.32
+ },
+ {
+  "id": 112,
+  "ano": 2022,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 62.49,
+  "trajetoria_suavizada": 62.09,
+  "intervalo_de_confianca_menos": 62.09,
+  "intervalo_de_confianca_mais": 62.09
+ },
+ {
+  "id": 113,
+  "ano": 2023,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 62.99,
+  "intervalo_de_confianca_menos": 62.7,
+  "intervalo_de_confianca_mais": 63.29
+ },
+ {
+  "id": 114,
+  "ano": 2024,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 63.81,
+  "intervalo_de_confianca_menos": 63.41,
+  "intervalo_de_confianca_mais": 64.2
+ },
+ {
+  "id": 115,
+  "ano": 2025,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 64.54,
+  "intervalo_de_confianca_menos": 64.08,
+  "intervalo_de_confianca_mais": 65
+ },
+ {
+  "id": 116,
+  "ano": 2026,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 65.2,
+  "intervalo_de_confianca_menos": 64.69,
+  "intervalo_de_confianca_mais": 65.71
+ },
+ {
+  "id": 117,
+  "ano": 2027,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 65.8,
+  "intervalo_de_confianca_menos": 65.25,
+  "intervalo_de_confianca_mais": 66.34
+ },
+ {
+  "id": 118,
+  "ano": 2028,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 66.33,
+  "intervalo_de_confianca_menos": 65.76,
+  "intervalo_de_confianca_mais": 66.9
+ },
+ {
+  "id": 119,
+  "ano": 2029,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 66.81,
+  "intervalo_de_confianca_menos": 66.22,
+  "intervalo_de_confianca_mais": 67.4
+ },
+ {
+  "id": 120,
+  "ano": 2030,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 67.25,
+  "intervalo_de_confianca_menos": 66.64,
+  "intervalo_de_confianca_mais": 67.85
+ },
+ {
+  "id": 121,
+  "ano": 2031,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 67.64,
+  "intervalo_de_confianca_menos": 67.01,
+  "intervalo_de_confianca_mais": 68.26
+ },
+ {
+  "id": 122,
+  "ano": 2032,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 67.99,
+  "intervalo_de_confianca_menos": 67.36,
+  "intervalo_de_confianca_mais": 68.62
+ },
+ {
+  "id": 123,
+  "ano": 2033,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 68.3,
+  "intervalo_de_confianca_menos": 67.66,
+  "intervalo_de_confianca_mais": 68.94
+ },
+ {
+  "id": 124,
+  "ano": 2034,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 68.59,
+  "intervalo_de_confianca_menos": 67.94,
+  "intervalo_de_confianca_mais": 69.23
+ },
+ {
+  "id": 125,
+  "ano": 2035,
+  "fecam": "Ameosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 68.84,
+  "intervalo_de_confianca_menos": 68.19,
+  "intervalo_de_confianca_mais": 69.49
+ },
+ {
+  "id": 126,
+  "ano": 2011,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 66.35,
+  "trajetoria_suavizada": 68.48,
+  "intervalo_de_confianca_menos": 68.48,
+  "intervalo_de_confianca_mais": 68.48
+ },
+ {
+  "id": 127,
+  "ano": 2012,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 72.71,
+  "trajetoria_suavizada": 68.54,
+  "intervalo_de_confianca_menos": 68.54,
+  "intervalo_de_confianca_mais": 68.54
+ },
+ {
+  "id": 128,
+  "ano": 2013,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 67.22,
+  "trajetoria_suavizada": 67.15,
+  "intervalo_de_confianca_menos": 67.15,
+  "intervalo_de_confianca_mais": 67.15
+ },
+ {
+  "id": 129,
+  "ano": 2014,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 66.84,
+  "trajetoria_suavizada": 64.76,
+  "intervalo_de_confianca_menos": 64.76,
+  "intervalo_de_confianca_mais": 64.76
+ },
+ {
+  "id": 130,
+  "ano": 2015,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 61.64,
+  "trajetoria_suavizada": 62.09,
+  "intervalo_de_confianca_menos": 62.09,
+  "intervalo_de_confianca_mais": 62.09
+ },
+ {
+  "id": 131,
+  "ano": 2016,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 56.65,
+  "trajetoria_suavizada": 60.3,
+  "intervalo_de_confianca_menos": 60.3,
+  "intervalo_de_confianca_mais": 60.3
+ },
+ {
+  "id": 132,
+  "ano": 2017,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 56.16,
+  "trajetoria_suavizada": 60.25,
+  "intervalo_de_confianca_menos": 60.25,
+  "intervalo_de_confianca_mais": 60.25
+ },
+ {
+  "id": 133,
+  "ano": 2018,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 59.91,
+  "trajetoria_suavizada": 62.22,
+  "intervalo_de_confianca_menos": 62.22,
+  "intervalo_de_confianca_mais": 62.22
+ },
+ {
+  "id": 134,
+  "ano": 2019,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 64.75,
+  "trajetoria_suavizada": 65.13,
+  "intervalo_de_confianca_menos": 65.13,
+  "intervalo_de_confianca_mais": 65.13
+ },
+ {
+  "id": 135,
+  "ano": 2020,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 73.85,
+  "trajetoria_suavizada": 68.01,
+  "intervalo_de_confianca_menos": 68.01,
+  "intervalo_de_confianca_mais": 68.01
+ },
+ {
+  "id": 136,
+  "ano": 2021,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 71.1,
+  "trajetoria_suavizada": 70.14,
+  "intervalo_de_confianca_menos": 70.14,
+  "intervalo_de_confianca_mais": 70.14
+ },
+ {
+  "id": 137,
+  "ano": 2022,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 68.66,
+  "trajetoria_suavizada": 69.67,
+  "intervalo_de_confianca_menos": 69.67,
+  "intervalo_de_confianca_mais": 69.67
+ },
+ {
+  "id": 138,
+  "ano": 2023,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 70.07,
+  "intervalo_de_confianca_menos": 69.78,
+  "intervalo_de_confianca_mais": 70.36
+ },
+ {
+  "id": 139,
+  "ano": 2024,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 70.43,
+  "intervalo_de_confianca_menos": 70.03,
+  "intervalo_de_confianca_mais": 70.82
+ },
+ {
+  "id": 140,
+  "ano": 2025,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 70.75,
+  "intervalo_de_confianca_menos": 70.29,
+  "intervalo_de_confianca_mais": 71.21
+ },
+ {
+  "id": 141,
+  "ano": 2026,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 71.04,
+  "intervalo_de_confianca_menos": 70.53,
+  "intervalo_de_confianca_mais": 71.55
+ },
+ {
+  "id": 142,
+  "ano": 2027,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 71.3,
+  "intervalo_de_confianca_menos": 70.76,
+  "intervalo_de_confianca_mais": 71.84
+ },
+ {
+  "id": 143,
+  "ano": 2028,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 71.53,
+  "intervalo_de_confianca_menos": 70.96,
+  "intervalo_de_confianca_mais": 72.1
+ },
+ {
+  "id": 144,
+  "ano": 2029,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 71.74,
+  "intervalo_de_confianca_menos": 71.15,
+  "intervalo_de_confianca_mais": 72.34
+ },
+ {
+  "id": 145,
+  "ano": 2030,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 71.93,
+  "intervalo_de_confianca_menos": 71.33,
+  "intervalo_de_confianca_mais": 72.54
+ },
+ {
+  "id": 146,
+  "ano": 2031,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 72.11,
+  "intervalo_de_confianca_menos": 71.48,
+  "intervalo_de_confianca_mais": 72.73
+ },
+ {
+  "id": 147,
+  "ano": 2032,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 72.26,
+  "intervalo_de_confianca_menos": 71.63,
+  "intervalo_de_confianca_mais": 72.89
+ },
+ {
+  "id": 148,
+  "ano": 2033,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 72.4,
+  "intervalo_de_confianca_menos": 71.76,
+  "intervalo_de_confianca_mais": 73.04
+ },
+ {
+  "id": 149,
+  "ano": 2034,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 72.52,
+  "intervalo_de_confianca_menos": 71.88,
+  "intervalo_de_confianca_mais": 73.17
+ },
+ {
+  "id": 150,
+  "ano": 2035,
+  "fecam": "Amerios",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 72.63,
+  "intervalo_de_confianca_menos": 71.98,
+  "intervalo_de_confianca_mais": 73.29
+ },
+ {
+  "id": 151,
+  "ano": 2011,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 84.75,
+  "trajetoria_suavizada": 87.67,
+  "intervalo_de_confianca_menos": 87.67,
+  "intervalo_de_confianca_mais": 87.67
+ },
+ {
+  "id": 152,
+  "ano": 2012,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.95,
+  "trajetoria_suavizada": 92.6,
+  "intervalo_de_confianca_menos": 92.6,
+  "intervalo_de_confianca_mais": 92.6
+ },
+ {
+  "id": 153,
+  "ano": 2013,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.09,
+  "trajetoria_suavizada": 94.18,
+  "intervalo_de_confianca_menos": 94.18,
+  "intervalo_de_confianca_mais": 94.18
+ },
+ {
+  "id": 154,
+  "ano": 2014,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.93,
+  "trajetoria_suavizada": 92.52,
+  "intervalo_de_confianca_menos": 92.52,
+  "intervalo_de_confianca_mais": 92.52
+ },
+ {
+  "id": 155,
+  "ano": 2015,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 93.55,
+  "trajetoria_suavizada": 89.19,
+  "intervalo_de_confianca_menos": 89.19,
+  "intervalo_de_confianca_mais": 89.19
+ },
+ {
+  "id": 156,
+  "ano": 2016,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 77.62,
+  "trajetoria_suavizada": 85.91,
+  "intervalo_de_confianca_menos": 85.91,
+  "intervalo_de_confianca_mais": 85.91
+ },
+ {
+  "id": 157,
+  "ano": 2017,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 77.45,
+  "trajetoria_suavizada": 83.32,
+  "intervalo_de_confianca_menos": 83.32,
+  "intervalo_de_confianca_mais": 83.32
+ },
+ {
+  "id": 158,
+  "ano": 2018,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 85.08,
+  "trajetoria_suavizada": 82.41,
+  "intervalo_de_confianca_menos": 82.41,
+  "intervalo_de_confianca_mais": 82.41
+ },
+ {
+  "id": 159,
+  "ano": 2019,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 82.85,
+  "trajetoria_suavizada": 83.75,
+  "intervalo_de_confianca_menos": 83.75,
+  "intervalo_de_confianca_mais": 83.75
+ },
+ {
+  "id": 160,
+  "ano": 2020,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 84.64,
+  "trajetoria_suavizada": 85.71,
+  "intervalo_de_confianca_menos": 85.71,
+  "intervalo_de_confianca_mais": 85.71
+ },
+ {
+  "id": 161,
+  "ano": 2021,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 88.55,
+  "trajetoria_suavizada": 87.37,
+  "intervalo_de_confianca_menos": 87.37,
+  "intervalo_de_confianca_mais": 87.37
+ },
+ {
+  "id": 162,
+  "ano": 2022,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 88.88,
+  "trajetoria_suavizada": 89.47,
+  "intervalo_de_confianca_menos": 89.47,
+  "intervalo_de_confianca_mais": 89.47
+ },
+ {
+  "id": 163,
+  "ano": 2023,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 90.41,
+  "intervalo_de_confianca_menos": 90.12,
+  "intervalo_de_confianca_mais": 90.71
+ },
+ {
+  "id": 164,
+  "ano": 2024,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 91.26,
+  "intervalo_de_confianca_menos": 90.86,
+  "intervalo_de_confianca_mais": 91.65
+ },
+ {
+  "id": 165,
+  "ano": 2025,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 92.02,
+  "intervalo_de_confianca_menos": 91.56,
+  "intervalo_de_confianca_mais": 92.48
+ },
+ {
+  "id": 166,
+  "ano": 2026,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 92.71,
+  "intervalo_de_confianca_menos": 92.2,
+  "intervalo_de_confianca_mais": 93.22
+ },
+ {
+  "id": 167,
+  "ano": 2027,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 93.33,
+  "intervalo_de_confianca_menos": 92.78,
+  "intervalo_de_confianca_mais": 93.87
+ },
+ {
+  "id": 168,
+  "ano": 2028,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 93.88,
+  "intervalo_de_confianca_menos": 93.31,
+  "intervalo_de_confianca_mais": 94.45
+ },
+ {
+  "id": 169,
+  "ano": 2029,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 94.38,
+  "intervalo_de_confianca_menos": 93.79,
+  "intervalo_de_confianca_mais": 94.98
+ },
+ {
+  "id": 170,
+  "ano": 2030,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 94.83,
+  "intervalo_de_confianca_menos": 94.23,
+  "intervalo_de_confianca_mais": 95.44
+ },
+ {
+  "id": 171,
+  "ano": 2031,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 95.24,
+  "intervalo_de_confianca_menos": 94.62,
+  "intervalo_de_confianca_mais": 95.86
+ },
+ {
+  "id": 172,
+  "ano": 2032,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 95.61,
+  "intervalo_de_confianca_menos": 94.97,
+  "intervalo_de_confianca_mais": 96.24
+ },
+ {
+  "id": 173,
+  "ano": 2033,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 95.93,
+  "intervalo_de_confianca_menos": 95.29,
+  "intervalo_de_confianca_mais": 96.57
+ },
+ {
+  "id": 174,
+  "ano": 2034,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 96.23,
+  "intervalo_de_confianca_menos": 95.58,
+  "intervalo_de_confianca_mais": 96.88
+ },
+ {
+  "id": 175,
+  "ano": 2035,
+  "fecam": "Amesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 96.5,
+  "intervalo_de_confianca_menos": 95.84,
+  "intervalo_de_confianca_mais": 97.15
+ },
+ {
+  "id": 176,
+  "ano": 2011,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 99.07,
+  "trajetoria_suavizada": 99.23,
+  "intervalo_de_confianca_menos": 99.23,
+  "intervalo_de_confianca_mais": 99.23
+ },
+ {
+  "id": 177,
+  "ano": 2012,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 99,
+  "trajetoria_suavizada": 98.79,
+  "intervalo_de_confianca_menos": 98.79,
+  "intervalo_de_confianca_mais": 98.79
+ },
+ {
+  "id": 178,
+  "ano": 2013,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 98.63,
+  "trajetoria_suavizada": 98.12,
+  "intervalo_de_confianca_menos": 98.12,
+  "intervalo_de_confianca_mais": 98.12
+ },
+ {
+  "id": 179,
+  "ano": 2014,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.24,
+  "trajetoria_suavizada": 97.48,
+  "intervalo_de_confianca_menos": 97.48,
+  "intervalo_de_confianca_mais": 97.48
+ },
+ {
+  "id": 180,
+  "ano": 2015,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 96.29,
+  "trajetoria_suavizada": 96.97,
+  "intervalo_de_confianca_menos": 96.97,
+  "intervalo_de_confianca_mais": 96.97
+ },
+ {
+  "id": 181,
+  "ano": 2016,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 96.26,
+  "trajetoria_suavizada": 96.75,
+  "intervalo_de_confianca_menos": 96.75,
+  "intervalo_de_confianca_mais": 96.75
+ },
+ {
+  "id": 182,
+  "ano": 2017,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 96.32,
+  "trajetoria_suavizada": 96.92,
+  "intervalo_de_confianca_menos": 96.92,
+  "intervalo_de_confianca_mais": 96.92
+ },
+ {
+  "id": 183,
+  "ano": 2018,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.03,
+  "trajetoria_suavizada": 97.21,
+  "intervalo_de_confianca_menos": 97.21,
+  "intervalo_de_confianca_mais": 97.21
+ },
+ {
+  "id": 184,
+  "ano": 2019,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 99.13,
+  "trajetoria_suavizada": 97.57,
+  "intervalo_de_confianca_menos": 97.57,
+  "intervalo_de_confianca_mais": 97.57
+ },
+ {
+  "id": 185,
+  "ano": 2020,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 96.99,
+  "trajetoria_suavizada": 98.03,
+  "intervalo_de_confianca_menos": 98.03,
+  "intervalo_de_confianca_mais": 98.03
+ },
+ {
+  "id": 186,
+  "ano": 2021,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.96,
+  "trajetoria_suavizada": 98.39,
+  "intervalo_de_confianca_menos": 98.39,
+  "intervalo_de_confianca_mais": 98.39
+ },
+ {
+  "id": 187,
+  "ano": 2022,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 99.35,
+  "trajetoria_suavizada": 98.97,
+  "intervalo_de_confianca_menos": 98.97,
+  "intervalo_de_confianca_mais": 98.97
+ },
+ {
+  "id": 188,
+  "ano": 2023,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 99.5,
+  "intervalo_de_confianca_menos": 99.2,
+  "intervalo_de_confianca_mais": 99.79
+ },
+ {
+  "id": 189,
+  "ano": 2024,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 99.97,
+  "intervalo_de_confianca_menos": 99.57,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 190,
+  "ano": 2025,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.54,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 191,
+  "ano": 2026,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.49,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 192,
+  "ano": 2027,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.46,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 193,
+  "ano": 2028,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.43,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 194,
+  "ano": 2029,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.41,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 195,
+  "ano": 2030,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.39,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 196,
+  "ano": 2031,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.38,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 197,
+  "ano": 2032,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.37,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 198,
+  "ano": 2033,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.36,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 199,
+  "ano": 2034,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.35,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 200,
+  "ano": 2035,
+  "fecam": "AMFRI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.35,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 201,
+  "ano": 2011,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 87.57,
+  "trajetoria_suavizada": 89.27,
+  "intervalo_de_confianca_menos": 89.27,
+  "intervalo_de_confianca_mais": 89.27
+ },
+ {
+  "id": 202,
+  "ano": 2012,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 91.92,
+  "trajetoria_suavizada": 88.47,
+  "intervalo_de_confianca_menos": 88.47,
+  "intervalo_de_confianca_mais": 88.47
+ },
+ {
+  "id": 203,
+  "ano": 2013,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 86.03,
+  "trajetoria_suavizada": 87.25,
+  "intervalo_de_confianca_menos": 87.25,
+  "intervalo_de_confianca_mais": 87.25
+ },
+ {
+  "id": 204,
+  "ano": 2014,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 86.12,
+  "trajetoria_suavizada": 85.82,
+  "intervalo_de_confianca_menos": 85.82,
+  "intervalo_de_confianca_mais": 85.82
+ },
+ {
+  "id": 205,
+  "ano": 2015,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 83.83,
+  "trajetoria_suavizada": 84.46,
+  "intervalo_de_confianca_menos": 84.46,
+  "intervalo_de_confianca_mais": 84.46
+ },
+ {
+  "id": 206,
+  "ano": 2016,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 82.5,
+  "trajetoria_suavizada": 83.87,
+  "intervalo_de_confianca_menos": 83.87,
+  "intervalo_de_confianca_mais": 83.87
+ },
+ {
+  "id": 207,
+  "ano": 2017,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 81.68,
+  "trajetoria_suavizada": 83.91,
+  "intervalo_de_confianca_menos": 83.91,
+  "intervalo_de_confianca_mais": 83.91
+ },
+ {
+  "id": 208,
+  "ano": 2018,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 85.89,
+  "trajetoria_suavizada": 84.48,
+  "intervalo_de_confianca_menos": 84.48,
+  "intervalo_de_confianca_mais": 84.48
+ },
+ {
+  "id": 209,
+  "ano": 2019,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 84.95,
+  "trajetoria_suavizada": 85.25,
+  "intervalo_de_confianca_menos": 85.25,
+  "intervalo_de_confianca_mais": 85.25
+ },
+ {
+  "id": 210,
+  "ano": 2020,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 87.18,
+  "trajetoria_suavizada": 85.68,
+  "intervalo_de_confianca_menos": 85.68,
+  "intervalo_de_confianca_mais": 85.68
+ },
+ {
+  "id": 211,
+  "ano": 2021,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 86.83,
+  "trajetoria_suavizada": 85.51,
+  "intervalo_de_confianca_menos": 85.51,
+  "intervalo_de_confianca_mais": 85.51
+ },
+ {
+  "id": 212,
+  "ano": 2022,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 83.66,
+  "trajetoria_suavizada": 84.51,
+  "intervalo_de_confianca_menos": 84.51,
+  "intervalo_de_confianca_mais": 84.51
+ },
+ {
+  "id": 213,
+  "ano": 2023,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 85.43,
+  "intervalo_de_confianca_menos": 85.14,
+  "intervalo_de_confianca_mais": 85.73
+ },
+ {
+  "id": 214,
+  "ano": 2024,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 86.26,
+  "intervalo_de_confianca_menos": 85.87,
+  "intervalo_de_confianca_mais": 86.66
+ },
+ {
+  "id": 215,
+  "ano": 2025,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 87.01,
+  "intervalo_de_confianca_menos": 86.55,
+  "intervalo_de_confianca_mais": 87.47
+ },
+ {
+  "id": 216,
+  "ano": 2026,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 87.68,
+  "intervalo_de_confianca_menos": 87.17,
+  "intervalo_de_confianca_mais": 88.19
+ },
+ {
+  "id": 217,
+  "ano": 2027,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 88.29,
+  "intervalo_de_confianca_menos": 87.74,
+  "intervalo_de_confianca_mais": 88.83
+ },
+ {
+  "id": 218,
+  "ano": 2028,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 88.83,
+  "intervalo_de_confianca_menos": 88.26,
+  "intervalo_de_confianca_mais": 89.4
+ },
+ {
+  "id": 219,
+  "ano": 2029,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 89.32,
+  "intervalo_de_confianca_menos": 88.73,
+  "intervalo_de_confianca_mais": 89.91
+ },
+ {
+  "id": 220,
+  "ano": 2030,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 89.76,
+  "intervalo_de_confianca_menos": 89.15,
+  "intervalo_de_confianca_mais": 90.37
+ },
+ {
+  "id": 221,
+  "ano": 2031,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 90.16,
+  "intervalo_de_confianca_menos": 89.54,
+  "intervalo_de_confianca_mais": 90.78
+ },
+ {
+  "id": 222,
+  "ano": 2032,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 90.52,
+  "intervalo_de_confianca_menos": 89.88,
+  "intervalo_de_confianca_mais": 91.15
+ },
+ {
+  "id": 223,
+  "ano": 2033,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 90.84,
+  "intervalo_de_confianca_menos": 90.2,
+  "intervalo_de_confianca_mais": 91.48
+ },
+ {
+  "id": 224,
+  "ano": 2034,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 91.13,
+  "intervalo_de_confianca_menos": 90.48,
+  "intervalo_de_confianca_mais": 91.77
+ },
+ {
+  "id": 225,
+  "ano": 2035,
+  "fecam": "Ammoc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 91.39,
+  "intervalo_de_confianca_menos": 90.74,
+  "intervalo_de_confianca_mais": 92.04
+ },
+ {
+  "id": 226,
+  "ano": 2011,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 75.55,
+  "trajetoria_suavizada": 72.45,
+  "intervalo_de_confianca_menos": 72.45,
+  "intervalo_de_confianca_mais": 72.45
+ },
+ {
+  "id": 227,
+  "ano": 2012,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 61.17,
+  "trajetoria_suavizada": 67.52,
+  "intervalo_de_confianca_menos": 67.52,
+  "intervalo_de_confianca_mais": 67.52
+ },
+ {
+  "id": 228,
+  "ano": 2013,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 65.58,
+  "trajetoria_suavizada": 64.08,
+  "intervalo_de_confianca_menos": 64.08,
+  "intervalo_de_confianca_mais": 64.08
+ },
+ {
+  "id": 229,
+  "ano": 2014,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 58.93,
+  "trajetoria_suavizada": 61.52,
+  "intervalo_de_confianca_menos": 61.52,
+  "intervalo_de_confianca_mais": 61.52
+ },
+ {
+  "id": 230,
+  "ano": 2015,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 62.59,
+  "trajetoria_suavizada": 61,
+  "intervalo_de_confianca_menos": 61,
+  "intervalo_de_confianca_mais": 61
+ },
+ {
+  "id": 231,
+  "ano": 2016,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 52.74,
+  "trajetoria_suavizada": 61.5,
+  "intervalo_de_confianca_menos": 61.5,
+  "intervalo_de_confianca_mais": 61.5
+ },
+ {
+  "id": 232,
+  "ano": 2017,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 67.32,
+  "trajetoria_suavizada": 62.16,
+  "intervalo_de_confianca_menos": 62.16,
+  "intervalo_de_confianca_mais": 62.16
+ },
+ {
+  "id": 233,
+  "ano": 2018,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 65.78,
+  "trajetoria_suavizada": 63.09,
+  "intervalo_de_confianca_menos": 63.09,
+  "intervalo_de_confianca_mais": 63.09
+ },
+ {
+  "id": 234,
+  "ano": 2019,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 62.73,
+  "trajetoria_suavizada": 64.17,
+  "intervalo_de_confianca_menos": 64.17,
+  "intervalo_de_confianca_mais": 64.17
+ },
+ {
+  "id": 235,
+  "ano": 2020,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 63.75,
+  "trajetoria_suavizada": 64.52,
+  "intervalo_de_confianca_menos": 64.52,
+  "intervalo_de_confianca_mais": 64.52
+ },
+ {
+  "id": 236,
+  "ano": 2021,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 64.06,
+  "trajetoria_suavizada": 64.92,
+  "intervalo_de_confianca_menos": 64.92,
+  "intervalo_de_confianca_mais": 64.92
+ },
+ {
+  "id": 237,
+  "ano": 2022,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 66.69,
+  "trajetoria_suavizada": 66.25,
+  "intervalo_de_confianca_menos": 66.25,
+  "intervalo_de_confianca_mais": 66.25
+ },
+ {
+  "id": 238,
+  "ano": 2023,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 67.23,
+  "intervalo_de_confianca_menos": 66.94,
+  "intervalo_de_confianca_mais": 67.52
+ },
+ {
+  "id": 239,
+  "ano": 2024,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 68.11,
+  "intervalo_de_confianca_menos": 67.72,
+  "intervalo_de_confianca_mais": 68.51
+ },
+ {
+  "id": 240,
+  "ano": 2025,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 68.91,
+  "intervalo_de_confianca_menos": 68.45,
+  "intervalo_de_confianca_mais": 69.37
+ },
+ {
+  "id": 241,
+  "ano": 2026,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 69.62,
+  "intervalo_de_confianca_menos": 69.12,
+  "intervalo_de_confianca_mais": 70.13
+ },
+ {
+  "id": 242,
+  "ano": 2027,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 70.27,
+  "intervalo_de_confianca_menos": 69.73,
+  "intervalo_de_confianca_mais": 70.81
+ },
+ {
+  "id": 243,
+  "ano": 2028,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 70.85,
+  "intervalo_de_confianca_menos": 70.28,
+  "intervalo_de_confianca_mais": 71.42
+ },
+ {
+  "id": 244,
+  "ano": 2029,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 71.37,
+  "intervalo_de_confianca_menos": 70.78,
+  "intervalo_de_confianca_mais": 71.96
+ },
+ {
+  "id": 245,
+  "ano": 2030,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 71.84,
+  "intervalo_de_confianca_menos": 71.23,
+  "intervalo_de_confianca_mais": 72.45
+ },
+ {
+  "id": 246,
+  "ano": 2031,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 72.26,
+  "intervalo_de_confianca_menos": 71.64,
+  "intervalo_de_confianca_mais": 72.88
+ },
+ {
+  "id": 247,
+  "ano": 2032,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 72.64,
+  "intervalo_de_confianca_menos": 72.01,
+  "intervalo_de_confianca_mais": 73.27
+ },
+ {
+  "id": 248,
+  "ano": 2033,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 72.99,
+  "intervalo_de_confianca_menos": 72.35,
+  "intervalo_de_confianca_mais": 73.63
+ },
+ {
+  "id": 249,
+  "ano": 2034,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 73.29,
+  "intervalo_de_confianca_menos": 72.65,
+  "intervalo_de_confianca_mais": 73.94
+ },
+ {
+  "id": 250,
+  "ano": 2035,
+  "fecam": "Amnoroeste",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 73.57,
+  "intervalo_de_confianca_menos": 72.92,
+  "intervalo_de_confianca_mais": 74.22
+ },
+ {
+  "id": 251,
+  "ano": 2011,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 88.61,
+  "trajetoria_suavizada": 89.42,
+  "intervalo_de_confianca_menos": 89.42,
+  "intervalo_de_confianca_mais": 89.42
+ },
+ {
+  "id": 252,
+  "ano": 2012,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 89.55,
+  "trajetoria_suavizada": 86.1,
+  "intervalo_de_confianca_menos": 86.1,
+  "intervalo_de_confianca_mais": 86.1
+ },
+ {
+  "id": 253,
+  "ano": 2013,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 75.19,
+  "trajetoria_suavizada": 85.72,
+  "intervalo_de_confianca_menos": 85.72,
+  "intervalo_de_confianca_mais": 85.72
+ },
+ {
+  "id": 254,
+  "ano": 2014,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 88.62,
+  "trajetoria_suavizada": 85.95,
+  "intervalo_de_confianca_menos": 85.95,
+  "intervalo_de_confianca_mais": 85.95
+ },
+ {
+  "id": 255,
+  "ano": 2015,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 87.6,
+  "trajetoria_suavizada": 86.27,
+  "intervalo_de_confianca_menos": 86.27,
+  "intervalo_de_confianca_mais": 86.27
+ },
+ {
+  "id": 256,
+  "ano": 2016,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 90.76,
+  "trajetoria_suavizada": 86.84,
+  "intervalo_de_confianca_menos": 86.84,
+  "intervalo_de_confianca_mais": 86.84
+ },
+ {
+  "id": 257,
+  "ano": 2017,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 85.26,
+  "trajetoria_suavizada": 86.8,
+  "intervalo_de_confianca_menos": 86.8,
+  "intervalo_de_confianca_mais": 86.8
+ },
+ {
+  "id": 258,
+  "ano": 2018,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 84.25,
+  "trajetoria_suavizada": 86.41,
+  "intervalo_de_confianca_menos": 86.41,
+  "intervalo_de_confianca_mais": 86.41
+ },
+ {
+  "id": 259,
+  "ano": 2019,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 84.95,
+  "trajetoria_suavizada": 85.66,
+  "intervalo_de_confianca_menos": 85.66,
+  "intervalo_de_confianca_mais": 85.66
+ },
+ {
+  "id": 260,
+  "ano": 2020,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 89.65,
+  "trajetoria_suavizada": 85,
+  "intervalo_de_confianca_menos": 85,
+  "intervalo_de_confianca_mais": 85
+ },
+ {
+  "id": 261,
+  "ano": 2021,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 83.04,
+  "trajetoria_suavizada": 84.2,
+  "intervalo_de_confianca_menos": 84.2,
+  "intervalo_de_confianca_mais": 84.2
+ },
+ {
+  "id": 262,
+  "ano": 2022,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 82.06,
+  "trajetoria_suavizada": 81.86,
+  "intervalo_de_confianca_menos": 81.86,
+  "intervalo_de_confianca_mais": 81.86
+ },
+ {
+  "id": 263,
+  "ano": 2023,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 83.06,
+  "intervalo_de_confianca_menos": 82.77,
+  "intervalo_de_confianca_mais": 83.36
+ },
+ {
+  "id": 264,
+  "ano": 2024,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 84.15,
+  "intervalo_de_confianca_menos": 83.75,
+  "intervalo_de_confianca_mais": 84.54
+ },
+ {
+  "id": 265,
+  "ano": 2025,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 85.12,
+  "intervalo_de_confianca_menos": 84.66,
+  "intervalo_de_confianca_mais": 85.58
+ },
+ {
+  "id": 266,
+  "ano": 2026,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 86,
+  "intervalo_de_confianca_menos": 85.49,
+  "intervalo_de_confianca_mais": 86.51
+ },
+ {
+  "id": 267,
+  "ano": 2027,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 86.79,
+  "intervalo_de_confianca_menos": 86.24,
+  "intervalo_de_confianca_mais": 87.33
+ },
+ {
+  "id": 268,
+  "ano": 2028,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 87.5,
+  "intervalo_de_confianca_menos": 86.93,
+  "intervalo_de_confianca_mais": 88.07
+ },
+ {
+  "id": 269,
+  "ano": 2029,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 88.14,
+  "intervalo_de_confianca_menos": 87.55,
+  "intervalo_de_confianca_mais": 88.73
+ },
+ {
+  "id": 270,
+  "ano": 2030,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 88.71,
+  "intervalo_de_confianca_menos": 88.11,
+  "intervalo_de_confianca_mais": 89.32
+ },
+ {
+  "id": 271,
+  "ano": 2031,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 89.23,
+  "intervalo_de_confianca_menos": 88.61,
+  "intervalo_de_confianca_mais": 89.85
+ },
+ {
+  "id": 272,
+  "ano": 2032,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 89.7,
+  "intervalo_de_confianca_menos": 89.07,
+  "intervalo_de_confianca_mais": 90.33
+ },
+ {
+  "id": 273,
+  "ano": 2033,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 90.12,
+  "intervalo_de_confianca_menos": 89.48,
+  "intervalo_de_confianca_mais": 90.76
+ },
+ {
+  "id": 274,
+  "ano": 2034,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 90.5,
+  "intervalo_de_confianca_menos": 89.85,
+  "intervalo_de_confianca_mais": 91.14
+ },
+ {
+  "id": 275,
+  "ano": 2035,
+  "fecam": "Amosc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 90.84,
+  "intervalo_de_confianca_menos": 90.18,
+  "intervalo_de_confianca_mais": 91.49
+ },
+ {
+  "id": 276,
+  "ano": 2011,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 85.02,
+  "trajetoria_suavizada": 85.01,
+  "intervalo_de_confianca_menos": 85.01,
+  "intervalo_de_confianca_mais": 85.01
+ },
+ {
+  "id": 277,
+  "ano": 2012,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 83.33,
+  "trajetoria_suavizada": 82.85,
+  "intervalo_de_confianca_menos": 82.85,
+  "intervalo_de_confianca_mais": 82.85
+ },
+ {
+  "id": 278,
+  "ano": 2013,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 78.98,
+  "trajetoria_suavizada": 81.07,
+  "intervalo_de_confianca_menos": 81.07,
+  "intervalo_de_confianca_mais": 81.07
+ },
+ {
+  "id": 279,
+  "ano": 2014,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 81.07,
+  "trajetoria_suavizada": 80.01,
+  "intervalo_de_confianca_menos": 80.01,
+  "intervalo_de_confianca_mais": 80.01
+ },
+ {
+  "id": 280,
+  "ano": 2015,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 75.39,
+  "trajetoria_suavizada": 79.39,
+  "intervalo_de_confianca_menos": 79.39,
+  "intervalo_de_confianca_mais": 79.39
+ },
+ {
+  "id": 281,
+  "ano": 2016,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 81.91,
+  "trajetoria_suavizada": 79.1,
+  "intervalo_de_confianca_menos": 79.1,
+  "intervalo_de_confianca_mais": 79.1
+ },
+ {
+  "id": 282,
+  "ano": 2017,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 79.41,
+  "trajetoria_suavizada": 79.04,
+  "intervalo_de_confianca_menos": 79.04,
+  "intervalo_de_confianca_mais": 79.04
+ },
+ {
+  "id": 283,
+  "ano": 2018,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 76.7,
+  "trajetoria_suavizada": 78.33,
+  "intervalo_de_confianca_menos": 78.33,
+  "intervalo_de_confianca_mais": 78.33
+ },
+ {
+  "id": 284,
+  "ano": 2019,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 82.93,
+  "trajetoria_suavizada": 76.83,
+  "intervalo_de_confianca_menos": 76.83,
+  "intervalo_de_confianca_mais": 76.83
+ },
+ {
+  "id": 285,
+  "ano": 2020,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 71.73,
+  "trajetoria_suavizada": 75.3,
+  "intervalo_de_confianca_menos": 75.3,
+  "intervalo_de_confianca_mais": 75.3
+ },
+ {
+  "id": 286,
+  "ano": 2021,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 72.08,
+  "trajetoria_suavizada": 73.45,
+  "intervalo_de_confianca_menos": 73.45,
+  "intervalo_de_confianca_mais": 73.45
+ },
+ {
+  "id": 287,
+  "ano": 2022,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 73.42,
+  "trajetoria_suavizada": 72.15,
+  "intervalo_de_confianca_menos": 72.15,
+  "intervalo_de_confianca_mais": 72.15
+ },
+ {
+  "id": 288,
+  "ano": 2023,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 73.86,
+  "intervalo_de_confianca_menos": 73.57,
+  "intervalo_de_confianca_mais": 74.15
+ },
+ {
+  "id": 289,
+  "ano": 2024,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 75.4,
+  "intervalo_de_confianca_menos": 75.01,
+  "intervalo_de_confianca_mais": 75.8
+ },
+ {
+  "id": 290,
+  "ano": 2025,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 76.79,
+  "intervalo_de_confianca_menos": 76.33,
+  "intervalo_de_confianca_mais": 77.25
+ },
+ {
+  "id": 291,
+  "ano": 2026,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 78.04,
+  "intervalo_de_confianca_menos": 77.53,
+  "intervalo_de_confianca_mais": 78.54
+ },
+ {
+  "id": 292,
+  "ano": 2027,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 79.16,
+  "intervalo_de_confianca_menos": 78.61,
+  "intervalo_de_confianca_mais": 79.7
+ },
+ {
+  "id": 293,
+  "ano": 2028,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 80.17,
+  "intervalo_de_confianca_menos": 79.6,
+  "intervalo_de_confianca_mais": 80.74
+ },
+ {
+  "id": 294,
+  "ano": 2029,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 81.08,
+  "intervalo_de_confianca_menos": 80.49,
+  "intervalo_de_confianca_mais": 81.67
+ },
+ {
+  "id": 295,
+  "ano": 2030,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 81.9,
+  "intervalo_de_confianca_menos": 81.29,
+  "intervalo_de_confianca_mais": 82.51
+ },
+ {
+  "id": 296,
+  "ano": 2031,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 82.63,
+  "intervalo_de_confianca_menos": 82.01,
+  "intervalo_de_confianca_mais": 83.26
+ },
+ {
+  "id": 297,
+  "ano": 2032,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 83.3,
+  "intervalo_de_confianca_menos": 82.67,
+  "intervalo_de_confianca_mais": 83.93
+ },
+ {
+  "id": 298,
+  "ano": 2033,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 83.89,
+  "intervalo_de_confianca_menos": 83.25,
+  "intervalo_de_confianca_mais": 84.53
+ },
+ {
+  "id": 299,
+  "ano": 2034,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 84.43,
+  "intervalo_de_confianca_menos": 83.79,
+  "intervalo_de_confianca_mais": 85.08
+ },
+ {
+  "id": 300,
+  "ano": 2035,
+  "fecam": "Amplanorte",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 84.91,
+  "intervalo_de_confianca_menos": 84.26,
+  "intervalo_de_confianca_mais": 85.57
+ },
+ {
+  "id": 301,
+  "ano": 2011,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 84.33,
+  "trajetoria_suavizada": 83.91,
+  "intervalo_de_confianca_menos": 83.91,
+  "intervalo_de_confianca_mais": 83.91
+ },
+ {
+  "id": 302,
+  "ano": 2012,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 82.71,
+  "trajetoria_suavizada": 83.01,
+  "intervalo_de_confianca_menos": 83.01,
+  "intervalo_de_confianca_mais": 83.01
+ },
+ {
+  "id": 303,
+  "ano": 2013,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 80.47,
+  "trajetoria_suavizada": 82.69,
+  "intervalo_de_confianca_menos": 82.69,
+  "intervalo_de_confianca_mais": 82.69
+ },
+ {
+  "id": 304,
+  "ano": 2014,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 84.32,
+  "trajetoria_suavizada": 82.03,
+  "intervalo_de_confianca_menos": 82.03,
+  "intervalo_de_confianca_mais": 82.03
+ },
+ {
+  "id": 305,
+  "ano": 2015,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 82.51,
+  "trajetoria_suavizada": 81.71,
+  "intervalo_de_confianca_menos": 81.71,
+  "intervalo_de_confianca_mais": 81.71
+ },
+ {
+  "id": 306,
+  "ano": 2016,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 80.14,
+  "trajetoria_suavizada": 82.42,
+  "intervalo_de_confianca_menos": 82.42,
+  "intervalo_de_confianca_mais": 82.42
+ },
+ {
+  "id": 307,
+  "ano": 2017,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 77.32,
+  "trajetoria_suavizada": 82.74,
+  "intervalo_de_confianca_menos": 82.74,
+  "intervalo_de_confianca_mais": 82.74
+ },
+ {
+  "id": 308,
+  "ano": 2018,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 90.85,
+  "trajetoria_suavizada": 82.01,
+  "intervalo_de_confianca_menos": 82.01,
+  "intervalo_de_confianca_mais": 82.01
+ },
+ {
+  "id": 309,
+  "ano": 2019,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 85.02,
+  "trajetoria_suavizada": 81.13,
+  "intervalo_de_confianca_menos": 81.13,
+  "intervalo_de_confianca_mais": 81.13
+ },
+ {
+  "id": 310,
+  "ano": 2020,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 74.98,
+  "trajetoria_suavizada": 79.89,
+  "intervalo_de_confianca_menos": 79.89,
+  "intervalo_de_confianca_mais": 79.89
+ },
+ {
+  "id": 311,
+  "ano": 2021,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 74.93,
+  "trajetoria_suavizada": 77.47,
+  "intervalo_de_confianca_menos": 77.47,
+  "intervalo_de_confianca_mais": 77.47
+ },
+ {
+  "id": 312,
+  "ano": 2022,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 79.05,
+  "trajetoria_suavizada": 77.23,
+  "intervalo_de_confianca_menos": 77.23,
+  "intervalo_de_confianca_mais": 77.23
+ },
+ {
+  "id": 313,
+  "ano": 2023,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 78.31,
+  "intervalo_de_confianca_menos": 78.02,
+  "intervalo_de_confianca_mais": 78.61
+ },
+ {
+  "id": 314,
+  "ano": 2024,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 79.29,
+  "intervalo_de_confianca_menos": 78.9,
+  "intervalo_de_confianca_mais": 79.69
+ },
+ {
+  "id": 315,
+  "ano": 2025,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 80.17,
+  "intervalo_de_confianca_menos": 79.71,
+  "intervalo_de_confianca_mais": 80.63
+ },
+ {
+  "id": 316,
+  "ano": 2026,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 80.97,
+  "intervalo_de_confianca_menos": 80.46,
+  "intervalo_de_confianca_mais": 81.48
+ },
+ {
+  "id": 317,
+  "ano": 2027,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 81.68,
+  "intervalo_de_confianca_menos": 81.14,
+  "intervalo_de_confianca_mais": 82.22
+ },
+ {
+  "id": 318,
+  "ano": 2028,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 82.32,
+  "intervalo_de_confianca_menos": 81.75,
+  "intervalo_de_confianca_mais": 82.89
+ },
+ {
+  "id": 319,
+  "ano": 2029,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 82.9,
+  "intervalo_de_confianca_menos": 82.31,
+  "intervalo_de_confianca_mais": 83.49
+ },
+ {
+  "id": 320,
+  "ano": 2030,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 83.42,
+  "intervalo_de_confianca_menos": 82.81,
+  "intervalo_de_confianca_mais": 84.03
+ },
+ {
+  "id": 321,
+  "ano": 2031,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 83.89,
+  "intervalo_de_confianca_menos": 83.27,
+  "intervalo_de_confianca_mais": 84.51
+ },
+ {
+  "id": 322,
+  "ano": 2032,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 84.31,
+  "intervalo_de_confianca_menos": 83.68,
+  "intervalo_de_confianca_mais": 84.94
+ },
+ {
+  "id": 323,
+  "ano": 2033,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 84.69,
+  "intervalo_de_confianca_menos": 84.05,
+  "intervalo_de_confianca_mais": 85.33
+ },
+ {
+  "id": 324,
+  "ano": 2034,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 85.03,
+  "intervalo_de_confianca_menos": 84.39,
+  "intervalo_de_confianca_mais": 85.68
+ },
+ {
+  "id": 325,
+  "ano": 2035,
+  "fecam": "Amplasc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 85.34,
+  "intervalo_de_confianca_menos": 84.69,
+  "intervalo_de_confianca_mais": 85.99
+ },
+ {
+  "id": 326,
+  "ano": 2011,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 92.62,
+  "trajetoria_suavizada": 92.42,
+  "intervalo_de_confianca_menos": 92.42,
+  "intervalo_de_confianca_mais": 92.42
+ },
+ {
+  "id": 327,
+  "ano": 2012,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 93.66,
+  "trajetoria_suavizada": 94.15,
+  "intervalo_de_confianca_menos": 94.15,
+  "intervalo_de_confianca_mais": 94.15
+ },
+ {
+  "id": 328,
+  "ano": 2013,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 96.55,
+  "trajetoria_suavizada": 95.18,
+  "intervalo_de_confianca_menos": 95.18,
+  "intervalo_de_confianca_mais": 95.18
+ },
+ {
+  "id": 329,
+  "ano": 2014,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.14,
+  "trajetoria_suavizada": 96,
+  "intervalo_de_confianca_menos": 96,
+  "intervalo_de_confianca_mais": 96
+ },
+ {
+  "id": 330,
+  "ano": 2015,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 95.29,
+  "trajetoria_suavizada": 96.72,
+  "intervalo_de_confianca_menos": 96.72,
+  "intervalo_de_confianca_mais": 96.72
+ },
+ {
+  "id": 331,
+  "ano": 2016,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.11,
+  "trajetoria_suavizada": 97.06,
+  "intervalo_de_confianca_menos": 97.06,
+  "intervalo_de_confianca_mais": 97.06
+ },
+ {
+  "id": 332,
+  "ano": 2017,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 98.52,
+  "trajetoria_suavizada": 97.21,
+  "intervalo_de_confianca_menos": 97.21,
+  "intervalo_de_confianca_mais": 97.21
+ },
+ {
+  "id": 333,
+  "ano": 2018,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.63,
+  "trajetoria_suavizada": 97.46,
+  "intervalo_de_confianca_menos": 97.46,
+  "intervalo_de_confianca_mais": 97.46
+ },
+ {
+  "id": 334,
+  "ano": 2019,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 96.62,
+  "trajetoria_suavizada": 97.61,
+  "intervalo_de_confianca_menos": 97.61,
+  "intervalo_de_confianca_mais": 97.61
+ },
+ {
+  "id": 335,
+  "ano": 2020,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.58,
+  "trajetoria_suavizada": 97.61,
+  "intervalo_de_confianca_menos": 97.61,
+  "intervalo_de_confianca_mais": 97.61
+ },
+ {
+  "id": 336,
+  "ano": 2021,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 98.37,
+  "trajetoria_suavizada": 97.75,
+  "intervalo_de_confianca_menos": 97.75,
+  "intervalo_de_confianca_mais": 97.75
+ },
+ {
+  "id": 337,
+  "ano": 2022,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.59,
+  "trajetoria_suavizada": 97.95,
+  "intervalo_de_confianca_menos": 97.95,
+  "intervalo_de_confianca_mais": 97.95
+ },
+ {
+  "id": 338,
+  "ano": 2023,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 98.44,
+  "intervalo_de_confianca_menos": 98.15,
+  "intervalo_de_confianca_mais": 98.73
+ },
+ {
+  "id": 339,
+  "ano": 2024,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 98.88,
+  "intervalo_de_confianca_menos": 98.48,
+  "intervalo_de_confianca_mais": 99.27
+ },
+ {
+  "id": 340,
+  "ano": 2025,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 99.28,
+  "intervalo_de_confianca_menos": 98.82,
+  "intervalo_de_confianca_mais": 99.74
+ },
+ {
+  "id": 341,
+  "ano": 2026,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 99.63,
+  "intervalo_de_confianca_menos": 99.13,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 342,
+  "ano": 2027,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 99.95,
+  "intervalo_de_confianca_menos": 99.41,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 343,
+  "ano": 2028,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.43,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 344,
+  "ano": 2029,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.41,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 345,
+  "ano": 2030,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.39,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 346,
+  "ano": 2031,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.38,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 347,
+  "ano": 2032,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.37,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 348,
+  "ano": 2033,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.36,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 349,
+  "ano": 2034,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.35,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 350,
+  "ano": 2035,
+  "fecam": "Amrec",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.35,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 351,
+  "ano": 2011,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 98.9,
+  "trajetoria_suavizada": 98.87,
+  "intervalo_de_confianca_menos": 98.87,
+  "intervalo_de_confianca_mais": 98.87
+ },
+ {
+  "id": 352,
+  "ano": 2012,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 99.03,
+  "trajetoria_suavizada": 99.09,
+  "intervalo_de_confianca_menos": 99.09,
+  "intervalo_de_confianca_mais": 99.09
+ },
+ {
+  "id": 353,
+  "ano": 2013,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 99.4,
+  "trajetoria_suavizada": 99.2,
+  "intervalo_de_confianca_menos": 99.2,
+  "intervalo_de_confianca_mais": 99.2
+ },
+ {
+  "id": 354,
+  "ano": 2014,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 99.48,
+  "trajetoria_suavizada": 99.12,
+  "intervalo_de_confianca_menos": 99.12,
+  "intervalo_de_confianca_mais": 99.12
+ },
+ {
+  "id": 355,
+  "ano": 2015,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 99.26,
+  "trajetoria_suavizada": 98.92,
+  "intervalo_de_confianca_menos": 98.92,
+  "intervalo_de_confianca_mais": 98.92
+ },
+ {
+  "id": 356,
+  "ano": 2016,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 98.57,
+  "trajetoria_suavizada": 98.74,
+  "intervalo_de_confianca_menos": 98.74,
+  "intervalo_de_confianca_mais": 98.74
+ },
+ {
+  "id": 357,
+  "ano": 2017,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.56,
+  "trajetoria_suavizada": 98.64,
+  "intervalo_de_confianca_menos": 98.64,
+  "intervalo_de_confianca_mais": 98.64
+ },
+ {
+  "id": 358,
+  "ano": 2018,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 98.95,
+  "trajetoria_suavizada": 98.67,
+  "intervalo_de_confianca_menos": 98.67,
+  "intervalo_de_confianca_mais": 98.67
+ },
+ {
+  "id": 359,
+  "ano": 2019,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 98.87,
+  "trajetoria_suavizada": 98.87,
+  "intervalo_de_confianca_menos": 98.87,
+  "intervalo_de_confianca_mais": 98.87
+ },
+ {
+  "id": 360,
+  "ano": 2020,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 99.29,
+  "trajetoria_suavizada": 99.14,
+  "intervalo_de_confianca_menos": 99.14,
+  "intervalo_de_confianca_mais": 99.14
+ },
+ {
+  "id": 361,
+  "ano": 2021,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 99.43,
+  "trajetoria_suavizada": 99.31,
+  "intervalo_de_confianca_menos": 99.31,
+  "intervalo_de_confianca_mais": 99.31
+ },
+ {
+  "id": 362,
+  "ano": 2022,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 99.32,
+  "trajetoria_suavizada": 99.4,
+  "intervalo_de_confianca_menos": 99.4,
+  "intervalo_de_confianca_mais": 99.4
+ },
+ {
+  "id": 363,
+  "ano": 2023,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 99.9,
+  "intervalo_de_confianca_menos": 99.6,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 364,
+  "ano": 2024,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.61,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 365,
+  "ano": 2025,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.54,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 366,
+  "ano": 2026,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.49,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 367,
+  "ano": 2027,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.46,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 368,
+  "ano": 2028,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.43,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 369,
+  "ano": 2029,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.41,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 370,
+  "ano": 2030,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.39,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 371,
+  "ano": 2031,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.38,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 372,
+  "ano": 2032,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.37,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 373,
+  "ano": 2033,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.36,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 374,
+  "ano": 2034,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.35,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 375,
+  "ano": 2035,
+  "fecam": "Amunesc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.35,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 376,
+  "ano": 2011,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 90.81,
+  "trajetoria_suavizada": 93.37,
+  "intervalo_de_confianca_menos": 93.37,
+  "intervalo_de_confianca_mais": 93.37
+ },
+ {
+  "id": 377,
+  "ano": 2012,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 98.15,
+  "trajetoria_suavizada": 93.51,
+  "intervalo_de_confianca_menos": 93.51,
+  "intervalo_de_confianca_mais": 93.51
+ },
+ {
+  "id": 378,
+  "ano": 2013,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 93.16,
+  "trajetoria_suavizada": 92.9,
+  "intervalo_de_confianca_menos": 92.9,
+  "intervalo_de_confianca_mais": 92.9
+ },
+ {
+  "id": 379,
+  "ano": 2014,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 89.72,
+  "trajetoria_suavizada": 92.48,
+  "intervalo_de_confianca_menos": 92.48,
+  "intervalo_de_confianca_mais": 92.48
+ },
+ {
+  "id": 380,
+  "ano": 2015,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 91.04,
+  "trajetoria_suavizada": 91.92,
+  "intervalo_de_confianca_menos": 91.92,
+  "intervalo_de_confianca_mais": 91.92
+ },
+ {
+  "id": 381,
+  "ano": 2016,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 92.34,
+  "trajetoria_suavizada": 91.63,
+  "intervalo_de_confianca_menos": 91.63,
+  "intervalo_de_confianca_mais": 91.63
+ },
+ {
+  "id": 382,
+  "ano": 2017,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 93.07,
+  "trajetoria_suavizada": 91.85,
+  "intervalo_de_confianca_menos": 91.85,
+  "intervalo_de_confianca_mais": 91.85
+ },
+ {
+  "id": 383,
+  "ano": 2018,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 90.71,
+  "trajetoria_suavizada": 92.18,
+  "intervalo_de_confianca_menos": 92.18,
+  "intervalo_de_confianca_mais": 92.18
+ },
+ {
+  "id": 384,
+  "ano": 2019,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 92,
+  "trajetoria_suavizada": 92.27,
+  "intervalo_de_confianca_menos": 92.27,
+  "intervalo_de_confianca_mais": 92.27
+ },
+ {
+  "id": 385,
+  "ano": 2020,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 93.23,
+  "trajetoria_suavizada": 92.2,
+  "intervalo_de_confianca_menos": 92.2,
+  "intervalo_de_confianca_mais": 92.2
+ },
+ {
+  "id": 386,
+  "ano": 2021,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 93.2,
+  "trajetoria_suavizada": 92.11,
+  "intervalo_de_confianca_menos": 92.11,
+  "intervalo_de_confianca_mais": 92.11
+ },
+ {
+  "id": 387,
+  "ano": 2022,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 90.68,
+  "trajetoria_suavizada": 91.34,
+  "intervalo_de_confianca_menos": 91.34,
+  "intervalo_de_confianca_mais": 91.34
+ },
+ {
+  "id": 388,
+  "ano": 2023,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 92.02,
+  "intervalo_de_confianca_menos": 91.73,
+  "intervalo_de_confianca_mais": 92.32
+ },
+ {
+  "id": 389,
+  "ano": 2024,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 92.64,
+  "intervalo_de_confianca_menos": 92.25,
+  "intervalo_de_confianca_mais": 93.04
+ },
+ {
+  "id": 390,
+  "ano": 2025,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 93.2,
+  "intervalo_de_confianca_menos": 92.74,
+  "intervalo_de_confianca_mais": 93.66
+ },
+ {
+  "id": 391,
+  "ano": 2026,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 93.7,
+  "intervalo_de_confianca_menos": 93.19,
+  "intervalo_de_confianca_mais": 94.2
+ },
+ {
+  "id": 392,
+  "ano": 2027,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 94.14,
+  "intervalo_de_confianca_menos": 93.6,
+  "intervalo_de_confianca_mais": 94.69
+ },
+ {
+  "id": 393,
+  "ano": 2028,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 94.55,
+  "intervalo_de_confianca_menos": 93.98,
+  "intervalo_de_confianca_mais": 95.12
+ },
+ {
+  "id": 394,
+  "ano": 2029,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 94.91,
+  "intervalo_de_confianca_menos": 94.32,
+  "intervalo_de_confianca_mais": 95.5
+ },
+ {
+  "id": 395,
+  "ano": 2030,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 95.24,
+  "intervalo_de_confianca_menos": 94.63,
+  "intervalo_de_confianca_mais": 95.85
+ },
+ {
+  "id": 396,
+  "ano": 2031,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 95.54,
+  "intervalo_de_confianca_menos": 94.91,
+  "intervalo_de_confianca_mais": 96.16
+ },
+ {
+  "id": 397,
+  "ano": 2032,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 95.8,
+  "intervalo_de_confianca_menos": 95.17,
+  "intervalo_de_confianca_mais": 96.43
+ },
+ {
+  "id": 398,
+  "ano": 2033,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 96.04,
+  "intervalo_de_confianca_menos": 95.4,
+  "intervalo_de_confianca_mais": 96.68
+ },
+ {
+  "id": 399,
+  "ano": 2034,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 96.25,
+  "intervalo_de_confianca_menos": 95.61,
+  "intervalo_de_confianca_mais": 96.9
+ },
+ {
+  "id": 400,
+  "ano": 2035,
+  "fecam": "Amurc",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 96.45,
+  "intervalo_de_confianca_menos": 95.8,
+  "intervalo_de_confianca_mais": 97.1
+ },
+ {
+  "id": 401,
+  "ano": 2011,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 95,
+  "trajetoria_suavizada": 93.87,
+  "intervalo_de_confianca_menos": 93.87,
+  "intervalo_de_confianca_mais": 93.87
+ },
+ {
+  "id": 402,
+  "ano": 2012,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 89.24,
+  "trajetoria_suavizada": 89.61,
+  "intervalo_de_confianca_menos": 89.61,
+  "intervalo_de_confianca_mais": 89.61
+ },
+ {
+  "id": 403,
+  "ano": 2013,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 78.98,
+  "trajetoria_suavizada": 89.36,
+  "intervalo_de_confianca_menos": 89.36,
+  "intervalo_de_confianca_mais": 89.36
+ },
+ {
+  "id": 404,
+  "ano": 2014,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 91.93,
+  "trajetoria_suavizada": 89.31,
+  "intervalo_de_confianca_menos": 89.31,
+  "intervalo_de_confianca_mais": 89.31
+ },
+ {
+  "id": 405,
+  "ano": 2015,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 96.62,
+  "trajetoria_suavizada": 89.82,
+  "intervalo_de_confianca_menos": 89.82,
+  "intervalo_de_confianca_mais": 89.82
+ },
+ {
+  "id": 406,
+  "ano": 2016,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 87.58,
+  "trajetoria_suavizada": 90.63,
+  "intervalo_de_confianca_menos": 90.63,
+  "intervalo_de_confianca_mais": 90.63
+ },
+ {
+  "id": 407,
+  "ano": 2017,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 91.16,
+  "trajetoria_suavizada": 90.24,
+  "intervalo_de_confianca_menos": 90.24,
+  "intervalo_de_confianca_mais": 90.24
+ },
+ {
+  "id": 408,
+  "ano": 2018,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 88.75,
+  "trajetoria_suavizada": 89.51,
+  "intervalo_de_confianca_menos": 89.51,
+  "intervalo_de_confianca_mais": 89.51
+ },
+ {
+  "id": 409,
+  "ano": 2019,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 87.91,
+  "trajetoria_suavizada": 89.49,
+  "intervalo_de_confianca_menos": 89.49,
+  "intervalo_de_confianca_mais": 89.49
+ },
+ {
+  "id": 410,
+  "ano": 2020,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 90.28,
+  "trajetoria_suavizada": 89.75,
+  "intervalo_de_confianca_menos": 89.75,
+  "intervalo_de_confianca_mais": 89.75
+ },
+ {
+  "id": 411,
+  "ano": 2021,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 90.16,
+  "trajetoria_suavizada": 90.38,
+  "intervalo_de_confianca_menos": 90.38,
+  "intervalo_de_confianca_mais": 90.38
+ },
+ {
+  "id": 412,
+  "ano": 2022,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 91.16,
+  "trajetoria_suavizada": 91.14,
+  "intervalo_de_confianca_menos": 91.14,
+  "intervalo_de_confianca_mais": 91.14
+ },
+ {
+  "id": 413,
+  "ano": 2023,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 91.88,
+  "intervalo_de_confianca_menos": 91.59,
+  "intervalo_de_confianca_mais": 92.18
+ },
+ {
+  "id": 414,
+  "ano": 2024,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 92.55,
+  "intervalo_de_confianca_menos": 92.16,
+  "intervalo_de_confianca_mais": 92.95
+ },
+ {
+  "id": 415,
+  "ano": 2025,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 93.15,
+  "intervalo_de_confianca_menos": 92.69,
+  "intervalo_de_confianca_mais": 93.61
+ },
+ {
+  "id": 416,
+  "ano": 2026,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 93.69,
+  "intervalo_de_confianca_menos": 93.18,
+  "intervalo_de_confianca_mais": 94.2
+ },
+ {
+  "id": 417,
+  "ano": 2027,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 94.18,
+  "intervalo_de_confianca_menos": 93.64,
+  "intervalo_de_confianca_mais": 94.72
+ },
+ {
+  "id": 418,
+  "ano": 2028,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 94.62,
+  "intervalo_de_confianca_menos": 94.05,
+  "intervalo_de_confianca_mais": 95.19
+ },
+ {
+  "id": 419,
+  "ano": 2029,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 95.01,
+  "intervalo_de_confianca_menos": 94.42,
+  "intervalo_de_confianca_mais": 95.6
+ },
+ {
+  "id": 420,
+  "ano": 2030,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 95.37,
+  "intervalo_de_confianca_menos": 94.76,
+  "intervalo_de_confianca_mais": 95.97
+ },
+ {
+  "id": 421,
+  "ano": 2031,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 95.69,
+  "intervalo_de_confianca_menos": 95.07,
+  "intervalo_de_confianca_mais": 96.31
+ },
+ {
+  "id": 422,
+  "ano": 2032,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 95.97,
+  "intervalo_de_confianca_menos": 95.34,
+  "intervalo_de_confianca_mais": 96.6
+ },
+ {
+  "id": 423,
+  "ano": 2033,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 96.23,
+  "intervalo_de_confianca_menos": 95.59,
+  "intervalo_de_confianca_mais": 96.87
+ },
+ {
+  "id": 424,
+  "ano": 2034,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 96.47,
+  "intervalo_de_confianca_menos": 95.82,
+  "intervalo_de_confianca_mais": 97.11
+ },
+ {
+  "id": 425,
+  "ano": 2035,
+  "fecam": "Amurel",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 96.67,
+  "intervalo_de_confianca_menos": 96.02,
+  "intervalo_de_confianca_mais": 97.33
+ },
+ {
+  "id": 426,
+  "ano": 2011,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.5,
+  "trajetoria_suavizada": 96.59,
+  "intervalo_de_confianca_menos": 96.59,
+  "intervalo_de_confianca_mais": 96.59
+ },
+ {
+  "id": 427,
+  "ano": 2012,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 93.83,
+  "trajetoria_suavizada": 95.55,
+  "intervalo_de_confianca_menos": 95.55,
+  "intervalo_de_confianca_mais": 95.55
+ },
+ {
+  "id": 428,
+  "ano": 2013,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 94.99,
+  "trajetoria_suavizada": 94.42,
+  "intervalo_de_confianca_menos": 94.42,
+  "intervalo_de_confianca_mais": 94.42
+ },
+ {
+  "id": 429,
+  "ano": 2014,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 94.56,
+  "trajetoria_suavizada": 92.83,
+  "intervalo_de_confianca_menos": 92.83,
+  "intervalo_de_confianca_mais": 92.83
+ },
+ {
+  "id": 430,
+  "ano": 2015,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 92.14,
+  "trajetoria_suavizada": 91.39,
+  "intervalo_de_confianca_menos": 91.39,
+  "intervalo_de_confianca_mais": 91.39
+ },
+ {
+  "id": 431,
+  "ano": 2016,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 87.32,
+  "trajetoria_suavizada": 90.19,
+  "intervalo_de_confianca_menos": 90.19,
+  "intervalo_de_confianca_mais": 90.19
+ },
+ {
+  "id": 432,
+  "ano": 2017,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 87.65,
+  "trajetoria_suavizada": 89.09,
+  "intervalo_de_confianca_menos": 89.09,
+  "intervalo_de_confianca_mais": 89.09
+ },
+ {
+  "id": 433,
+  "ano": 2018,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 90.11,
+  "trajetoria_suavizada": 88.37,
+  "intervalo_de_confianca_menos": 88.37,
+  "intervalo_de_confianca_mais": 88.37
+ },
+ {
+  "id": 434,
+  "ano": 2019,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 88.2,
+  "trajetoria_suavizada": 88.32,
+  "intervalo_de_confianca_menos": 88.32,
+  "intervalo_de_confianca_mais": 88.32
+ },
+ {
+  "id": 435,
+  "ano": 2020,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 87.21,
+  "trajetoria_suavizada": 88.56,
+  "intervalo_de_confianca_menos": 88.56,
+  "intervalo_de_confianca_mais": 88.56
+ },
+ {
+  "id": 436,
+  "ano": 2021,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 87.76,
+  "trajetoria_suavizada": 88.89,
+  "intervalo_de_confianca_menos": 88.89,
+  "intervalo_de_confianca_mais": 88.89
+ },
+ {
+  "id": 437,
+  "ano": 2022,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 90.83,
+  "trajetoria_suavizada": 90.14,
+  "intervalo_de_confianca_menos": 90.14,
+  "intervalo_de_confianca_mais": 90.14
+ },
+ {
+  "id": 438,
+  "ano": 2023,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 91.27,
+  "intervalo_de_confianca_menos": 90.97,
+  "intervalo_de_confianca_mais": 91.56
+ },
+ {
+  "id": 439,
+  "ano": 2024,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 92.28,
+  "intervalo_de_confianca_menos": 91.89,
+  "intervalo_de_confianca_mais": 92.68
+ },
+ {
+  "id": 440,
+  "ano": 2025,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 93.19,
+  "intervalo_de_confianca_menos": 92.73,
+  "intervalo_de_confianca_mais": 93.66
+ },
+ {
+  "id": 441,
+  "ano": 2026,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 94.02,
+  "intervalo_de_confianca_menos": 93.51,
+  "intervalo_de_confianca_mais": 94.52
+ },
+ {
+  "id": 442,
+  "ano": 2027,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 94.76,
+  "intervalo_de_confianca_menos": 94.21,
+  "intervalo_de_confianca_mais": 95.3
+ },
+ {
+  "id": 443,
+  "ano": 2028,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 95.42,
+  "intervalo_de_confianca_menos": 94.85,
+  "intervalo_de_confianca_mais": 95.99
+ },
+ {
+  "id": 444,
+  "ano": 2029,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 96.02,
+  "intervalo_de_confianca_menos": 95.43,
+  "intervalo_de_confianca_mais": 96.61
+ },
+ {
+  "id": 445,
+  "ano": 2030,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 96.56,
+  "intervalo_de_confianca_menos": 95.95,
+  "intervalo_de_confianca_mais": 97.17
+ },
+ {
+  "id": 446,
+  "ano": 2031,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 97.05,
+  "intervalo_de_confianca_menos": 96.43,
+  "intervalo_de_confianca_mais": 97.67
+ },
+ {
+  "id": 447,
+  "ano": 2032,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 97.48,
+  "intervalo_de_confianca_menos": 96.85,
+  "intervalo_de_confianca_mais": 98.12
+ },
+ {
+  "id": 448,
+  "ano": 2033,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 97.88,
+  "intervalo_de_confianca_menos": 97.24,
+  "intervalo_de_confianca_mais": 98.52
+ },
+ {
+  "id": 449,
+  "ano": 2034,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 98.23,
+  "intervalo_de_confianca_menos": 97.59,
+  "intervalo_de_confianca_mais": 98.88
+ },
+ {
+  "id": 450,
+  "ano": 2035,
+  "fecam": "Amures",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 98.55,
+  "intervalo_de_confianca_menos": 97.9,
+  "intervalo_de_confianca_mais": 99.2
+ },
+ {
+  "id": 451,
+  "ano": 2011,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 98.68,
+  "trajetoria_suavizada": 97.43,
+  "intervalo_de_confianca_menos": 97.43,
+  "intervalo_de_confianca_mais": 97.43
+ },
+ {
+  "id": 452,
+  "ano": 2012,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 94.81,
+  "trajetoria_suavizada": 97.46,
+  "intervalo_de_confianca_menos": 97.46,
+  "intervalo_de_confianca_mais": 97.46
+ },
+ {
+  "id": 453,
+  "ano": 2013,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 99.14,
+  "trajetoria_suavizada": 97.51,
+  "intervalo_de_confianca_menos": 97.51,
+  "intervalo_de_confianca_mais": 97.51
+ },
+ {
+  "id": 454,
+  "ano": 2014,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.55,
+  "trajetoria_suavizada": 97.64,
+  "intervalo_de_confianca_menos": 97.64,
+  "intervalo_de_confianca_mais": 97.64
+ },
+ {
+  "id": 455,
+  "ano": 2015,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.66,
+  "trajetoria_suavizada": 97.93,
+  "intervalo_de_confianca_menos": 97.93,
+  "intervalo_de_confianca_mais": 97.93
+ },
+ {
+  "id": 456,
+  "ano": 2016,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 98.05,
+  "trajetoria_suavizada": 98.15,
+  "intervalo_de_confianca_menos": 98.15,
+  "intervalo_de_confianca_mais": 98.15
+ },
+ {
+  "id": 457,
+  "ano": 2017,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 98.03,
+  "trajetoria_suavizada": 98.38,
+  "intervalo_de_confianca_menos": 98.38,
+  "intervalo_de_confianca_mais": 98.38
+ },
+ {
+  "id": 458,
+  "ano": 2018,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 99.17,
+  "trajetoria_suavizada": 98.6,
+  "intervalo_de_confianca_menos": 98.6,
+  "intervalo_de_confianca_mais": 98.6
+ },
+ {
+  "id": 459,
+  "ano": 2019,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 99.26,
+  "trajetoria_suavizada": 98.85,
+  "intervalo_de_confianca_menos": 98.85,
+  "intervalo_de_confianca_mais": 98.85
+ },
+ {
+  "id": 460,
+  "ano": 2020,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 98.17,
+  "trajetoria_suavizada": 99.11,
+  "intervalo_de_confianca_menos": 99.11,
+  "intervalo_de_confianca_mais": 99.11
+ },
+ {
+  "id": 461,
+  "ano": 2021,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 99.55,
+  "trajetoria_suavizada": 99.31,
+  "intervalo_de_confianca_menos": 99.31,
+  "intervalo_de_confianca_mais": 99.31
+ },
+ {
+  "id": 462,
+  "ano": 2022,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 99.75,
+  "trajetoria_suavizada": 99.78,
+  "intervalo_de_confianca_menos": 99.78,
+  "intervalo_de_confianca_mais": 99.78
+ },
+ {
+  "id": 463,
+  "ano": 2023,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.71,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 464,
+  "ano": 2024,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.61,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 465,
+  "ano": 2025,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.54,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 466,
+  "ano": 2026,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.49,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 467,
+  "ano": 2027,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.46,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 468,
+  "ano": 2028,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.43,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 469,
+  "ano": 2029,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.41,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 470,
+  "ano": 2030,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.39,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 471,
+  "ano": 2031,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.38,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 472,
+  "ano": 2032,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.37,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 473,
+  "ano": 2033,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.36,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 474,
+  "ano": 2034,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.35,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 475,
+  "ano": 2035,
+  "fecam": "AMVALI",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.35,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 476,
+  "ano": 2011,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 98.68,
+  "trajetoria_suavizada": 98.55,
+  "intervalo_de_confianca_menos": 98.55,
+  "intervalo_de_confianca_mais": 98.55
+ },
+ {
+  "id": 477,
+  "ano": 2012,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 98.42,
+  "trajetoria_suavizada": 98.63,
+  "intervalo_de_confianca_menos": 98.63,
+  "intervalo_de_confianca_mais": 98.63
+ },
+ {
+  "id": 478,
+  "ano": 2013,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 98.68,
+  "trajetoria_suavizada": 98.5,
+  "intervalo_de_confianca_menos": 98.5,
+  "intervalo_de_confianca_mais": 98.5
+ },
+ {
+  "id": 479,
+  "ano": 2014,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 99.15,
+  "trajetoria_suavizada": 98.19,
+  "intervalo_de_confianca_menos": 98.19,
+  "intervalo_de_confianca_mais": 98.19
+ },
+ {
+  "id": 480,
+  "ano": 2015,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.64,
+  "trajetoria_suavizada": 97.91,
+  "intervalo_de_confianca_menos": 97.91,
+  "intervalo_de_confianca_mais": 97.91
+ },
+ {
+  "id": 481,
+  "ano": 2016,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 96.59,
+  "trajetoria_suavizada": 97.56,
+  "intervalo_de_confianca_menos": 97.56,
+  "intervalo_de_confianca_mais": 97.56
+ },
+ {
+  "id": 482,
+  "ano": 2017,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.8,
+  "trajetoria_suavizada": 97.26,
+  "intervalo_de_confianca_menos": 97.26,
+  "intervalo_de_confianca_mais": 97.26
+ },
+ {
+  "id": 483,
+  "ano": 2018,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 96.8,
+  "trajetoria_suavizada": 97.18,
+  "intervalo_de_confianca_menos": 97.18,
+  "intervalo_de_confianca_mais": 97.18
+ },
+ {
+  "id": 484,
+  "ano": 2019,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97,
+  "trajetoria_suavizada": 97.2,
+  "intervalo_de_confianca_menos": 97.2,
+  "intervalo_de_confianca_mais": 97.2
+ },
+ {
+  "id": 485,
+  "ano": 2020,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.68,
+  "trajetoria_suavizada": 97.29,
+  "intervalo_de_confianca_menos": 97.29,
+  "intervalo_de_confianca_mais": 97.29
+ },
+ {
+  "id": 486,
+  "ano": 2021,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 96.71,
+  "trajetoria_suavizada": 97.5,
+  "intervalo_de_confianca_menos": 97.5,
+  "intervalo_de_confianca_mais": 97.5
+ },
+ {
+  "id": 487,
+  "ano": 2022,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 98.15,
+  "trajetoria_suavizada": 97.77,
+  "intervalo_de_confianca_menos": 97.77,
+  "intervalo_de_confianca_mais": 97.77
+ },
+ {
+  "id": 488,
+  "ano": 2023,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 98.35,
+  "intervalo_de_confianca_menos": 98.06,
+  "intervalo_de_confianca_mais": 98.65
+ },
+ {
+  "id": 489,
+  "ano": 2024,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 98.87,
+  "intervalo_de_confianca_menos": 98.48,
+  "intervalo_de_confianca_mais": 99.27
+ },
+ {
+  "id": 490,
+  "ano": 2025,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 99.34,
+  "intervalo_de_confianca_menos": 98.88,
+  "intervalo_de_confianca_mais": 99.8
+ },
+ {
+  "id": 491,
+  "ano": 2026,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 99.76,
+  "intervalo_de_confianca_menos": 99.26,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 492,
+  "ano": 2027,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.46,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 493,
+  "ano": 2028,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.43,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 494,
+  "ano": 2029,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.41,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 495,
+  "ano": 2030,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.39,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 496,
+  "ano": 2031,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.38,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 497,
+  "ano": 2032,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.37,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 498,
+  "ano": 2033,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.36,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 499,
+  "ano": 2034,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.35,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 500,
+  "ano": 2035,
+  "fecam": "AMVE",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.35,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 501,
+  "ano": 2011,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 99.13,
+  "trajetoria_suavizada": 98.81,
+  "intervalo_de_confianca_menos": 98.81,
+  "intervalo_de_confianca_mais": 98.81
+ },
+ {
+  "id": 502,
+  "ano": 2012,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.61,
+  "trajetoria_suavizada": 98,
+  "intervalo_de_confianca_menos": 98,
+  "intervalo_de_confianca_mais": 98
+ },
+ {
+  "id": 503,
+  "ano": 2013,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 96.46,
+  "trajetoria_suavizada": 97.88,
+  "intervalo_de_confianca_menos": 97.88,
+  "intervalo_de_confianca_mais": 97.88
+ },
+ {
+  "id": 504,
+  "ano": 2014,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.89,
+  "trajetoria_suavizada": 97.75,
+  "intervalo_de_confianca_menos": 97.75,
+  "intervalo_de_confianca_mais": 97.75
+ },
+ {
+  "id": 505,
+  "ano": 2015,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 99.3,
+  "trajetoria_suavizada": 97.66,
+  "intervalo_de_confianca_menos": 97.66,
+  "intervalo_de_confianca_mais": 97.66
+ },
+ {
+  "id": 506,
+  "ano": 2016,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.28,
+  "trajetoria_suavizada": 97.76,
+  "intervalo_de_confianca_menos": 97.76,
+  "intervalo_de_confianca_mais": 97.76
+ },
+ {
+  "id": 507,
+  "ano": 2017,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 96.44,
+  "trajetoria_suavizada": 97.76,
+  "intervalo_de_confianca_menos": 97.76,
+  "intervalo_de_confianca_mais": 97.76
+ },
+ {
+  "id": 508,
+  "ano": 2018,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 98.26,
+  "trajetoria_suavizada": 97.61,
+  "intervalo_de_confianca_menos": 97.61,
+  "intervalo_de_confianca_mais": 97.61
+ },
+ {
+  "id": 509,
+  "ano": 2019,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 98.28,
+  "trajetoria_suavizada": 97.65,
+  "intervalo_de_confianca_menos": 97.65,
+  "intervalo_de_confianca_mais": 97.65
+ },
+ {
+  "id": 510,
+  "ano": 2020,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.13,
+  "trajetoria_suavizada": 97.78,
+  "intervalo_de_confianca_menos": 97.78,
+  "intervalo_de_confianca_mais": 97.78
+ },
+ {
+  "id": 511,
+  "ano": 2021,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.83,
+  "trajetoria_suavizada": 97.74,
+  "intervalo_de_confianca_menos": 97.74,
+  "intervalo_de_confianca_mais": 97.74
+ },
+ {
+  "id": 512,
+  "ano": 2022,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": 97.86,
+  "trajetoria_suavizada": 97.84,
+  "intervalo_de_confianca_menos": 97.84,
+  "intervalo_de_confianca_mais": 97.84
+ },
+ {
+  "id": 513,
+  "ano": 2023,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 98.43,
+  "intervalo_de_confianca_menos": 98.14,
+  "intervalo_de_confianca_mais": 98.72
+ },
+ {
+  "id": 514,
+  "ano": 2024,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 98.96,
+  "intervalo_de_confianca_menos": 98.57,
+  "intervalo_de_confianca_mais": 99.36
+ },
+ {
+  "id": 515,
+  "ano": 2025,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 99.44,
+  "intervalo_de_confianca_menos": 98.98,
+  "intervalo_de_confianca_mais": 99.9
+ },
+ {
+  "id": 516,
+  "ano": 2026,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 99.87,
+  "intervalo_de_confianca_menos": 99.36,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 517,
+  "ano": 2027,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.46,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 518,
+  "ano": 2028,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.43,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 519,
+  "ano": 2029,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.41,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 520,
+  "ano": 2030,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.39,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 521,
+  "ano": 2031,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.38,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 522,
+  "ano": 2032,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.37,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 523,
+  "ano": 2033,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.36,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 524,
+  "ano": 2034,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.35,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 525,
+  "ano": 2035,
+  "fecam": "Granfpolis",
+  "abrangencia": "FECAM",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 100,
+  "intervalo_de_confianca_menos": 99.35,
+  "intervalo_de_confianca_mais": 100
+ },
+ {
+  "id": 526,
+  "ano": 2011,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 94.24,
+  "trajetoria_suavizada": 94,
+  "intervalo_de_confianca_menos": 94,
+  "intervalo_de_confianca_mais": 94
+ },
+ {
+  "id": 527,
+  "ano": 2012,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 93.15,
+  "trajetoria_suavizada": 93.46,
+  "intervalo_de_confianca_menos": 93.46,
+  "intervalo_de_confianca_mais": 93.46
+ },
+ {
+  "id": 528,
+  "ano": 2013,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 92.51,
+  "trajetoria_suavizada": 93.13,
+  "intervalo_de_confianca_menos": 93.13,
+  "intervalo_de_confianca_mais": 93.13
+ },
+ {
+  "id": 529,
+  "ano": 2014,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 93.44,
+  "trajetoria_suavizada": 92.67,
+  "intervalo_de_confianca_menos": 92.67,
+  "intervalo_de_confianca_mais": 92.67
+ },
+ {
+  "id": 530,
+  "ano": 2015,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 92.77,
+  "trajetoria_suavizada": 92.23,
+  "intervalo_de_confianca_menos": 92.23,
+  "intervalo_de_confianca_mais": 92.23
+ },
+ {
+  "id": 531,
+  "ano": 2016,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 91.17,
+  "trajetoria_suavizada": 91.87,
+  "intervalo_de_confianca_menos": 91.87,
+  "intervalo_de_confianca_mais": 91.87
+ },
+ {
+  "id": 532,
+  "ano": 2017,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 90.94,
+  "trajetoria_suavizada": 91.51,
+  "intervalo_de_confianca_menos": 91.51,
+  "intervalo_de_confianca_mais": 91.51
+ },
+ {
+  "id": 533,
+  "ano": 2018,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 91.35,
+  "trajetoria_suavizada": 91.27,
+  "intervalo_de_confianca_menos": 91.27,
+  "intervalo_de_confianca_mais": 91.27
+ },
+ {
+  "id": 534,
+  "ano": 2019,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 91.35,
+  "trajetoria_suavizada": 91.29,
+  "intervalo_de_confianca_menos": 91.29,
+  "intervalo_de_confianca_mais": 91.29
+ },
+ {
+  "id": 535,
+  "ano": 2020,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 91.12,
+  "trajetoria_suavizada": 91.43,
+  "intervalo_de_confianca_menos": 91.43,
+  "intervalo_de_confianca_mais": 91.43
+ },
+ {
+  "id": 536,
+  "ano": 2021,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 91.55,
+  "trajetoria_suavizada": 91.6,
+  "intervalo_de_confianca_menos": 91.6,
+  "intervalo_de_confianca_mais": 91.6
+ },
+ {
+  "id": 537,
+  "ano": 2022,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": 91.96,
+  "trajetoria_suavizada": 91.9,
+  "intervalo_de_confianca_menos": 91.9,
+  "intervalo_de_confianca_mais": 91.9
+ },
+ {
+  "id": 538,
+  "ano": 2023,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 92.58,
+  "intervalo_de_confianca_menos": 92.29,
+  "intervalo_de_confianca_mais": 92.88
+ },
+ {
+  "id": 539,
+  "ano": 2024,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 93.19,
+  "intervalo_de_confianca_menos": 92.8,
+  "intervalo_de_confianca_mais": 93.59
+ },
+ {
+  "id": 540,
+  "ano": 2025,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 93.75,
+  "intervalo_de_confianca_menos": 93.28,
+  "intervalo_de_confianca_mais": 94.21
+ },
+ {
+  "id": 541,
+  "ano": 2026,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 94.24,
+  "intervalo_de_confianca_menos": 93.73,
+  "intervalo_de_confianca_mais": 94.75
+ },
+ {
+  "id": 542,
+  "ano": 2027,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 94.69,
+  "intervalo_de_confianca_menos": 94.14,
+  "intervalo_de_confianca_mais": 95.23
+ },
+ {
+  "id": 543,
+  "ano": 2028,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 95.09,
+  "intervalo_de_confianca_menos": 94.52,
+  "intervalo_de_confianca_mais": 95.66
+ },
+ {
+  "id": 544,
+  "ano": 2029,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 95.45,
+  "intervalo_de_confianca_menos": 94.86,
+  "intervalo_de_confianca_mais": 96.04
+ },
+ {
+  "id": 545,
+  "ano": 2030,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 95.77,
+  "intervalo_de_confianca_menos": 95.17,
+  "intervalo_de_confianca_mais": 96.38
+ },
+ {
+  "id": 546,
+  "ano": 2031,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 96.07,
+  "intervalo_de_confianca_menos": 95.45,
+  "intervalo_de_confianca_mais": 96.69
+ },
+ {
+  "id": 547,
+  "ano": 2032,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 96.33,
+  "intervalo_de_confianca_menos": 95.7,
+  "intervalo_de_confianca_mais": 96.96
+ },
+ {
+  "id": 548,
+  "ano": 2033,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 96.57,
+  "intervalo_de_confianca_menos": 95.93,
+  "intervalo_de_confianca_mais": 97.21
+ },
+ {
+  "id": 549,
+  "ano": 2034,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 96.78,
+  "intervalo_de_confianca_menos": 96.13,
+  "intervalo_de_confianca_mais": 97.43
+ },
+ {
+  "id": 550,
+  "ano": 2035,
+  "fecam": "SC",
+  "abrangencia": "Estado",
+  "trajetoria_observada": null,
+  "trajetoria_suavizada": 96.97,
+  "intervalo_de_confianca_menos": 96.32,
+  "intervalo_de_confianca_mais": 97.62
+ }
+]

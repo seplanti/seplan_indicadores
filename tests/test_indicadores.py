@@ -130,6 +130,8 @@ class TestImportacao(unittest.TestCase):
         self.assertEqual(converter_valor("2718.0"), 2718)
         self.assertIsInstance(converter_valor("2718.0"), int)
         self.assertEqual(converter_valor("1.5"), 1.5)
+        self.assertEqual(converter_valor("68,61"), 68.61)
+        self.assertEqual(converter_valor("Secretaria de Obras, Viação"), "Secretaria de Obras, Viação")
         self.assertIsNone(converter_valor("NULL"))
         self.assertEqual(converter_valor("abc"), "abc")
 
@@ -222,6 +224,31 @@ class TestImportacao(unittest.TestCase):
             registros = importar_csv(raiz / "dados.csv", raiz / "saida.json", raiz / "municipios.json").registros
             self.assertEqual(registros, [{"id": 1, "ano": 2010, "fecam": "AMVE", "municipio": "Blumenau",
                                           "codigo_ibge": "4202404", "remun": 2891.25}])
+
+    def test_importar_csv_com_codigo_do_municipio(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            raiz = Path(tmp)
+            (raiz / "municipios.json").write_text(json.dumps(
+                [{"codigo_ibge": "4200051", "municipio": "Abdon Batista", "fecam": "Amplasc"}]), encoding="utf-8")
+            (raiz / "dados.csv").write_text(
+                "municipio,codigo_do_municipio,fecam,estado,ano,in015_taxa_rdo\n"
+                "Abdon Batista,420005,Amplasc,SC,2022,49.0\n", encoding="utf-8")
+            registros = importar_csv(raiz / "dados.csv", raiz / "saida.json", raiz / "municipios.json",
+                                     descartar=["estado"]).registros
+            self.assertEqual(registros, [{"id": 1, "ano": 2022, "fecam": "Amplasc", "municipio": "Abdon Batista",
+                                          "codigo_ibge": "4200051", "in015_taxa_rdo": 49}])
+
+    def test_importar_csv_com_codigo_nulo_usa_o_nome(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            raiz = Path(tmp)
+            (raiz / "municipios.json").write_text(json.dumps(
+                [{"codigo_ibge": "4209607", "municipio": "Lauro Müller", "fecam": "Amrec"}]), encoding="utf-8")
+            (raiz / "dados.csv").write_text(
+                'id_municipio,municipio,iaa\nNULL,Lauro Muller,"82,96"\nNULL,NULL,NULL\n', encoding="utf-8")
+            resultado = importar_csv(raiz / "dados.csv", raiz / "saida.json", raiz / "municipios.json")
+            self.assertEqual(resultado.registros, [{"id": 1, "fecam": "Amrec", "municipio": "Lauro Müller",
+                                                    "codigo_ibge": "4209607", "iaa": 82.96}])
+            self.assertEqual(resultado.ignoradas, 1)
 
     def test_importar_csv_com_colunas_por_ano(self):
         with tempfile.TemporaryDirectory() as tmp:

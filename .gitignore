@@ -19,3 +19,6 @@ __pycache__/
 # .vscode/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
+
+# Credenciais do Hue
+.env
