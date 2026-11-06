@@ -1,0 +1,1 @@
+{"tabela":"saneamento_gold_iae_mun_sc","database":"seplan_avancasc_stage","sql":"SELECT * FROM `seplan_avancasc_stage`.`saneamento_gold_iae_mun_sc` LIMIT 100001","consultado_em":"2026-11-06T17:28:18","columns":["id_municipio_ibge","fecam","municipio","es003","fsfr","fsffn","total_domicilios","iae"],"total":0,"has_more":false,"rows":[]}
