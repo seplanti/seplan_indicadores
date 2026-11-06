@@ -40,6 +40,8 @@ class ArquivosEstaticos:
         ".svg": "image/svg+xml",
         ".png": "image/png",
         ".ico": "image/x-icon",
+        ".woff2": "font/woff2",
+        ".txt": "text/plain; charset=utf-8",
     }
     INDICE = "index.html"
 
@@ -67,7 +69,7 @@ class Aplicacao:
     """Recebe o caminho da requisição e devolve uma Resposta (independente de HTTP)."""
 
     # Rotas atendidas pelo gateway do Hue quando ele é ligado ao painel (mesma porta).
-    PREFIXOS_GATEWAY = ("/api/queries", "/api/files", "/api/tabelas")
+    PREFIXOS_GATEWAY = ("/api/queries", "/api/files", "/api/tabelas", "/api/consultas", "/api/bancos", "/api/hue/")
 
     def __init__(self, consulta, estaticos: ArquivosEstaticos, gateway=None):
         self.consulta = consulta
@@ -77,6 +79,8 @@ class Aplicacao:
             (re.compile(r"/api/indicadores"), self.indicadores),
             (re.compile(r"/api/indicadores/(\d+)/dados"), self.dados),
             (re.compile(r"/api/indicadores/(\d+)/json"), self.json_bruto),
+            (re.compile(r"/api/indicadores/(\d+)/impala"), self.impala),
+            (re.compile(r"/api/indicadores/(\d+)/impala/json"), self.impala_bruto),
             (re.compile(r"/api/notificacoes"), self.notificacoes),
         ]
 
@@ -110,6 +114,16 @@ class Aplicacao:
         arquivo = self.consulta.arquivo_json(id_indicador)
         if not arquivo:
             return Resposta.erro(404, "Indicador sem versão publicada")
+        return Resposta(200, arquivo.read_bytes())
+
+    def impala(self, id_indicador):
+        dados = self.consulta.dados_impala(id_indicador)
+        return Resposta.json(dados) if dados else Resposta.erro(404, "Indicador não encontrado")
+
+    def impala_bruto(self, id_indicador):
+        arquivo = self.consulta.arquivo_impala(id_indicador)
+        if not arquivo:
+            return Resposta.erro(404, "O Impala ainda não foi consultado para este indicador")
         return Resposta(200, arquivo.read_bytes())
 
     def notificacoes(self):

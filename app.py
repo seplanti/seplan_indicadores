@@ -13,7 +13,8 @@ import threading
 
 from indicadores import config
 from indicadores.api import ConsultaIndicadores
-from indicadores.gateway import AplicacaoGateway, ClienteHue
+from indicadores.gateway import AplicacaoGateway, CatalogoHue, ClienteHue
+from indicadores.impala import ComparadorIndicadores, RepositorioImpala
 from indicadores.navegador import abrir_no_chrome
 from indicadores.repositorio import CatalogoIndicadores, RegistroStatus
 from indicadores.servidor import Aplicacao, ArquivosEstaticos, Servidor
@@ -21,10 +22,14 @@ from indicadores.servidor import Aplicacao, ArquivosEstaticos, Servidor
 
 def criar_aplicacao():
     catalogo = CatalogoIndicadores(config.ARQUIVO_INDICADORES, config.TABELAS_DIR)
-    consulta = ConsultaIndicadores(catalogo, RegistroStatus(config.ARQUIVO_STATUS))
+    impala = RepositorioImpala(config.TABELAS_IMPALA_DIR)
+    consulta = ConsultaIndicadores(catalogo, RegistroStatus(config.ARQUIVO_STATUS),
+                                   ComparadorIndicadores(catalogo, impala))
     hue = ClienteHue(config.HUE_URL, config.HUE_USUARIO, config.HUE_SENHA)
     gateway = AplicacaoGateway(hue, config.HUE_DIALETO_PADRAO, config.HUE_BANCO_PADRAO,
-                               config.HUE_LIMITE_MAXIMO, config.HUE_TEMPO_MAXIMO)
+                               config.HUE_LIMITE_MAXIMO, config.HUE_TEMPO_MAXIMO,
+                               catalogo=CatalogoHue.carregar(config.ARQUIVO_ENDPOINTS_HUE),
+                               repositorio_impala=impala, limite_sincronizacao=config.HUE_LIMITE_SINCRONIZACAO)
     return Aplicacao(consulta, ArquivosEstaticos(config.WEB_DIR), gateway)
 
 

@@ -8,9 +8,20 @@ async function obter(caminho) {
   return corpo;
 }
 
+async function enviar(caminho) {
+  const resposta = await fetch(caminho, { method: 'POST', headers: { Accept: 'application/json' } });
+  const corpo = await resposta.json().catch(() => null);
+  if (!resposta.ok) throw new Error(corpo?.erro || `Erro ${resposta.status} ao enviar ${caminho}`);
+  return corpo;
+}
+
 export const api = {
   indicadores: () => obter('/api/indicadores'),
+  // Consulta a tabela inteira no Impala e grava em Dados/tabelas_impala (comparada com tabelas_bi).
+  atualizarImpala: (tabela) => enviar(`/api/tabelas/${encodeURIComponent(tabela)}/atualizar`),
   dados: (id) => obter(`/api/indicadores/${encodeURIComponent(id)}/dados`),
+  // Última consulta gravada em Dados/tabelas_impala para o indicador (consulta: null se não houver).
+  dadosImpala: (id) => obter(`/api/indicadores/${encodeURIComponent(id)}/impala`),
   notificacoes: () => obter('/api/notificacoes'),
 };
 

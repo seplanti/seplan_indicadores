@@ -1,25 +1,33 @@
 // Componentes pequenos reutilizados pelas telas.
 import { html } from '../lib.js';
 
-// Cartões de resumo. itens: [{ valor, rotulo, classe? }]
-export function CartoesResumo({ itens }) {
+// Cartões de resumo. itens: [{ valor, rotulo, tom?: 'sucesso'|'perigo'|'neutro', texto?, aoClicar?, ativo? }]
+// texto: valor textual (data, nome) — fonte menor e cartão mais largo.
+// Com `aoClicar`, o cartão vira um botão de filtro (aria-pressed indica se está aplicado).
+export function CartoesResumo({ itens, rotulo }) {
   return html`
-    <ul className="cartoes-resumo list-unstyled d-flex flex-wrap gap-3 mb-3">
-      ${itens.map((item) => html`
-        <li key=${item.rotulo} className="card card-body py-2 px-3">
-          <span className=${`valor ${item.classe ?? ''}`}>${item.valor}</span>
-          <span className="small text-body-secondary">${item.rotulo}</span>
-        </li>`)}
+    <ul className="cartoes-resumo" aria-label=${rotulo}>
+      ${itens.map((item) => {
+        const classe = `cartao-numero${item.tom ? ` tom-${item.tom}` : ''}${item.texto ? ' cartao-texto' : ''}`;
+        const conteudo = html`<span className="valor">${item.valor}</span><span className="rotulo">${item.rotulo}</span>`;
+        return html`
+          <li key=${item.rotulo} className=${item.texto ? 'item-largo' : undefined}>
+            ${item.aoClicar
+              ? html`<button type="button" className=${classe} aria-pressed=${Boolean(item.ativo)} onClick=${item.aoClicar}
+                             title=${item.ativo ? 'Clique para remover o filtro' : 'Clique para filtrar'}>${conteudo}</button>`
+              : html`<div className=${classe}>${conteudo}</div>`}
+          </li>`;
+      })}
     </ul>`;
 }
 
-export function Carregando() {
+export function Carregando({ texto = 'Carregando…' }) {
   return html`
     <div className="d-flex align-items-center gap-2 my-3">
-      <div className="spinner-border spinner-border-sm text-primary" role="status">
-        <span className="visually-hidden">Carregando…</span>
+      <div className="spinner-border spinner-border-sm text-success" role="status">
+        <span className="visually-hidden">${texto}</span>
       </div>
-      <span aria-hidden="true">Carregando…</span>
+      <span aria-hidden="true">${texto}</span>
     </div>`;
 }
 

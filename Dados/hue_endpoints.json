@@ -1,0 +1,945 @@
+{
+  "titulo": "Endpoints Api Seplan Indicadores",
+  "descricao": "Definições (ambiente), tabelas do Impala e endpoints do Hue e do gateway local. As URLs usam a sintaxe de template do Insomnia ({{ _.variavel }}).",
+  "definicoes": {
+    "base_url": "https://boavista-dados.ciasc.sc.gov.br",
+    "gateway_url": "http://127.0.0.1:8000",
+    "username": "ivam.filho-seplan",
+    "password": "",
+    "dialect": "impala",
+    "database": "seplan_avancasc_stage",
+    "limit": 100,
+    "access_token": "",
+    "refresh_token": "",
+    "operation_id": "",
+    "gw_query_id": ""
+  },
+  "confidenciais": [
+    "password",
+    "access_token",
+    "refresh_token"
+  ],
+  "tabelas": {
+    "tb_densidade_demografica": "avancasc_habitacao_prata_densidade_demografica_2022_den_demografica",
+    "tb_populacao": "emprego_renda_hab_asssoc_bronze_censo_habitacional_consolidado",
+    "tb_area_municipal": "infraestrutura_bronze_tl_area_municipal",
+    "tb_cultura": "turismo_gold_taxa_de_participacao_da_cultura_no_emprego_projecao",
+    "tb_economia_criativa": "emprego_renda_hab_asssoc_gold_tl_empregos_economia_criativa_sebrae",
+    "tb_esporte_emprego": "turismo_gold_tx_participacao_esporte_no_emprego",
+    "tb_gastos_c&t": "industria_gold_gastos_ct_por_uf_projecao",
+    "tb_gastos_p&d": "industria_gold_gastos_pd_projecao",
+    "tb_num_turistas_internacionais": "turismo_gold_tl_turismo_internacional",
+    "tb_num_patentes": "industria_gold_patentes_por_uf_projecao",
+    "tb_partic_vab": "industria_silver_tl__extract_pib_municipal_fecam",
+    "tb_pib_per_capita": "emprego_renda_hab_asssoc_silver_tl_pib_percapita",
+    "tb_prod_terra_por_hectare": "agricultura_gold_tl__produtividade_terra_sem_projecao",
+    "tb_pib_per_capita_golden": "avancasc_emprego_renda_ouro_id_graf_pib_per_capita",
+    "tb_taxa_cresc_pib": "avancasc_emprego_renda_ouro_id_graf_taxa_crescimento_pib_sc",
+    "tb_turismo_emprego_formal": "turismo_gold_vinculos_empregos_sc",
+    "tb_valor_credito_liberado": "turismo_gold_taxa_de_participacao_do_turismo_no_emprego_projecao",
+    "tb_ice_r": "avancasc_emprego_renda_ouro_id_graf_icer_emprego",
+    "tb_empregos_stem_sc": "avancasc_emprego_renda_ouro_id_stem_emprego_formal",
+    "tb_aih_sus_100k": "avancasc_saude_ouro_id_graf_aih_sus_100k",
+    "tb_distr_prog_habitacionais_sc": "avancasc_assistencia_social_ouro_tl_percent_programas_habit",
+    "tb_deficit_habitacional": "emprego_renda_hab_asssoc_gold_deficit_habitacional",
+    "tb_emprego_formal_subsetor_ibge": "emprego_renda_hab_asssoc_gold_tl_fecam_qtd_vinculos_ativos_municipal",
+    "tb_empregos_formais_stem": "emprego_renda_hab_asssoc_gold_stem_projecao",
+    "tb_esperanca_vida": "avancasc_saude_bronze_esperanca_vida_ao_nascer_planilha1",
+    "tb_evolucao_qt_familias_cadunico_fx_renda": "emprego_renda_hab_asssoc_gold_tl__serie_historica_cadunico_por_nivel",
+    "tb_evolucao_estoque_empregos_formais": "avancasc_emprego_renda_ouro_id_graf_contagem_de_empregos_formais",
+    "tb_evolucao_populacional": "avancasc_populacao_ouro_id_graf_contagem_da_populacao",
+    "tb_ideb_medio": "educacao_bronze_tl__dados_ideb_2023",
+    "tb_idhm_sc": "emprego_renda_hab_asssoc_gold_tl_ranking_dados_altas_brasil_idhm_2010",
+    "tb_leitos_sus_100k_hab": "saude_gold_tl_qtd_leitos_fecam_geral",
+    "tb_matr_ensino_superior": "educacao_gold_numero_de_matriculas_ensino_superior_projecao",
+    "tb_relacao_pbf_emprego_formal": "emprego_renda_hab_asssoc_gold_pbf_projecao",
+    "tb_remuneracao_media_real": "industria_silver_remuneracao_media_real_ipca_1993_100_em_valor_2022_rem_media_real_",
+    "tb_remuneracao_nom_media_subsetor_sc": "emprego_renda_hab_asssoc_gold_tl__rendimento_medio_por_fecam",
+    "tb_tx_mortalidade_dnt_100k_hab": "saude_gold_tl_mortes_dcnt6_projecao",
+    "tb_tx_abandono_escolar_ensino_medio": "avancasc_educacao_ouro_id_graf_taxa_abandono_ensino_medio",
+    "tb_tx_aprovacao_escolar_ensino_medio": "avancasc_educacao_ouro_id_graf_taxa_aprovacao_ensino_medio",
+    "tb_tx_formalidade_pessoas_14_ocupadas_sr": "emprego_renda_hab_asssoc_gold_tl_media_anual_formalidade",
+    "tb_tx_homicidios_100k_hab": "avancasc_seguranca_pub_ouro_id_graf_taxa_de_homicidios",
+    "tb_tx_internacao_local_sus": "saude_gold_tx_internacao_local_pelo_sus_projecao",
+    "tb_tx_internacao_local_sus_100k": "saude_gold_tx_internacao_local_pelo_sus_projecao",
+    "tb_tx_mortalidade_infantil": "saude_gold_tl_tmi_total",
+    "tb_ideb_ensino_medio": "educacao_gold_tl_plataforma_ideb_em_media_aritmetica",
+    "tb_ideb_anos_iniciais_ensino_fundamental": "educacao_gold_ideb_iniciais_projecao",
+    "tb_ideb_anos_finais_ensino_fundamental": "educacao_gold_ideb_finais_projecao",
+    "tb_indice_gini": "emprego_renda_hab_asssoc_gold_tl_dados_tratados_gini_municipal_dados_fecam",
+    "tb_rcl_per_capita": "avancasc_emprego_renda_ouro_id_graf_rcl_per_capita",
+    "tb_receita_corrente_per_capita": "governanca_orcamento_gold_receita_recorrente_per_capita_projecao",
+    "tb_consumo_total_energia_eletrica": "infraestrutura_gold_consumo_megawahts_projecao",
+    "tb_emissoes_tco2e_passageiros": "meio_ambiente_gold_co2_transportepassageiro",
+    "tb_emissoes_tco2e_carga": "meio_ambiente_gold_co2_transportecarga",
+    "tb_extensao_rede_sc_gasodutos": "saneamento_gold_tl_extensao_rede_gasodutos_estaduais",
+    "tb_extensao_rodovias_estaduais_pavimentadas": "infraestrutura_gold_tl_extensao_rodovias_pavimentadas",
+    "tb_perc_energia_renovavel_transporte_terrestre": "avancasc_energia_ouro_id_graf_perc_en_renovavel_t_terrestre",
+    "tb_perdas_dist_agua": "saneamento_gold_plataforma_in049",
+    "tb_tx_rdo": "avancasc_saneamento_bronze_taxa_rdo",
+    "tb_tx_motorizacao": "mob_urbana_gold_frota_total_veiculos_mun_sc",
+    "tb_tx_motorizacao_frota_veiculos_leves": "avancasc_mobilidade_urbana_ouro_id_graf_taxa_motorizacao",
+    "tb_volume_carga_mov_aeroportos": "infraestrutura_gold_tl_carga_pax_aeroportos",
+    "tb_volume_carga_mov_portos": "infraestrutura_silver_tl_carga_portos_movimentada",
+    "tb_iaa": "avancasc_saneamento_ouro_indice_de_abastecimento_de_agua",
+    "tb_indice_atend_abast_agua": "avancasc_saneamento_ouro_id_graf_indice_atendimento_agua",
+    "tb_indice_atend_gestao_residuos_solidos": "avancasc_saneamento_ouro_id_graf_indice_de_atendimento_de_lixo",
+    "tb_indice_cob_saneamento_basico": "avancasc_saneamento_ouro_id_graf_indice_de_atendimento_de_saneamento",
+    "tb_danos_materiais_desastres_climaticos": "meio_ambiente_gold_desastrestotais_projecao",
+    "tb_emissao_gee": "meio_ambiente_gold_tl__serie_seeg_nacional_resumido_revisado_sc",
+    "tb_emissoes_gases_efeito_estufa_ton_co2_tco2e": "avancasc_mudancas_climaticas_ouro_id_graf_gases_efeito_estufa",
+    "tb_icm": "meio_ambiente_gold_tl_percent_fecam_por_categoria",
+    "tb_prejuizos_econ_priv_eventos_extremos": "meio_ambiente_gold_prejuizo_economico_privado_por_desastre_natural_projecao",
+    "tb_cob_total_residuos_solidos": "saneamento_gold_tl_residuos_solidos",
+    "tb_emissao_co2eq_per_capita": "avancasc_mobilidade_urbana_bronze_emissao_g_de_co2eq_per_capita__municipio",
+    "tb_tx_mortalidade_dip": "saude_bronze_tl_doencas_infecciosas_parasitarias",
+    "tb_iae": "saneamento_gold_id_graf_indice_de_atendimento_de_saneamento",
+    "tb_ice_emprego": "emprego_renda_hab_asssoc_gold_indice_vulnerabilidade_social_municipio"
+  },
+  "observacoes_tabelas": {
+    "tb_partic_vab": "No PDF com um _ só; o Impala usa tl__ (conferido com SHOW TABLES em 2026-11-06).",
+    "tb_prod_terra_por_hectare": "No PDF com um _ só; o Impala usa tl__ (conferido com SHOW TABLES em 2026-11-06).",
+    "tb_evolucao_qt_familias_cadunico_fx_renda": "No PDF com um _ só; o Impala usa tl__ (conferido com SHOW TABLES em 2026-11-06).",
+    "tb_ideb_medio": "No PDF com um _ só; o Impala usa tl__ (conferido com SHOW TABLES em 2026-11-06).",
+    "tb_remuneracao_media_real": "Nome cortado no PDF (..._2022_n); completado pelo catálogo (tabela_databricks do indicador 38).",
+    "tb_remuneracao_nom_media_subsetor_sc": "No PDF com um _ só; o Impala usa tl__ (conferido com SHOW TABLES em 2026-11-06).",
+    "tb_indice_gini": "Provavelmente cortado no PDF (..._municipal_dados); completado pelo catálogo (indicador 52).",
+    "tb_extensao_rodovias_estaduais_pavimentadas": "Chave cortada no PDF (tb_extensao_rodovias_estaduais_pavimentac); 6.23 usa o nome completo.",
+    "tb_perc_energia_renovavel_transporte_terrestre": "Chave cortada no PDF (tb_perc_energia_renovavel_transporte_terres); 6.22 usa o nome completo.",
+    "tb_indice_cob_saneamento_basico": "Nome cortado no PDF (..._de_saneamer); completado pelo catálogo (indicador 71).",
+    "tb_emissao_gee": "No PDF com um _ só; o Impala usa tl__ (conferido com SHOW TABLES em 2026-11-06).",
+    "tb_emissoes_gases_efeito_estufa_ton_co2_tco2e": "Chave cortada no PDF (tb_emissoes_gases_efeito_estufa_ton_co2_tc); 6.9 usa o nome completo.",
+    "tb_prejuizos_econ_priv_eventos_extremos": "Nome cortado no PDF (..._natural_p); completado pelo catálogo (indicador 77).",
+    "tb_emissao_co2eq_per_capita": "Nome cortado no PDF (..._per_capita_m); o Impala usa per_capita__municipio (conferido com SHOW TABLES em 2026-11-06)."
+  },
+  "endpoints": [
+    {
+      "grupo": "2. Autenticação",
+      "nome": "obter_token",
+      "metodo": "POST",
+      "url": "{{ _.base_url }}/api/v1/token/auth/",
+      "auth": null,
+      "corpo": {
+        "tipo": "json",
+        "campos": {
+          "username": "{{ _.username }}",
+          "password": "{{ _.password }}"
+        }
+      },
+      "salvar": {
+        "access_token": "access",
+        "refresh_token": "refresh"
+      }
+    },
+    {
+      "grupo": "2. Autenticação",
+      "nome": "validar_token",
+      "metodo": "POST",
+      "url": "{{ _.base_url }}/api/v1/token/verify/",
+      "auth": null,
+      "corpo": {
+        "tipo": "form",
+        "campos": {
+          "token": "{{ _.access_token }}"
+        }
+      }
+    },
+    {
+      "grupo": "2. Autenticação",
+      "nome": "renovar_token",
+      "metodo": "POST",
+      "url": "{{ _.base_url }}/api/v1/token/refresh/",
+      "auth": null,
+      "corpo": {
+        "tipo": "form",
+        "campos": {
+          "refresh": "{{ _.refresh_token }}"
+        }
+      },
+      "salvar": {
+        "access_token": "access"
+      }
+    },
+    {
+      "grupo": "3. SQL",
+      "nome": "configuracao",
+      "metodo": "POST",
+      "url": "{{ _.base_url }}/api/v1/get_config/",
+      "auth": "bearer"
+    },
+    {
+      "grupo": "3. SQL",
+      "nome": "historico",
+      "metodo": "GET",
+      "url": "{{ _.base_url }}/api/v1/editor/get_history?doc_type={{ _.dialect }}",
+      "auth": "bearer"
+    },
+    {
+      "grupo": "3. SQL",
+      "nome": "listar_bancos",
+      "metodo": "POST",
+      "url": "{{ _.base_url }}/api/v1/editor/autocomplete/",
+      "auth": "bearer",
+      "corpo": {
+        "tipo": "form",
+        "campos": {
+          "snippet": "{\"type\":\"{{ _.dialect }}\"}"
+        }
+      }
+    },
+    {
+      "grupo": "3. SQL",
+      "nome": "execute",
+      "metodo": "POST",
+      "url": "{{ _.base_url }}/api/v1/editor/execute/{{ _.dialect }}",
+      "auth": "bearer",
+      "corpo": {
+        "tipo": "form",
+        "campos": {
+          "statement": "SHOW TABLES IN {{ _.database }}"
+        }
+      },
+      "salvar": {
+        "operation_id": "history_uuid"
+      }
+    },
+    {
+      "grupo": "3. SQL",
+      "nome": "check_status",
+      "metodo": "POST",
+      "url": "{{ _.base_url }}/api/v1/editor/check_status",
+      "auth": "bearer",
+      "corpo": {
+        "tipo": "form",
+        "campos": {
+          "operationId": "{{ _.operation_id }}"
+        }
+      }
+    },
+    {
+      "grupo": "3. SQL",
+      "nome": "fetch_result",
+      "metodo": "POST",
+      "url": "{{ _.base_url }}/api/v1/editor/fetch_result_data",
+      "auth": "bearer",
+      "corpo": {
+        "tipo": "form",
+        "campos": {
+          "operationId": "{{ _.operation_id }}"
+        }
+      }
+    },
+    {
+      "grupo": "3. SQL",
+      "nome": "get_logs",
+      "metodo": "POST",
+      "url": "{{ _.base_url }}/api/v1/editor/get_logs",
+      "auth": "bearer",
+      "corpo": {
+        "tipo": "form",
+        "campos": {
+          "operationId": "{{ _.operation_id }}"
+        }
+      }
+    },
+    {
+      "grupo": "4. Arquivos e Conectores",
+      "nome": "tipos_conector",
+      "metodo": "GET",
+      "url": "{{ _.base_url }}/api/v1/connector/types",
+      "auth": "bearer"
+    },
+    {
+      "grupo": "4. Arquivos e Conectores",
+      "nome": "listar_diretorio",
+      "metodo": "GET",
+      "url": "{{ _.base_url }}/api/v1/storage/view=/user/{{ _.username }}",
+      "auth": "bearer",
+      "observacao": "No PDF apontava para /connector/types (repetido de 4.1); corrigido para storage/view, como no guia."
+    },
+    {
+      "grupo": "4. Arquivos e Conectores",
+      "nome": "fileSystems",
+      "metodo": "GET",
+      "url": "{{ _.base_url }}/api/v1/storage/filesystems",
+      "auth": "bearer"
+    },
+    {
+      "grupo": "5. Gateway Local",
+      "nome": "iniciar_consulta",
+      "metodo": "POST",
+      "url": "{{ _.gateway_url }}/api/queries",
+      "auth": null,
+      "corpo": {
+        "tipo": "json",
+        "campos": {
+          "statement": "SHOW TABLES",
+          "dialect": "{{ _.dialect }}",
+          "database": "{{ _.database }}"
+        }
+      },
+      "salvar": {
+        "gw_query_id": "id"
+      }
+    },
+    {
+      "grupo": "5. Gateway Local",
+      "nome": "status",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/queries/{{ _.gw_query_id }}/status",
+      "auth": null
+    },
+    {
+      "grupo": "5. Gateway Local",
+      "nome": "resultados",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/queries/{{ _.gw_query_id }}/results",
+      "auth": null
+    },
+    {
+      "grupo": "5. Gateway Local",
+      "nome": "logs",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/queries/{{ _.gw_query_id }}/logs",
+      "auth": null
+    },
+    {
+      "grupo": "5. Gateway Local",
+      "nome": "listar_arquivos",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/files?path=/user/{{ _.username }}",
+      "auth": null
+    },
+    {
+      "grupo": "5. Gateway Local",
+      "nome": "listar_bancos",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/bancos",
+      "auth": null
+    },
+    {
+      "grupo": "5. Gateway Local",
+      "nome": "listar_consultas",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/consultas",
+      "auth": null
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_ice_emprego",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_ice_emprego }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_ice_emprego"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_IAE",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_iae }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_iae"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_taxa_mortalidade_DIP",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_tx_mortalidade_dip }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_tx_mortalidade_dip"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_emissao_CO2eq_per_capita",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_emissao_co2eq_per_capita }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_emissao_co2eq_per_capita"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_cobertura_total_residuos_solidos",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_cob_total_residuos_solidos }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_cob_total_residuos_solidos"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_prejuizos_econ_priv_eventos_extremos",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_prejuizos_econ_priv_eventos_extremos }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_prejuizos_econ_priv_eventos_extremos"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_ICM",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_icm }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_icm"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_emissoes_gases_efeito_estufa_ton_CO2_tCO2e",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_emissoes_gases_efeito_estufa_ton_co2_tco2e }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_emissoes_gases_efeito_estufa_ton_co2_tco2e"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_emissao_GEE",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_emissao_gee }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_emissao_gee"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_danos_materiais_desastres_climaticos",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_danos_materiais_desastres_climaticos }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_danos_materiais_desastres_climaticos"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_cobertura_saneamento_basico",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_indice_cob_saneamento_basico }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_indice_cob_saneamento_basico"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_indice_atend_gestao_residuos_solidos",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_indice_atend_gestao_residuos_solidos }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_indice_atend_gestao_residuos_solidos"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_indice_atend_abast_agua",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_indice_atend_abast_agua }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_indice_atend_abast_agua"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_IAA",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_iaa }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_iaa"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_volume_carga_mov_portos",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_volume_carga_mov_portos }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_volume_carga_mov_portos"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_volume_carga_mov_aeroportos",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_volume_carga_mov_aeroportos }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_volume_carga_mov_aeroportos"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_taxa_motorizacao_frota_veiculos_leves",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_tx_motorizacao_frota_veiculos_leves }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_tx_motorizacao_frota_veiculos_leves"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_taxa_motorizacao",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_tx_motorizacao }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_tx_motorizacao"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_taxa_RDO",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_tx_rdo }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_tx_rdo"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_perdas_dist_agua",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_perdas_dist_agua }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_perdas_dist_agua"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_perc_energia_renovavel_transporte_terrestre",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_perc_energia_renovavel_transporte_terrestre }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_perc_energia_renovavel_transporte_terrestre"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_extensao_rodovias_estaduais_pavimentadas",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_extensao_rodovias_estaduais_pavimentadas }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_extensao_rodovias_estaduais_pavimentadas"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_extensao_rede_sc_gasodutos",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_extensao_rede_sc_gasodutos }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_extensao_rede_sc_gasodutos"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_emissoes_tco2e_carga",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_emissoes_tco2e_carga }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_emissoes_tco2e_carga"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_emissoes_tco2e_passageiros",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_emissoes_tco2e_passageiros }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_emissoes_tco2e_passageiros"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_consumo_total_energia_eletrica",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_consumo_total_energia_eletrica }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_consumo_total_energia_eletrica"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_receita_corrente_per_capita",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_receita_corrente_per_capita }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_receita_corrente_per_capita"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_RCL_per_capita",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_rcl_per_capita }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_rcl_per_capita"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_indice_gini",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_indice_gini }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_indice_gini"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_IDEB_anos_finais_ensino_fundamental",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_ideb_anos_finais_ensino_fundamental }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_ideb_anos_finais_ensino_fundamental"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_IDEB_anos_iniciais_ensino_fundamental",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_ideb_anos_iniciais_ensino_fundamental }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_ideb_anos_iniciais_ensino_fundamental"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_IDEB_ensino_medio",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_ideb_ensino_medio }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_ideb_ensino_medio"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_taxa_mortalidade_infantil",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_tx_mortalidade_infantil }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_tx_mortalidade_infantil"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_taxa_internacao_local_SUS_100k",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_tx_internacao_local_sus_100k }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_tx_internacao_local_sus_100k"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_taxa_internacao_local_SUS",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_tx_internacao_local_sus }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_tx_internacao_local_sus"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_taxa_homicidios_100k",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_tx_homicidios_100k_hab }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_tx_homicidios_100k_hab"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_taxa_formalidade_14_ocupadas_SR",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_tx_formalidade_pessoas_14_ocupadas_sr }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_tx_formalidade_pessoas_14_ocupadas_sr"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_taxa_aprovacao_escolar_ensino_medio",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_tx_aprovacao_escolar_ensino_medio }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_tx_aprovacao_escolar_ensino_medio"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_taxa_abandono_escolar_ensino_medio",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_tx_abandono_escolar_ensino_medio }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_tx_abandono_escolar_ensino_medio"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_taxa_mortalidade_DNT_100k_hab",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_tx_mortalidade_dnt_100k_hab }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_tx_mortalidade_dnt_100k_hab"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_remuneracao_nom_media_subSetor_SC",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_remuneracao_nom_media_subsetor_sc }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_remuneracao_nom_media_subsetor_sc"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_remuneracao_media_real",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_remuneracao_media_real }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_remuneracao_media_real"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_relacao_PBF_emprego_formal",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_relacao_pbf_emprego_formal }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_relacao_pbf_emprego_formal"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_matr_ensino_superior",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_matr_ensino_superior }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_matr_ensino_superior"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_leitos_SUS_100k_hab",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_leitos_sus_100k_hab }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_leitos_sus_100k_hab"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_IDHM_SC",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_idhm_sc }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_idhm_sc"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_IDEB_medio",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_ideb_medio }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_ideb_medio"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_evolucao_populacional",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_evolucao_populacional }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_evolucao_populacional"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_evolucao_estoque_empregos_formais",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_evolucao_estoque_empregos_formais }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_evolucao_estoque_empregos_formais"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_evolucao_qt_familias_caDUnico_fx_renda",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_evolucao_qt_familias_cadunico_fx_renda }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_evolucao_qt_familias_cadunico_fx_renda"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_esperanca_vida",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_esperanca_vida }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_esperanca_vida"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_empregos_formais_stem",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_empregos_formais_stem }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_empregos_formais_stem"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_emprego_formal_subSetor_IBGE",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_emprego_formal_subsetor_ibge }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_emprego_formal_subsetor_ibge"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_deficit_habitacional",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_deficit_habitacional }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_deficit_habitacional"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_dist_prog_habitacionais_SC",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_distr_prog_habitacionais_sc }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_distr_prog_habitacionais_sc"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_AIH_SUS_100k",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_aih_sus_100k }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_aih_sus_100k"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_empregos_STEM",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_empregos_stem_sc }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_empregos_stem_sc"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_ICE_R_emprego",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_ice_r }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_ice_r"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_valor_credito_liberado",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_valor_credito_liberado }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_valor_credito_liberado"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_turismo_emprego_formal",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_turismo_emprego_formal }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_turismo_emprego_formal"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_TX_cresc_PIB",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_taxa_cresc_pib }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_taxa_cresc_pib"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_PIB_Per_capita_golden",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_pib_per_capita_golden }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_pib_per_capita_golden"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_prod_terra_por_hectare",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_prod_terra_por_hectare }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_prod_terra_por_hectare"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_PIB_Per_capita",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_pib_per_capita }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_pib_per_capita"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_VAB",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_partic_vab }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_partic_vab"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_num_patentes",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_num_patentes }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_num_patentes"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_num_turistas_internacionais",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_num_turistas_internacionais }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_num_turistas_internacionais"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_gastos_P&D",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _['tb_gastos_p&d'] }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_gastos_p&d"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_gastos_C&T",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _['tb_gastos_c&t'] }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_gastos_c&t"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_esporte_emprego",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_esporte_emprego }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_esporte_emprego"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_economia_criativa",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_economia_criativa }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_economia_criativa"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_cultura",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_cultura }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_cultura"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_area_municipal",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_area_municipal }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_area_municipal"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_indicador_populacao",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_populacao }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_populacao"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "consultar_indicador_densidade_demografica",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas/{{ _.tb_densidade_demografica }}?database={{ _.database }}&limit={{ _.limit }}",
+      "auth": null,
+      "tabela": "tb_densidade_demografica"
+    },
+    {
+      "grupo": "6. Consultas",
+      "nome": "listar_tabelas",
+      "metodo": "GET",
+      "url": "{{ _.gateway_url }}/api/tabelas?database={{ _.database }}",
+      "auth": null
+    }
+  ],
+  "correcoes_em_relacao_ao_pdf": [
+    "base_url sem a barra final (o PDF gerava //api/v1).",
+    "dialect = impala (no PDF: 'impala:').",
+    "Nova definição database = seplan_avancasc_stage e limit = 100, usadas em todas as consultas.",
+    "6.3 removido: duplicava 6.4 sem o nome da tabela.",
+    "6.9 renomeado de consultarEmissoes_... para consultar_emissoes_...",
+    "6.72 e 6.76 não tinham {{ _.gateway_url }} no início da URL.",
+    "Chaves e nomes de tabela cortados no PDF foram completados, e 7 nomes com tl__ (dois _) corrigidos: ver observacoes_tabelas.",
+    "4.2 listar_diretorio apontava para /connector/types."
+  ]
+}

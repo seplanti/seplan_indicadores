@@ -10,7 +10,8 @@ import argparse
 import os
 
 from indicadores import config
-from indicadores.gateway import AplicacaoGateway, ClienteHue, criar_servidor
+from indicadores.gateway import AplicacaoGateway, CatalogoHue, ClienteHue, criar_servidor
+from indicadores.impala import RepositorioImpala
 
 
 def main():
@@ -23,7 +24,12 @@ def main():
     if not (hue.usuario and hue.senha):
         print("Aviso: HUE_USUARIO/HUE_SENHA não definidos; as rotas responderão 503.")
 
-    servidor = criar_servidor(AplicacaoGateway(hue, config.HUE_DIALETO_PADRAO), config.HOST, args.porta)
+    aplicacao = AplicacaoGateway(hue, config.HUE_DIALETO_PADRAO, config.HUE_BANCO_PADRAO,
+                                 config.HUE_LIMITE_MAXIMO, config.HUE_TEMPO_MAXIMO,
+                                 catalogo=CatalogoHue.carregar(config.ARQUIVO_ENDPOINTS_HUE),
+                                 repositorio_impala=RepositorioImpala(config.TABELAS_IMPALA_DIR),
+                                 limite_sincronizacao=config.HUE_LIMITE_SINCRONIZACAO)
+    servidor = criar_servidor(aplicacao, config.HOST, args.porta)
     print(f"Gateway em {servidor.url} -> {hue.url_base}  (Ctrl+C para encerrar)")
     try:
         servidor.serve_forever()

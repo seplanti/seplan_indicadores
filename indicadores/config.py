@@ -11,6 +11,10 @@ ARQUIVO_INDICADORES = DADOS_DIR / "dados_de_base_indicadores-v5.json"
 ARQUIVO_STATUS = DADOS_DIR / "status_indicadores.json"
 ARQUIVO_MUNICIPIOS = DADOS_DIR / "municipios_sc.json"
 TABELAS_DIR = DADOS_DIR / "tabelas_bi"
+# Definições, tabelas do Impala e endpoints do Hue/gateway (base do /api/consultas)
+ARQUIVO_ENDPOINTS_HUE = DADOS_DIR / "hue_endpoints.json"
+# Resultado das consultas ao Impala (um JSON por tabela), comparado com tabelas_bi
+TABELAS_IMPALA_DIR = DADOS_DIR / "tabelas_impala"
 
 # Interface web (React), servida como arquivos estáticos
 WEB_DIR = BASE_DIR / "web"
@@ -43,3 +47,5 @@ HUE_DIALETO_PADRAO = os.environ.get("HUE_DIALETO", "impala")
 HUE_BANCO_PADRAO = os.environ.get("HUE_BANCO", "seplan_avancasc")
 HUE_LIMITE_MAXIMO = int(os.environ.get("HUE_LIMITE_MAXIMO", 10000))  # linhas por SELECT em /api/tabelas
 HUE_TEMPO_MAXIMO = int(os.environ.get("HUE_TEMPO_MAXIMO", 120))  # segundos esperando a consulta
+HUE_BANCO_IMPALA = os.environ.get("HUE_BANCO_IMPALA", "seplan_avancasc_stage")  # banco das tabelas comparadas
+HUE_LIMITE_SINCRONIZACAO = int(os.environ.get("HUE_LIMITE_SINCRONIZACAO", 100000))  # linhas ao gravar tabelas_impala

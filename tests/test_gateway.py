@@ -11,7 +11,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from indicadores import config  # noqa: E402
-from indicadores.gateway import AplicacaoGateway, ClienteHue, ErroHue  # noqa: E402
+from indicadores.gateway import AplicacaoGateway, CatalogoHue, ClienteHue, ErroHue  # noqa: E402
 from indicadores.servidor import Aplicacao, ArquivosEstaticos, token_bearer  # noqa: E402
 
 
@@ -122,7 +122,11 @@ class HueTabelas(HueFalso):
         self.chamadas.append(("resultados", id_operacao, linhas))
         if self.chamadas[0][1].startswith("SHOW TABLES"):
             return {"result": {"meta": [{"name": "name"}], "data": [["tab_a"], ["tab_b"]], "has_more": False}}
-        return {"result": {"has_more": True, "data": [[4216602, "S&atilde;o Jos&eacute;", 1023.5]],
+        # Tabela com 7 linhas iguais, entregue em páginas como no Hue: cada chamada continua da anterior.
+        entregues = getattr(self, "entregues", 0)
+        pagina = [[4216602, "S&atilde;o Jos&eacute;", 1023.5]] * min(linhas, 7 - entregues)
+        self.entregues = entregues + len(pagina)
+        return {"result": {"has_more": self.entregues < 7, "data": pagina,
                            "meta": [{"name": "t.cod_munic"}, {"name": "t.municipio"}, {"name": "t.densidade"}]}}
 
 
@@ -151,10 +155,17 @@ class TestTabelas(unittest.TestCase):
         self.assertEqual(r.status, 200)
         self.assertEqual(corpo["sql"], f"SELECT * FROM `seplan_avancasc`.`{self.TABELA}` LIMIT 5")
         self.assertEqual(corpo["columns"], ["cod_munic", "municipio", "densidade"])
-        self.assertEqual(corpo["rows"], [{"cod_munic": 4216602, "municipio": "São José", "densidade": 1023.5}])
+        self.assertEqual(corpo["rows"], [{"cod_munic": 4216602, "municipio": "São José", "densidade": 1023.5}] * 5)
         self.assertTrue(corpo["has_more"])
         self.assertEqual(self.hue.chamadas[0][3], "seplan_avancasc")
         self.assertEqual(self.hue.chamadas[-1][2], 5)
+
+    def test_paginacao(self):
+        app = self.criar()
+        app.PAGINA = 2
+        corpo = self.corpo(app.tratar("GET", "/api/tabelas/t?limit=100"))
+        self.assertEqual((corpo["total"], corpo["has_more"]), (7, False))
+        self.assertEqual([c[2] for c in self.hue.chamadas if c[0] == "resultados"], [2, 2, 2, 2])
 
     def test_colunas(self):
         r = self.criar().tratar("GET", "/api/tabelas/t?database=db&colunas=municipio,%20densidade")
@@ -186,6 +197,74 @@ class TestTabelas(unittest.TestCase):
     def test_no_painel(self):
         painel = Aplicacao(None, ArquivosEstaticos(config.WEB_DIR), self.criar())
         self.assertEqual(painel.tratar(f"/api/tabelas/{self.TABELA}").status, 200)
+
+
+class HueMetadados(HueFalso):
+    def logs(self, id_operacao, token=None):
+        return {"status": 0, "logs": "Query submitted", "progress": 100, "jobs": [], "isFullLogs": True}
+
+    def bancos(self, dialeto, token=None):
+        self.chamadas.append(("bancos", dialeto))
+        return {"status": 0, "databases": ["default", "seplan_avancasc_stage"]}
+
+
+class TestConsultasNomeadas(unittest.TestCase):
+    def setUp(self):
+        self.catalogo = CatalogoHue.carregar(config.ARQUIVO_ENDPOINTS_HUE)
+
+    def criar(self):
+        self.hue = HueTabelas(situacoes=["available"])
+        return AplicacaoGateway(self.hue, "impala", "seplan_avancasc", esperar=lambda _: None,
+                                catalogo=self.catalogo)
+
+    def corpo(self, resposta):
+        return json.loads(resposta.conteudo)
+
+    def test_arquivo_de_endpoints(self):
+        documento = json.loads(config.ARQUIVO_ENDPOINTS_HUE.read_text(encoding="utf-8"))
+        self.assertEqual(documento["definicoes"]["dialect"], "impala")
+        self.assertFalse(documento["definicoes"]["password"])  # senha nunca vai para o JSON
+        self.assertEqual(len(self.catalogo.tabelas), 75)
+        self.assertEqual(len(self.catalogo.consultas), 75)
+        for apelido, tabela in self.catalogo.tabelas.items():
+            self.assertRegex(tabela, r"^[a-z0-9_]+$", apelido)
+        for item in documento["endpoints"]:
+            self.assertRegex(item["url"], r"^\{\{ _\.(base_url|gateway_url) \}\}/api/", item["nome"])
+
+    def test_listar_consultas(self):
+        corpo = self.corpo(self.criar().tratar("GET", "/api/consultas"))
+        self.assertEqual((corpo["database"], corpo["total"]), ("seplan_avancasc_stage", 75))
+        gastos = next(c for c in corpo["consultas"] if c["nome"] == "consultar_gastos_P&D")
+        self.assertEqual(gastos["url"], "/api/consultas/consultar_gastos_P%26D")
+        self.assertEqual(gastos["tabela_impala"], "industria_gold_gastos_pd_projecao")
+
+    def test_executar_consulta(self):
+        for caminho in ("/api/consultas/consultar_ice_emprego", "/api/consultas/ICE_EMPREGO"):
+            with self.subTest(caminho=caminho):
+                r = self.criar().tratar("GET", caminho)
+                corpo = self.corpo(r)
+                self.assertEqual(r.status, 200)
+                self.assertEqual(corpo["consulta"], "consultar_ice_emprego")
+                self.assertEqual(corpo["sql"], "SELECT * FROM `seplan_avancasc_stage`."
+                                 "`emprego_renda_hab_asssoc_gold_indice_vulnerabilidade_social_municipio` LIMIT 100")
+        r = self.criar().tratar("GET", "/api/consultas/consultar_gastos_P%26D?limit=5&database=outro")
+        self.assertEqual(self.corpo(r)["sql"], "SELECT * FROM `outro`.`industria_gold_gastos_pd_projecao` LIMIT 5")
+        self.assertEqual(self.criar().tratar("GET", "/api/consultas/nao_existe").status, 404)
+
+    def test_apelido_em_tabelas(self):
+        r = self.criar().tratar("GET", "/api/tabelas/tb_gastos_c%26t?database=seplan_avancasc_stage&limit=100")
+        self.assertEqual(self.corpo(r)["tabela"], "industria_gold_gastos_ct_por_uf_projecao")
+
+    def test_logs_e_bancos(self):
+        app = AplicacaoGateway(HueMetadados(), "impala", catalogo=self.catalogo)
+        self.assertEqual(self.corpo(app.tratar("GET", "/api/queries/abc/logs"))["logs"], "Query submitted")
+        corpo = self.corpo(app.tratar("GET", "/api/bancos"))
+        self.assertEqual(corpo, {"dialect": "impala", "databases": ["default", "seplan_avancasc_stage"]})
+
+    def test_no_painel(self):
+        painel = Aplicacao(None, ArquivosEstaticos(config.WEB_DIR), self.criar())
+        self.assertEqual(painel.tratar("/api/consultas").status, 200)
+        self.assertEqual(painel.tratar("/api/consultas/consultar_IAA").status, 200)
 
 
 if __name__ == "__main__":

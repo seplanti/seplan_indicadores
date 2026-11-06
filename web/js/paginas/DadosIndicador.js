@@ -2,9 +2,12 @@
 import { html, useMemo, useState } from '../lib.js';
 import { api, urlJsonBruto, useConsulta } from '../api.js';
 import { comparar, formatarData, formatarDecimal, formatarInteiro, formatarNumero, plural } from '../formato.js';
-import { Link, useTitulo } from '../rotas.js';
+import { Link } from '../rotas.js';
+import { Pagina } from '../componentes/Pagina.js';
 import { CartoesResumo, Carregando, Erro } from '../componentes/Comuns.js';
-import { NomeFonte, StatusTag, estaDesatualizado } from '../componentes/StatusTag.js';
+import {
+  ImpalaTags, NomeFonte, StatusTag, estaDesatualizado, formatarConsulta,
+} from '../componentes/StatusTag.js';
 import { TabelaOrdenavel } from '../componentes/TabelaOrdenavel.js';
 
 const COLUNA_GRUPO = 'fecam';
@@ -20,7 +23,7 @@ function Ficha({ indicador }) {
     ['Tabela Databricks', html`<code>${indicador.tabela_databricks}</code>`],
   ];
   return html`
-    <dl className="ficha card card-body mb-3">
+    <dl className="ficha">
       ${itens.map(([rotulo, valor]) => html`<div key=${rotulo} className="contents"><dt>${rotulo}</dt><dd>${valor}</dd></div>`)}
     </dl>`;
 }
@@ -83,7 +86,7 @@ function Tabela({ indicador, tabela }) {
       { valor: formatarNumero(est.menor), rotulo: `menor: ${est.rotulo_menor}` },
     ].filter(Boolean)} />`}
 
-    <form className="card card-body mb-3" role="search" aria-label="Filtrar registros" onSubmit=${(e) => e.preventDefault()}>
+    <form className="filtros" role="search" aria-label="Filtrar registros" onSubmit=${(e) => e.preventDefault()}>
       <div className="row g-2 align-items-end">
         <div className="col-12 col-lg-4">
           <label htmlFor="busca-dados" className="form-label">Buscar</label>
@@ -119,28 +122,90 @@ function Tabela({ indicador, tabela }) {
                legenda=${`Registros de ${tabela.arquivo}${unidade && ` · valores em${unidade}`}`} />`}`;
 }
 
+// Cartão Impala × Sistema: tags, última consulta e botão que consulta a tabela no Impala agora.
+function ComparacaoImpala({ id, impala, aoAtualizar }) {
+  const [estado, setEstado] = useState({ enviando: false, erro: null });
+  if (!impala) {
+    return html`
+      <section className="card h-100" aria-labelledby="titulo-comparacao">
+        <div className="card-body">
+          <h2 id="titulo-comparacao" className="secao-titulo">Impala × Sistema</h2>
+          <p className="small text-body-secondary mb-0">Este indicador não tem tabela no catálogo (tabela_databricks), então não é comparado com o Impala.</p>
+        </div>
+      </section>`;
+  }
+  const consultar = async () => {
+    setEstado({ enviando: true, erro: null });
+    try {
+      await api.atualizarImpala(impala.tabela);
+      setEstado({ enviando: false, erro: null });
+      aoAtualizar();
+    } catch (erro) {
+      setEstado({ enviando: false, erro });
+    }
+  };
+  const consultado = impala.impala.consultado_em;
+  return html`
+    <section className="card h-100" aria-labelledby="titulo-comparacao">
+      <div className="card-body d-flex flex-column gap-2">
+        <h2 id="titulo-comparacao" className="secao-titulo mb-0">Impala × Sistema</h2>
+        <${ImpalaTags} impala=${impala} />
+        <dl className="ficha small mt-1">
+          <div className="contents"><dt>Tabela</dt><dd><code>${impala.tabela}</code></dd></div>
+          <div className="contents"><dt>Última consulta</dt>
+            <dd>${consultado ? `${formatarConsulta(consultado)} · ${plural(impala.impala.linhas ?? 0, 'linha', 'linhas')}` : 'ainda não consultado'}</dd></div>
+          ${impala.sistema.motivo && html`<div className="contents"><dt>Resultado</dt><dd>${impala.sistema.motivo}</dd></div>`}
+        </dl>
+        <div className="d-flex flex-wrap gap-2 mt-auto pt-1">
+          <button type="button" className="btn btn-primary btn-sm" onClick=${consultar} disabled=${estado.enviando}>
+            ${estado.enviando ? 'Consultando o Impala…' : 'Consultar Impala agora'}
+          </button>
+          ${consultado && html`
+            <${Link} para=${`/indicadores/${id}/impala`} className="btn btn-outline-primary btn-sm">Ver dados do Impala<//>`}
+        </div>
+        ${estado.erro && html`<div className="alert alert-danger mb-0" role="alert">${estado.erro.message}</div>`}
+      </div>
+    </section>`;
+}
+
 export function DadosIndicador({ id }) {
-  const { dados, erro, carregando } = useConsulta(() => api.dados(id), [id]);
+  const [versao, setVersao] = useState(0);
+  const { dados, erro, carregando } = useConsulta(() => api.dados(id), [id, versao]);
   const indicador = dados?.indicador;
-  useTitulo(indicador?.nome ?? 'Indicador');
 
   return html`
-    <p className="mb-2"><${Link} para="/painel">← Voltar ao painel<//></p>
-    <div className="d-flex flex-wrap align-items-center gap-2 mb-1">
-      <h1 className="h3 mb-0" tabIndex="-1">${indicador?.nome ?? 'Indicador'}</h1>
-      ${indicador && html`<${StatusTag} indicador=${indicador} />`}
-    </div>
-    ${carregando && !dados && html`<${Carregando} />`}
-    ${erro && html`<${Erro} erro=${erro} />`}
-    ${indicador && html`
-      <p className="text-body-secondary">
-        ${[indicador.eixo, indicador.unidade].filter(Boolean).join(' · ')}
-        ${dados.tabela && html` · <a href=${urlJsonBruto(id)} target="_blank" rel="noopener">JSON bruto<span className="visually-hidden"> (abre em nova aba)</span></a>`}
-      </p>
-      ${estaDesatualizado(indicador) && html`<${AvisoDesatualizado} situacao=${indicador.situacao} />`}
-      <${Ficha} indicador=${indicador} />
-      ${dados.tabela
-        ? html`<${Tabela} indicador=${indicador} tabela=${dados.tabela} />`
-        : html`<div className="alert alert-warning">Este indicador ainda não tem versão publicada.</div>`}
-    `}`;
+    <${Pagina}
+      titulo=${indicador?.nome ?? 'Indicador'}
+      migalhas=${[{ para: '/', rotulo: 'Início' }, { para: '/painel', rotulo: 'Painel de indicadores' }, { rotulo: indicador?.nome ?? `Indicador ${id}` }]}
+      tags=${indicador && html`<${StatusTag} indicador=${indicador} />`}
+      subtitulo=${indicador && [indicador.eixo, indicador.unidade && `Unidade: ${indicador.unidade}`].filter(Boolean).join(' · ')}
+      acoes=${indicador && html`
+        ${indicador.impala && html`
+          <${Link} para=${`/indicadores/${id}/impala?consultar=1`} className="btn btn-destaque btn-sm">Consultar Impala<//>`}
+        ${dados.tabela && html`
+          <a href=${urlJsonBruto(id)} target="_blank" rel="noopener" className="btn btn-faixa btn-sm">
+            JSON do sistema<span className="visually-hidden"> (abre em nova aba)</span></a>`}`}>
+      ${carregando && !dados && html`<${Carregando} />`}
+      ${erro && html`<${Erro} erro=${erro} />`}
+      ${indicador && html`
+        ${estaDesatualizado(indicador) && html`<${AvisoDesatualizado} situacao=${indicador.situacao} />`}
+        <div className="row g-3 mb-4">
+          <div className="col-12 col-xl-7">
+            <section className="card h-100" aria-labelledby="titulo-ficha">
+              <div className="card-body">
+                <h2 id="titulo-ficha" className="secao-titulo">Ficha técnica</h2>
+                <${Ficha} indicador=${indicador} />
+              </div>
+            </section>
+          </div>
+          <div className="col-12 col-xl-5">
+            <${ComparacaoImpala} id=${id} impala=${indicador.impala} aoAtualizar=${() => setVersao((v) => v + 1)} />
+          </div>
+        </div>
+        <h2 className="secao-titulo">Dados do sistema <span className="fw-medium text-body-secondary small">(tabelas_bi)</span></h2>
+        ${dados.tabela
+          ? html`<${Tabela} indicador=${indicador} tabela=${dados.tabela} />`
+          : html`<div className="alert alert-warning">Este indicador ainda não tem versão publicada.</div>`}
+      `}
+    <//>`;
 }

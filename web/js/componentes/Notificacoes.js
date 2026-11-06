@@ -43,7 +43,7 @@ export function Notificacoes({ caminho }) {
       <ul className="list-group list-group-flush">
         ${lista.map((n) => html`
           <li key=${n.id} className="list-group-item">
-            <div className="small fw-semibold text-danger-emphasis">Dados desatualizados</div>
+            <div className="mb-1"><span className="status-tag tag-perigo"><span aria-hidden="true">⚠</span> Dados desatualizados</span></div>
             <${Link} para=${`/indicadores/${n.indicador_id}`} className="fw-semibold" onClick=${() => setAberto(false)}>
               ${n.indicador}
             <//>
@@ -56,18 +56,18 @@ export function Notificacoes({ caminho }) {
 
   return html`
     <div className="notificacoes" ref=${raiz}>
-      <button ref=${botao} type="button" className="btn btn-outline-light d-inline-flex align-items-center gap-2"
+      <button ref=${botao} type="button" className="btn btn-notificacoes d-inline-flex align-items-center gap-2"
               aria-expanded=${aberto} aria-controls="painel-notificacoes" onClick=${() => setAberto(!aberto)}>
         ${Sino}
         <span>Notificações</span>
         ${lista.length > 0 && html`
-          <span className="badge rounded-pill text-bg-danger">
+          <span className="badge rounded-pill">
             ${lista.length}<span className="visually-hidden"> (${plural(lista.length, 'indicador desatualizado', 'indicadores desatualizados')})</span>
           </span>`}
       </button>
       ${aberto && html`
         <div id="painel-notificacoes" className="painel-notificacoes card shadow" role="region" aria-labelledby="titulo-notificacoes">
-          <h2 id="titulo-notificacoes" className="card-header h6 mb-0">Notificações</h2>
+          <h2 id="titulo-notificacoes" className="card-header h6 mb-0 py-3">Notificações</h2>
           ${conteudo}
         </div>`}
     </div>`;

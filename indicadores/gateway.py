@@ -8,8 +8,16 @@ Expõe uma API REST/JSON simples em porta própria (padrão 8001), separada do p
     GET  /api/files?path=/user/<usuario>
     GET  /api/tabelas[?database=<banco>]                                SHOW TABLES
     GET  /api/tabelas/<tabela>[?database=<banco>&limit=100&colunas=a,b] SELECT ... LIMIT n
+    GET  /api/queries/<id>/logs                                         editor/get_logs
+    GET  /api/consultas                       consultas nomeadas de Dados/hue_endpoints.json
+    GET  /api/consultas/<nome>[?limit=&database=&colunas=]              ex.: consultar_ice_emprego
+    GET  /api/bancos[?dialect=impala]                                   editor/autocomplete
+    GET  /api/hue/config | historico | conectores | filesystems
+    POST /api/tabelas/<tabela>/atualizar | /api/consultas/<nome>/atualizar
+         consulta a tabela inteira e grava em Dados/tabelas_impala (comparada com tabelas_bi)
 
-As rotas de /api/tabelas fazem o ciclo execute -> check_status -> fetch_result_data e
+<tabela> aceita o nome real ou o apelido tb_* do hue_endpoints.json. As rotas de /api/tabelas
+e /api/consultas fazem o ciclo execute -> check_status -> fetch_result_data e
 devolvem o resultado numa única chamada.
 """
 
@@ -22,7 +30,8 @@ import threading
 import time
 from http.server import BaseHTTPRequestHandler
 from urllib.error import HTTPError, URLError
-from urllib.parse import parse_qs, quote, urlencode, urlsplit
+from pathlib import Path
+from urllib.parse import parse_qs, quote, unquote, urlencode, urlsplit
 from urllib.request import Request, urlopen
 
 from .servidor import Resposta, Servidor, token_bearer
@@ -111,6 +120,56 @@ class ClienteHue:
     def listar(self, caminho, token=None):
         return self._enviar("GET", "/api/v1/storage/view=" + quote(caminho), token=token)
 
+    def logs(self, id_operacao, token=None):
+        return self._enviar("POST", "/api/v1/editor/get_logs", form={"operationId": id_operacao}, token=token)
+
+    def bancos(self, dialeto, token=None):
+        return self._enviar("POST", "/api/v1/editor/autocomplete/",
+                            form={"snippet": json.dumps({"type": dialeto})}, token=token)
+
+    def configuracao(self, token=None):
+        return self._enviar("POST", "/api/v1/get_config/", token=token)
+
+    def historico(self, dialeto, token=None):
+        return self._enviar("GET", "/api/v1/editor/get_history?" + urlencode({"doc_type": dialeto}), token=token)
+
+    def conectores(self, token=None):
+        return self._enviar("GET", "/api/v1/connector/types", token=token)
+
+    def filesystems(self, token=None):
+        return self._enviar("GET", "/api/v1/storage/filesystems", token=token)
+
+
+class CatalogoHue:
+    """Tabelas (tb_* -> nome no Impala) e consultas nomeadas de Dados/hue_endpoints.json."""
+
+    def __init__(self, documento=None):
+        documento = documento or {}
+        definicoes = documento.get("definicoes", {})
+        self.banco = definicoes.get("database")
+        self.limite = int(definicoes.get("limit") or 100)
+        self.tabelas = documento.get("tabelas", {})
+        self.observacoes = documento.get("observacoes_tabelas", {})
+        self.consultas = {item["nome"]: item["tabela"] for item in documento.get("endpoints", [])
+                          if item.get("tabela") in self.tabelas}
+
+    @classmethod
+    def carregar(cls, arquivo):
+        arquivo = Path(arquivo)
+        return cls(json.loads(arquivo.read_text(encoding="utf-8")) if arquivo.is_file() else None)
+
+    def tabela(self, nome):
+        """Nome real no Impala para um apelido tb_* (ou o próprio nome, se não for apelido)."""
+        return self.tabelas.get(nome, nome)
+
+    def consulta(self, nome):
+        """(nome, apelido) da consulta, aceitando maiúsculas/minúsculas e sem o prefixo consultar_."""
+        procurado = nome.lower()
+        for candidato, apelido in self.consultas.items():
+            if procurado in (candidato.lower(), candidato.lower().removeprefix("consultar_")):
+                return candidato, apelido
+        return None
+
 
 # Nomes de banco, tabela e coluna aceitos nas consultas montadas pelo gateway (evita injeção de SQL).
 IDENTIFICADOR = re.compile(r"[A-Za-z_][A-Za-z0-9_]*")
@@ -140,9 +199,17 @@ def _erro_de_consulta(exc: ErroHue, banco, tabela=None):
 class AplicacaoGateway:
     """Recebe método, caminho e corpo e devolve uma Resposta (independente de HTTP)."""
 
+    PAGINA = 5000  # linhas por chamada a fetch_result_data
+
     def __init__(self, hue: ClienteHue, dialeto_padrao="impala", banco_padrao=None,
-                 limite_maximo=10000, tempo_maximo=120, intervalo=1.0, esperar=time.sleep):
+                 limite_maximo=10000, tempo_maximo=120, intervalo=1.0, esperar=time.sleep,
+                 catalogo: CatalogoHue | None = None, repositorio_impala=None, limite_sincronizacao=100000):
         self.hue = hue
+        self.catalogo = catalogo or CatalogoHue()
+        # RepositorioImpala (indicadores.impala): onde as consultas completas são gravadas para comparar
+        # com tabelas_bi. Sem ele, nada é gravado.
+        self.repositorio_impala = repositorio_impala
+        self.limite_sincronizacao = limite_sincronizacao
         self.dialeto_padrao = dialeto_padrao
         self.banco_padrao = banco_padrao
         self.limite_maximo = limite_maximo
@@ -153,9 +220,19 @@ class AplicacaoGateway:
             ("POST", re.compile(r"/api/queries"), self.iniciar_consulta),
             ("GET", re.compile(r"/api/queries/([\w-]+)/status"), self.status),
             ("GET", re.compile(r"/api/queries/([\w-]+)/results"), self.resultados),
+            ("GET", re.compile(r"/api/queries/([\w-]+)/logs"), self.logs),
             ("GET", re.compile(r"/api/files"), self.arquivos),
             ("GET", re.compile(r"/api/tabelas/?"), self.tabelas),
             ("GET", re.compile(r"/api/tabelas/([^/]+)"), self.consultar_tabela),
+            ("GET", re.compile(r"/api/consultas/?"), self.listar_consultas),
+            ("GET", re.compile(r"/api/consultas/([^/]+)"), self.executar_consulta),
+            ("POST", re.compile(r"/api/consultas/([^/]+)/atualizar"), self.atualizar_consulta),
+            ("POST", re.compile(r"/api/tabelas/([^/]+)/atualizar"), self.atualizar),
+            ("GET", re.compile(r"/api/bancos/?"), self.bancos),
+            ("GET", re.compile(r"/api/hue/config"), self.configuracao),
+            ("GET", re.compile(r"/api/hue/historico"), self.historico),
+            ("GET", re.compile(r"/api/hue/conectores"), self.conectores),
+            ("GET", re.compile(r"/api/hue/filesystems"), self.filesystems),
         ]
 
     def tratar(self, metodo, caminho, corpo=b"", token=None):
@@ -195,12 +272,19 @@ class AplicacaoGateway:
                                    f"acompanhe em /api/queries/{id_operacao}/status")
             self.esperar(self.intervalo)
 
-        resultado = self.hue.resultados(id_operacao, linhas, token).get("result", {})
+        # O Hue entrega o resultado em páginas: cada fetch_result_data continua de onde o anterior parou.
+        dados, meta, tem_mais = [], [], True
+        while tem_mais and len(dados) < linhas:
+            resultado = self.hue.resultados(id_operacao, min(self.PAGINA, linhas - len(dados)), token).get("result", {})
+            meta = meta or resultado.get("meta", [])
+            pagina = resultado.get("data", [])
+            dados.extend(pagina)
+            tem_mais = bool(resultado.get("has_more")) and bool(pagina)
         # O Impala às vezes prefixa a coluna com a tabela ("tabela.coluna"); o Hue escapa texto em HTML.
-        colunas = [coluna["name"].split(".")[-1] for coluna in resultado.get("meta", [])]
+        colunas = [coluna["name"].split(".")[-1] for coluna in meta]
         registros = [dict(zip(colunas, (html.unescape(v) if isinstance(v, str) else v for v in linha)))
-                     for linha in resultado.get("data", [])]
-        return colunas, registros, resultado.get("has_more", False)
+                     for linha in dados]
+        return colunas, registros, tem_mais
 
     # Rotas
 
@@ -259,7 +343,8 @@ class AplicacaoGateway:
 
     def consultar_tabela(self, tabela, parametros, corpo, token):
         banco = _identificador(parametros.get("database") or self.banco_padrao, "Banco")
-        tabela = _identificador(tabela, "Nome da tabela")
+        # Aceita o apelido do hue_endpoints.json (tb_ice_emprego, tb_gastos_p%26d) além do nome real.
+        tabela = _identificador(self.catalogo.tabela(unquote(tabela)), "Nome da tabela")
         try:
             limite = int(parametros.get("limit", 100))
         except ValueError:
@@ -274,8 +359,87 @@ class AplicacaoGateway:
             nomes, registros, tem_mais = self.consultar(sql, banco, limite, token)
         except ErroHue as exc:
             raise _erro_de_consulta(exc, banco, tabela)
+        completa = not colunas and not tem_mais and len(registros) < limite
+        if completa and self.repositorio_impala:  # a tabela inteira veio: vale como atualização do Impala
+            self.repositorio_impala.salvar(tabela, banco, sql, nomes, registros)
         return Resposta.json({"database": banco, "tabela": tabela, "sql": sql, "columns": nomes,
-                              "total": len(registros), "rows": registros, "has_more": tem_mais})
+                              "total": len(registros), "rows": registros, "has_more": tem_mais,
+                              "gravado": bool(completa and self.repositorio_impala)})
+
+    # Atualização de Dados/tabelas_impala (tabela inteira)
+
+    def atualizar_tabela(self, tabela, banco=None, token=None):
+        """Consulta a tabela inteira e grava o resultado no repositório do Impala."""
+        if not self.repositorio_impala:
+            raise ErroHue(503, "Gravação dos resultados do Impala não configurada")
+        banco = _identificador(banco or self.catalogo.banco or self.banco_padrao, "Banco")
+        tabela = _identificador(self.catalogo.tabela(tabela), "Nome da tabela")
+        limite = self.limite_sincronizacao
+        # Pede uma linha a mais: se ela vier, a tabela passa do limite e o resultado é incompleto.
+        sql = f"SELECT * FROM `{banco}`.`{tabela}` LIMIT {limite + 1}"
+        try:
+            nomes, registros, tem_mais = self.consultar(sql, banco, limite + 1, token)
+        except ErroHue as exc:
+            raise _erro_de_consulta(exc, banco, tabela)
+        tem_mais = tem_mais or len(registros) > limite
+        return self.repositorio_impala.salvar(tabela, banco, sql, nomes, registros[:limite], tem_mais)
+
+    def atualizar(self, tabela, parametros, corpo, token):
+        documento = self.atualizar_tabela(unquote(tabela), parametros.get("database"), token)
+        return Resposta.json({chave: valor for chave, valor in documento.items() if chave != "rows"})
+
+    def atualizar_consulta(self, nome, parametros, corpo, token):
+        encontrada = self.catalogo.consulta(unquote(nome))
+        if not encontrada:
+            return Resposta.erro(404, f"Consulta {unquote(nome)!r} não existe; veja a lista em /api/consultas")
+        return self.atualizar(encontrada[1], parametros, corpo, token)
+
+    # Consultas nomeadas (seção 6 do hue_endpoints.json)
+
+    def listar_consultas(self, parametros, corpo, token):
+        catalogo = self.catalogo
+        consultas = [{"nome": nome, "tabela": apelido, "tabela_impala": catalogo.tabela(apelido),
+                      "url": "/api/consultas/" + quote(nome, safe=""),
+                      **({"observacao": catalogo.observacoes[apelido]} if apelido in catalogo.observacoes else {})}
+                     for nome, apelido in catalogo.consultas.items()]
+        return Resposta.json({"database": catalogo.banco or self.banco_padrao, "total": len(consultas),
+                              "consultas": consultas})
+
+    def executar_consulta(self, nome, parametros, corpo, token):
+        encontrada = self.catalogo.consulta(unquote(nome))
+        if not encontrada:
+            return Resposta.erro(404, f"Consulta {unquote(nome)!r} não existe; veja a lista em /api/consultas")
+        nome, apelido = encontrada
+        parametros = {"database": self.catalogo.banco or self.banco_padrao,
+                      "limit": str(self.catalogo.limite), **parametros}
+        resposta = self.consultar_tabela(apelido, parametros=parametros, corpo=corpo, token=token)
+        if resposta.status == 200:
+            dados = json.loads(resposta.conteudo)
+            return Resposta.json({"consulta": nome, "apelido": apelido, **dados})
+        return resposta
+
+    # Metadados do Hue
+
+    def logs(self, id_consulta, parametros, corpo, token):
+        dados = self.hue.logs(id_consulta, token)
+        return Resposta.json({"id": id_consulta, "logs": dados.get("logs", ""), "progress": dados.get("progress"),
+                              "jobs": dados.get("jobs", []), "isFullLogs": dados.get("isFullLogs")})
+
+    def bancos(self, parametros, corpo, token):
+        dialeto = parametros.get("dialect") or self.dialeto_padrao
+        return Resposta.json({"dialect": dialeto, "databases": self.hue.bancos(dialeto, token).get("databases", [])})
+
+    def configuracao(self, parametros, corpo, token):
+        return Resposta.json(self.hue.configuracao(token))
+
+    def historico(self, parametros, corpo, token):
+        return Resposta.json(self.hue.historico(parametros.get("dialect") or self.dialeto_padrao, token))
+
+    def conectores(self, parametros, corpo, token):
+        return Resposta.json(self.hue.conectores(token))
+
+    def filesystems(self, parametros, corpo, token):
+        return Resposta.json(self.hue.filesystems(token))
 
 
 class HandlerGateway(BaseHTTPRequestHandler):

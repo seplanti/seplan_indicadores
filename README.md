@@ -28,6 +28,11 @@ No VS Code, use as configurações de `.vscode/launch.json` (Ctrl+Shift+D, F5).
 - **Dados do indicador** (`/indicadores/<id>`): ficha técnica, estatísticas e a
   tabela de `Dados/tabelas_bi`, com filtro por FECAM. Séries históricas ganham um
   filtro de ano (abre no ano mais recente) e as estatísticas são calculadas por ano.
+- **Consulta ao Impala** (`/indicadores/<id>/impala`): aberta pelo botão **Consultar Impala** de cada linha do
+  painel (que consulta a tabela do indicador no Impala ao abrir) ou por **Ver última consulta**. Mostra as tags
+  Impala/Sistema, o SQL, a data e o total de linhas, e os dados em **Tabela** (ordenável) ou **JSON** (botão
+  copiar e link para o JSON bruto completo; na tela, até 1.000 linhas), com busca. Aceita `?modo=json` ou
+  `?modo=tabela` na URL; sem isso, lembra a última escolha.
 - **Notificações** (botão no topo de todas as telas): lista os indicadores desatualizados.
 
 ## Situação de atualização
@@ -65,6 +70,11 @@ Para rodar o Hue separado do painel há também `python gateway.py` (porta 8001)
 | GET | `/api/files?path=/user/<usuario>` | `storage/view=<caminho>` |
 | GET | `/api/tabelas?database=<banco>` | `SHOW TABLES IN <banco>` |
 | GET | `/api/tabelas/<tabela>?database=<banco>&limit=100&colunas=a,b` | `SELECT a, b FROM <banco>.<tabela> LIMIT 100` |
+| GET | `/api/queries/<id>/logs` | `editor/get_logs` |
+| GET | `/api/consultas` | lista as 75 consultas nomeadas de `Dados/hue_endpoints.json` |
+| GET | `/api/consultas/<nome>?limit=100&database=<banco>&colunas=a,b` | `SELECT` na tabela da consulta (ex.: `consultar_ice_emprego` ou só `ice_emprego`) |
+| GET | `/api/bancos?dialect=impala` | `editor/autocomplete` |
+| GET | `/api/hue/config`, `/api/hue/historico`, `/api/hue/conectores`, `/api/hue/filesystems` | `get_config`, `get_history`, `connector/types`, `storage/filesystems` |
 
 As rotas `/api/tabelas` fazem o ciclo execute → check_status → fetch_result_data numa só chamada e
 devolvem `{"sql", "columns", "total", "rows": [{coluna: valor}], "has_more"}`. Banco, tabela e colunas só
@@ -72,7 +82,56 @@ aceitam letras, números e `_` (400 caso contrário); tabela inexistente dá 404
 `limit` vai de 1 a `HUE_LIMITE_MAXIMO` (10000) e a espera pela consulta é de até `HUE_TEMPO_MAXIMO` (120 s, depois 504).
 A maioria das tabelas está em `seplan_avancasc_stage`.
 
+`Dados/hue_endpoints.json` reúne as definições (ambiente do Insomnia, sem senha nem tokens), os apelidos
+`tb_*` → nome da tabela no Impala e todos os endpoints do Hue e do gateway, com URLs na sintaxe
+`{{ _.variavel }}` do Insomnia. Em `/api/tabelas/<tabela>` vale tanto o nome real quanto o apelido
+(`/api/tabelas/tb_ice_emprego`; `&` vai como `%26`: `tb_gastos_p%26d`). As consultas nomeadas usam por
+padrão `database` e `limit` das definições (`seplan_avancasc_stage`, 100). Os 75 nomes de tabela foram
+conferidos com `SHOW TABLES IN seplan_avancasc_stage` em 2026-11-06; as correções em relação ao PDF original
+estão em `observacoes_tabelas` e `correcoes_em_relacao_ao_pdf`.
+
 No Insomnia, `gateway_url` = `http://127.0.0.1:8000` (ou `:8001` se usar o `gateway.py` avulso).
+
+## Comparação Impala × sistema (tabelas_impala × tabelas_bi)
+
+As tabelas de `Dados/tabelas_bi` continuam sendo os dados do sistema (as rotas `/api/indicadores/...` não mudaram).
+O resultado das consultas ao Impala fica separado, em `Dados/tabelas_impala/<tabela>.json` (um por tabela,
+com `consultado_em`, `sql`, `columns` e `rows`), e é comparado com a tabela_bi equivalente do indicador
+(`tabela_databricks` do catálogo com `_` no lugar de `.`, no banco `HUE_BANCO_IMPALA`, padrão `seplan_avancasc_stage`).
+
+Cada indicador ganha no painel duas tags:
+
+| Situação | Tags |
+|---|---|
+| Dados do sistema iguais à última consulta | `Atualizado/Impala` e `Atualizado/Sistema` |
+| Dados diferentes, ou Impala com dados e sem arquivo em tabelas_bi | `Atualizado/Impala` e `Desatualizado/Sistema` |
+| Impala ainda não consultado | `Sem consulta/Impala` e `Sem comparação/Sistema` |
+| Consulta incompleta, tabela vazia ou sem colunas de dados em comum | `Atualizado/Impala` e `Sem comparação/Sistema` |
+
+Quando o sistema difere do Impala, o indicador também passa a **Desatualizado** (situação, notificações e
+tela inicial), com o motivo e a data da consulta; `status_indicadores.json` continua valendo para os demais casos.
+
+A comparação passa as linhas do Impala pela mesma conversão do importador de CSV (nome e FECAM do município,
+`NULL`, decimais) e compara nas colunas que as duas tabelas têm em comum (colunas descartadas na importação,
+como `write_date` e `file_source`, não contam). Não importam a ordem das linhas, o `id`, maiúsculas/espaços nos
+textos, linhas repetidas no Impala nem linhas sem nenhum valor (anos de projeção vazios). Tabelas_bi copiadas
+direto do Impala, sem o importador, são comparadas linha a linha. O resultado é recalculado quando um dos dois
+arquivos muda.
+
+Como atualizar `tabelas_impala`:
+
+- Botão **Consultar Impala** em cada linha do painel, que abre a tela da consulta, ou **Consultar Impala agora** na
+  tela de dados do indicador (ambos usam `POST /api/tabelas/<tabela>/atualizar`).
+- `POST /api/consultas/<nome>/atualizar` (consultas do `hue_endpoints.json`).
+- Toda consulta `GET /api/tabelas/<tabela>` ou `/api/consultas/<nome>` que traga a tabela inteira (menos linhas que o
+  `limit`, sem `colunas`) também é gravada; consultas cortadas pelo `limit` não são.
+- Todas as tabelas do catálogo de uma vez: `python -m indicadores.impala [--indicador 7 10 ...]`, que mostra a
+  situação de cada indicador ao final.
+
+A atualização pede até `HUE_LIMITE_SINCRONIZACAO` linhas (padrão 100000). Tabelas maiores (ex.: frota de veículos do
+Brasil) ficam como consulta incompleta, gravada só com os metadados, e não são comparadas.
+
+Para atualizar o sistema depois de ver a diferença, gere de novo a tabela_bi pelo importador (seção abaixo).
 
 ## Importar dados do Impala/Databricks (CSV)
 
@@ -141,6 +200,8 @@ que seja a ordem das linhas no CSV. O nome do destino deve corresponder ao
 | `GET /api/indicadores` | catálogo com `tem_dados` e `situacao` de cada indicador |
 | `GET /api/indicadores/<id>/dados` | ficha do indicador e sua tabela (`tabela: null` se não houver arquivo) |
 | `GET /api/indicadores/<id>/json` | arquivo JSON bruto da tabela_bi |
+| `GET /api/indicadores/<id>/impala` | ficha do indicador e a última consulta ao Impala (`consulta: null` se não houver) |
+| `GET /api/indicadores/<id>/impala/json` | arquivo JSON bruto de `Dados/tabelas_impala` do indicador |
 | `GET /api/notificacoes` | uma notificação por indicador desatualizado |
 
 ## Testes
@@ -159,17 +220,33 @@ indicadores/            back-end
   repositorio.py        CatalogoIndicadores, RegistroStatus (leitura dos JSON)
   api.py                ConsultaIndicadores (monta as respostas da API)
   importacao.py         conversão de CSV do Impala para tabelas_bi
+  gateway.py            gateway da API do Hue (/api/queries, /api/tabelas, /api/consultas...)
+  impala.py             tabelas_impala: gravação, comparação com tabelas_bi e atualização em lote
   servidor.py           Aplicacao (rotas /api), ArquivosEstaticos, Servidor
   navegador.py          abertura no Chrome
 web/                    front-end React
   index.html            carrega React, htm e Bootstrap de web/vendor
   js/main.js, app.js    inicialização e rotas das telas
-  js/paginas/           Painel, DadosIndicador
-  js/componentes/       Cabecalho, Notificacoes, StatusTag, TabelaOrdenavel, Comuns
-  css/app.css           ajustes sobre o Bootstrap
-Dados/                  catálogo, status_indicadores.json, municipios_sc.json e tabelas_bi
+  js/paginas/           Inicio, Painel, DadosIndicador, ConsultaImpala
+  js/componentes/       Cabecalho (e Rodape), Pagina, Notificacoes, StatusTag, TabelaOrdenavel, Comuns
+  css/app.css           tema (Avança SC) sobre o Bootstrap
+  vendor/fonts/         Montserrat (woff2, OFL)
+Dados/                  catálogo, status_indicadores.json, municipios_sc.json, hue_endpoints.json,
+                        tabelas_bi (sistema) e tabelas_impala (consultas ao Impala)
 tests/                  testes unitários
 ```
+
+### Visual
+
+O tema segue a identidade do Avança SC (https://avanca.sc.gov.br): verde-petróleo `#0b373b` na faixa de título de
+cada tela, verdes da marca nos botões em pílula, fundo `#edf2ef`, rodapé `#d9e3e3` e a fonte Montserrat (servida de
+`web/vendor/fonts`, licença OFL, sem depender de internet). Os tokens de cor estão no início de `web/css/app.css`.
+O verde dos botões é um tom mais escuro que o `#5d912a` da marca, para que o texto branco tenha contraste de 5:1
+(WCAG AA). Toda tela usa o componente `Pagina` (`web/js/componentes/Pagina.js`): faixa com migalhas, título, tags e
+ações, e o conteúdo abaixo.
+
+No painel, os cartões de resumo filtram a tabela ao serem clicados, e os filtros ficam na URL
+(`/painel?situacao=DESATUALIZADO&impala=DESATUALIZADO&q=pib&detalhes=1`). A tela inicial usa esses links.
 
 Os componentes usam `html\`...\`` (biblioteca htm) no lugar de JSX, para rodar
 direto no navegador sem compilação. Para criar uma tela nova: crie o componente
